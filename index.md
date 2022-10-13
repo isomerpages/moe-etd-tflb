@@ -10,17 +10,15 @@ sections:
       title: Classroom of the Future
       subtitle: Redesigning Learning
       background: /images/hero-banner.png
-      button: Contact Us
-      url: mailto:moe_educational_technology@moe.gov.sg?subject=[CotF]
       key_highlights:
-        - title: Highlight A
+        - title: Brain Boost Time
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Eliciting Voices of Students with Diverse Learning Needs
+          description: A resource guide
           url: /privacy/
   - infobar:
       title: CotF Year End Engagement 2022
