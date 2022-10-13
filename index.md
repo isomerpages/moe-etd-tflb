@@ -17,8 +17,8 @@ sections:
         - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Eliciting Voices of Students with Diverse Learning Needs
-          description: A resource guide
+        - title: Learning Gamified
+          description: x
           url: /privacy/
   - infobar:
       title: CotF Year End Engagement 2022
