@@ -11,7 +11,7 @@ sections:
       subtitle: Redesigning learning by using human-centric methodologies to enhance
         T&L for our teachers and students. Explore our EdTech ideas & solutions
         below!
-      background: /images/hero-banner.png
+      background: /images/istock-152955834 copy.jpg
       key_highlights:
         - title: Brain Boost Time
           description: Get students into THE ZONE!
