@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: MOE's Classroom of the Future
+description: An Educational Technology Division and Information Technology
+  Division effort leveraging design thinking and other human-centric
+  methodologies to redesign teaching and learning for teachers and students.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -66,3 +68,4 @@ sections:
         find out how we can better support you and your students in your T&L
         experiences.
 ---
+
