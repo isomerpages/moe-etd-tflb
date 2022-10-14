@@ -1,4 +1,4 @@
-title: MOE's Classroom of the Future
+title: MOE Classroom of the Future
 url: https://girlwithkaleidoscopeeyes.com
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,9 +15,10 @@ colors:
       color: "#ff0082"
     - title: media-color-five
       color: "#ff0082"
-description: An Educational Technology Division and Information Technology
-  Division effort leveraging design thinking and other human-centric
-  methodologies to redesign teaching and learning for teachers and students.
+description: A Ministry of Education Singapore Educational Technology Division
+  and Information Technology Division effort leveraging design thinking and
+  other human-centric methodologies to redesign teaching and learning for
+  teachers and students.
 permalink: none
 baseurl: ""
 exclude:
