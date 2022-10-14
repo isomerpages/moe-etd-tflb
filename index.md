@@ -65,5 +65,4 @@ sections:
       description: we use design thinking and other human-centric methodologies to
         find out how we can better support you and your students in your T&L
         experiences.
-      button: Button Text
 ---
