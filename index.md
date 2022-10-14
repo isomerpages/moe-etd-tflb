@@ -25,8 +25,8 @@ sections:
         - title: Learning Gamified
           description: Resources to gamify learning
           url: https://sites.google.com/moe.edu.sg/lg21/home
-      button: Curious?
-      url: /link
+      button: We'd love to hear from you! ☺️
+      url: mailto:moe_educational_technology@moe.gov.sg?subject=[CotF]
   - infobar:
       title: Visited our booth at the CotF Year End Engagement 2022?
       button: Share your thoughts with us!
