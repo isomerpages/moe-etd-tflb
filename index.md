@@ -14,17 +14,19 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Brain Boost Time
-          description: Important highlight A is important
-          url: https://google.com
+          description: Get students into THE ZONE!
+          url: https://sites.google.com/moe.edu.sg/brainboost/home
         - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: Design an immersive lesson!
+          url: https://go.gov.sg/cyoateachersguide
         - title: Eliciting Voices of Students with Diverse Learning Needs
-          description: A resource guide
+          description: A resource guide featuring SLS
           url: /privacy/
         - title: Learning Gamified
-          description: Key Highlight description
-          url: ""
+          description: Resources to gamify learning
+          url: https://sites.google.com/moe.edu.sg/lg21/home
+      button: Curious?
+      url: /link
   - infobar:
       title: CotF Year End Engagement 2022
       subtitle: Share your thoughts with us!
