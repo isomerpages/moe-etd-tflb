@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Classroom of the Future
-      subtitle: An Educational Technology Division and Information Technology Division
+      subtitle: A Educational Technology Division and Information Technology Division
         effort to redesign T&L for you and your students. Explore our
         innovations below!
       background: /images/istock-152955834 copy.jpg
