@@ -47,10 +47,10 @@ sections:
       url: https://go.gov.sg/cyoateachersguide
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
-      description: Gather tips and tricks on bringing out student voices through this
-        resource guide featuring SLS!
-      button: Let's go!
-      url: https://docs.google.com/presentation/d/13h_ly2xTa2c2NkN0jAyscIq5D0hyQkCr/edit?usp=sharing&ouid=110882071097683079924&rtpof=true&sd=true
+      description: "[Coming soon in 2023] Gather tips and tricks on bringing out
+        student voices through this resource guide featuring SLS!"
+      button: Find out what teachers think!
+      url: https://youtu.be/o4vfMLC0mkM
       alt: Image alt text
   - infopic:
       title: Learning Gamified
