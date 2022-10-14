@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       title: Classroom of the Future
-      subtitle: A Educational Technology Division and Information Technology Division
+      subtitle: An Educational Technology Division and Information Technology Division
         effort to redesign T&L for you and your students. Explore our
         innovations below!
       background: /images/istock-152955834 copy.jpg
@@ -27,7 +27,7 @@ sections:
         - title: Learning Gamified
           description: Gamifying lessons
           url: https://sites.google.com/moe.edu.sg/lg21/home
-      button: We'd love to hear from you! ☺️
+      button: We'd love to hear from you!
       url: mailto:moe_educational_technology@moe.gov.sg?subject=[CotF]
   - infobar:
       title: Visited our booth at the CotF Year End Engagement 2022?
@@ -68,4 +68,3 @@ sections:
         find out how we can better support you and your students in your T&L
         experiences.
 ---
-
