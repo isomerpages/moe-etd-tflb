@@ -28,8 +28,15 @@ sections:
       button: Curious?
       url: /link
   - infobar:
-      title: CotF Year End Engagement 2022
-      subtitle: Share your thoughts with us!
-      button: Link to feedback form
+      title: Visited our booth at the CotF Year End Engagement 2022?
+      button: Share your thoughts with us!
       url: /faq/
+  - infopic:
+      title: Brain Boost Time
+      subtitle: 2022 MOE Innergy Gold Awardee
+      description: A tool for primary school teachers to get their pupils to the their
+        optimal zone of learning.
+      button: Button Text
+      url: https://sites.google.com/moe.edu.sg/brainboost/home
+      alt: Image alt text
 ---
