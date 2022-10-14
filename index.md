@@ -36,13 +36,27 @@ sections:
       subtitle: 2022 MOE Innergy Gold Awardee
       description: Get your pupils to their optimal zone of learning -  especially
         when they're extremely excited or tired!
-      button: Button Text
+      button: Get me in the zone!
       url: https://sites.google.com/moe.edu.sg/brainboost/home
-      alt: Image alt text
   - infopic:
       title: Choose-Your-Own-Adventure Immersive Learning Toolkit
       description: Craft and create immersive experiences with Immersive Learning
         Toolkit’s lesson design guide and ready-made lesson samples in SLS!
-      button: Button Text
+      button: Begin my exploration into immersive learning!
+      alt: Image alt text
+      url: https://go.gov.sg/cyoateachersguide
+  - infopic:
+      title: Eliciting Voices of Students with Diverse Learning Needs
+      description: Gather tips and tricks on bringing out student voices through this
+        resource guide featuring SLS!
+      button: Help me to bring out students' thoughts!
+      url: https://docs.google.com/presentation/d/13h_ly2xTa2c2NkN0jAyscIq5D0hyQkCr/edit?usp=sharing&ouid=110882071097683079924&rtpof=true&sd=true
+      alt: Image alt text
+  - infopic:
+      title: Learning Gamified
+      description: Tap on ready-made guides, tools, and resources to turn your lessons
+        into gamified learning experiences!
+      button: Game on!
+      url: https://sites.google.com/moe.edu.sg/lg21/home
       alt: Image alt text
 ---
