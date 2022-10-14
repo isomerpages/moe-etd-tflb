@@ -40,8 +40,8 @@ sections:
       url: https://sites.google.com/moe.edu.sg/brainboost/home
   - infopic:
       title: Choose-Your-Own-Adventure Immersive Learning Toolkit
-      description: Craft and create immersive experiences with Immersive Learning
-        Toolkit’s lesson design guide and ready-made lesson samples in SLS!
+      description: Craft and create immersive experiences through a lesson design
+        guide and ready-made lesson samples in SLS!
       button: Begin my exploration into immersive learning!
       alt: Image alt text
       url: https://go.gov.sg/cyoateachersguide
@@ -49,7 +49,7 @@ sections:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: Gather tips and tricks on bringing out student voices through this
         resource guide featuring SLS!
-      button: Help me to bring out students' thoughts!
+      button: Let's go!
       url: https://docs.google.com/presentation/d/13h_ly2xTa2c2NkN0jAyscIq5D0hyQkCr/edit?usp=sharing&ouid=110882071097683079924&rtpof=true&sd=true
       alt: Image alt text
   - infopic:
