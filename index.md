@@ -14,10 +14,10 @@ sections:
       background: /images/istock-152955834 copy.jpg
       key_highlights:
         - title: Brain Boost Time
-          description: Get students into THE ZONE!
+          description: Get students into the zone
           url: https://sites.google.com/moe.edu.sg/brainboost/home
         - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
-          description: Design an immersive lesson!
+          description: Design immersive lessons
           url: https://go.gov.sg/cyoateachersguide
         - title: Eliciting Voices of Students with Diverse Learning Needs
           description: A resource guide featuring SLS
