@@ -8,7 +8,9 @@ notification: ""
 sections:
   - hero:
       title: Classroom of the Future
-      subtitle: Redesigning Learning
+      subtitle: Redesigning learning by using human-centric methodologies to enhance
+        T&L for our teachers and students. Explore our EdTech ideas & solutions
+        below!
       background: /images/hero-banner.png
       key_highlights:
         - title: Brain Boost Time
