@@ -34,9 +34,15 @@ sections:
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
-      description: A tool for primary school teachers to get their pupils to the their
-        optimal zone of learning.
+      description: Get your pupils to their optimal zone of learning -  especially
+        when they're extremely excited or tired!
       button: Button Text
       url: https://sites.google.com/moe.edu.sg/brainboost/home
+      alt: Image alt text
+  - infopic:
+      title: Choose-Your-Own-Adventure Immersive Learning Toolkit
+      description: Craft and create immersive experiences with Immersive Learning
+        Toolkit’s lesson design guide and ready-made lesson samples in SLS!
+      button: Button Text
       alt: Image alt text
 ---
