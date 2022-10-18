@@ -31,7 +31,7 @@ sections:
       button: We'd love to hear from you!
       url: mailto:moe_educational_technology@moe.gov.sg?subject=[CotF]
   - infobar:
-      title: Visited our booth at the CotF Year End Engagement 2022?
+      title: Thank you for attending CotF Year End Engagement 2022!
       button: Share your thoughts with us!
       url: /faq/
   - infopic:
