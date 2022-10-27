@@ -63,9 +63,9 @@ sections:
       url: https://sites.google.com/moe.edu.sg/lg21/home
       alt: Image alt text
   - infobar:
-      title: To Redesign Learning,
+      title: Redesigning Learning
       subtitle: About CotF
-      description: we use design thinking and other human-centric methodologies to
+      description: by using design thinking and other human-centric methodologies to
         find out how we can better support you and your students in your T&L
         experiences.
 ---
