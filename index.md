@@ -14,7 +14,7 @@ sections:
       subtitle: An Educational Technology Division and Information Technology Division
         effort to redesign T&L for you and your students. Explore our
         innovations below!
-      background: /images/istock-152955834 copy.jpg
+      background: /images/Isomer CotF Hero Banner90opa.png
       key_highlights:
         - title: Brain Boost Time
           description: Get students into the zone
@@ -69,4 +69,3 @@ sections:
         find out how we can better support you and your students in your T&L
         experiences.
 ---
-
