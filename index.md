@@ -47,7 +47,7 @@ sections:
         when they're extremely excited or tired!
       button: Get me in the zone!
       url: https://sites.google.com/moe.edu.sg/brainboost/home
-      image: /images/bbt.png
+      image: /images/BBTo.png
       alt: CotF Brain Boost Time
   - infopic:
       title: Choose-Your-Own-Adventure Immersive Learning Toolkit
@@ -56,7 +56,7 @@ sections:
       button: Begin my exploration into immersive learning!
       alt: Immersive Learning Toolkit
       url: https://go.gov.sg/cyoateachersguide
-      image: /images/ilt.png
+      image: /images/ILTo.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: "[Coming soon in 2023] Gather tips and tricks on bringing out
@@ -64,7 +64,7 @@ sections:
       button: Find out what teachers think!
       url: https://youtu.be/o4vfMLC0mkM
       alt: CotF Eliciting Student Voices
-      image: /images/EVS.png
+      image: /images/EVSo.png
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
@@ -72,5 +72,5 @@ sections:
       button: Game on!
       url: https://sites.google.com/moe.edu.sg/lg21/home
       alt: CotF Learning Gamified
-      image: /images/lg.png
+      image: /images/LGo.png
 ---
