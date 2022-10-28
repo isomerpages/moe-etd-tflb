@@ -5,7 +5,7 @@ description: A Ministry of Education Singapore Educational Technology Division
   and Information Technology Division effort leveraging design thinking and
   other human-centric methodologies to redesign teaching and learning for
   teachers and students.
-image: /images/isomer-logo.svg
+image: /images/favicon.ico
 permalink: /
 notification: ""
 sections:
@@ -69,3 +69,4 @@ sections:
         find out how we can better support you and your students in your T&L
         experiences.
 ---
+
