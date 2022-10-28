@@ -57,14 +57,16 @@ sections:
         student voices through this resource guide featuring SLS!"
       button: Find out what teachers think!
       url: https://youtu.be/o4vfMLC0mkM
-      alt: Image alt text
+      alt: CotF Eliciting Student Voices
+      image: /images/EVS.png
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
         into gamified learning experiences!
       button: Game on!
       url: https://sites.google.com/moe.edu.sg/lg21/home
-      alt: Image alt text
+      alt: CotF Learning Gamified
+      image: /images/lg.png
   - infobar:
       title: Redesigning Learning
       subtitle: About CotF
