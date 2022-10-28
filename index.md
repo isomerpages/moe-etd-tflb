@@ -41,13 +41,16 @@ sections:
         when they're extremely excited or tired!
       button: Get me in the zone!
       url: https://sites.google.com/moe.edu.sg/brainboost/home
+      image: /images/bbt.png
+      alt: CotF Brain Boost Time
   - infopic:
       title: Choose-Your-Own-Adventure Immersive Learning Toolkit
       description: Craft and create immersive experiences through a lesson design
         guide and ready-made lesson samples in SLS!
       button: Begin my exploration into immersive learning!
-      alt: Image alt text
+      alt: Immersive Learning Toolkit
       url: https://go.gov.sg/cyoateachersguide
+      image: /images/ilt.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: "[Coming soon in 2023] Gather tips and tricks on bringing out
