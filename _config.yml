@@ -1,6 +1,6 @@
 title: MOE Classroom of the Future
 url: https://girlwithkaleidoscopeeyes.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 colors:
   primary-color: "#ffb500"
   secondary-color: "#578ffe"
@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d34sxxwkzr355u.amplifyapp.com
 prod: https://master.d34sxxwkzr355u.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/favicon.ico
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
