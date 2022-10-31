@@ -2,8 +2,8 @@ title: MOE Classroom of the Future
 url: https://girlwithkaleidoscopeeyes.com
 favicon: /images/favicon.ico
 colors:
-  primary-color: "#ff0082"
-  secondary-color: "#578ffe"
+  primary-color: "#578ffe"
+  secondary-color: "#ff0082"
   media-colors:
     - title: media-color-one
       color: "#ffb500"
