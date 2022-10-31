@@ -39,7 +39,7 @@ sections:
   - infobar:
       title: Thank you for attending CotF Year End Engagement 2022!
       button: Share your thoughts with us!
-      url: /faq/
+      url: https://go.gov.sg/postyee22survey
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
