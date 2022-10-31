@@ -12,7 +12,7 @@ sections:
   - hero:
       title: Classroom of the Future
       subtitle: An Educational Technology Division and Information Technology Division
-        effort to redesign T&L for you and your students. Explore our
+        effort<br>to redesign T&L for you and your students. Explore our
         innovations below!
       background: /images/Isomer CotF Hero Banner70opa.png
       key_highlights:
