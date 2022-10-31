@@ -59,12 +59,14 @@ sections:
       image: /images/ILTo.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
-      description: "[Coming soon in 2023] Gather tips and tricks on bringing out
-        student voices through this resource guide featuring SLS!"
+      description: Gather tips and tricks on how to use SLS and other features to
+        bring out student voices in classes with diverse learning needs through
+        a resource guide!
       button: Find out what teachers think!
       url: https://youtu.be/o4vfMLC0mkM
       alt: CotF Eliciting Student Voices
       image: /images/EVSo.png
+      subtitle: "[Coming soon in 2023] "
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
