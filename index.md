@@ -29,7 +29,7 @@ sections:
           description: Gamifying lessons
           url: https://sites.google.com/moe.edu.sg/lg21/home
       button: We'd love to hear from you!
-      url: mailto:moe_educational_technology@moe.gov.sg?subject=[CotF]
+      url: /contact-us/
   - infobar:
       title: Redesigning Learning
       subtitle: About CotF
