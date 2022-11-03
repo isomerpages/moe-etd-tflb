@@ -15,9 +15,9 @@ colors:
       color: "#ffb500"
     - title: media-color-five
       color: "#ffb500"
-description: A Ministry of Education Singapore Educational Technology Division
-  and Information Technology Division effort leveraging design thinking and
-  other human-centric methodologies to redesign teaching and learning for
+description: A Ministry of Education Singapore Educational Technology Division,
+  Information Technology Division, and GovTech effort leveraging design thinking
+  and other human-centric methodologies to redesign teaching and learning for
   teachers and students.
 permalink: none
 baseurl: ""
@@ -55,7 +55,7 @@ plugins:
 staging: https://staging.d34sxxwkzr355u.amplifyapp.com
 prod: https://master.d34sxxwkzr355u.amplifyapp.com
 shareicon: /images/favicon.ico
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
