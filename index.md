@@ -14,7 +14,7 @@ sections:
       subtitle: An Educational Technology Division, Information Technology Division,
         and GovTech effort to redesign T&L for you and your students. Explore
         our innovations now!
-      background: /images/Isomer CotF Hero Banner70opa.png
+      background: /images/Isomer Hero Banner.png
       key_highlights:
         - title: Brain Boost Time
           description: Get students into the zone
@@ -76,4 +76,3 @@ sections:
       alt: CotF Learning Gamified
       image: /images/LGo.png
 ---
-
