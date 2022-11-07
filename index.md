@@ -29,6 +29,7 @@ sections:
           url: https://sites.google.com/moe.edu.sg/lg21/home
       button: We'd love to hear from you!
       url: /contact-us/
+      background: /images/IMG_0990 copy.jpg
   - infobar:
       title: Redesigning Learning
       subtitle: About CotF
