@@ -36,6 +36,7 @@ sections:
       url: /YEE2022
       image: /images/CotF YEE 2022.png
       alt: Image alt text
+      subtitle: Welcome to the
   - infobar:
       title: Redesigning Learning
       subtitle: About CotF
@@ -78,4 +79,3 @@ sections:
       alt: CotF Learning Gamified
       image: /images/LGo.png
 ---
-
