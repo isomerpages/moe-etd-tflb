@@ -37,9 +37,9 @@ sections:
         find out how we can better support you and your students in your T&L
         experiences.
   - infobar:
-      title: Thank you for attending CotF Year End Engagement 2022!
-      button: Share your thoughts with us!
-      url: https://go.gov.sg/postyee22survey
+      title: CotF Year-End Engagement 2022
+      button: Click for more information
+      url: /YEE2022
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
