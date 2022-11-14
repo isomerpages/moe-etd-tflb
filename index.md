@@ -30,16 +30,19 @@ sections:
       button: We'd love to hear from you!
       url: /contact-us/
       background: /images/IMG-0992 copy.jpg
+  - infopic:
+      title: CotF Year-End Engagement 2022
+      subtitle: Hi! Are you here for the
+      button: Click for more information
+      url: /YEE2022
+      image: /images/CotF YEE 2022.png
+      alt: Image alt text
   - infobar:
       title: Redesigning Learning
       subtitle: About CotF
       description: by using design thinking and other human-centric methodologies to
         find out how we can better support you and your students in your T&L
         experiences.
-  - infobar:
-      title: CotF Year-End Engagement 2022
-      button: Click for more information
-      url: /YEE2022
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
@@ -76,4 +79,3 @@ sections:
       alt: CotF Learning Gamified
       image: /images/LGo.png
 ---
-
