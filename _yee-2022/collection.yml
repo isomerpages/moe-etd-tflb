@@ -2,4 +2,5 @@ collections:
   yee-2022:
     output: true
     order:
+      - CotF YEE 2022 Attendance Form.md
       - CotF Year End Engagement 2022.md
