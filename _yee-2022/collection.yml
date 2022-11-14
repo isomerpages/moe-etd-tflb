@@ -2,6 +2,7 @@ collections:
   yee-2022:
     output: true
     order:
+      - Interest Survey.md
       - CotF Year End Engagement 2022.md
       - Attendance Form.md
       - Post Event Survey.md
