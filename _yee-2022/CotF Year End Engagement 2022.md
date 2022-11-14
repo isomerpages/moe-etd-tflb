@@ -14,6 +14,5 @@ description: MOE Classroom of the Future Year-End Engagement 2022
 |10.10 - 10.30am|Break <br>**Refreshments will be served.*|Corridor outside the Collaboration Space|
 |10.30 - 11.15am|Gallery Walk|All rooms and Collaboration Space|
 |11.15 - 11.30am|Closing Segment|A4-5|
-
-
 # Venue Layout
+![CotF YEE 2022 Venue Layout](/images/CotFYEEvenuelayout.png)
