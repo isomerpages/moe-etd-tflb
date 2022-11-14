@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: MOE Classroom of the Future
-description: A Ministry of Education Singapore Educational Technology Division,
-  Information Technology Division, and GovTech effort leveraging design thinking
-  and other human-centric methodologies to redesign teaching and learning for
-  teachers and students.
+description: A MOE Educational Technology Division, Information Technology
+  Division, and GovTech effort leveraging design thinking and other
+  human-centric methodologies to redesign teaching and learning for teachers and
+  students.
 image: /images/favicon.ico
 permalink: /
 notification: ""
@@ -76,3 +76,4 @@ sections:
       alt: CotF Learning Gamified
       image: /images/LGo.png
 ---
+
