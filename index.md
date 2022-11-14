@@ -32,7 +32,6 @@ sections:
       background: /images/IMG-0992 copy.jpg
   - infopic:
       title: CotF Year-End Engagement 2022
-      subtitle: Hi! Are you here for the
       button: Click for more information
       url: /YEE2022
       image: /images/CotF YEE 2022.png
