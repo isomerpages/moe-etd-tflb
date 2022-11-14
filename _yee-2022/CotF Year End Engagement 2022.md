@@ -16,4 +16,4 @@ description: MOE Classroom of the Future Year-End Engagement 2022
 |11.15 - 11.30am|Closing Segment|A4-5|
 
 
-# Venue Layout (Floor Plan)
+# Venue Layout
