@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MOE Classroom of the Future
+title: Classroom of the Future
 description: A MOE Educational Technology Division, Information Technology
   Division, and GovTech effort leveraging design thinking and other
   human-centric methodologies to redesign teaching and learning for teachers and
@@ -78,3 +78,4 @@ sections:
       alt: CotF Learning Gamified
       image: /images/LGo.png
 ---
+
