@@ -1,2 +1,4 @@
 logo: /images/CotF logo horizontal.png
-links: []
+links:
+  - title: We'd love to hear from you!
+    url: /contact-us
