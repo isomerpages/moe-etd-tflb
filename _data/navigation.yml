@@ -2,12 +2,6 @@ logo: /images/CotF logo horizontal.png
 links:
   - title: Year-End Engagement 2022
     url: /YEE2022
-    sublinks:
-      - title: Attendance Form
-        url: https://form.gov.sg/#!/63719a1a3715fc0012f9faca
-      - title: Post Event Survey
-        url: https://form.gov.sg/635f8aaa3f50460012a212be
-      - title: Interest Survey
-        url: https://docs.google.com/forms/d/e/1FAIpQLScR1qw8qjofbkcuhmn93I6SbuD3dcvY5rnS6xIcvrOb16txPA/viewform
+    sublinks: []
   - title: Contact Us
     url: /contact-us
