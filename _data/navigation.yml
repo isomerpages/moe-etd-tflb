@@ -2,5 +2,12 @@ logo: /images/CotF logo horizontal.png
 links:
   - title: Year-End Engagement 2022
     url: /YEE2022
+    sublinks:
+      - title: Attendance Form
+        url: /yee-2022/attendance/
+      - title: Post Event Survey
+        url: /yee-2022/post/
+      - title: Interest Survey
+        url: /yee-2022/interest/
   - title: Contact Us
     url: /contact-us
