@@ -1,32 +1,81 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Classroom of the Future
+description: A MOE Educational Technology Division, Information Technology
+  Division, and GovTech effort leveraging design thinking and other
+  human-centric methodologies to redesign teaching and learning for teachers and
+  students.
+image: /images/favicon.ico
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Classroom of the Future
+      subtitle: An Educational Technology Division, Information Technology Division,
+        and GovTech effort to redesign T&L for you and your students. Explore
+        our innovations now!
+      key_highlights:
+        - title: Brain Boost Time
+          description: Get students into the zone
+          url: https://sites.google.com/moe.edu.sg/brainboost/home
+        - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
+          description: Design immersive lessons
+          url: https://go.gov.sg/cyoateachersguide
+        - title: Eliciting Voices of Students with Diverse Learning Needs
+          description: A resource guide featuring SLS
+          url: https://youtu.be/o4vfMLC0mkM
+        - title: Learning Gamified
+          description: Gamifying lessons
+          url: https://sites.google.com/moe.edu.sg/lg21/home
+      button: We'd love to hear from you!
+      url: /contact-us/
+      background: /images/IMG-0992 copy.jpg
+  - infopic:
+      title: CotF Year-End Engagement 2022
+      button: Click for more information
+      url: /YEE2022
+      image: /images/CotF YEE 2022.png
+      alt: Image alt text
+      subtitle: Welcome to the
+  - infobar:
+      title: Redesigning Learning
+      subtitle: About CotF
+      description: by using design thinking and other human-centric methodologies to
+        find out how we can better support you and your students in your T&L
+        experiences.
+  - infopic:
+      title: Brain Boost Time
+      subtitle: 2022 MOE Innergy Gold Awardee
+      description: Get your pupils to their optimal zone of learning -  especially
+        when they're extremely excited or tired!
+      button: Get me in the zone!
+      url: https://sites.google.com/moe.edu.sg/brainboost/home
+      image: /images/BBTo.png
+      alt: CotF Brain Boost Time
+  - infopic:
+      title: Choose-Your-Own-Adventure Immersive Learning Toolkit
+      description: Craft and create immersive experiences through a lesson design
+        guide and ready-made lesson samples in SLS!
+      button: Begin my exploration into immersive learning!
+      alt: Immersive Learning Toolkit
+      url: https://go.gov.sg/cyoateachersguide
+      image: /images/ILTo.png
+  - infopic:
+      title: Eliciting Voices of Students with Diverse Learning Needs
+      description: Gather tips and tricks on how to use SLS and other features to
+        bring out student voices in classes with diverse learning needs through
+        a resource guide!
+      button: Find out what teachers think!
+      url: https://www.youtube.com/@classroomofthefuturesg/
+      alt: CotF Eliciting Student Voices
+      image: /images/EVSo.png
+      subtitle: "[Coming soon in 2023] "
+  - infopic:
+      title: Learning Gamified
+      description: Tap on ready-made guides, tools, and resources to turn your lessons
+        into gamified learning experiences!
+      button: Game on!
+      url: https://sites.google.com/moe.edu.sg/lg21/home
+      alt: CotF Learning Gamified
+      image: /images/LGo.png
 ---
-
