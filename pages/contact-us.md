@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Classroom of the Future
+agency_name: CotF
 contacts:
   - content:
       - phone: ""

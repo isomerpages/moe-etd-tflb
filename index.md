@@ -66,7 +66,7 @@ sections:
         bring out student voices in classes with diverse learning needs through
         a resource guide!
       button: Find out what teachers think!
-      url: https://www.youtube.com/@classroomofthefuturesg/
+      url: /EVS-RG/
       alt: CotF Eliciting Student Voices
       image: /images/EVSo.png
       subtitle: "[Coming soon in 2023] "
