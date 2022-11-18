@@ -2,6 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+Disclaimer: This privacy statement is a work in progress.
 1. This is a website owned and operated by the Government of Singapore represented by the Ministry of Education (the "Website").
 2. We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter the Website. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 3. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Please note that this may prevent you from taking full advantage of the Website.
