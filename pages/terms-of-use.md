@@ -2,8 +2,9 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
+Disclaimer: This Terms of Use is a work in progress.
 #### **Preamble**
-1.  Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Classroom of the Future project, Ministry of Education and Government Technology Agency, Singapore (hereinafter “CotF”).
+1.  Thank you for visiting this Website (the "Website”). The Website is owned and maintained by the Classroom of the Future project (hereinafter “CotF”).
 2.  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
 3.  In these Terms, the words “we,” “our” and “us” refer to CotF.
 4.  CotF reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
@@ -15,12 +16,12 @@ permalink: /terms-of-use/
 #### **Relying on Information**
 
 6.  The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
-7.  The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by CotF.
+7.  The materials located on the Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by CotF.
 
 #### **Security**
 
-8.  Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
-9.  Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+8.  Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through the Website.
+9.  Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that the Website is free of infection by computer viruses or other unauthorised software.
 
 #### **Hyperlinks**
 
@@ -44,8 +45,8 @@ permalink: /terms-of-use/
 *   Arising or resulting from the conduct or the views of any person who accesses or uses the Website or any application or service linked to or from this Website.
 17.  Content Disclaimer. Teacher Users shall use their professional discretion in ascertaining if a shared resource contributed is fit for use as it may not be reviewed. CotF is not liable for the accuracy of the resource content at any given point in time.
 18.  To the fullest extent permitted by law, we do not warrant and hereby disclaim any warranty:
-19.  As to the accuracy, correctness, adequacy, fullness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Content;
-20.  That the Content available on the Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website is and will be free of all viruses or other malicious destructive or corrupting code, agent, program or macros of other harmful elements.
+* As to the accuracy, correctness, adequacy, fullness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Content;
+* That the Content available on the Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website is and will be free of all viruses or other malicious destructive or corrupting code, agent, program or macros of other harmful elements.
 21.  MOE, its officers, agents and employees are not liable for any damages or loss of any kind caused as a result (whether direct or indirect) of the use of the Website, or non-access thereof, including but not limited to any damage or loss suffered as a result of reliance on the Content contained in or available from this Website.
 22.  We are not responsible or liable for the conduct of any User, or for User Uploaded Content or comments which any User posts or uploads on the Website.
 23.  Where appropriate, we use available technology to protect the security of communications made through the Website. Nevertheless, we do not accept liability for any breaches of security, authenticity, integrity or confidentiality of any transactions and other communications made through the Website. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that the Website is or will be free of infection from computer viruses or other unauthorised software, and we accept no liability in connection with any loss you may suffer due to such computer viruses or unauthorised software.
