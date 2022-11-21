@@ -23,7 +23,7 @@ sections:
           url: https://go.gov.sg/cyoateachersguide
         - title: Eliciting Voices of Students with Diverse Learning Needs
           description: A resource guide featuring SLS
-          url: https://youtu.be/o4vfMLC0mkM
+          url: /EVS-RG/
         - title: Learning Gamified
           description: Gamifying lessons
           url: https://sites.google.com/moe.edu.sg/lg21/home
