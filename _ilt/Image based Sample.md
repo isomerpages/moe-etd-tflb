@@ -11,7 +11,7 @@ Similar to the Text-based sample, the Image-based sample enhances the experience
 Click [here](https://go.gov.sg/cyoaphuket2) to access the Figma sample!
 ![](/images/Screenshot%20ILT%20figma.png)
 ## Figma Guide
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDCzcWq5DCN9mWQgbFB6YUJECjd3LyiRIGpliKBAtXDVC7h2rj4EfKVv_ms4d8lF5e9XXE4HHKWB0D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDCzcWq5DCN9mWQgbFB6YUJECjd3LyiRIGpliKBAtXDVC7h2rj4EfKVv_ms4d8lF5e9XXE4HHKWB0D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ## SLS Links
 Find ready-made lessons based on the Lesson Design Guide!
