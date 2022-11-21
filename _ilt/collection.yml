@@ -2,4 +2,5 @@ collections:
   ilt:
     output: true
     order:
+      - Text based Sample.md
       - Choose Your Own Adventure Immersive Learning Toolkit.md
