@@ -12,8 +12,7 @@ Similar to the old-school books where readers flip to a page number when making 
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform"></iframe>
 
 ## Typeform Sample
-Click [here] to access the Typeform sample!
-(https://sle5ivm4kgw.typeform.com/to/lby4aANE)!
+Click [here](https://go.gov.sg/cyoaphuket1) to access the Typeform sample!
 ![typeform ILT](/images/Screenshot%202022-11-21.png)
 
 ## SLS Lessons
