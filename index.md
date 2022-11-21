@@ -58,7 +58,7 @@ sections:
         guide and ready-made lesson samples in SLS!
       button: Begin my exploration into immersive learning!
       alt: Immersive Learning Toolkit
-      url: https://go.gov.sg/cyoateachersguide
+      url: /ILT/
       image: /images/ILTo.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
