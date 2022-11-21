@@ -2,7 +2,7 @@ collections:
   ilt:
     output: true
     order:
-      - Video based Sample.md
-      - Image based Sample.md
-      - Text based Sample.md
       - Choose Your Own Adventure Immersive Learning Toolkit.md
+      - Text based Sample.md
+      - Image based Sample.md
+      - Video based Sample.md
