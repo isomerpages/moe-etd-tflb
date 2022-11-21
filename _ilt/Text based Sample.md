@@ -15,3 +15,8 @@ Similar to the old-school books where readers flip to a page number when making 
 Click [here] to access the Typeform sample!
 (https://sle5ivm4kgw.typeform.com/to/lby4aANE)!
 ![typeform ILT](/images/Screenshot%202022-11-21.png)
+
+## SLS Lessons
+Find ready-made lessons based on the Lesson Design Guide! 
+* [Typeform SLS Sample Lesson](https://go.gov.sg/cyoatextsls)
+* [Google Form SLS Sample Lesson](https://go.gov.sg/cyoagoogleformsls)
