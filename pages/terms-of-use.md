@@ -2,7 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-Disclaimer: This Terms of Use is a work in progress.
 #### **Preamble**
 1.  Thank you for visiting this Website (the "Website”). The Website is owned and maintained by the Classroom of the Future project (hereinafter “CotF”).
 2.  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
@@ -55,3 +54,5 @@ Disclaimer: This Terms of Use is a work in progress.
 #### **Governing Law**
 
 25.  These Terms and the use of the Website are governed by and construed in accordance with the laws of the Republic of Singapore. You agree that any claim, legal proceeding or litigation relating to or arising in connection with the Website will be brought solely in Singapore, and you consent to the exclusive jurisdiction of the Singapore Courts.
+
+Disclaimer: This website is a proof of concept.
