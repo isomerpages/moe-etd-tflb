@@ -11,6 +11,6 @@ Click [here](https://go.gov.sg/cyoaphuket3) to access the EKO Studio video samp
 
 Password: CYOA-IL
 ![ILT video](/images/ILTvideo.png)
-## SLS Lessons
-Find ready-made lessons based on the Lesson Design Guide!
+## SLS Lesson
+Find a ready-made lesson based on the Lesson Design Guide!
 * [Video-based SLS Sample Lesson](https://go.gov.sg/cyoavideosls)
