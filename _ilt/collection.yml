@@ -1,4 +1,5 @@
 collections:
   ilt:
     output: true
-    order: []
+    order:
+      - Choose Your Own Adventure Immersive Learning Toolkit.md
