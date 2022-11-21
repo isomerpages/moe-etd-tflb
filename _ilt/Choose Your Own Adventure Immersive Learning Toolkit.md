@@ -13,4 +13,4 @@ Through these narratives, students are able to make active decisions related to 
 Access the Lesson Design Guide on SLS!
 * [Choose-Your-Own-Adventure Immersive Learning Toolkit on SLS](https://go.gov.sg/cyoaguide)
 
-Find out more about the text-based, image-based, and video-based samples through the navigation bar!
+Find out more about the [text-based](/ilt/text/), [image-based](/ilt/image/), and [video-based](/ilt/video/) samples through the navigation bar!
