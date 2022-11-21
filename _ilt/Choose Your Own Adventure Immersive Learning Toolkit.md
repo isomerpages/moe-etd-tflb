@@ -10,4 +10,4 @@ Through these narratives, students are able to make active decisions related to 
 
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrdrop1Li0xOPDM4ptxR7zFloimzQ2j7S2tzpmDcSdTalKwSnonOXss6DaGAvF0IwiJheSpMZrzjDn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-Find out more about the text-based, image-based, and video-based Choose-your-own-adventure immersive learning experiences through the navigation bar!
+Find out more about the text-based, image-based, and video-based samples through the navigation bar!
