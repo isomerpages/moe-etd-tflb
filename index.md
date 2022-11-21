@@ -20,10 +20,10 @@ sections:
           url: https://sites.google.com/moe.edu.sg/brainboost/home
         - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
           description: Design immersive lessons
-          url: https://go.gov.sg/cyoateachersguide
+          url: /ILT/
         - title: Eliciting Voices of Students with Diverse Learning Needs
           description: A resource guide featuring SLS
-          url: https://youtu.be/o4vfMLC0mkM
+          url: /EVS-RG/
         - title: Learning Gamified
           description: Gamifying lessons
           url: https://sites.google.com/moe.edu.sg/lg21/home
@@ -58,7 +58,7 @@ sections:
         guide and ready-made lesson samples in SLS!
       button: Begin my exploration into immersive learning!
       alt: Immersive Learning Toolkit
-      url: https://go.gov.sg/cyoateachersguide
+      url: /ILT/
       image: /images/ILTo.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
