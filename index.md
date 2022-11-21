@@ -78,4 +78,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/lg21/home
       alt: CotF Learning Gamified
       image: /images/LGo.png
+  - infobar:
+      description: "Disclaimer: This website is a proof of concept."
 ---
