@@ -11,3 +11,5 @@ permalink: /privacy/
 5. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 6.  This Website may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 7.  Please contact us through [our contact form](https://form.gov.sg/6361dd34be44fe00120b0535) or at [cotf@moe.edu.sg](mailto:cotf@moe.edu.sg) for any enquires or feedback on our data protection policies and procedures, and if you need more information on or access to data which you have provided to us in the past.
+
+Disclaimer: This website is a proof of concept.
