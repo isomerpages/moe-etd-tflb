@@ -8,4 +8,4 @@ Choose-your-own-adventure immersive learning experience toolkit (CYOA-ILT) is a 
   
 Through these narratives, students are able to make active decisions related to real-world issues. Depending on these decisions, students will experience the consequences of their choice through different outcomes. We hope this will inspire curiosity and develop students’ ability to appreciate multiple perspectives towards complex, multifaceted issues.
 
-<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrdrop1Li0xOPDM4ptxR7zFloimzQ2j7S2tzpmDcSdTalKwSnonOXss6DaGAvF0IwiJheSpMZrzjDn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrdrop1Li0xOPDM4ptxR7zFloimzQ2j7S2tzpmDcSdTalKwSnonOXss6DaGAvF0IwiJheSpMZrzjDn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
