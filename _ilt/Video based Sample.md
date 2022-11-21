@@ -8,6 +8,7 @@ description: In a Video-based Sample, users can sit back and enjoy the narrative
 In a Video-based Sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour intensive, the immersion is unrivalled especially when put into a VR setting.
 ## EKO Video Sample
 Click [here](https://go.gov.sg/cyoaphuket3) to access the EKO Studio video sample!
+
 Password: CYOA-IL
 ![ILT video](/images/ILTvideo.png)
 ## SLS Lessons
