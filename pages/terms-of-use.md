@@ -36,20 +36,10 @@ permalink: /terms-of-use/
 
 #### **Disclaimer of Warranties and Liability**
 
-16.  The Content is provided on an “as-is, where-is” basis without warranties of any kind. We are not liable for any loss or damage:
-* That you may incur on account of using the Website;
-*   That you may incur on account of using or visiting any application or service linked to or from the Website or relying on any statement, opinion, representation or information in the Website;
-*   That you may incur arising from any inaccuracy or incompleteness in, or errors or omission in the information on the Website;
-*   Resulting from any delay in the operation or transmission, communications failure, internet access difficulties or malfunctions in equipment or software; or
-*   Arising or resulting from the conduct or the views of any person who accesses or uses the Website or any application or service linked to or from this Website.
-17.  Content Disclaimer. Teacher Users shall use their professional discretion in ascertaining if a shared resource contributed is fit for use as it may not be reviewed. CotF is not liable for the accuracy of the resource content at any given point in time.
-18.  To the fullest extent permitted by law, we do not warrant and hereby disclaim any warranty:
-* As to the accuracy, correctness, adequacy, fullness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Content;
-* That the Content available on the Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website is and will be free of all viruses or other malicious destructive or corrupting code, agent, program or macros of other harmful elements.
-21.  MOE, its officers, agents and employees are not liable for any damages or loss of any kind caused as a result (whether direct or indirect) of the use of the Website, or non-access thereof, including but not limited to any damage or loss suffered as a result of reliance on the Content contained in or available from this Website.
-22.  We are not responsible or liable for the conduct of any User, or for User Uploaded Content or comments which any User posts or uploads on the Website.
-23.  Where appropriate, we use available technology to protect the security of communications made through the Website. Nevertheless, we do not accept liability for any breaches of security, authenticity, integrity or confidentiality of any transactions and other communications made through the Website. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that the Website is or will be free of infection from computer viruses or other unauthorised software, and we accept no liability in connection with any loss you may suffer due to such computer viruses or unauthorised software.
-24.  You agree and understand that you are responsible for any damage suffered by any person, corporation or entity as the result of any remarks, information, feedback or other content submitted by you or made available by you on the Website. We are not responsible for damage of any kind arising out of or in connection to any remarks, information, feedback or other content submitted by you or made available by you on the Website.
+16.  We will not be liable for any loss or damage:
+* that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in the Website;
+* resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or
+* the conduct or the views of any person who accesses or uses the Website.
 
 #### **Governing Law**
 
