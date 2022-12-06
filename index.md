@@ -30,13 +30,6 @@ sections:
       button: We'd love to hear from you!
       url: /contact-us/
       background: /images/IMG-0992 copy.jpg
-  - infopic:
-      title: CotF Year-End Engagement 2022
-      button: Click for more information
-      url: /YEE2022
-      image: /images/CotF YEE 2022.png
-      alt: Image alt text
-      subtitle: Welcome to the
   - infobar:
       title: Redesigning Learning
       subtitle: About CotF
