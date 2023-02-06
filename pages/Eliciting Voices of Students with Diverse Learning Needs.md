@@ -1,9 +1,10 @@
 ---
 title: Eliciting Voices of Students with Diverse Learning Needs
-permalink: /EVS-RG/
+permalink: /EVS/
 description: " Eliciting Voices of Students with Diverse Learning Needs - A
   Resource Guide featuring SLS"
 ---
+
 ## Do you have these students in your class?
 
 *   The non-verbal student who struggles to express herself.
