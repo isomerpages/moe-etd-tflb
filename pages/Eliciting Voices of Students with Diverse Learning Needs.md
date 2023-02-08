@@ -4,7 +4,6 @@ permalink: /EVS/
 description: " Eliciting Voices of Students with Diverse Learning Needs - A
   Resource Guide featuring SLS"
 ---
-
 ## Do you have these students in your class?
 
 *   The non-verbal student who struggles to express herself.
@@ -15,9 +14,11 @@ description: " Eliciting Voices of Students with Diverse Learning Needs - A
     
 *   The quiet boy who has difficulties with reading and writing. 
 
-We have something for you! This resource guide (coming soon in 2023) aims to shine a spotlight on eliciting students’ voices in classes with diverse learning needs. 
+We have something for you! This resource guide aims to shine a spotlight on eliciting students’ voices in classes with diverse learning needs. 
 
 With the use of these SLS features, we hope to help you support your students with diverse learning needs (e.g. literacy difficulties, challenges in expression) , enable them to participate more actively in class, and build their self-confidence.
+
+[Eliciting Voices of Students with Diverse Learning Needs - A Resource Guide](/files/Eliciting%20Voices%20of%20Students%20with%20Diverse%20Learning%20Needs%20-%20A%20Resource%20Guide.pdf)
 
 **Find out how teachers elicit voices of students with diverse learning needs in the primary TRANSIT classroom!**
 
