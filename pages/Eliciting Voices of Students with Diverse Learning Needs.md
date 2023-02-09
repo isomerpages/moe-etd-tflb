@@ -27,7 +27,7 @@ With the use of these SLS features, we hope to help you support your students wi
 
 [Eliciting Voices of Students with Diverse Learning Needs - A Resource Guide](/files/Eliciting%20Voices%20of%20Students%20with%20Diverse%20Learning%20Needs%20-%20A%20Resource%20Guide.pdf)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 **Find out how teachers elicit voices of students with diverse learning needs in the primary TRANSIT classroom!**
 
