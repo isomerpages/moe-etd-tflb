@@ -7,7 +7,7 @@ description: " Eliciting Voices of Students with Diverse Learning Needs - A
 ## Do you have these students in your class?
 
 
-| ![](/images/EVSo.png) | Column 2 | Column 3 | Column 4 |
+| ![](/images/EVSo.png) | ![](/images/EVSo.png) |![](/images/EVSo.png) | ![](/images/EVSo.png) |
 | -------- | -------- | -------- | -------- |
 | The non-verbal student who struggles to express herself.|The anxious student&nbsp;who has trouble understanding text.|The fearful student who does not want to make mistakes in front of the class.|The quiet boy who has difficulties with reading and writing.|
 
