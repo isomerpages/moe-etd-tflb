@@ -3,10 +3,8 @@ title: Awards
 permalink: /about/awards/
 description: ""
 ---
-
-
 ### IDC Smart Cities Asia Pacific Awards (Education) 2022
-BANNER HERE
+![](/images/SCAPA%202022%20Winners%20Tiles%20-%20CotF.png)
 The IDC Smart Cities Asia Pacific Awards (Education) recognises the best initiatives in education in Asia Pacific and provides a forum for best practice sharing to help accelerate Smart City development in the region.
 
 ### MOE Innergy Award - HQ (Academic)
