@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - Our Design Process.md
+      - Our Processes.md
       - About us.md
