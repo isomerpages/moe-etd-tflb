@@ -23,9 +23,9 @@ We have something for you! This resource guide aims to shine a spotlight on elic
 
 With the use of these SLS features, we hope to help you support your students with diverse learning needs (e.g. literacy difficulties, challenges in expression) , enable them to participate more actively in class, and build their self-confidence.
 
-[Eliciting Voices of Students with Diverse Learning Needs - A Resource Guide](/files/Eliciting%20Voices%20of%20Students%20with%20Diverse%20Learning%20Needs%20-%20A%20Resource%20Guide.pdf)
-
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+Download a PDF version of the resource guide here: [Eliciting Voices of Students with Diverse Learning Needs - A Resource Guide](/files/Eliciting%20Voices%20of%20Students%20with%20Diverse%20Learning%20Needs%20-%20A%20Resource%20Guide.pdf)
 
 **Find out how teachers elicit voices of students with diverse learning needs in the primary TRANSIT classroom!**
 
