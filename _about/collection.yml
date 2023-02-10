@@ -1,5 +1,4 @@
 collections:
   about:
     output: true
-    order:
-      - Awards.md
+    order: []
