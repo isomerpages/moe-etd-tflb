@@ -36,4 +36,4 @@ permalink: /privacy/
 
 9.    ”Non-Government entity” refers to a person other than a Government Agency.
 
-10. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
+10.    “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
