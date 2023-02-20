@@ -19,21 +19,21 @@ permalink: /terms-of-use/
 
 #### **Relying on Information**
 
-1.    The Website is provided for general information only. CotF does not make any representations or warranty of any kind, express or implied, about the timeliness, accuracy, suitability, completeness or reliability of any statements, opinion, representation or other information in the Website. Any reliance you place on such information is therefore strictly at your own risk.
+1.    The Website is provided for general information only. CotF does not make any representations or warranty of any kind, express, or implied, about the timeliness, accuracy, suitability, completeness, or reliability of any statements, opinion, representation or other information on the Website. Any reliance you place on such information is therefore strictly at your own risk.
 
 #### **Security**
 
-1.    Where appropriate available technology is used to protect the security of communications made through the Website. CotF does not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through the Website.
+1.    Where appropriate available technology is used to protect the security of communications made through the Website. CotF does not, however, accept liability for the security, authenticity, integrity, or confidentiality of any transactions and other communications made through the Website.
 
-2.    Internet communications may be susceptible to interference or interception by third parties. CotF make no warranties that the Website is free of infection by computer viruses or other unauthorised software. You should take appropriate steps to keep your information, software and equipment secure.
+2.    Internet communications may be susceptible to interference or interception by third parties. CotF make no warranties that the Website is free of infection by computer viruses or other unauthorised software. You should take appropriate steps to keep your information, software, and equipment secure.
 
 #### **Hyperlinks**
 
 1.    CotF shall not be responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from the Website. Access to any other site is at your own risk.
 
-2.    Links to other Internet sites do not constitute CotF’s endorsement of material on those sites, or any associated organization, product or service.
+2.    Links to other Internet sites do not constitute CotF’s endorsement of material on those sites, or any associated organisation, product, or service.
 
-3.    If you create a link or frame to the Website you do so at your own risk.
+3.    If you create a link or frame to the Website, you do so at your own risk.
 
 4.    CotF reserves the right to object to, or disable any link or frame to or from the Website.
 
@@ -41,9 +41,9 @@ permalink: /terms-of-use/
 
 #### **Intellectual Property Rights and Restrictions on Use of Website Content**
 
-1.    Materials, including design, source codes, pages, documents and online graphics, audio and video in the Website are protected by law. The intellectual property rights in the materials are owned or licensed to CotF.
+1.    Materials, including design, source codes, pages, documents, online graphics, audio, and video on the Website are protected by law. The intellectual property rights in the materials are owned or licensed to CotF.
 
-2.    Apart from any fair dealings permitted by law, no part of the Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials in the Website is prohibited.
+2.    Apart from any fair dealings permitted by law, no part of the Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on the Website is prohibited.
 
 3.    CotF makes no warranty as to any of the intellectual property on the Website.
 
