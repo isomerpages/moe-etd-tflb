@@ -4,7 +4,7 @@ permalink: /onepage/
 description: ""
 ---
 ## Always wondered how we can encourage students to participate more actively in class?
-![](/images/rp%20testing%20image.png)
+![](/images/1%20copy.png)
 <center>A series of resources to help you support your students with diverse learning needs.</center>
 
 <button>SLS tutorial</button>
