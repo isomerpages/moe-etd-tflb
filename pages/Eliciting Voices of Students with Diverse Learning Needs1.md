@@ -11,11 +11,11 @@ description: ""
 <center>Primary school students are usually enthusiastic to share their views and feelings in class. Often, only a few students are chosen. On the other hand, there is also a group of students who are not confident and comfortable to share in class. Consequently, teachers are unable to understand every student's thoughts and some students stop sharing after repeated disappointments.</center>
 
 <center><h3>The Solution</h3></center>
-<center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources to help you support your students with diverse learning needs.
+<center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB) to help you support your students with diverse learning needs.
 
 With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
 
-<iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn\_A8vSy1xol7MkKPeoXffodbw/embed?start=false&;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&loop=true&delayms=10000"></iframe>"></iframe>
 <center><button><h5><a href="https://for.edu.sg/evs">Download the resource guide featuring SLS features</a></h5></button></center>
 <center><button><h5><a href="https://for.edu.sg/">Share the resource guide with others through SLS</a></h5></button></center>
 
@@ -25,13 +25,14 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><h3>The Impact</h3></center>
 
-<center><h4>Find out how teachers elicit voices of students with diverse learning needs through the use of EVS in the primary TRANSIT* classroom!</h4>
+<center>Find out how teachers elicit voices of students with diverse learning needs through the use of EVS in the primary TRANSIT* classroom!</center>
 
-<h5>Sembawang Primary School</h5>
+<center><h5>Sembawang Primary School</h5></center>
 <center><q>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</q></center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
+<center><button><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover">Assign your students a SLS lesson on <b>Asking for Permission</b></a></h5></button></center>
 
-<h5>St. Anthony's Primary School</h5>
+<center><h5>St. Anthony's Primary School</h5></center>
 <center><q>For students in TRANSIT*, many of them have other needs, such as literacy needs. The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</q></center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDyf9ekgT-E" height="500" width="100%"></iframe>
 	
