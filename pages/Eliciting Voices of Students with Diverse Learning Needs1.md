@@ -19,6 +19,8 @@ With the use of these resources, we hope to help teachers support students with 
 <center><button><h5><a href="https://for.edu.sg/evs">Download the resource guide featuring SLS features</a></h5></button></center>
 <center><button><h5><a href="https://for.edu.sg/">Share the resource guide with others through SLS</a></h5></button></center>
 
+[Download PDF](/files/Eliciting%20Voices%20of%20Students%20with%20Diverse%20Learning%20Needs%20-%20A%20Resource%20Guide.pdf)
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 <center><button><h5><a href="https://for.edu.sg/evsitt">Guide for students to learn how to use SLS ITT</a></h5></button></center>
 <center><button><h5><a href="https://for.edu.sg/">Assign your students the SLS ITT student guide in SLS</a></h5></button></center>
@@ -31,7 +33,7 @@ With the use of these resources, we hope to help teachers support students with 
 <center><q>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</q></center>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image feature, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
-<center><button><h5>SLS lesson on<b>Asking for Permission</b></h5></button></center>
+<center><button><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover">SLS lesson on<b>Asking for Permission</b></h5></button></center>
 
 <center><h5>St. Anthony's Primary School</h5></center>
 <center><q>For students in TRANSIT*, many of them have other needs, such as literacy needs. The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</q></center>
