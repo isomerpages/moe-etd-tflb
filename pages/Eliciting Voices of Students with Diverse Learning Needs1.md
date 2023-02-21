@@ -30,10 +30,18 @@ With the use of these resources, we hope to help teachers support students with 
 <center><h5>Sembawang Primary School</h5></center>
 <center><q>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</q></center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
-<center><button><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover">Assign your students a SLS lesson on <b>Asking for Permission</b></a></h5></button></center>
+<center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image feature, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
+<center><button><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover">SLS lesson on <b>Asking for Permission</b></a></h5></button></center>
 
 <center><h5>St. Anthony's Primary School</h5></center>
 <center><q>For students in TRANSIT*, many of them have other needs, such as literacy needs. The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</q></center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDyf9ekgT-E" height="500" width="100%"></iframe>
-	
+<center>Teachers from St Anthony’s Primary School and North Vista Primary School designed a SLS lesson with the use of poll and supporting image feature, and hints to further elicit voices of students with diverse learning needs.</center>
+<center><button><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover">SLS lesson on <b>Feelings</b></a></h5></button></center>
+
+<center><h5>Bedok Green Primary School</h5></center>
+<center>A teacher from Bedok Green Primary School designed a SLS lesson with the use of large font size and audio support to further elicit voices of students with diverse learning needs.</center>
+<center><button><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover">SLS lesson on <b>P1 Learning Support Programme (LSP) Reading And Spelling (Words with digraph th)</b></a></h5></button></center>
+
+
 *The TRANsition Support for InTegration (TRANSIT) programme helps Primary 1 students identified with social and behavioural needs to develop foundational self-management skills when they start school.
