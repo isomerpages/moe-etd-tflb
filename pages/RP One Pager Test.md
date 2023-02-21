@@ -5,7 +5,7 @@ description: ""
 ---
 ## Ever wondered how we can encourage students to participate more actively in class?
 
-<h2 id="anchor">hello</h2>
+<h1 id="anchor"></h1>
 IMAGE OF MOCKUP OF RP
 
 One liner to describe RP
