@@ -16,7 +16,7 @@ Problem space here.
 Long description here.
 Embed resources here.
 
-<button><h4>link to resource here</h4></button>
+<center><button><h4>link to resource here</h4></button></center>
 
 <center><h3>The Impact</h3></center>
 Quotes from users here.
