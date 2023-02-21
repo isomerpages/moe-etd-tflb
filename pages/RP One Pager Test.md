@@ -3,8 +3,10 @@ title: RP One Pager Test
 permalink: /onepage/
 description: ""
 ---
-## Ever wondered how we can encourage students to participate more actively in class?
+## Always wondered how we can encourage students to participate more actively in class?
 ![](/images/rp%20testing%20image.png)
+<center>A series of resources to help you support your students with diverse learning needs.</center>
+
 <h1 id="anchor"></h1>
 IMAGE OF MOCKUP OF RP
 
