@@ -16,7 +16,7 @@ description: ""
 With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-<center><button style="background-color:#f47d61; border=0; border-radius=10px;"><h5 style="color:#ffffff;"><a href="https://for.edu.sg/evs">Download the resource guide featuring SLS features</a></h5></button></center>
+<center><button style="background-color:#f47d61; border=0; border-radius=10px;"><h5 style="color=#ffffff;"><a href="https://for.edu.sg/evs">Download the resource guide featuring SLS features</a></h5></button></center>
 <center><button><h5><a href="https://for.edu.sg/">Share the resource guide with others through SLS</a></h5></button></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
