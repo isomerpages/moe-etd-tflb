@@ -18,4 +18,4 @@ description: ""
 <center><button><h5>link to resource here</h5></button></center>
 
 <center><h3>The Impact</h3></center>
-> Quotes from users here.
+<center>Quotes from users here.</center>
