@@ -10,11 +10,10 @@ description: ""
 <center>A series of resources to help you support your students with diverse learning needs.</center>
 
 <center><h3>The Pain Point</h3></center>
-Problem space here.
+<center>Problem space here.</center>
 
 <center><h3>The Solution</h3></center>
-Long description here.
-Embed resources here.
+<center>Long description here. Embed resources here.</center>
 
 <center><button><h4>link to resource here</h4></button></center>
 
