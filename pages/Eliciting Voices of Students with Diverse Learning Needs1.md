@@ -22,7 +22,9 @@ With the use of these resources, we hope to help teachers support students with 
 <center><button style="background-color:#DDE9FF;"><h5><a href="https://for.edu.sg/">Share the resource guide with others through SLS</a></h5></button></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-<center><button style="background-color:#DDE9FF;" href="https://for.edu.sg/evsitt"><h5>Guide for students to learn how to use SLS ITT</h5></a></button></center>
+
+<center><a href="https://for.edu.sg/evsitt/"><button style="background-color:#DDE9FF;"><h5>Guide for students to learn how to use SLS ITT</h5></button></a></center>
+	
 <center><button style="background-color:#DDE9FF;"><h5><a href="https://for.edu.sg/">Assign your students the SLS ITT student guide in SLS</a></h5></button></center>
 
 <center><h3 id="impact">Our Impact</h3></center>
