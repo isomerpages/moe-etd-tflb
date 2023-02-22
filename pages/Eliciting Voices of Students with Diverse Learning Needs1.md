@@ -21,15 +21,15 @@ With the use of these resources, we hope to help teachers support students with 
 
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-<center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5><img width="50%" src="/images/download.png"><br>Download the resource guide featuring SLS features</h5></button></a></center>
+<center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5><img width="50%" src="/images/download.png"><br>Download the guide</h5></button></a></center>
 
-<center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>Share the resource guide with others through SLS</h5></button></a></center>
+<center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>View the guide on SLS</h5></button></a></center>
 
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-<center><a href="https://for.edu.sg/evsitt/"><button style="background-color:#DDE9FF;"><h5>Guide for students to learn how to use SLS ITT</h5></button></a></center>
+<center><a href="https://for.edu.sg/evsitt/"><button style="background-color:#DDE9FF;"><h5>Download the guide</h5></button></a></center>
 	
-<center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>Assign your students the SLS ITT student guide in SLS</h5></button></a></center>
+<center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>View the guide on SLS</h5></button></a></center>
 
 ------------------
 
@@ -44,7 +44,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image feature, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><button style="background-color:#DDE9FF;"><h5>SLS lesson on Asking for Permission</h5></button></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><button style="background-color:#DDE9FF;"><h5>EVS SLS lesson: Asking for Permission</h5></button></a></center>
 
 ---------------------
 
@@ -55,7 +55,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center>Teachers from St Anthony’s Primary School and North Vista Primary School designed a SLS lesson with the use of poll and supporting image feature, and hints to further elicit voices of students with diverse learning needs.</center>
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover"><button style="background-color:#DDE9FF;"><h5>SLS lesson on Feelings</h5></button></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover"><button style="background-color:#DDE9FF;"><h5>EVS SLS lesson: Feelings</h5></button></a></center>
 
 --------------------
 
@@ -63,7 +63,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center>A teacher from Bedok Green Primary School designed a SLS lesson with the use of large font size and audio support to further elicit voices of students with diverse learning needs.</center>
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e01704ab-278a-482f-9ff3-da7e333e7895/cover"><button style="background-color:#DDE9FF;"><h5>SLS lesson on Reading And Spelling (Words with digraph th)</h5></button></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e01704ab-278a-482f-9ff3-da7e333e7895/cover"><button style="background-color:#DDE9FF;"><h5>EVS SLS lesson: Reading And Spelling</h5></button></a></center>
 
 -------------------------
 *The TRANsition Support for InTegration (TRANSIT) programme helps Primary 1 students identified with social and behavioural needs to develop foundational self-management skills when they start school.
