@@ -3,6 +3,8 @@ title: Eliciting Voices of Students with Diverse Learning Needs1
 permalink: /onepage/
 description: ""
 ---
+<h4>The Pain Point | The Solution | The Impact</h4>
+
 <center><h2>Always wondered how we can encourage students to participate more actively in class?</h2></center>
 
 ![](/images/rp%20testing%20image.png)
