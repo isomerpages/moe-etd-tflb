@@ -9,10 +9,10 @@ description: ""
 
 ![](/images/rp%20testing%20image.png)
 
-<center><h3 id="discovery">Our Discovery</h3></center>
+<center><h2 id="discovery">Our Discovery</h2></center>
 <center>Primary school pupils are usually enthusiastic to share their views and feelings in class. Often, only a few pupils are chosen. On the other hand, there is also a group of pupils who are not confident and comfortable to share in class. Consequently, teachers are unable to understand every pupil's thoughts and some pupils stop sharing after repeated disappointments.</center>
 
-<center><h3 id="innovation">Our Innovation</h3></center>
+<center><h2 id="innovation">Our Innovation</h2></center>
 <center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB) to help you support your students with diverse learning needs.
 
 With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
@@ -27,11 +27,11 @@ With the use of these resources, we hope to help teachers support students with 
 	
 <center><button style="background-color:#DDE9FF;"><h5><a href="https://for.edu.sg/">Assign your students the SLS ITT student guide in SLS</a></h5></button></center>
 
-<center><h3 id="impact">Our Impact</h3></center>
+<center><h2 id="impact">Our Impact</h2></center>
 
 <center>Find out how teachers elicit voices of students with diverse learning needs through the use of EVS in the primary TRANSIT* classroom!</center>
 
-<center><h5>Sembawang Primary School</h5></center>
+<center><h3>Sembawang Primary School</h3></center>
 <center><q>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</q></center>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -39,7 +39,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><button style="background-color:#DDE9FF;"><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover">SLS lesson on <b>Asking for Permission</b></a></h5></button></center>
 
-<center><h5>St. Anthony's Primary School</h5></center>
+<center><h3>St. Anthony's Primary School</h3></center>
 <center><q>For students in TRANSIT*, many of them have other needs, such as literacy needs. The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</q></center>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/dDyf9ekgT-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -48,7 +48,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><button style="background-color:#DDE9FF;"><h5><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover">SLS lesson on <b>Feelings</b></a></h5></button></center>
 
-<center><h5 style="background-color:#FDE5DF;">Bedok Green Primary School</h5></center>
+<center><h3 style="background-color:#FDE5DF;">Bedok Green Primary School</h3></center>
 
 <center style="background-color:#FDE5DF;">A teacher from Bedok Green Primary School designed a SLS lesson with the use of large font size and audio support to further elicit voices of students with diverse learning needs.</center>
 
