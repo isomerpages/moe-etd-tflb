@@ -59,9 +59,9 @@ With the use of these resources, we hope to help teachers support students with 
 
 --------------------
 
-<center><h3 style="background-color:#FDE5DF;">Bedok Green Primary School</h3></center>
+<center><h3>Bedok Green Primary School</h3></center>
 
-<center style="background-color:#FDE5DF;">A teacher from Bedok Green Primary School designed a SLS lesson with the use of large font size and audio support to further elicit voices of students with diverse learning needs.</center>
+<center>A teacher from Bedok Green Primary School designed a SLS lesson with the use of large font size and audio support to further elicit voices of students with diverse learning needs.</center>
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e01704ab-278a-482f-9ff3-da7e333e7895/cover"><button style="background-color:#DDE9FF;"><h5>SLS lesson on Reading And Spelling (Words with digraph th)</h5></button></a></center>
 
