@@ -19,13 +19,13 @@ description: ""
 
 With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-<center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5><img src="/images/download.png"> <br>Download the resource guide featuring SLS features</h5></button></a></center>
+<center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5><img width="50%" src="/images/download.png"><br>Download the resource guide featuring SLS features</h5></button></a></center>
 
 <center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>Share the resource guide with others through SLS</h5></button></a></center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 <center><a href="https://for.edu.sg/evsitt/"><button style="background-color:#DDE9FF;"><h5>Guide for students to learn how to use SLS ITT</h5></button></a></center>
 	
@@ -40,7 +40,7 @@ With the use of these resources, we hope to help teachers support students with 
 <center><h3>Sembawang Primary School</h3></center>
 <center><q>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</q></center>
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
 
 <center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image feature, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
 
@@ -51,7 +51,7 @@ With the use of these resources, we hope to help teachers support students with 
 <center><h3>St. Anthony's Primary School</h3></center>
 <center><q>For students in TRANSIT*, many of them have other needs, such as literacy needs. The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</q></center>
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/dDyf9ekgT-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDyf9ekgT-E" height="500" width="100%"></iframe>
 
 <center>Teachers from St Anthony’s Primary School and North Vista Primary School designed a SLS lesson with the use of poll and supporting image feature, and hints to further elicit voices of students with diverse learning needs.</center>
 
