@@ -9,10 +9,10 @@ description: ""
 
 ![](/images/rp%20testing%20image.png)
 
-<center><h3>The Pain Point</h3></center>
+<center><h3>What We Discovered</h3></center>
 <center>Primary school pupils are usually enthusiastic to share their views and feelings in class. Often, only a few pupils are chosen. On the other hand, there is also a group of pupils who are not confident and comfortable to share in class. Consequently, teachers are unable to understand every pupil's thoughts and some pupils stop sharing after repeated disappointments.</center>
 
-<center><h3>The Solution</h3></center>
+<center><h3>What We Innovated</h3></center>
 <center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB) to help you support your students with diverse learning needs.
 
 With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
