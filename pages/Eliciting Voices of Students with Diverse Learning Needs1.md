@@ -3,16 +3,16 @@ title: Eliciting Voices of Students with Diverse Learning Needs1
 permalink: /onepage/
 description: ""
 ---
-<h4>The Pain Point | The Solution | The Impact</h4>
+<center><h4><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>Always wondered how we can encourage students to participate more actively in class?</h2></center>
 
 ![](/images/rp%20testing%20image.png)
 
-<center><h3>What We Discovered</h3></center>
+<center><h3 id="discovery">Our Discovery</h3></center>
 <center>Primary school pupils are usually enthusiastic to share their views and feelings in class. Often, only a few pupils are chosen. On the other hand, there is also a group of pupils who are not confident and comfortable to share in class. Consequently, teachers are unable to understand every pupil's thoughts and some pupils stop sharing after repeated disappointments.</center>
 
-<center><h3>What We Innovated</h3></center>
+<center><h3 id="innovation">Our Innovation</h3></center>
 <center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB) to help you support your students with diverse learning needs.
 
 With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
@@ -25,7 +25,7 @@ With the use of these resources, we hope to help teachers support students with 
 <center><button><h5><a href="https://for.edu.sg/evsitt">Guide for students to learn how to use SLS ITT</a></h5></button></center>
 <center><button><h5><a href="https://for.edu.sg/">Assign your students the SLS ITT student guide in SLS</a></h5></button></center>
 
-<center><h3>The Impact</h3></center>
+<center><h3 id="impact">Our Impact</h3></center>
 
 <center>Find out how teachers elicit voices of students with diverse learning needs through the use of EVS in the primary TRANSIT* classroom!</center>
 
