@@ -21,7 +21,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5><img src=""> <br>Download the resource guide featuring SLS features</h5></button></a></center>
+<center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5><img src="/images/download.png"> <br>Download the resource guide featuring SLS features</h5></button></a></center>
 
 <center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>Share the resource guide with others through SLS</h5></button></a></center>
 
