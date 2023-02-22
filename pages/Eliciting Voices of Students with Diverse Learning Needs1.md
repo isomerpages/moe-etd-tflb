@@ -57,13 +57,5 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover"><button style="background-color:#DDE9FF;"><h5>EVS SLS lesson: Feelings</h5></button></a></center>
 
---------------------
-
-<center><h3>Bedok Green Primary School</h3></center>
-
-<center>A teacher from Bedok Green Primary School designed a SLS lesson with the use of large font size and audio support to further elicit voices of students with diverse learning needs.</center>
-
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e01704ab-278a-482f-9ff3-da7e333e7895/cover"><button style="background-color:#DDE9FF;"><h5>EVS SLS lesson: Reading And Spelling</h5></button></a></center>
-
 -------------------------
 *The TRANsition Support for InTegration (TRANSIT) programme helps Primary 1 students identified with social and behavioural needs to develop foundational self-management skills when they start school.
