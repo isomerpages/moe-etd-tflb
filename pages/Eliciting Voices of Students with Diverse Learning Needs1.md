@@ -26,7 +26,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>View the guide on SLS</h5></button></a></center>
 
-<center><h3>Student Guide for using SLS ITT</h3></center>
+<center><h3>SLS ITT Guide for Students</h3></center>
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 <center><a href="https://for.edu.sg/evsslsittppt/"><button style="background-color:#DDE9FF;"><h5>Download the editable guide</h5></button></a></center>
