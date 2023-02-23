@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 description: About Classroom of the Future
 ---
-<center><img src="/images/CotF%20logo%20resize.png" height="500"></center>
+<center><img src="/images/cotfisomerlogo.png"></center>
 
 <center>The Classroom of the Future (CotF) is an Educational Technology Division, Information Technology Division, and Government Technology Agency effort where different government agencies leverage design thinking and other human-centric methodologies to <b>redesign the teaching and learning experience for students and teachers</b> to meet current and future needs.</center>
 
