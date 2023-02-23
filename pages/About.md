@@ -12,8 +12,8 @@ description: About Classroom of the Future
 <center><h2>CotF's Design Thinking Process</h2></center>
 <center>Our use of design thinking and human-centric methodologies allow us a unique lens and insight into the teaching and learning space, enabling us more opportunities to support teachers and students. </center>
 
-![CotF design thinking](/images/CotF%20design%20thinking.png)
+<center><img src="/images/CotF%20design%20thinking.png"></center>
 
 <center><h2>CotF's Innovation Pipeline</h2></center>
 
-![CotF innovation pipeline](/images/CotF%20pipeline.png)
+<center><img src="/images/CotF%20pipeline.png"></center>
