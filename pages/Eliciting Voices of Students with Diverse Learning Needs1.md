@@ -37,7 +37,7 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Find out how teachers elicit voices of students with diverse learning needs through the use of EVS in the primary TRANSIT* classroom!</center>
+<center>Find out how teachers elicit the voices of students with diverse learning needs through the use of EVS in the primary TRANSIT* classroom!</center>
 
 <center><h3>Sembawang Primary School</h3></center>
 <center><q>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</q></center>
