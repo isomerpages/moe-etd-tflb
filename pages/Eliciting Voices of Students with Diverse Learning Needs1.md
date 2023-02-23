@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>Always wondered how we can encourage students to participate more actively in class?</h2></center>
 
-![](/images/rp%20testing%20image.png)
+![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Primary school pupils are usually enthusiastic to share their views and feelings in class. Often, only a few pupils are chosen. On the other hand, there is also a group of pupils who are not confident and comfortable to share in class. Consequently, teachers are unable to understand every pupil's thoughts and some pupils stop sharing after repeated disappointments.</center>
@@ -15,11 +15,10 @@ description: ""
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB).
-<br>
-With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
+<center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB).</center>
+<center>With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
 
-<center><h3>Resource Guide using SLS Features</h3></center>
+<center><h3>Resource Guide featuring SLS Features</h3></center>
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 <center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5>Download the guide</h5></button></a></center>
@@ -42,6 +41,8 @@ With the use of these resources, we hope to help teachers support students with 
 <center><h3>Sembawang Primary School</h3></center>
 <center><q>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</q></center>
 
+> From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
 
 <center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image feature, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
@@ -52,6 +53,8 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><h3>St. Anthony's Primary School</h3></center>
 <center><q>For students in TRANSIT*, many of them have other needs, such as literacy needs. The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</q></center>
+
+> For students in TRANSIT*, many of them have other needs, such as literacy needs. The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDyf9ekgT-E" height="500" width="100%"></iframe>
 
