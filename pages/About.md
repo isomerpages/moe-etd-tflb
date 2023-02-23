@@ -15,5 +15,5 @@ description: About Classroom of the Future
 <center><img src="/images/CotF%20design%20thinking.png"></center>
 
 <center><h2>CotF's Innovation Pipeline</h2></center>
-<center>CotF products go through 4 stages of our innovation pipeline to ensure that our products bring value to our teachers and students.
+<center>CotF's innovations go through 4 stages of our innovation pipeline to ensure that our innovations bring value to our teachers and students.
 <center><img src="/images/CotF%20pipeline.png"></center>
