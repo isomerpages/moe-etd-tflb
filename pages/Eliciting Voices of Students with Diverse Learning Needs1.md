@@ -15,8 +15,8 @@ description: ""
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB) to help you support your students with diverse learning needs.
-
+<center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB).
+<br>
 With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
 
 <center><h3>Resource Guide using SLS Features</h3></center>
