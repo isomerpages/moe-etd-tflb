@@ -61,4 +61,4 @@ description: ""
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover"><button style="background-color:#DDE9FF;"><h5>EVS SLS lesson: Feelings</h5></button></a></center>
 
 -------------------------
-*The TRANsition Support for InTegration (TRANSIT) programme helps Primary 1 students identified with social and behavioural needs to develop foundational self-management skills when they start school.
+<center>*The TRANsition Support for InTegration (TRANSIT) programme helps Primary 1 students identified with social and behavioural needs to develop foundational self-management skills when they start school.</center>
