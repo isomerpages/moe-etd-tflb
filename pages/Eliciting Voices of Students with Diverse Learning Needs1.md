@@ -24,14 +24,14 @@ With the use of these resources, we hope to help teachers support students with 
 
 <center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5>Download the guide</h5></button></a></center>
 
-<center><a href="https://for.edu.sg/"><button style="background-color:#DDE9FF;"><h5>View the guide on SLS</h5></button></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><button style="background-color:#DDE9FF;"><h5>View the guide on SLS</h5></button></a></center>
 
 <center><h3>SLS ITT Guide for Students</h3></center>
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 <center><a href="https://for.edu.sg/evsslsittppt/"><button style="background-color:#DDE9FF;"><h5>Download the editable guide</h5></button></a></center>
 	
-<center><a href="https://for.edu.sg/evsslsitt"><button style="background-color:#DDE9FF;"><h5>Assign your students the guide on SLS</h5></button></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover"><button style="background-color:#DDE9FF;"><h5>Assign your students the guide on SLS</h5></button></a></center>
 
 ------------------
 
