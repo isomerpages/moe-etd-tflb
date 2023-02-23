@@ -44,8 +44,7 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
 
-
-> From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.
+<center><blockquote>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</blockquote></center>
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><button style="background-color:#DDE9FF;"><h5>EVS SLS lesson: Asking for Permission</h5></button></a></center>
 
