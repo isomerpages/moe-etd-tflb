@@ -21,11 +21,9 @@ description: ""
 <center><h3>Resource Guide featuring SLS</h3></center>
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-<center><a href="https://for.edu.sg/evs"><button style="display:inline; border: solid 1px; padding:5px;background-color: #DDE9FF; min-width:2.75 rem; text-decoration: none;"><img src="/images/download.svg" style="width:5%; display: inline; padding:1px 5px"> Download the guide</button></a></center>
 
-<center><a href="https://for.edu.sg/evs"><img src="/images/download-the-guide.png" style="width:25%; display: inline;"></a>
-<a href="https://for.edu.sg/evs"><img src="/images/upload_image.png" style="width:30%; display: inline;"></a></center>
-
+<center><a href="https://for.edu.sg/evs"><img src="/images/download-the-guide.png" style="width:30%; display: inline;"></a>
+<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><img src="/images/view-the-guide-on-sls.png" style="width:30%; display: inline;"></a></center>
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><button style="background-color:#DDE9FF;"><h5>Old View the guide on SLS</h5></button></a></center>
 
