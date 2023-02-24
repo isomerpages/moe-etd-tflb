@@ -21,9 +21,9 @@ description: ""
 <center><h3>Resource Guide featuring SLS</h3></center>
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-<center><a href="https://for.edu.sg/evs"><button style="background-color:#DDE9FF;"><h5>Download the guide</h5></button></a></center>
+<center><a class="chakra-button css-423qc9" href="https://for.edu.sg/evs"></span><div class="css-pye05b">Download the guide</div></a>  <a class="chakra-button css-423qc9" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"></span><div class="css-pye05b">View the guide on SLS</div></a></center>
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><button style="background-color:#DDE9FF;"><h5>View the guide on SLS</h5></button></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><button style="background-color:#DDE9FF;"><h5>Old View the guide on SLS</h5></button></a></center>
 
 <center><h3>SLS Interactive Thinking Tool Guide for Students</h3></center>
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
