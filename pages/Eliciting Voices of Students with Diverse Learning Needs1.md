@@ -5,7 +5,7 @@ description: ""
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>Always wondered how we can encourage students to participate more actively in class?</h2></center>
+<center><h2>How might we encourage students to participate more actively in class?</h2></center>
 
 ![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
 
