@@ -1,8 +1,7 @@
 ---
-title: Eliciting Voices of Students with Diverse Learning Needs
-permalink: /EVS/
-description: " Eliciting Voices of Students with Diverse Learning Needs"
-image: /images/EVS Featured Image.png
+title: Eliciting Voices of Students with Diverse Learning Needs1
+permalink: /onepage/
+description: ""
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 

@@ -62,7 +62,6 @@ sections:
       url: /EVS/
       alt: CotF Eliciting Student Voices
       image: /images/EVSo.png
-      subtitle: "[Coming soon in 2023] "
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
