@@ -52,7 +52,7 @@ description: ""
 
 <center><h3>St. Anthony's Primary School</h3></center>
 
-<center>Teachers from St Anthony’s Primary School and North Vista Primary School designed a SLS lesson with the use of poll and supporting image feature, and hints to further elicit the voices of students with diverse learning needs.</center>
+<center>Teachers from St Anthony’s Primary School designed a SLS lesson with the use of poll and supporting image feature, and hints to further elicit the voices of students with diverse learning needs.</center>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDyf9ekgT-E" height="500" width="100%"></iframe>
 
