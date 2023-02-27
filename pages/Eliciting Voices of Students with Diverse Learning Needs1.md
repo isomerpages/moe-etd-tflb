@@ -38,7 +38,7 @@ description: ""
 
 <center>Find out how teachers elicit the voices of students with diverse learning needs through the use of EVS in the primary TRANSIT* classroom!</center>
 
-<small><center>*The TRANsition Support for InTegration (TRANSIT) programme helps Primary 1 students identified with social and behavioural needs to develop foundational self-management skills when they start school.</center></small>
+<center><small>*The TRANsition Support for InTegration (TRANSIT) programme helps Primary 1 students identified with social and behavioural needs to develop foundational self-management skills when they start school.</small></center>
 
 <center><h3>Sembawang Primary School</h3></center>
 
