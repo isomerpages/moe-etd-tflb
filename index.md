@@ -59,7 +59,7 @@ sections:
         bring out student voices in classes with diverse learning needs through
         a series of resources!
       button: Find out what teachers think!
-      url: /EVS/
+      url: /evs/
       alt: CotF Eliciting Student Voices
       image: /images/EVSo.png
   - infopic:
