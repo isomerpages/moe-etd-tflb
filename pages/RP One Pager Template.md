@@ -42,5 +42,5 @@ Embed relevant resources below:
 
 <center><blockquote><i>insert teacher quote here</i></blockquote></center>
 
-insert link to teacher artefact here
+insert link to teacher artefact below
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
