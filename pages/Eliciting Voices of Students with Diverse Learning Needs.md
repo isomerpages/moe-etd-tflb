@@ -23,7 +23,7 @@ image: /images/EVS Featured Image.png
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://for.edu.sg/evs"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+<center><a href="https://for.edu.sg/evs" target="_blank" style="all: revert;" rel="noopener noreferrer" ><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>SLS Interactive Thinking Tool Guide for Students</h3></center>
