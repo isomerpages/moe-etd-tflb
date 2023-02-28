@@ -1,4 +1,5 @@
 collections:
   learning-gamified:
     output: true
-    order: []
+    order:
+      - Learning Gamified.md
