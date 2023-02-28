@@ -1,4 +1,5 @@
 collections:
   eliciting-voices-of-students:
     output: true
-    order: []
+    order:
+      - Eliciting Voices of Students with Diverse Learning Needs.md
