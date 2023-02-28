@@ -23,7 +23,7 @@ sections:
           url: /ILT/
         - title: Eliciting Voices of Students with Diverse Learning Needs
           description: Make learning more accessible
-          url: /EVS/
+          url: /evs/
         - title: Learning Gamified
           description: Gamifying lessons
           url: https://sites.google.com/moe.edu.sg/lg21/home
