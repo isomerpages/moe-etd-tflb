@@ -22,7 +22,7 @@ sections:
           description: Design immersive lessons
           url: /ILT/
         - title: Eliciting Voices of Students with Diverse Learning Needs
-          description: A resource guide featuring SLS
+          description: Make learning more accessible
           url: /EVS/
         - title: Learning Gamified
           description: Gamifying lessons
