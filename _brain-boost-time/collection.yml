@@ -1,4 +1,5 @@
 collections:
   brain-boost-time:
     output: true
-    order: []
+    order:
+      - Brain Boost Time.md
