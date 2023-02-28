@@ -22,10 +22,10 @@ sections:
           description: Design immersive lessons
           url: /ILT/
         - title: Eliciting Voices of Students with Diverse Learning Needs
-          description: A resource guide featuring SLS
-          url: /EVS/
+          description: Make learning more accessible
+          url: /evs/
         - title: Learning Gamified
-          description: Gamifying lessons
+          description: Gamify lessons
           url: https://sites.google.com/moe.edu.sg/lg21/home
       button: We'd love to hear from you!
       url: /contact-us/
@@ -41,7 +41,7 @@ sections:
       subtitle: 2022 MOE Innergy Gold Awardee
       description: Get your pupils to their optimal zone of learning -  especially
         when they're extremely excited or tired!
-      button: Get me in the zone!
+      button: Get in the zone!
       url: https://sites.google.com/moe.edu.sg/brainboost/home
       image: /images/BBTo.png
       alt: CotF Brain Boost Time
@@ -49,7 +49,7 @@ sections:
       title: Choose-Your-Own-Adventure Immersive Learning Toolkit
       description: Craft and create immersive experiences through a lesson design
         guide and ready-made lesson samples in SLS!
-      button: Begin my exploration into immersive learning!
+      button: Explore immersive learning!
       alt: Immersive Learning Toolkit
       url: /ILT/
       image: /images/ILTo.png
@@ -58,15 +58,15 @@ sections:
       description: Gather tips and tricks on how to use SLS and other features to
         bring out student voices in classes with diverse learning needs through
         a series of resources!
-      button: Find out what teachers think!
-      url: /EVS/
+      button: Make learning more accessible!
+      url: /evs/
       alt: CotF Eliciting Student Voices
       image: /images/EVSo.png
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
         into gamified learning experiences!
-      button: Game on!
+      button: Gamify lessons!
       url: https://sites.google.com/moe.edu.sg/lg21/home
       alt: CotF Learning Gamified
       image: /images/LGo.png

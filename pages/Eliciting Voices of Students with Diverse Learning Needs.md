@@ -1,9 +1,10 @@
 ---
 title: Eliciting Voices of Students with Diverse Learning Needs
-permalink: /EVS/
+permalink: /evs/
 description: " Eliciting Voices of Students with Diverse Learning Needs"
 image: /images/EVS Featured Image.png
 ---
+
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we encourage students to participate more actively in class?</h2></center>
