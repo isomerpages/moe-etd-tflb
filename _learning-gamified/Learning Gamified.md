@@ -1,8 +1,9 @@
 ---
-title: Brain Boost Time
-permalink: /bbt/
+title: Learning Gamified
+permalink: /learninggamified/
 description: ""
 ---
+
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>HMW question here</h2></center>

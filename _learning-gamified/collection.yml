@@ -1,0 +1,5 @@
+collections:
+  learning-gamified:
+    output: true
+    order:
+      - Learning Gamified.md

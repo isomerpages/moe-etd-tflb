@@ -23,14 +23,14 @@ image: /images/EVS Featured Image.png
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://for.edu.sg/evs"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
+<center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>SLS Interactive Thinking Tool Guide for Students</h3></center>
 
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-<center><a href="https://for.edu.sg/evsslsittppt"><img src="/images/Buttons/download-the-editable-guide.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
+<center><a href="https://for.edu.sg/evsslsittppt" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-editable-guide.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign-your-students-the-guide-on-sls.png" style="width:45%; display: inline;"></a></center>
 
 
@@ -50,7 +50,7 @@ image: /images/EVS Featured Image.png
 
 <center><blockquote><i>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</i></blockquote></center>
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><img src="/images/Buttons/evs-sls-lesson-feelings.png" style="width:30%; display: inline;"></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-feelings.png" style="width:30%; display: inline;"></a></center>
 
 ---------------------
 
@@ -62,4 +62,4 @@ image: /images/EVS Featured Image.png
 
 <center><blockquote><i>The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</i></blockquote></center>
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>

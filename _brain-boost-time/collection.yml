@@ -1,0 +1,5 @@
+collections:
+  brain-boost-time:
+    output: true
+    order:
+      - Brain Boost Time.md

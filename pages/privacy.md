@@ -2,6 +2,8 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+
+
 #### **General**
 
 1.    This is a Government of Singapore digital service.
