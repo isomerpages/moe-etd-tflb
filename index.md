@@ -27,7 +27,7 @@ sections:
   - infopic:
       description: We're a group of different government agencies who leverage design
         thinking and more to redesign the teaching and learning experience for
-        students and teachers!
+        teachers and students!
       button: Get to know us!
       url: /about
       alt: Hi, we're CotF!
