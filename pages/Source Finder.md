@@ -3,7 +3,7 @@ title: Source Finder
 permalink: /sourcefinder/
 description: ""
 ---
-<center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a></h4></center>
+<center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Prototype</a></h4></center>
 
 <center><h2>HMW question here</h2></center>
 
@@ -15,7 +15,7 @@ description: ""
 
 -----------------
 
-<center><h2 id="innovation">Our Innovation</h2></center>
+<center><h2 id="innovation">Our Prototype</h2></center>
 	
 <center>Source Finder is a community of teachers to share sources easily and learn from others across schools. It is also a productivity tool to help individual teachers search for and organise sources effectively.</center>
 
