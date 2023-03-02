@@ -20,9 +20,11 @@ CotF solutions enhance teaching and learning to help students to be future-ready
 </details>
 
 ## Innovation Pipeline
-The innovation pipeline helps us to bring value to our teachers and students.
-
-![CotF Innovation Pipeline](/images/CotF%20pipeline.png)
+<details>
+<summary><font size="+1">Click here to read more about our innovation pipeline!</font></summary><br>
+<font size="+1">The innovation pipeline helps us to bring value to our teachers and students.</font><br><br>
+<img src="/images/CotF%20pipeline.png">
+</details>
 
 ## Awards
 <details>
