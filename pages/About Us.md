@@ -33,5 +33,5 @@ The innovation pipeline helps us to bring value to our teachers and students.
 <h3>Ministry of Education Innergy Award - HQ (Academic) 2022</h3>
 <font size="+1">The award recognises individuals and teams that have successfully developed and implemented innovations, bringing about significant benefits and impact in their workplaces.</font>
 <br><br>
-Gold: <a href="https://go.gov.sg/etdbbt">Brain Boost Time</a>
+	<font size="+1">Gold: <a href="https://go.gov.sg/etdbbt">Brain Boost Time</a></font>
 </details>
