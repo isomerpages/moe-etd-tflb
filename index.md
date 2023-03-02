@@ -28,7 +28,8 @@ sections:
       description: <iframe src="https://www.youtube.com/embed/rK1Bn_mAkfY"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen></iframe>
+        picture-in-picture; web-share" allowfullscreen height="500"
+        width="100%"></iframe>
       button: Get to know us!
       url: /about
   - infopic:
