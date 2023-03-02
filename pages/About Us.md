@@ -6,3 +6,4 @@ description: Classroom of the Future is a multi-agency innovation effort that
   the teaching and learning experience for students and teachers.
 image: /images/CotF logo resize.png
 ---
+The Classroom
