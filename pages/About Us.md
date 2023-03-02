@@ -14,7 +14,8 @@ CotF solutions enhance teaching and learning to help students to be future-ready
 
 ## Design Thinking Process
 
-<details><br>
+<details>
+<summary>Click here to read more about our design thinking process!</summary>
 Our use of design thinking and human-centric methodologies gives us a unique lens and insight into the teaching and learning space, enabling us to capitalise on more opportunities to support teachers and students.<br><br>
 <img src="/images/CotF%20design%20thinking.png">
 </details>
