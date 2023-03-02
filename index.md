@@ -25,6 +25,13 @@ sections:
           - title: Learning Gamified
             url: https://sites.google.com/moe.edu.sg/lg21
   - infopic:
+      description: We're a group of different government agencies who leverage design
+        thinking and more to redesign the teaching and learning experience for
+        students and teachers!
+      button: Get to know us!
+      url: /about
+      alt: Hi, we're CotF!
+  - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
       description: Get your pupils to their optimal zone of learning -  especially
