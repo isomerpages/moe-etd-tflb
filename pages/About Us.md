@@ -13,17 +13,18 @@ The Classroom of the Future (CotF) is an [Educational Technology Division](https
 CotF solutions enhance teaching and learning to help students to be future-ready, preparing them for an increasingly complex, interconnected, and tech-driven world.
 
 ## Design Thinking Process
-
 <details>
-	<summary><font size="+1">Click here to read more about our design thinking process!</font></summary><br>
+<summary><font size="+1">Click here to read more about our design thinking process!</font></summary><br>
 Our use of design thinking and human-centric methodologies gives us a unique lens and insight into the teaching and learning space, enabling us to capitalise on more opportunities to support teachers and students.<br><br>
 <img src="/images/CotF%20design%20thinking.png">
 </details></p>
 
 ## Innovation Pipeline
-The innovation pipeline helps us to bring value to our teachers and students.
-
-![CotF Innovation Pipeline](/images/CotF%20pipeline.png)
+<details>
+<summary><font size="+1">Click here to read more about our innovation pipeline!</font></summary><br>
+The innovation pipeline helps us to bring value to our teachers and students.<br><br>
+<img src="/images/CotF%20pipeline.png">
+</details></p>
 
 ## Awards
 ### IDC Smart Cities Asia Pacific Awards (Education) 2022
