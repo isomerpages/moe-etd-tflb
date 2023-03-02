@@ -17,7 +17,13 @@ sections:
         title: Explore Our Innovations
         options:
           - title: Brain Boost Time
-            url: /bbt
+            url: https://sites.google.com/moe.edu.sg/brainboost
+          - title: Immersive Learning Toolkit
+            url: /ilt
+          - title: Eliciting Voices of Students
+            url: /evs
+          - title: Learning Gamified
+            url: https://sites.google.com/moe.edu.sg/lg21
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
