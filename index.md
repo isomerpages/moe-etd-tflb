@@ -11,31 +11,13 @@ notification: ""
 sections:
   - hero:
       title: Classroom of the Future
-      subtitle: An Educational Technology Division, Information Technology Division,
-        and GovTech effort to redesign T&L for you and your students. Explore
-        our innovations now!
-      key_highlights:
-        - title: Brain Boost Time
-          description: Get students into the zone
-          url: https://sites.google.com/moe.edu.sg/brainboost/home
-        - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
-          description: Design immersive lessons
-          url: /ilt
-        - title: Eliciting Voices of Students with Diverse Learning Needs
-          description: Make learning more accessible
-          url: /evs/
-        - title: Learning Gamified
-          description: Gamify lessons
-          url: https://sites.google.com/moe.edu.sg/lg21/home
-      button: We'd love to hear from you!
-      url: /contact-us/
+      subtitle: Redesigning Learning
       background: /images/IMG-0992 copy.jpg
-  - infobar:
-      title: Redesigning Learning
-      subtitle: About CotF
-      description: by using design thinking and other human-centric methodologies to
-        find out how we can better support you and your students in your T&L
-        experiences.
+      dropdown:
+        title: Explore Our Innovations
+        options:
+          - title: Brain Boost Time
+            url: /bbt
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
