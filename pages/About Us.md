@@ -14,11 +14,11 @@ CotF solutions enhance teaching and learning to help students to be future-ready
 
 ## Design Thinking Process
 
-<details>
-<summary>Click here to read more about our design thinking process!</summary>
+<p><details>
+<summary>Click here to read more about our design thinking process!</summary><br>
 Our use of design thinking and human-centric methodologies gives us a unique lens and insight into the teaching and learning space, enabling us to capitalise on more opportunities to support teachers and students.<br><br>
 <img src="/images/CotF%20design%20thinking.png">
-</details>
+</details></p>
 
 ## Innovation Pipeline
 The innovation pipeline helps us to bring value to our teachers and students.
