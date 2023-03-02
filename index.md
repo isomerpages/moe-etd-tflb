@@ -24,13 +24,6 @@ sections:
             url: /evs
           - title: Learning Gamified
             url: https://sites.google.com/moe.edu.sg/lg21
-  - infopic:
-      description: We're a group of different government agencies who leverage design
-        thinking and more to redesign the teaching and learning experience for
-        teachers and students!
-      button: Get to know us!
-      url: /about
-      alt: Hi, we're CotF!
   - infobar:
       description: <iframe src="https://www.youtube.com/embed/rK1Bn_mAkfY"
         title="YouTube video player" frameborder="0" allow="accelerometer;
