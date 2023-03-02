@@ -13,9 +13,11 @@ The Classroom of the Future (CotF) is an [Educational Technology Division](https
 CotF solutions enhance teaching and learning to help students to be future-ready, preparing them for an increasingly complex, interconnected, and tech-driven world.
 
 ## Design Thinking Process
-Our use of design thinking and human-centric methodologies gives us a unique lens and insight into the teaching and learning space, enabling us to capitalise on more opportunities to support teachers and students.
 
-![CotF design thinking](/images/CotF%20design%20thinking.png)
+<details><br>
+Our use of design thinking and human-centric methodologies gives us a unique lens and insight into the teaching and learning space, enabling us to capitalise on more opportunities to support teachers and students.<br><br>
+<img src="/images/CotF%20design%20thinking.png">
+</details>
 
 ## Innovation Pipeline
 The innovation pipeline helps us to bring value to our teachers and students.
@@ -32,9 +34,3 @@ The [award](https://www.idc.com/ap/smartcities/2022-winners) recognises the best
 The award recognises individuals and teams that have successfully developed and implemented innovations, bringing about significant benefits and impact in their workplaces. 
 
 Gold: [Brain Boost Time](https://go.gov.sg/etdbbt)
-
-test
-<details>
-  <summary>Epcot Center</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-</details>
