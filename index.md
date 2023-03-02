@@ -20,7 +20,7 @@ sections:
           url: https://sites.google.com/moe.edu.sg/brainboost/home
         - title: Choose-Your-Own-Adventure Immersive Learning Toolkit
           description: Design immersive lessons
-          url: /ILT/
+          url: /ilt
         - title: Eliciting Voices of Students with Diverse Learning Needs
           description: Make learning more accessible
           url: /evs/
@@ -51,7 +51,7 @@ sections:
         guide and ready-made lesson samples in SLS!
       button: Explore immersive learning!
       alt: Immersive Learning Toolkit
-      url: /ILT/
+      url: /ilt
       image: /images/ILTo.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
