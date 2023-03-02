@@ -31,6 +31,14 @@ sections:
       button: Get to know us!
       url: /about
       alt: Hi, we're CotF!
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: <iframe src="https://www.youtube.com/embed/rK1Bn_mAkfY"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen></iframe>
+      button: Button Text
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
