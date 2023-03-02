@@ -7,8 +7,7 @@ description: ""
 
 <center><h2>HMW question here</h2></center>
 
-Upload featured image below:
-![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
+![Source Finder](/images/SF%20Featured%20Image%20Mockup.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
