@@ -6,7 +6,7 @@ description: Classroom of the Future is a multi-agency innovation effort that
   the teaching and learning experience for students and teachers.
 image: /images/CotF logo resize.png
 ---
-<img style="width:50%; display: inline; margin-right:0.5rem" src="/images/CotF%20logo%20resize.png">
+<img src="/images/CotF%20logo%20resize.png" style="width:50%; display: inline; margin-right:0.5rem">
 
 The Classroom of the Future (CotF) is an [Educational Technology Division](https://www.sgdi.gov.sg/ministries/moe/departments/etd), [Information Technology Division](https://www.sgdi.gov.sg/ministries/moe/departments/itd), and [Government Technology Agency](https://www.sgdi.gov.sg/ministries/pmo/statutory-boards/govtech) effort where different government agencies leverage design thinking and other human-centric metholodogies to redesign the teaching and learning experience for students and teachers to meet current and future needs.
 
@@ -34,3 +34,7 @@ The award recognises individuals and teams that have successfully developed and 
 Gold: [Brain Boost Time](https://go.gov.sg/etdbbt)
 
 test
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
