@@ -30,10 +30,10 @@ CotF solutions enhance teaching and learning to help students to be future-ready
 <details>
 <summary><font size="+2">Click here to read more about our awards!</font></summary>
 <h3>IDC Smart Cities Asia Pacific Awards (Education) 2022</h3>
-<font size="+2">The <a href="https://www.idc.com/ap/smartcities/2022-winners">award</a> recognises the best initiatives in education in Asia Pacific and provides a forum for best practice sharing to help accelerate Smart City development in the region.</font><br><br>
+<font size="+2">The <a href="https://www.idc.com/ap/smartcities/2022-winners" target="_blank" rel="noopener noreferrer">award</a> recognises the best initiatives in education in Asia Pacific and provides a forum for best practice sharing to help accelerate Smart City development in the region.</font><br><br>
 <img src="/images/SCAPA%202022%20Winners%20Tiles%20-%20CotF.png">
 <h3>Ministry of Education Innergy Award - HQ (Academic) 2022</h3>
 <font size="+2">The award recognises individuals and teams that have successfully developed and implemented innovations, bringing about significant benefits and impact in their workplaces.</font>
 <br><br>
-	<font size="+2">Gold: <a href="https://go.gov.sg/etdbbt">Brain Boost Time</a></font>
+	<font size="+2">Gold: <a href="https://sites.google.com/moe.edu.sg/brainboost/" target="_blank" rel="noopener noreferrer">Brain Boost Time</a></font>
 </details>
