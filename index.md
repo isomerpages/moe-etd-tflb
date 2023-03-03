@@ -14,17 +14,6 @@ sections:
       subtitle: Redesigning the teaching and learning experience for teachers and
         students
       background: /images/IMG-0992 copy.jpg
-      dropdown:
-        title: Explore Our Innovations
-        options:
-          - title: Brain Boost Time
-            url: https://sites.google.com/moe.edu.sg/brainboost
-          - title: Immersive Learning Toolkit
-            url: /ilt
-          - title: Eliciting Voices of Students
-            url: /evs
-          - title: Learning Gamified
-            url: https://sites.google.com/moe.edu.sg/lg21
   - infobar:
       description: by using design thinking and other human-centric methodologies to
         find out how we can better support you and your students in your T&L
