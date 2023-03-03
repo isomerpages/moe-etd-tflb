@@ -28,7 +28,7 @@ sections:
   - infobar:
       description: by using design thinking and other human-centric methodologies to
         find out how we can better support you and your students in your T&L
-        experiences. <iframe src="https://www.youtube.com/embed/rK1Bn_mAkfY"
+        experiences.<br><iframe src="https://www.youtube.com/embed/rK1Bn_mAkfY"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture; web-share" allowfullscreen height="400"
