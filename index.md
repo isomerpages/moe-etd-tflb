@@ -17,14 +17,13 @@ sections:
   - infobar:
       description: by using design thinking and other human-centric methodologies to
         find out how we can better support you and your students in your T&L
-        experiences.<br><iframe src="https://www.youtube.com/embed/rK1Bn_mAkfY"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen height="400"
-        width="700"></iframe>
+        experiences.<br><br><iframe
+        src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen height="400" width="700"></iframe>
       button: Get to know us!
       url: /about
-      subtitle: ABOUT COTF
       title: Redesigning Learning
   - infopic:
       title: Brain Boost Time
