@@ -54,8 +54,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d34sxxwkzr355u.amplifyapp.com
 prod: https://master.d34sxxwkzr355u.amplifyapp.com
-shareicon: /images/favicon.ico
+shareicon: /images/CotF logo.png
 is_government: true
 facebook-pixel: ""
-google_analytics: "UA-249892300-1"
+google_analytics: UA-249892300-1
 linkedin-insights: ""
