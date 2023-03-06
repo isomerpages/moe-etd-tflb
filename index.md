@@ -15,8 +15,7 @@ sections:
         students
       background: /images/IMG-0992 copy.jpg
   - infobar:
-      button: Get to know us!
-      url: /about
+      title: Our Innovations
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
