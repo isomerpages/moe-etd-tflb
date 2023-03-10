@@ -2,7 +2,7 @@ collections:
   immersive-learning-toolkit:
     output: true
     order:
-      - Choose Your Own AdventureImmersive Learning Toolkit.md
+      - Choose Your Own Adventure Immersive Learning Toolkit.md
       - Choose Your Own Adventure ILT.md
       - Text based Sample.md
       - Image based Sample.md
