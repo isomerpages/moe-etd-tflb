@@ -20,7 +20,7 @@ description: ""
 
 <center><h3>Immersive Learning Toolkit</h3></center>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjeH81mrVe2e13OdEBvHb7KCaWQBh8O_A4NCodQbcwu2cL60spMmYQ3a-_NJbQQThwUlk2JOhHeLMb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="534" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjeH81mrVe2e13OdEBvHb7KCaWQBh8O_A4NCodQbcwu2cL60spMmYQ3a-_NJbQQThwUlk2JOhHeLMb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaguide"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/download-the-guide.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoateachersguide"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-guide-on-sls.png"></a></center>
