@@ -27,13 +27,17 @@ description: ""
 
 <center><h3>Text based Sample</h3></center>
 
-<center>Similar to the old-school books where readers flip to a page number when making a decision for the character in a story. These text based samples mimic the same experience in a digital way without the need to flip through a physical book.
+<center>Similar to the old-school books where readers flip to a page number when making a decision for the character in a story. These text based samples mimic the same experience in a digital way without the need to flip through a physical book.</center>
 	
 <iframe marginwidth="0" marginheight="0" frameborder="0" height="1333" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform?embedded=true">Loading…</iframe>
 
-<center><a rel="noopener noreferrer" target="_blank" href="https://for.edu.sg/evsslsittppt"><img style="width:41%; display: inline; margin-right:0.5rem" src="/images/Buttons/download-the-editable-guide.png"></a>
-<a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover"><img style="width:45%; display: inline;" src="/images/Buttons/assign-your-students-the-guide-on-sls.png"></a></center>
+<center><h3>Image based Sample</h3></center>
 
+<center>Similar to the Text-based sample, the Image-based sample enhances the experience with pictorial tools to aid the imagination of the user to provide an immersive experience to the story.</center>
+
+<center><h3>Video based Sample</h3></center>
+
+<center>In a Video-based Sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour intensive, the immersion is unrivalled especially when put into a VR setting.</center>
 
 ------------------
 
