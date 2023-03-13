@@ -1,5 +1,4 @@
 collections:
   immersive-learning-toolkit:
     output: true
-    order:
-      - Choose Your Own Adventure Immersive Learning Toolkit.md
+    order: []
