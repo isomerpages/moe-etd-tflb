@@ -20,7 +20,7 @@ description: ""
 
 <center><h3>Immersive Learning Toolkit</h3></center>
 
-<iframe allowfullscreen="true" height="534" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjeH81mrVe2e13OdEBvHb7KCaWQBh8O_A4NCodQbcwu2cL60spMmYQ3a-_NJbQQThwUlk2JOhHeLMb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<center><iframe allowfullscreen="true" height="534" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjeH81mrVe2e13OdEBvHb7KCaWQBh8O_A4NCodQbcwu2cL60spMmYQ3a-_NJbQQThwUlk2JOhHeLMb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe></center>
 
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaguide"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/download-the-guide.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoateachersguide"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-guide-on-sls.png"></a></center>
@@ -29,7 +29,7 @@ description: ""
 
 <center>Similar to the old-school books where readers flip to a page number when making a decision for the character in a story. These text based samples mimic the same experience in a digital way without the need to flip through a physical book.</center>
 	
-<iframe marginwidth="0" marginheight="0" frameborder="0" height="1333" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform?embedded=true">Loading…</iframe>
+<center><iframe marginwidth="0" marginheight="0" frameborder="0" height="1333" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform?embedded=true">Loading…</iframe></center>
 
 <center><h3>Image based Sample</h3></center>
 
