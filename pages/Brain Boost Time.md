@@ -36,16 +36,19 @@ Upload featured image below:
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Description of impact</center>
+<center>We noticed that after using BBT, quieter students (silent sufferers included) were more responsive and participative and students who were usually disruptive or distracted were on task for longer and were evidently less fidgety too.
 
-<center><h3>Teacher artefact</h3></center>
+The 5 positive changes we noticed in students during our observations include:</center>
 
-<center>Description of teacher artefact</center>
+<ul>
+	<li>Less fidgeting and disruptions (or longer time-on-task)</li>
+	<li>Fewer heads on the table or propped up on hands</li>
+	<li>Faster response time from students</li>
+	<li>More participative in class discussions</li>
+	<li>Increased engagement and enjoyment in the learning process</li>
+</ul>
 
-Embed relevant resources below:
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
+<center><blockquote><i>BBT definitely makes lessons more interesting. Makes pupils more alive. After using BBT, they are more responsive and more at ease. I noticed that difference. In terms of quality of work and focus, I can see that they are more keen to do the work after - Primary 5 Teacher</i></blockquote></center>
 
-<center><blockquote><i>insert teacher quote here</i></blockquote></center>
+<center><blockquote><i>When I use BBT, the process is smooth, the resources are ready, and I don’t need to prepare, which is good. As I use BBT over time, it becomes like a routine and more students participate - Primary 4/5 Teacher</i></blockquote></center>
 
-insert link to teacher artefact below
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
