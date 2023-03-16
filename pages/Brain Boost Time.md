@@ -7,7 +7,6 @@ description: ""
 
 <center><h2>How might we get primary school pupils to their optimal zone of learning?</h2></center>
 
-Upload featured image below:
 ![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
