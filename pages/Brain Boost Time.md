@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>How might we get primary school pupils to their optimal zone of learning?</h2></center>
 
-![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
+<img src="https://file.for.edu.sg/bbtimage.gif">
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Concerned and caring teachers, who notice that their students can be overly energetic or are particularly lethargic at different times of the day, need a way to regulate their students’ energy levels so that they are able to focus better.</center>
