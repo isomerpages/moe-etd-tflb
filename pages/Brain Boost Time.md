@@ -22,14 +22,7 @@ description: ""
 <li>Curated videos and audio for mindfulness</li>
 </ul>
 
-<center>Watch the video to see BBT in action!</center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
-
-<center><h3>Brain Boost Time Onboarding Guide</h3></center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmCyM5vTV2vEidIVvW1EzaPC7jbZUiUXe2TYSfKSY9c50AHvB9cgE9R_3sniQ_s8zFnc7KpKC8z2BS/embed?start=true&loop=true&delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-
-<center><a href="/files/Brain%20Boost%20Time%20Onboarding%20Deck.pdf"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://sites.google.com/moe.edu.sg/brainboost"><img src="/images/Buttons/BBTButton.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
 
@@ -38,7 +31,6 @@ description: ""
 <center>We noticed that after using BBT, quieter students (silent sufferers included) were more responsive and participative and students who were usually disruptive or distracted were on task for longer and were evidently less fidgety too.
 
 The 5 positive changes we noticed in students during our observations include:</center>
-
 <ul>
 	<li>Less fidgeting and disruptions (or longer time-on-task)</li>
 	<li>Fewer heads on the table or propped up on hands</li>
