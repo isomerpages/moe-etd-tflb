@@ -30,7 +30,6 @@ Upload featured image below:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmCyM5vTV2vEidIVvW1EzaPC7jbZUiUXe2TYSfKSY9c50AHvB9cgE9R_3sniQ_s8zFnc7KpKC8z2BS/embed?start=true&loop=true&delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-link to resource below:
 <center><a href="/files/Brain%20Boost%20Time%20Onboarding%20Deck.pdf"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
