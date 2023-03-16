@@ -22,7 +22,7 @@ description: ""
 <li>Curated videos and audio for mindfulness</li>
 </ul>
 
-<center><a href="https://sites.google.com/moe.edu.sg/brainboost"><img src="/images/Buttons/BBTButton.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://sites.google.com/moe.edu.sg/brainboost"><img src="/images/Buttons/BBTButton.png" style="width:45%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
 
