@@ -24,7 +24,7 @@ description: ""
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLmDU5S1uvdTG5XtlzPylE2dRBujvYepBkvNWNrYE2HFh0aKjrszQn2pjBQJU1gsL3fPeUh77anYyk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://sites.google.com/moe.edu.sg/brainboost"><img src="/images/Buttons/BBTButton.png" style="width:45%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://sites.google.com/moe.edu.sg/brainboost"><img src="/images/Buttons/BBTButton.png" style="width:40%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
 
