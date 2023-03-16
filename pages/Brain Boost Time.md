@@ -16,25 +16,20 @@ Upload featured image below:
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Brain Boost Time (BBT) is a tool for primary school teachers to use in class to get their pupils to the optimal zone of learning, especially when the pupils are clearly lethargic or extra fidgety. Brain Boost Time offers physical, cognitive, and affective break-time activities such as: 
+<center>Brain Boost Time (BBT) is a tool for primary school teachers to use in class to get their pupils to the optimal zone of learning, especially when the pupils are clearly lethargic or extra fidgety. Brain Boost Time offers physical, cognitive, and affective break-time activities such as: </center>
 <ul>
 <li>Physical Energisers (with fast, slow, or mixed speeds) through animated 3D models of animals with evidence-based aerobic or coordinative actions</li>
 <li>Brain Teasers with simple thinking activities</li>
 <li>Curated videos and audio for mindfulness</li>
 </ul>
 
+<center>Watch the video to see BBT in action!</center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
 
-Watch the video to see BBT in action!
-</center>
-
-<center><h3>RP resources here</h3></center>
+<center><h3>Brain Boost Time Onboarding Guide</h3></center>
 
 If relevant, embed a google slide below (autoplays upon loading, moves forward every 10 seconds):
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-
-link to resource below:
-<center><a href="https://for.edu.sg/evs"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
 ------------------
 
