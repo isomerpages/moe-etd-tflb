@@ -3,22 +3,29 @@ title: Brain Boost Time
 permalink: /bbt/
 description: ""
 ---
-
-
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>HMW question here</h2></center>
+<center><h2>How might we get primary school pupils to their optimal zone of learning?</h2></center>
 
 Upload featured image below:
 ![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
-<center>POV statement</center>
+<center>Concerned and caring teachers, who notice that their students can be overly energetic or are particularly lethargic at different times of the day, need a way to regulate their students’ energy levels so that they are able to focus better.</center>
 
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Long description of RP here</center>
+<center>Brain Boost Time (BBT) is a tool for primary school teachers to use in class to get their pupils to the optimal zone of learning, especially when the pupils are clearly lethargic or extra fidgety. Brain Boost Time offers physical, cognitive, and affective break-time activities such as: 
+<ul>
+<li>Physical Energisers (with fast, slow, or mixed speeds) through animated 3D models of animals with evidence-based aerobic or coordinative actions</li>
+<li>Brain Teasers with simple thinking activities</li>
+<li>Curated videos and audio for mindfulness</li>
+</ul>
+
+
+Watch the video to see BBT in action!
+</center>
 
 <center><h3>RP resources here</h3></center>
 
