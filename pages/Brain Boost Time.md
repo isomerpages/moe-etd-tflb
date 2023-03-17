@@ -41,9 +41,9 @@ The 5 positive changes we noticed in students during our observations include:</
 	<li>Increased engagement and enjoyment in the learning process</li>
 </ul>
 
-<center><blockquote><i>"BBT definitely makes lessons more interesting. Makes pupils more alive. After using BBT, they are more responsive and more at ease. I noticed that difference. In terms of quality of work and focus, I can see that they are more keen to do the work after" - Primary 5 Teacher</i></blockquote></center>
+<center><blockquote><i>BBT definitely makes lessons more interesting. Makes pupils more alive. After using BBT, they are more responsive and more at ease. I noticed that difference. In terms of quality of work and focus, I can see that they are more keen to do the work after - Primary 5 Teacher</i></blockquote></center>
 
-<center><blockquote><i>"When I use BBT, the process is smooth, the resources are ready, and I don’t need to prepare, which is good. As I use BBT over time, it becomes like a routine and more students participate" - Primary 4/5 Teacher</i></blockquote></center>
+<center><blockquote><i>When I use BBT, the process is smooth, the resources are ready, and I don’t need to prepare, which is good. As I use BBT over time, it becomes like a routine and more students participate - Primary 4/5 Teacher</i></blockquote></center>
 
 <center><h3>Awards</h3></center>
 <center>BBT was awarded the <b>Ministry of Education Innergy Gold Award - HQ (Academic)</b> in 2022. The award recognises individuals and teams that have successfully developed and implemented innovations, bringing about significant benefits and impact in their workplaces.</center>
