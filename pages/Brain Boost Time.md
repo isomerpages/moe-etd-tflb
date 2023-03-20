@@ -40,7 +40,7 @@ The 5 positive changes we noticed in students during our observations include:</
 	<li>More participative in class discussions</li>
 	<li>Increased engagement and enjoyment in the learning process</li>
 </ul>
-<h1><center>☆ ☆ ☆ ☆</center></h1>
+<h1><center>★ ★ ★ ★ ☆</center></h1>
 <center>Rated an average of <b>4.1 out of 5 stars</b> by teachers during Teacher's Conference and ExCEL Festival (TCEF) 2021 for potential usefulness in managing students’ energy level during a lesson.</center>
 
 <center><blockquote><i>"BBT definitely makes lessons more interesting. Makes pupils more alive. After using BBT, they are more responsive and more at ease. I noticed that difference. In terms of quality of work and focus, I can see that they are more keen to do the work after." - Primary 5 Teacher</i></blockquote></center>
