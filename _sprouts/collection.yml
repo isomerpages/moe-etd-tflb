@@ -1,0 +1,4 @@
+collections:
+  sprouts:
+    output: true
+    order: []
