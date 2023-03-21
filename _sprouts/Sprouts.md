@@ -20,7 +20,7 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center>Sprouts is a platform that enhances the child’s values-learning. It does so by enabling adults and children to hold values-based conversations together, beyond the classroom. Through Sprouts, we (the adults) can also gain better understanding of a child’s concept of values and how much they have learnt.</center>
 
-<center><h3>Sprouts Conversation Scaffold</h3></center>
+<center><h3>Sprouts Conversational Tool</h3></center>
 
 <img src="https://lh5.googleusercontent.com/8s2TbAo6r3o8se_3ZZ3U3omY1ROzwksUIwwQwPdo4x05jkTokknsD_S7zJ4Z12BSHC7QupGr_QW140vzwxmIHi_3HoM_lXhYS5FFyHrh8gpQEkXUokzEXK7iFiC-ICXTYg=w1280">
 
