@@ -16,14 +16,12 @@ Upload featured image below:
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Long description of RP here</center>
+<center>Sprouts is a platform that enhances the child’s values-learning. It does so by enabling adults and children to hold values-based conversations together, beyond the classroom. Through Sprouts, we (the adults) can also gain better understanding of a child’s concept of values and how much they have learnt.</center>
 
-<center><h3>RP resources here</h3></center>
+<center><h3>Sprouts Conversation Scaffold</h3></center>
 
-If relevant, embed a google slide below (autoplays upon loading, moves forward every 10 seconds):
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+<img src="https://lh5.googleusercontent.com/8s2TbAo6r3o8se_3ZZ3U3omY1ROzwksUIwwQwPdo4x05jkTokknsD_S7zJ4Z12BSHC7QupGr_QW140vzwxmIHi_3HoM_lXhYS5FFyHrh8gpQEkXUokzEXK7iFiC-ICXTYg=w1280">
 
-link to resource below:
 <center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
