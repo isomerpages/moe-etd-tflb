@@ -24,6 +24,7 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <img src="https://lh5.googleusercontent.com/8s2TbAo6r3o8se_3ZZ3U3omY1ROzwksUIwwQwPdo4x05jkTokknsD_S7zJ4Z12BSHC7QupGr_QW140vzwxmIHi_3HoM_lXhYS5FFyHrh8gpQEkXUokzEXK7iFiC-ICXTYg=w1280">
 
+
 <details>
 <summary><font size="+1">How to Use Sprouts' SLS Lesson</font></summary><br>
 <font size="+1">Text here</font><br><br>
