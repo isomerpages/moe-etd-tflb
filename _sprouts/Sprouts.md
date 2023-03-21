@@ -12,7 +12,7 @@ Upload featured image below:
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Busy but passionate teachers need more effective ways to inculcate values in students as they struggle to find time beyond the classroom to affirm their students’ values-learning. 
-	
+<br><br>	
 Willing parents who find it awkward to talk about values in abstraction need help to get values-based conversations going as they face difficulties in keeping them open and engaging, while disinterested parents need to be enticed to have such conversations with their children.</center>
 
 -----------------
