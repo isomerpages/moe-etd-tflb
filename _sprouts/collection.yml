@@ -2,5 +2,6 @@ collections:
   sprouts:
     output: true
     order:
+      - Conversation Scaffold.md
       - Sprouts.md
       - How to Use.md
