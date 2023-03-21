@@ -3,8 +3,6 @@ title: Sprouts
 permalink: /sprouts/
 description: ""
 ---
-
-
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>HMW question here</h2></center>
@@ -25,12 +23,10 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center><h3>Sprouts Conversational Tool</h3></center>
 
 <img src="https://lh5.googleusercontent.com/8s2TbAo6r3o8se_3ZZ3U3omY1ROzwksUIwwQwPdo4x05jkTokknsD_S7zJ4Z12BSHC7QupGr_QW140vzwxmIHi_3HoM_lXhYS5FFyHrh8gpQEkXUokzEXK7iFiC-ICXTYg=w1280">
-
-
+<br>
 <details>
-<summary><font size="+1">How to Use Sprouts' SLS Lesson</font></summary><br>
-<font size="+1">Text here</font><br><br>
-<img src="https://lh6.googleusercontent.com/MIxQYBi3NcVAFkY169tzSn6REl-nPKEM4MS9Mn4NMAQu4ZecuF2PDO-gE4cA7XTXZCCRDDCpV7bBJ1M0kJJPJqve9O14BahxVDeosh_btP-mCSzNTYluqHfG7G0nFXlrVA=w1280">
+<summary><font size="+2">How to Use Sprouts' SLS Lesson</font></summary><br>
+<font size="+1">Text here</font>
 </details>
 
 <center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
