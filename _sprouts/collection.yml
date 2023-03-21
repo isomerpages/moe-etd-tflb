@@ -2,5 +2,5 @@ collections:
   sprouts:
     output: true
     order:
-      - How to Use.md
       - Sprouts.md
+      - How to Use.md
