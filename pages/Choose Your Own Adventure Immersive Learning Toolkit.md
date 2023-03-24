@@ -39,6 +39,7 @@ description: ""
 
 > Typeform Sample
 
+![](/images/ILT/Screenshot%202022-11-21.png)
 
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket1"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoatextsls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
