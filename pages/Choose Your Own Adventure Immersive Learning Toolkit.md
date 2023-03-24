@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>How might we craft captivating learning experiences for our students?</h2></center>
 
-![](/images/ILT%20pic%20for%20Isomer.png)
+![](/images/RP%20Featured%20Image%20Mockup.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Teachers sometime struggle to inspire perspectives and concern among students when engaging in discourse that feels disconnected from students' everyday experience. Students may not relate to content that they read in their textbooks and end up feeling bored and disengaged.</center>
