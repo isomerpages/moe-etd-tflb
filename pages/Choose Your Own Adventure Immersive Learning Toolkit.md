@@ -48,12 +48,36 @@ description: ""
 
 <center><h3>Image-based Sample</h3></center>
 
-<center>Similar to the text-based sample, the image-based sample enhances the experience with pictorial tools to aid the imagination of the user to provide an immersive experience to the story.</center>
+<details>
+<summary><font size="+1">Click here to view the image-based sample</font></summary>
+<font size="+1"><center>Similar to the text-based sample, the image-based sample enhances the experience with pictorial tools to aid the imagination of the user to provide an immersive experience to the story.</center></font>
+
+> Figma Sample
+
+![](/images/ILT/Screenshot%20ILT%20figma.png)
+
+<center><iframe allowfullscreen="true" height="480" width="810" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDCzcWq5DCN9mWQgbFB6YUJECjd3LyiRIGpliKBAtXDVC7h2rj4EfKVv_ms4d8lF5e9XXE4HHKWB0D/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe></center>
+	
+<center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket2"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
+<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaimagesls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
+	
+</details>
 
 <center><h3>Video-based Sample</h3></center>
 
-<center>In a video-based sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour-intensive, the immersion is unrivalled especially when put into a VR setting.</center>
+<details>
+<summary><font size="+1">Click here to view the video-based sample</font></summary>
+<font size="+1"><center>In a video-based sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour-intensive, the immersion is unrivalled especially when put into a VR setting.</center></font>
 
+	> EKO Video Sample
+
+![](/images/ILT/ILTvideo.png)
+
+> Password: CYOA-IL
+<center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket3"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
+<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoavideosls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
+	
+</details>
 ------------------
 
 <center><h2 id="impact">Our Impact</h2></center>
