@@ -27,9 +27,13 @@ description: ""
 
 <center><h3>Text-based Sample</h3></center>
 
-<center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story. These text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center>
-	
-<center><iframe marginwidth="0" marginheight="0" frameborder="0" height="800" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform?embedded=true">Loading…</iframe></center>
+<details>
+<summary><font size="+1">Click here to view the text-based sample</font></summary>
+<font size="+1"><center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story. These text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center></font>
+
+<center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket1a"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/download-the-guide.png"></a>
+<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoagoogleformsls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-guide-on-sls.png"></a></center>
+</details>
 
 <center><h3>Image-based Sample</h3></center>
 
