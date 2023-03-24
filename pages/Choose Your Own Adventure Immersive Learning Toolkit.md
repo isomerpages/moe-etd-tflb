@@ -69,11 +69,14 @@ description: ""
 <summary><font size="+1">Click here to view the video-based sample</font></summary>
 <font size="+1"><center>In a video-based sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour-intensive, the immersion is unrivalled especially when put into a VR setting.</center></font>
 
-	> EKO Video Sample
+> EKO Studio Sample
 
 ![](/images/ILT/ILTvideo.png)
 
-> Password: CYOA-IL
+<details>
+<summary><font size="-1">Click here to view the password to view the EKO Studio sample</font></summary>
+<font size="-1">Password: CYOA-IL</font></details>
+	
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket3"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoavideosls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
 	
