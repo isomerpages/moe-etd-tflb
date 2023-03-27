@@ -18,3 +18,4 @@ image: /images/Sprouts/Sprouts Conversational Toolkit.gif
 <iframe width="100%" height="500" src="https://www.youtube.com/watch?v=YvPCijYUX5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center><h3>Sprouts Conversation Scaffold</h3></center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRYlR12XC2eIqyKJdAU0qEo_Cp11Lu7oGvzLZ65TD59klEUBZA07G13xA8c6leNqC9RPsd1r2DJPLJ/embed?start=false&loop=false&" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
