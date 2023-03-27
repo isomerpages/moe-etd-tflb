@@ -5,7 +5,7 @@ description: ""
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>HMW question here</h2></center>
+<center><h2>How might we help teachers better involve parents in values development in a fun and meaningful way?</h2></center>
 
 ![Sprouts Conversation Toolkit](/images/Sprouts%20Featured%20Image.gif)
 
