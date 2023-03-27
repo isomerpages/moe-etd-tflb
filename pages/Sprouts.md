@@ -21,15 +21,10 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center><h3>Sprouts Conversational Toolkit</h3></center>
 
-<img src="https://lh5.googleusercontent.com/8s2TbAo6r3o8se_3ZZ3U3omY1ROzwksUIwwQwPdo4x05jkTokknsD_S7zJ4Z12BSHC7QupGr_QW140vzwxmIHi_3HoM_lXhYS5FFyHrh8gpQEkXUokzEXK7iFiC-ICXTYg=w1280">
+<img src="/images/Sprouts/Sprouts%20Conversational%20Toolkit.gif">
 <br>
-<details>
-<summary><font size="+2">How to Use Sprouts' SLS Lesson</font></summary><br>
-<font size="+1">Text here</font>
-</details>
 
-<center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
+<center><a href="https://" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a></center>
 
 ------------------
 
