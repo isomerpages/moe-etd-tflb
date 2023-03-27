@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Sprouts.md
-      - How to Use.md
       - Conversation Scaffold.md
