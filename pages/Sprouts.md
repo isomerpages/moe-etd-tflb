@@ -24,8 +24,8 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:45%; display: inline;" src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png"></a>
 	
 <center><h3>Sprouts Teacher Resources</h3></center>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-	
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/5h9GeWMr1Bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 <a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center>
 
 ------------------
