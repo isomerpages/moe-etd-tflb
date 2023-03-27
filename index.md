@@ -23,7 +23,7 @@ sections:
         when they're extremely excited or tired!
       button: Get in the zone!
       url: https://sites.google.com/moe.edu.sg/brainboost/home
-      image: /images/BBTo.png
+      image: /images/Home Page/BBTo.png
       alt: CotF Brain Boost Time
   - infopic:
       title: Choose-Your-Own-Adventure Immersive Learning Toolkit
@@ -32,7 +32,7 @@ sections:
       button: Explore immersive learning!
       alt: Immersive Learning Toolkit
       url: /ilt
-      image: /images/ILTo.png
+      image: /images/Home Page/ILTo.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: Gather tips and tricks on how to use SLS and other features to
@@ -41,7 +41,7 @@ sections:
       button: Make learning more accessible!
       url: /evs/
       alt: CotF Eliciting Student Voices
-      image: /images/EVSo.png
+      image: /images/Home Page/EVSo.png
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
@@ -49,6 +49,13 @@ sections:
       button: Gamify lessons!
       url: https://sites.google.com/moe.edu.sg/lg21/home
       alt: CotF Learning Gamified
-      image: /images/LGo.png
+      image: /images/Home Page/LGo.png
+  - infopic:
+      title: Sprouts
+      description: Enhance values-learning beyond class time and co-own values
+        learning among teachers, parents, and students through a conversational
+        toolkit!
+      button: Start values-based conversations!
+      url: /sprouts
+      alt: CotF Sprouts
 ---
-
