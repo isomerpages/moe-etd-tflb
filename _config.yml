@@ -1,6 +1,6 @@
 title: Classroom of the Future
 url: https://cotf.moe.edu.sg
-favicon: /images/favicon.ico
+favicon: /images/Logo/favicon.ico
 colors:
   primary-color: "#578ffe"
   secondary-color: "#ff0082"
@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d34sxxwkzr355u.amplifyapp.com
 prod: https://master.d34sxxwkzr355u.amplifyapp.com
-shareicon: /images/CotF logo.png
+shareicon: /images/Logo/CotF logo horizontal.png
 is_government: true
 facebook-pixel: ""
 google_analytics: UA-249892300-1
