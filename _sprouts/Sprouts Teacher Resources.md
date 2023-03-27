@@ -18,4 +18,12 @@ image: /images/Sprouts/Sprouts Conversational Toolkit.gif
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/YvPCijYUX5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center><h3>Sprouts Conversation Scaffold</h3></center>
+<details>
+<summary><font size="+1">Click here to read more about our design thinking process!</font></summary><br>
+<font size="+1">Our use of design thinking and human-centric methodologies gives us a unique lens and insight into the teaching and learning space, enabling us to capitalise on more opportunities to support teachers and students.</font><br><br>
+<img src="/images/About%20CotF/CotF%20design%20thinking.png">
+</details>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRYlR12XC2eIqyKJdAU0qEo_Cp11Lu7oGvzLZ65TD59klEUBZA07G13xA8c6leNqC9RPsd1r2DJPLJ/embed?start=false&loop=false&" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+
+<center><a rel="noopener noreferrer" target="_blank" href="https://docs.google.com/presentation/d/1t0uvvRvhqH1YKP2sc6ILLpHLbhkz4L60BGN28T9VUcU/copy"><img style="width:50%; display: inline;" src="/images/Buttons/Download%20the%20editable%20scaffold.png"></a></center>
