@@ -20,17 +20,8 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center>Sprouts is a platform that <b>enhances the child’s values-learning</b>. It does so by enabling adults and children to hold values-based conversations together, beyond the classroom. Through Sprouts, we (the adults) can also <b>gain a better understanding of a child’s concept of values</b> and how much they have learnt.</center>
 
 <center><h3>Sprouts Conversational Toolkit</h3></center>
-
 <img src="/images/Sprouts/Sprouts%20Conversational%20Toolkit.gif">
-
-<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:45%; display: inline;" src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png"></a></center>
-
-<center><h3>Sprouts Teacher Resources</h3></center>
-
-<img src="/images/Sprouts/Sprouts%20Conversational%20Toolkit.gif">
-<br>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRYlR12XC2eIqyKJdAU0qEo_Cp11Lu7oGvzLZ65TD59klEUBZA07G13xA8c6leNqC9RPsd1r2DJPLJ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:45%; display: inline;" src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png"></a></center>
+<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png"></a> <a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center>
 
 ------------------
 
