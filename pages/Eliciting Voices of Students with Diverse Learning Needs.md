@@ -8,7 +8,7 @@ image: /images/EVS Featured Image.png
 
 <center><h2>How might we encourage students to participate more actively in class?</h2></center>
 
-![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
+![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS/EVS%20Featured%20Image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Primary school pupils are usually enthusiastic about sharing their views and feelings in class. Often, only a few pupils are chosen. On the other hand, there is also a group of pupils also need more confidence and comfort to share in class. Consequently, teachers are unable to understand every pupil's thoughts, and some pupils stop sharing after repeated disappointments.</center>
