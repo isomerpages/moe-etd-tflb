@@ -10,7 +10,7 @@ description: ""
 ![Sprouts Conversation Toolkit](/images/Sprouts/Sprouts%20Featured%20Image.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
-<center>Busy but passionate teachers need more effective ways to inculcate values in students as they struggle to find time beyond the classroom to affirm their students’ values-learning. 
+<center>Busy but passionate teachers need more effective ways to inculcate values in students as they struggle to find time beyond the classroom to affirm their students’ values-learning.&nbsp;
 <br><br>	
 Willing parents who find it awkward to talk about values in abstraction need help to get values-based conversations going as they face difficulties in keeping them open and engaging, while disinterested parents need to be enticed to have such conversations with their children.</center>
 
@@ -22,9 +22,15 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center><h3>Sprouts Conversational Toolkit</h3></center>
 
 <img src="/images/Sprouts/Sprouts%20Conversational%20Toolkit.gif">
-<br>
 
-<center><a href="https://" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a></center>
+<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:45%; display: inline;" src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png"></a></center>
+
+<center><h3>Sprouts Teacher Resources</h3></center>
+
+<img src="/images/Sprouts/Sprouts%20Conversational%20Toolkit.gif">
+<br>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRYlR12XC2eIqyKJdAU0qEo_Cp11Lu7oGvzLZ65TD59klEUBZA07G13xA8c6leNqC9RPsd1r2DJPLJ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:45%; display: inline;" src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png"></a></center>
 
 ------------------
 
@@ -37,9 +43,9 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center>Description of teacher artefact</center>
 
 Embed relevant resources below:
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center><blockquote><i>insert teacher quote here</i></blockquote></center>
 
 insert link to teacher artefact below
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
+<center><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><img style="width:45%; display: inline;" src="/images/Buttons/evs-sls-lesson-asking-for-permission.png"></a></center>
