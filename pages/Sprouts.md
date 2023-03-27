@@ -21,7 +21,7 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center><h3>Sprouts Conversational Toolkit</h3></center>
 <img src="/images/Sprouts/Sprouts%20Conversational%20Toolkit.gif">
-<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Sprouts%20on%20SLS.png"></a>
+<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:46%; display: inline;" src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center>
 
 ------------------
