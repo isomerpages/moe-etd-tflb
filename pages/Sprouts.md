@@ -7,8 +7,7 @@ description: ""
 
 <center><h2>HMW question here</h2></center>
 
-Upload featured image below:
-![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
+![Sprouts Conversation Toolkit](/images/Sprouts%20Featured%20Image.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Busy but passionate teachers need more effective ways to inculcate values in students as they struggle to find time beyond the classroom to affirm their students’ values-learning. 
