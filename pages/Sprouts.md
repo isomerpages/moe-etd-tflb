@@ -21,7 +21,11 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center><h3>Sprouts Conversational Toolkit</h3></center>
 <img src="/images/Sprouts/Sprouts%20Conversational%20Toolkit.gif">
-<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:46%; display: inline;" src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png"></a>
+<center><a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:45%; display: inline;" src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png"></a>
+	
+<center><h3>Sprouts Teacher Resources</h3></center>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+	
 <a rel="noopener noreferrer" target="_blank" href="https://"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center>
 
 ------------------
@@ -30,14 +34,6 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center>Description of impact</center>
 
-<center><h3>Teacher artefact</h3></center>
-
-<center>Description of teacher artefact</center>
-
-Embed relevant resources below:
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rK1Bn_mAkfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 <center><blockquote><i>insert teacher quote here</i></blockquote></center>
 
-insert link to teacher artefact below
-<center><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><img style="width:45%; display: inline;" src="/images/Buttons/evs-sls-lesson-asking-for-permission.png"></a></center>
+<center><blockquote><i>insert teacher quote here</i></blockquote></center>
