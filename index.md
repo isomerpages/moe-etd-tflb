@@ -52,9 +52,8 @@ sections:
       image: /images/Home Page/LGo.png
   - infopic:
       title: Sprouts
-      description: Enhance values-learning beyond class time and co-own values
-        learning among teachers, parents, and students through a conversational
-        toolkit!
+      description: Enhance values-learning beyond class time. Get parents and students
+        involved in this conversational toolkit!
       button: Start values-based conversations!
       url: /sprouts
       alt: CotF Sprouts
