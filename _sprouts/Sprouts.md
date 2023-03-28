@@ -30,6 +30,6 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center>Description of impact</center>
 
-<center><blockquote><i>"These are the values I now know that the student has learnt, after this project. Now, it’s like everything is linked." - Primary X Teacher</i></blockquote></center>
+<center><blockquote><i>"These are the values I now know that the student has learnt, after this project. Now, it’s like everything is linked." - Primary 4 Teacher</i></blockquote></center>
 
-<center><blockquote><i>"Showing their vulnerabilities at home, that layer that I did not know about before (such as them having to take care of their unwell siblings, or cleaning the house)." - Primary X Teacher</i></blockquote></center>
+<center><blockquote><i>"Showing their vulnerabilities at home, that layer that I did not know about before (such as them having to take care of their unwell siblings, or cleaning the house)." - Primary 3 Teacher</i></blockquote></center>
