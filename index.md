@@ -58,4 +58,5 @@ sections:
       button: Start values-based conversations!
       url: /sprouts
       alt: CotF Sprouts
+      image: /images/Home Page/sproutslogoresize.png
 ---
