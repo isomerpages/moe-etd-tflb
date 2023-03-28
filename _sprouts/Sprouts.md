@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>How might we help teachers better involve parents in values development in a fun and meaningful way?</h2></center>
 
-![Sprouts Conversation Toolkit](/images/Sprouts/Sprouts%20Featured%20Image.gif)
+![Sprouts Conversational Toolkit](/images/Sprouts/Sprouts%20Featured%20Img.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Busy but passionate teachers need more effective ways to inculcate values in students as they struggle to find time beyond the classroom to affirm their students’ values-learning.&nbsp;
