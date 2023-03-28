@@ -13,7 +13,7 @@ sections:
       title: Classroom of the Future
       subtitle: Redesigning the teaching and learning experience for teachers and
         students
-      background: /images/IMG-0992 copy.jpg
+      background: /images/Home Page/IMG-0992 copy.jpg
   - infobar:
       title: Our Innovations
   - infopic:
