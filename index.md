@@ -53,7 +53,7 @@ sections:
   - infopic:
       title: Sprouts
       description: Enhance values-learning beyond class time and get parents and
-        students involved in this conversational toolkit!
+        students involved with this conversational toolkit!
       button: Start values-based conversations!
       url: /sprouts
       alt: CotF Sprouts
