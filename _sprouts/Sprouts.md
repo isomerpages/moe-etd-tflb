@@ -29,40 +29,21 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center><h2 id="impact">Our Impact</h2></center>
 
+<center>Here are some reasons why students (and parents!) love Sprouts:</center>
+
+<center><blockquote><i>“Teaches me good values.” - Primary 3 student</i></blockquote></center>
+
+<center><blockquote><i>“Helpful to understand the feelings of my child.” - Parent of a Primary 5 student</i></blockquote></center>
+
 <center>More than<h3>90% of parents and students</h3>who have used Sprouts want to continue using Sprouts to have more values-centered conversations.</center>
+ 
+<h1><center>★ ★ ★ ☆</center></h1>
+<center>Rated an average of 3.1 out of 4 stars by parents for being a useful guide to hold a values-based conversation with their child.  </center>
 
-  
+<center><blockquote><i>“I love the conversation guide because it gives me a better understanding of their perception on another level that I may never be aware of.” - Parent of a Primary 3 student</i></blockquote></center>
 
-★★★☆
-
-Rated an average of 3.1 out of 4 stars by parents for being a useful guide to hold a values-based conversation with their child.  
-
-  
-
-★★★(+half shaded star)
-
-Rated an average of 3.5 out of 4 stars by students for being engaging and allowing them to hold values-based conversations easily.
-
-  
-
-“I loved the conversation guide because it gives me a better understanding of their perception on another level that I may never be aware of.” - Parent of a Primary 3 student
-
-  
-
-Here are some reasons why students (and parents!) love Sprouts:
-
-*   “Teaches me good values.” - Primary 3 student
-    
-*   “Sharing my feelings.” - Primary 5 student
-    
-*   “Get to share my opinion with Mummy.” - Primary 6 student
-    
-*   “It is very animated and interactive.” - Parent of a Primary 3 student
-    
-*   “Helpful to understand the feelings of my child.” - Parent of a Primary 5 student
-    
-
-**
+<h1><center>★ ★ ★ ☆</center></h1>
+<center>Rated an average of 3.5 out of 4 stars by <b>students</b> for being engaging and allowing them to hold values-based conversations easily.</center>
 
 <center><blockquote><i>"These are the values I now know that the student has learnt, after this project. Now, it’s like everything is linked." - Primary 4 Teacher</i></blockquote></center>
 
