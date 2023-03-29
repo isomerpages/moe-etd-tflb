@@ -31,8 +31,6 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center>More than<h3>90% of parents and students</h3>who have used Sprouts want to continue using Sprouts to have more values-centered conversations.</center>
 
-<center>Here are some reasons why students (and parents!) love Sprouts:</center>
-
 <h1><center>★ ★ ★ ⯨☆</center></h1>
 <center>Rated an average of 3.5 out of 4 stars by <b>students</b> for being engaging and allowing them to hold values-based conversations easily.</center>
 
