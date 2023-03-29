@@ -42,7 +42,7 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 <center><blockquote><i>“I love the conversation guide because it gives me a better understanding of their perception on another level that I may never be aware of.” - Parent of a Primary 3 student</i></blockquote></center>
 
-<h1><center>★ ★ ★ ☆</center></h1>
+<h1><center>★ ★ ★ ⯨☆</center></h1>
 <center>Rated an average of 3.5 out of 4 stars by <b>students</b> for being engaging and allowing them to hold values-based conversations easily.</center>
 
 <center><blockquote><i>"These are the values I now know that the student has learnt, after this project. Now, it’s like everything is linked." - Primary 4 Teacher</i></blockquote></center>
