@@ -20,7 +20,9 @@ description: ""
   </tr>
 </tbody></table>
 	</div>
-	
+
+----------
+
 <center><h2 id="opportunity">Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human centric methodologies, we have identified 4 opportunity areas to explore. They are:</center>
 
@@ -101,6 +103,8 @@ description: ""
 </tbody></table>
 	</div>
 </font></details></center>
+
+---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
 <center>If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>.</center>
