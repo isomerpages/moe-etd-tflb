@@ -11,8 +11,8 @@ description: ""
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
-    <th style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:30%; display: inline; margin-right:0.5rem"></th>
-    <th style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></th>
+    <td style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:35%; display: inline; margin-right:0.5rem"></td>
+    <td style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></td>
   </tr>
   <tr>
 		<td style="text-align: center"><h3>Access to insights on emerging opportunities</h3>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts.</td>
