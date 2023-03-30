@@ -1,4 +1,5 @@
 collections:
   collaborate-with-cotf:
     output: true
-    order: []
+    order:
+      - Collaborate with CotF.md
