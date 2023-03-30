@@ -104,4 +104,4 @@ description: ""
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
 <center>If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>.</center>
-<center> </center>
+<center></center>
