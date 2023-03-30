@@ -18,6 +18,10 @@ CotF partners will have:
 <details>
 <summary><font size="+1">Click here to find out more about the current and upcoming innovations that activate students' intrinsic motivation</font></summary><br>
 <font size="+1">
-	<li>InteresThing</li>
+<ul>
+<li>InteresThing: How might we help students discover, explore, and share their interests?</li>
+<li>Learning Gamified: </li>
+<li>Monitoring and Self-Regulation in Practical-based Lessons:</li>
+</ul>
 	</font>
 </details>
