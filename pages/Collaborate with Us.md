@@ -41,7 +41,7 @@ description: ""
 </tbody></table>
 	</div>
 </font></details>
-<br>
+
 <details>
 <summary><font size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
 <center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
