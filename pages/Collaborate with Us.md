@@ -10,6 +10,17 @@ description: ""
 <center>We look forward to sharing and testing our innovations with you. Help us to better support you, your teachers, and your students by sharing any <b>opportunities areas</b> that you would like us to explore and also any <b>useful tools</b> that your school is currently using!<br>During our collaboration, you can expect:</center>
 <div style="overflow-x:auto;">
 <table>
+	<tbody>
+		<tr>
+			<td style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:35%"><h3 style="color:#578ffe;">Access to insights on emerging opportunities</h3>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts.</td>
+			<td style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:50%"><h3 style="color:#578ffe;">Exclusive access to up-and-coming solutions</h3>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions.</td>
+		</tr>
+	</tbody>
+</table>
+	
+	
+<div style="overflow-x:auto;">
+<table>
   <tbody><tr>
     <td style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:35%; display: inline; margin-right:0.5rem"></td>
     <td style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></td>
@@ -102,4 +113,4 @@ description: ""
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></div>
