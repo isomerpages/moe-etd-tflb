@@ -19,6 +19,8 @@ description: ""
   </tr>
 </tbody></table>
 	</div>
+	
+---------
 
 <center><h2>Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human centric methodologies, we have identified 4 opportunity areas to explore. They are:</center>
