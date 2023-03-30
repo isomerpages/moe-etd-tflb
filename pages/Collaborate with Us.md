@@ -45,7 +45,7 @@ description: ""
 <br>
 
 <details>
-<summary><font style="color:#ff0082;" size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
+<summary><font size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
 <center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
 <div style="overflow-x:auto;">
 <table>
@@ -66,7 +66,7 @@ description: ""
 <br>
 
 <details>
-<summary><font style="color:#ff0082;" size="+2">Engendering Constructive Classroom Dynamics</font></summary><font size="+1">
+<summary><font size="+2">Engendering Constructive Classroom Dynamics</font></summary><font size="+1">
 <center>Enabling a teacher's sphere of influence to permeate the entire class and balancing teacher's authority and students' voice to ensure collective ownership of the teaching and learning process through:</center>
 <div style="overflow-x:auto;">
 <table>
@@ -87,7 +87,7 @@ description: ""
 <br>
 
 <details>
-<summary><font style="color:#ff0082;" size="+2">Supporting Teachers' Professional Practice</font></summary><font size="+1">
+<summary><font size="+2">Supporting Teachers' Professional Practice</font></summary><font size="+1">
 <center>Augmenting teachers’ instructional effectiveness and student support strategies with readily deployable technology-enabled solutions through:</center>
 <div style="overflow-x:auto;">
 <table>
