@@ -26,7 +26,7 @@ description: ""
 <center><h2 id="opportunity">Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human centric methodologies, we have identified 4 opportunity areas to explore. They are:</center>
 
-<center><details>
+<details>
 	<summary><font style="color:#ff0052;" size="+3">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
 <div style="overflow-x:auto;">
@@ -41,9 +41,9 @@ description: ""
 	</tr>
 </tbody></table>
 	</div>
-</font></details></center>
+</font></details>
 
-<center><details>
+<details>
 <summary><font style="color:#ff0052;" size="+3">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
 <center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
 <div style="overflow-x:auto;">
@@ -60,9 +60,9 @@ description: ""
   </tr>
 </tbody></table>
 	</div>
-</font></details></center>
+</font></details>
 
-<center><details>
+<details>
 <summary><font style="color:#ff0052;" size="+3">Engendering Constructive Classroom Dynamics</font></summary><font size="+1">
 <center>Enabling a teacher's sphere of influence to permeate the entire class and balancing teacher's authority and students' voice to ensure collective ownership of the teaching and learning process through:</center>
 <div style="overflow-x:auto;">
@@ -79,9 +79,9 @@ description: ""
   </tr>
 </tbody></table>
 	</div>
-</font></details></center>
+</font></details>
 
-<center><details>
+<details>
 <summary><font style="color:#ff0052;" size="+3">Supporting Teachers' Professional Practice</font></summary><font size="+1">
 <center>Augmenting teachers’ instructional&nbsp;effectiveness and student support&nbsp;strategies with readily deployable&nbsp;technology-enabled solutions through:</center>
 <div style="overflow-x:auto;">
@@ -98,7 +98,7 @@ description: ""
   </tr>
 </tbody></table>
 	</div>
-</font></details></center>
+</font></details>
 
 ---------
 
