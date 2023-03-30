@@ -32,11 +32,13 @@ description: ""
 <table>
   <tbody><tr>
     <th style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:30%; display: inline; margin-right:0.5rem"></th>
-		<th style="text-align: center"><b>Learning Gamified</b><br>How might we...</th>
+		<th style="text-align: center"><b>Learning Gamified</b>
+			<br>How might we...</th>
   </tr>
   <tr>
 		<td style="text-align: center"><h3><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></h3></td>
-		<td style="text-align: center"><b>Monitoring and Self-Regulation in Practical-based Lessons</b><br>How might we...</td>
+		<td style="text-align: center"><b>Monitoring and Self-Regulation in Practical-based Lessons</b>
+			<br>How might we...</td>
   </tr>
 </tbody></table>
 	</div>
