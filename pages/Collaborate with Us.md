@@ -36,7 +36,7 @@ description: ""
 	</tr>
 	<tr>
 		<td style="text-align: center"><b>Monitoring and Self-regulation in Practical-based Lessons</b></td>
-		<td style="text-align: center">How might we...</td>
+		<td style="text-align: center">How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
 	</tr>
 </tbody></table>
 	</div>
