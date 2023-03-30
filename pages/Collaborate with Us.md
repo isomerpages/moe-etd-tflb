@@ -47,7 +47,7 @@ description: ""
 <center><h3>Orchestrating Coherent, Engaging Learning Experiences</h3></center>
 <center><details>
 <summary><font size="+2">Click here to find out more!</font></summary><font size="+1">
-<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
+<center>Regulating and managing&nbsp;momentum and connections within&nbsp;or across learning activities and&nbsp;better understanding of students’&nbsp;needs to improve student&nbsp;engagement and focus through:</center>
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
@@ -67,7 +67,7 @@ description: ""
 <center><h3>Engendering Constructive Classroom Dynamics</h3></center>
 <center><details>
 <summary><font size="+2">Click here to find out more!</font></summary><font size="+1">
-<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
+<center>Enabling a teacher's sphere of&nbsp;influence to permeate the entire&nbsp;class and balancing teacher's&nbsp;authority and students' voice to&nbsp;ensure collective ownership of the&nbsp;T&amp;L process through:</center>
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
