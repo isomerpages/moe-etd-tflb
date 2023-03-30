@@ -8,6 +8,22 @@ description: ""
 <center>Thank you for your interest in partnering us!</center>
 
 CotF partners will have:
+<div style="overflow-x:auto;">
+<table style="width:100%">
+  <tbody><tr>
+    <th>Company</th>
+    <th>Contact</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+</tbody></table>
+	</div>
 
 <center><h2>Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human centric methodologies that have allowed us a unique lens and insight into the teaching and learning space, we have identified 4 opportunity areas to explore. They are:</center>
