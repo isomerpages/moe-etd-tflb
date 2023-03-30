@@ -58,4 +58,11 @@ sections:
       url: /sprouts
       alt: CotF Sprouts
       image: /images/Home Page/SPROUTSo.png
+  - infobar:
+      title: Brain Boost Time
+      subtitle: 2022 MOE Innergy Gold Awardee
+      description: Get your pupils to their optimal zone of learning -  especially
+        when they're extremely excited or tired!
+      button: Get in the zone!
+      url: /bbt
 ---
