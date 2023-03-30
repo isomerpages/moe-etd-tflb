@@ -19,6 +19,7 @@ During our collaboration, you can expect:</center>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 <div style="overflow-x:auto;">
 <table>
@@ -32,7 +33,6 @@ During our collaboration, you can expect:</center>
   </tr>
 </tbody></table>
 	</div>
-
 	
 ----------
 
@@ -56,7 +56,7 @@ During our collaboration, you can expect:</center>
 </font></details>
 
 <details>
-<summary><font size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
+<summary><font style="color:#ff0082;" size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
 <center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
 <div style="overflow-x:auto;">
 <table>
@@ -115,4 +115,4 @@ During our collaboration, you can expect:</center>
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></div>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div>
