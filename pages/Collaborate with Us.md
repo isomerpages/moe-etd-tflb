@@ -26,7 +26,7 @@ description: ""
 <center><h2 id="opportunity">Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human-centric methodologies, we have identified 4 opportunity areas to explore. They are:</center>
 <details>
-	<summary><font style="color:#ff0082;" size="+2">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
+	<summary><font size="+2">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
 <div style="overflow-x:auto;">
 	<table cellspacing="3" cellpadding="3" border="0">
