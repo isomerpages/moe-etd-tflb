@@ -61,12 +61,11 @@ sections:
   - infobar:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
-      description: Get your pupils to their optimal zone of learning -  especially
-        when they're extremely excited or tired! <iframe width="560"
-        height="315" src="https://www.youtube.com/embed/JP0vMMvRcqU"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen></iframe>
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/JP0vMMvRcqU" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
       button: Get in the zone!
       url: /bbt
 ---
