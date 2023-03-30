@@ -7,7 +7,7 @@ description: A MOE Educational Technology Division, Information Technology
   students.
 image: /images/Logo/CotF logo horizontal.png
 permalink: /
-notification: ""
+notification: Catch some of our upcoming innovations at the TCEF 2023!
 sections:
   - hero:
       title: Classroom of the Future
