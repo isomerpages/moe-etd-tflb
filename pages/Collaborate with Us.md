@@ -87,7 +87,7 @@ description: ""
 <center><h3>Supporting Teachers' Professional Practice</h3></center>
 <center><details>
 <summary><font size="+2">Click here to find out more!</font></summary><font size="+1">
-<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
+<center>Augmenting teachers’ instructional&nbsp;effectiveness and student support&nbsp;strategies with readily deployable&nbsp;technology-enabled solutions through:</center>
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
