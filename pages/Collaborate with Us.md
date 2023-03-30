@@ -40,12 +40,40 @@ During our collaboration, you can expect:</center>
 <center>Through our use of design thinking and human-centric methodologies, we have identified 4 opportunity areas to explore. Click on each opportunity area to find out more about the current and upcoming innovations!</center>
 <details>
 	<summary><font size="+2">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
-<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
+<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center></font>
+	
+	<table cellpadding="10" cellspacing="1" border="1">
+<tbody>
+<tr style="text-align: center;">
+<th scope="row" style="vertical-align: middle; text-align: center;">
+<h4>Innovation</h4>
+</th>
+<th scope="row" style="vertical-align: middle; text-align: center;">
+<h4>How Might We Question</h4>
+</th>
+<th scope="row" style="vertical-align: middle; text-align: center;">
+<h4>Collaboration Opportunities</h4>
+</th>
+</tr>
+<tr>
+<td style="vertical-align: middle; text-align: center;">Learning Gamified</td>
+<td style="vertical-align: middle; text-align: center;">How might we...</td>
+<td style="vertical-align: middle; text-align: center;">This innovation has been released. Check it out here. We'd love to hear your feedback!</td>
+</tr>
+<tr>
+<td style="vertical-align: middle; text-align: center;">Monitoring and Self-regulation in Practical-based Lessons</td>
+<td style="vertical-align: middle; text-align: center;">How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
+<td style="vertical-align: middle; text-align: center;">Test prototypes for the delivery of effective teaching and learning experiences.</td>
+</tr>
+</tbody>
+</table>
+	
 <div style="overflow-x:auto;">
 	<table cellspacing="3" cellpadding="3" border="0">
 		<tbody><tr><th style="text-align: center">Innovation</th><th style="text-align: center">How Might We Question</th><th style="text-align: center">Collaboration Opportunities</th>
 		</tr>
-	</tbody><tbody><tr>
+	</tbody>
+		<tbody><tr>
 		<td style="text-align: center"><b><a href="https://sites.google.com/moe.edu.sg/lg21/home">Learning Gamified</a></b></td>
 		<td style="text-align: center">How might we...</td>
 		<td style="text-align: center">This innovation has been released. Check it out here. We’d love to hear your feedback!</td>
@@ -57,7 +85,7 @@ During our collaboration, you can expect:</center>
 	</tr>
 </tbody></table>
 	</div>
-</font></details>
+</details>
 
 <details>
 <summary><font style="color:#ff0082;" size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
@@ -76,7 +104,7 @@ During our collaboration, you can expect:</center>
   </tr>
 </tbody></table>
 	</div>
-</font></details>
+</font></details><font size="+1">
 
 <details>
 <summary><font size="+2">Engendering Constructive Classroom Dynamics</font></summary><font size="+1">
@@ -95,7 +123,7 @@ During our collaboration, you can expect:</center>
   </tr>
 </tbody></table>
 	</div>
-</font></details>
+</font></details><font size="+1">
 
 <details>
 <summary><font size="+2">Supporting Teachers' Professional Practice</font></summary><font size="+1">
@@ -114,9 +142,9 @@ During our collaboration, you can expect:</center>
   </tr>
 </tbody></table>
 	</div>
-</font></details>
+</font></details><font size="+1">
 
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></font></font></font>
