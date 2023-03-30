@@ -22,14 +22,12 @@ description: ""
 </tbody></table>
 	</div>
 	
----------
-
 <center><h2 style="color:#578ffe;">Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human centric methodologies, we have identified 4 opportunity areas to explore. They are:</center>
 
 <center><h3>Activating Students' Intrinsic Motivation</h3></center>
 <center><details>
-<summary><font size="+1">Click here to find out more!</font></summary><br>
+<summary><font size="+1">Click here to find out more!</font></summary>
 <font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
 	<h4>Learning Gamified</h4>
@@ -42,40 +40,13 @@ description: ""
 
 <center><h3>Orchestrating Coherent, Engaging Learning Experiences</h3></center>
 <center><details>
-<summary><font size="+1">Click here to find out more!</font></summary><br>
+<summary><font size="+2">Click here to find out more!</font></summary>
 <font size="+1">
-<center>Regulating and managing&nbsp;momentum and connections within&nbsp;or across learning activities and&nbsp;better understanding of students’&nbsp;needs to improve student&nbsp;engagement and focus.</center>
-<ul>
-<li>InteresThing: How might we help students discover, explore, and share their interests?</li>
-<li>Learning Gamified: </li>
-<li>Monitoring and Self-Regulation in Practical-based Lessons:</li>
-</ul>
+<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
+	<h4>Learning Gamified</h4>
+	How might we...
+	<h4>Monitoring and Self-Regulation in Practical-based Lessons</h4>
+	How might we...
 	</font>
 </details>
-	</center>
-
-<center><h3>Activating Students' Intrinsic Motivation</h3></center>
-<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth.</center>
-<details>
-<summary><font size="+1">Click here to find out more about the current and upcoming innovations in this area!</font></summary><br>
-<font size="+1">
-<ul>
-<li>InteresThing: How might we help students discover, explore, and share their interests?</li>
-<li>Learning Gamified: </li>
-<li>Monitoring and Self-Regulation in Practical-based Lessons:</li>
-</ul>
-	</font>
-</details>
-
-<center><h3>Activating Students' Intrinsic Motivation</h3></center>
-<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth.</center>
-<details>
-<summary><font size="+1">Click here to find out more about the current and upcoming innovations in this area!</font></summary><br>
-<font size="+1">
-<ul>
-<li>InteresThing: How might we help students discover, explore, and share their interests?</li>
-<li>Learning Gamified: </li>
-<li>Monitoring and Self-Regulation in Practical-based Lessons:</li>
-</ul>
-	</font>
-</details>
+</center>
