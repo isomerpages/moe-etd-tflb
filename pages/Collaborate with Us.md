@@ -41,49 +41,35 @@ During our collaboration, you can expect:</center>
 <details>
 	<summary><font size="+2">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center></font>
-	
-	<table cellpadding="10" cellspacing="1" border="1">
-<tbody>
-<tr style="text-align: center;">
-<th scope="row" style="vertical-align: middle; text-align: center;">
-<h4>Innovation</h4>
-</th>
-<th scope="row" style="vertical-align: middle; text-align: center;">
-<h4>How Might We Question</h4>
-</th>
-<th scope="row" style="vertical-align: middle; text-align: center;">
-<h4>Collaboration Opportunities</h4>
-</th>
-</tr>
-<tr>
-<td style="vertical-align: middle; text-align: center;">Learning Gamified</td>
-<td style="vertical-align: middle; text-align: center;">How might we...</td>
-<td style="vertical-align: middle; text-align: center;">This innovation has been released. Check it out here. We'd love to hear your feedback!</td>
-</tr>
-<tr>
-<td style="vertical-align: middle; text-align: center;">Monitoring and Self-regulation in Practical-based Lessons</td>
-<td style="vertical-align: middle; text-align: center;">How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
-<td style="vertical-align: middle; text-align: center;">Test prototypes for the delivery of effective teaching and learning experiences.</td>
-</tr>
-</tbody>
-</table>
-	
 <div style="overflow-x:auto;">
-	<table cellspacing="3" cellpadding="3" border="0">
-		<tbody><tr><th style="text-align: center">Innovation</th><th style="text-align: center">How Might We Question</th><th style="text-align: center">Collaboration Opportunities</th>
-		</tr>
-	</tbody>
-		<tbody><tr>
-		<td style="text-align: center"><b><a href="https://sites.google.com/moe.edu.sg/lg21/home">Learning Gamified</a></b></td>
-		<td style="text-align: center">How might we...</td>
-		<td style="text-align: center">This innovation has been released. Check it out here. We’d love to hear your feedback!</td>
-	</tr>
-	<tr>
-		<td style="text-align: center"><b>Monitoring and Self-regulation in Practical-based Lessons</b></td>
-		<td style="text-align: center">How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
-				<td style="text-align: center">Test prototypes for the delivery of effective teaching and learning experiences.</td>
-	</tr>
+
+
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+	text-align: center;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th style="text-align: center">Innovation</th>
+    <th style="text-align: center">How Might We Question</th>
+    <th style="text-align: center">Collaboration Opportunities</th>
+  </tr>
+  <tr>
+    <td>A1</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
+  </tr>
 </tbody></table>
+
 	</div>
 </details>
 
