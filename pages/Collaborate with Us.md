@@ -28,7 +28,7 @@ description: ""
 
 <center><h3>Activating Students' Intrinsic Motivation</h3></center>
 <center><details>
-<summary><font size="+3">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
+	<summary><font style="color:#578ffe;" size="+3"><b>Activating Students' Intrinsic Motivation</b></font></summary><font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
 <div style="overflow-x:auto;">
 	<table cellspacing="3" cellpadding="3" border="0">
