@@ -10,8 +10,8 @@ description: ""
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
-    <th style="text-align: center"><img src=""></th>
-    <th style="text-align: center"><img src=""></th>
+    <th style="text-align: center"><img src="/images/Collaborate/opportunity.png"></th>
+    <th style="text-align: center"><img src="/images/Collaborate/rocket-launch.png"></th>
   </tr>
   <tr>
     <td style="text-align: center">Access to insights on emerging opportunities<br><br>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts!</td>
