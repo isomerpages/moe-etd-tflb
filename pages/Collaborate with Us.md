@@ -15,4 +15,9 @@ CotF partners will have:
 
 <center><h3>Activating Students' Intrinsic Motivation</h3></center>
 <center>Encouraging discovery of interests and strengths, student autonomy in learning and appetite for individual expression and growth.</center>
-
+<details>
+<summary><font size="+1">Click here to find out more about the current and upcoming innovations that activate students' intrinsic motivation</font></summary><br>
+<font size="+1">
+	<li>InteresThing</li>
+	</font>
+</details>
