@@ -10,13 +10,12 @@ description: ""
 <div style="overflow-x:auto;">
 <table style="width:100%">
   <tbody><tr>
-    <th>Company</th>
-    <th>Contact</th>
+    <th style="text-align: center">Company</th>
+    <th style="text-align: center">Contact</th>
   </tr>
   <tr>
-    <td>Access to insights on&nbsp;  
-emerging opportunities<br><br>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts!</td>
-    <td>Exclusive access to up-and-coming EdTech solutions<br><br>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions!</td>
+    <td style="text-align: center">Access to insights on emerging opportunities<br><br>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts!</td>
+    <td style="text-align: center">Exclusive access to up-and-coming EdTech solutions<br><br>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions!</td>
   </tr>
 </tbody></table>
 	</div>
