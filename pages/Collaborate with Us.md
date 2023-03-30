@@ -14,12 +14,9 @@ description: ""
     <th>Contact</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>Access to insights on&nbsp;  
+emerging opportunities<br><br>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts!</td>
+    <td>Exclusive access to up-and-coming EdTech solutions<br><br>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions!</td>
   </tr>
 </tbody></table>
 	</div>
