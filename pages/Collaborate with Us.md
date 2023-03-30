@@ -48,10 +48,12 @@ During our collaboration, you can expect:</center>
 	</tbody><tbody><tr>
 		<td style="text-align: center"><b><a href="https://sites.google.com/moe.edu.sg/lg21/home">Learning Gamified (released product)</a></b></td>
 		<td style="text-align: center">How might we...</td>
+		<td style="text-align: center">This innovation has been released. Check it out here. We’d love to hear your feedback!</td>
 	</tr>
 	<tr>
 		<td style="text-align: center"><b>Monitoring and Self-regulation in Practical-based Lessons</b></td>
 		<td style="text-align: center">How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
+				<td style="text-align: center">Test prototypes for the delivery of effective teaching and learning experiences.</td>
 	</tr>
 </tbody></table>
 	</div>
