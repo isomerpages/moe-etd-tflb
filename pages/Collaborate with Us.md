@@ -8,7 +8,7 @@ description: ""
 <center>During our collaboration, you can expect:</center>
 
 <div style="overflow-x:auto;">
-<table style="width:100%">
+<table>
   <tbody><tr>
     <th style="text-align: center">Company</th>
     <th style="text-align: center">Contact</th>
