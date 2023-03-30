@@ -21,7 +21,7 @@ description: ""
 </tbody></table>
 	</div>
 	
-<center><h2>Our Opportunity Areas</h2></center>
+<center><h2 id="opportunity">Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human centric methodologies, we have identified 4 opportunity areas to explore. They are:</center>
 
 <center><h3>Activating Students' Intrinsic Motivation</h3></center>
@@ -97,7 +97,7 @@ description: ""
 	</div>
 </font></details></center>
 
-<center><h2 style="color:#578ffe;">Submit Your Interest!</h2></center>
+<center><h2 id="interest">Submit Your Interest!</h2></center>
 <div style="font-family: Sans-Serif;
     font-size: 15px;
     color: #000;
