@@ -10,6 +10,8 @@ description: ""
 CotF partners will have:
 
 <center><h2>Our Opportunity Areas</h2></center>
+<center>Through our use of design thinking and human centric methodologies that have allowed us a unique lens and insight into the teaching and learning space, we have identified 4 opportunity areas to explore. They are:</center>
+
 <center><h3>Activating Students' Intrinsic Motivation</h3></center>
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth.</center>
 <details>
