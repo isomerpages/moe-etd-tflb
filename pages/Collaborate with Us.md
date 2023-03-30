@@ -8,10 +8,10 @@ description: ""
 <center>During our collaboration, you can expect:</center>
 
 <div style="overflow-x:auto;">
-<table>
+<table style="width:100%">
   <tbody><tr>
-    <th style="text-align: center">Company</th>
-    <th style="text-align: center">Contact</th>
+    <th style="text-align: center"><img src=""></th>
+    <th style="text-align: center"><img src=""></th>
   </tr>
   <tr>
     <td style="text-align: center">Access to insights on emerging opportunities<br><br>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts!</td>
