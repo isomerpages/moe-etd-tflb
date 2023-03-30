@@ -3,7 +3,7 @@ title: Collaborate with Us
 permalink: /collaborate/
 description: ""
 ---
-<center><h2>Hello! Thank you for your interest in collaborating with us!</h2></center>
+<center><h2>Hi! Thank you for your interest in collaborating with us!</h2></center>
 
 <center>During our collaboration, you can expect:</center>
 
