@@ -27,7 +27,7 @@ description: ""
 
 <center><h3>Activating Students' Intrinsic Motivation</h3></center>
 <center><details>
-<summary><font size="+1">Click here to find out more!</font></summary>
+<summary><font size="+2">Click here to find out more!</font></summary>
 <font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
 	<h4>Learning Gamified</h4>
