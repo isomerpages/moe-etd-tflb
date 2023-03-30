@@ -46,7 +46,7 @@ During our collaboration, you can expect:</center>
 		<tbody><tr><th style="text-align: center">Innovation</th><th style="text-align: center">How Might We Question</th><th style="text-align: center">Collaboration Opportunities</th>
 		</tr>
 	</tbody><tbody><tr>
-		<td style="text-align: center"><b><a href="https://sites.google.com/moe.edu.sg/lg21/home">Learning Gamified (released product)</a></b></td>
+		<td style="text-align: center"><b><a href="https://sites.google.com/moe.edu.sg/lg21/home">Learning Gamified</a></b></td>
 		<td style="text-align: center">How might we...</td>
 		<td style="text-align: center">This innovation has been released. Check it out here. We’d love to hear your feedback!</td>
 	</tr>
