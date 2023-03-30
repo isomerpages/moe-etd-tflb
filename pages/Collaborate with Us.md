@@ -5,7 +5,7 @@ description: ""
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2 style="color:#578ffe;">Hi! Thank you for your interest in collaborating with us!</h2></center>
+<center><h2 style="color:#578ffe;">Hi, thank you for your interest in collaborating with us!</h2></center>
 
 <center>During our collaboration, you can expect:</center>
 <div style="overflow-x:auto;">
