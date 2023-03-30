@@ -42,8 +42,13 @@ During our collaboration, you can expect:</center>
 	<summary><font size="+2">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
 <div style="overflow-x:auto;">
-	<table cellspacing="3" cellpadding="3" border="0">
-	<tbody><tr>
+	
+			&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;<table cellspacing="3" cellpadding="3" border="0">
+		<tbody><tr><th style="text-align: center">Innovation</th><th style="text-align: center">How Might We Question</th><th style="text-align: center">Collaboration Opportunities</th>
+		</tr>
+	</tbody><tbody><tr>
 		<td style="text-align: center"><b><a href="https://sites.google.com/moe.edu.sg/lg21/home">Learning Gamified (released product)</a></b></td>
 		<td style="text-align: center">How might we...</td>
 	</tr>
