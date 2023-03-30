@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>Hi, thank you for your interest in collaborating with us!</h2></center>
 
-<center>During our collaboration, you can expect:</center>
+<center>We look forward to sharing and testing our innovations with you. Help us to better support you, your teachers, and your students by sharing any <b>opportunities areas</b> that you would like us to explore and also any <b>useful tools</b> that your school is currently using!<br>During our collaboration, you can expect:</center>
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
