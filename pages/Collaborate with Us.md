@@ -31,7 +31,7 @@ description: ""
 <div style="overflow-x:auto;">
 	<table cellspacing="3" cellpadding="3" border="0">
 	<tbody><tr>
-		<td style="text-align: center"><b>Learning Gamified</b></td>
+		<td style="text-align: center"><b><a href="https://sites.google.com/moe.edu.sg/lg21/home">Learning Gamified (released product)</a></b></td>
 		<td style="text-align: center">How might we...</td>
 	</tr>
 	<tr>
