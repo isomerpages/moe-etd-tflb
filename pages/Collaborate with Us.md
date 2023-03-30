@@ -26,7 +26,6 @@ description: ""
 <center><h2 id="opportunity">Our Opportunity Areas</h2></center>
 <center>Through our use of design thinking and human centric methodologies, we have identified 4 opportunity areas to explore. They are:</center>
 
-<center><h3>Activating Students' Intrinsic Motivation</h3></center>
 <center><details>
 	<summary><font style="color:#ff0052;" size="+3">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
@@ -44,10 +43,9 @@ description: ""
 	</div>
 </font></details></center>
 
-<center><h3>Orchestrating Coherent, Engaging Learning Experiences</h3></center>
 <center><details>
-<summary><font size="+2">Click here to find out more!</font></summary><font size="+1">
-<center>Regulating and managing&nbsp;momentum and connections within&nbsp;or across learning activities and&nbsp;better understanding of students’&nbsp;needs to improve student&nbsp;engagement and focus through:</center>
+<summary><font style="color:#ff0052;" size="+3">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1">
+<center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
@@ -64,10 +62,9 @@ description: ""
 	</div>
 </font></details></center>
 
-<center><h3>Engendering Constructive Classroom Dynamics</h3></center>
 <center><details>
-<summary><font size="+2">Click here to find out more!</font></summary><font size="+1">
-<center>Enabling a teacher's sphere of&nbsp;influence to permeate the entire&nbsp;class and balancing teacher's&nbsp;authority and students' voice to&nbsp;ensure collective ownership of the&nbsp;T&amp;L process through:</center>
+<summary><font style="color:#ff0052;" size="+3">Engendering Constructive Classroom Dynamics</font></summary><font size="+1">
+<center>Enabling a teacher's sphere of influence to permeate the entire class and balancing teacher's authority and students' voice to ensure collective ownership of the teaching and learning process through:</center>
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
@@ -84,9 +81,8 @@ description: ""
 	</div>
 </font></details></center>
 
-<center><h3>Supporting Teachers' Professional Practice</h3></center>
 <center><details>
-<summary><font size="+2">Click here to find out more!</font></summary><font size="+1">
+<summary><font style="color:#ff0052;" size="+3">Supporting Teachers' Professional Practice</font></summary><font size="+1">
 <center>Augmenting teachers’ instructional&nbsp;effectiveness and student support&nbsp;strategies with readily deployable&nbsp;technology-enabled solutions through:</center>
 <div style="overflow-x:auto;">
 <table>
