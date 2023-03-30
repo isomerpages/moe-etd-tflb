@@ -10,9 +10,8 @@ description: ""
 CotF partners will have:
 
 <center><h2>Our Opportunity Areas</h2></center>
-
 <center><h3>Activating Students' Intrinsic Motivation</h3></center>
-<center>Encouraging discovery of interests&nbsp;and strengths, student autonomy&nbsp;in learning and appetite for&nbsp;individual expression and growth.</center>
+<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth.</center>
 <details>
 <summary><font size="+1">Click here to find out more about the current and upcoming innovations in this area!</font></summary><br>
 <font size="+1">
