@@ -14,8 +14,8 @@ description: ""
     <th style="text-align: center"><img src="/images/Collaborate/rocket-launch.png"></th>
   </tr>
   <tr>
-    <td style="text-align: center">Access to insights on emerging opportunities<br><br>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts!</td>
-    <td style="text-align: center">Exclusive access to up-and-coming EdTech solutions<br><br>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions!</td>
+		<td style="text-align: center"><h3>Access to insights on emerging opportunities</h3>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts!</td>
+		<td style="text-align: center"><h3>Exclusive access to up-and-coming EdTech solutions</h3>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions!</td>
   </tr>
 </tbody></table>
 	</div>
