@@ -3,11 +3,10 @@ title: Collaborate with Us
 permalink: /collaborate/
 description: ""
 ---
-<center><h2>Hello, fellow educator!</h2></center>
+<center><h2>Hello! Thank you for your interest in collaborating with us!</h2></center>
 
-<center>Thank you for your interest in partnering us!</center>
+<center>During our collaboration, you can expect:</center>
 
-CotF partners will have:
 <div style="overflow-x:auto;">
 <table style="width:100%">
   <tbody><tr>
