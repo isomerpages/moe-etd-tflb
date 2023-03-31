@@ -20,19 +20,6 @@ During our collaboration, you can expect:</center>
 	</tbody>
 </table>
 </div>
-
-<div style="overflow-x:auto;">
-<table>
-  <tbody><tr>
-    <td style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:35%; display: inline; margin-right:0.5rem"></td>
-    <td style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></td>
-  </tr>
-  <tr>
-		<td style="text-align: center"><h3 style="color:#578ffe;">Access to insights on emerging opportunities</h3>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts.</td>
-		<td style="text-align: center"><h3 style="color:#578ffe;">Exclusive access to up-and-coming solutions</h3>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions.</td>
-  </tr>
-</tbody></table>
-	</div>
 	
 ----------
 
