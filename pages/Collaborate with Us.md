@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>Hi, thank you for your interest in collaborating with us!</h2></center>
 
-<center>Encountered challenges and opportunities on the ground that you believe we should take a deeper look at? Interested in testing any of our tools and products, or interested in sharing useful tools your school is currently using? Already using some of our CotF products?<br><br>
+<center>Encountered challenges and opportunities on the ground that you believe we should take a deeper look at? Interested in testing any of our innovations, or interested in sharing useful tools your school is currently using? Already using some of our CotF products?<br><br>
 We’d be more than excited to collaborate with you and your team. Indicate your interest below!<br><br>
 During our collaboration, you can expect:</center>
 <div style="overflow-x:auto;">
