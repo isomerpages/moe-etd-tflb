@@ -37,9 +37,11 @@ During our collaboration, you can expect:</center>
 ----------
 
 <center><h2 id="opportunity">Our Opportunity Areas</h2></center>
-<center>Through our use of design thinking and human-centric methodologies, we have identified 4 opportunity areas to explore. Click on each opportunity area to find out more about the current and upcoming innovations!</center>
+<center>Through our use of design thinking and human-centric methodologies, we have identified 4 opportunity areas to explore.
+<br><br>
+	<b>Click on each opportunity area to find out more!</b></center>
 <details>
-	<summary><font size="+2">Activating Students' Intrinsic Motivation</font></summary><font size="+1">
+	<summary><font size="+2"><u>Activating Students' Intrinsic Motivation</u></font></summary><font size="+1">
 <center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center></font>
 <div style="overflow-x:auto;">
 <style>
@@ -71,7 +73,7 @@ table, th, td {
 </details>
 
 <details>
-<summary><font style="color:#ff0082;" size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1"><center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
+<summary><font size="+2">Orchestrating Coherent, Engaging Learning Experiences</font></summary><font size="+1"><center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
 <div style="overflow-x:auto;">
 <table>
   <tbody><tr>
