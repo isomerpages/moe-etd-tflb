@@ -69,7 +69,6 @@ table, th, td {
     <td>Testing 123</td>
   </tr>
 </tbody></table>
-
 	</div>
 </details>
 
@@ -128,9 +127,9 @@ table, th, td {
   </tr>
 </tbody></table>
 	</div>
-</font></details><font size="+1">
+</font></details><font size="+1"><font size="+1">
 
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></font></font></font>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></font></font></font></font>
