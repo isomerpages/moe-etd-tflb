@@ -22,7 +22,7 @@ sections:
       description: Get your pupils to their optimal zone of learning -  especially
         when they're extremely excited or tired!
       button: Get in the zone!
-      url: https://sites.google.com/moe.edu.sg/brainboost/home
+      url: /bbt
       image: /images/Home Page/BBTo.png
       alt: CotF Brain Boost Time
   - infopic:
