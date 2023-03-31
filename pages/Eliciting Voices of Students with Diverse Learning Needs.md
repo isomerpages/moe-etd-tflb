@@ -1,14 +1,17 @@
 ---
 title: Eliciting Voices of Students with Diverse Learning Needs
 permalink: /evs/
-description: " Eliciting Voices of Students with Diverse Learning Needs"
+description: Gather tips and tricks on how to use SLS and other features to
+  bring out student voices in classes with diverse learning needs through a
+  series of resources!
 image: /images/EVS Featured Image.png
 ---
+
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we encourage students to participate more actively in class?</h2></center>
 
-![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS%20Featured%20Image.png)
+![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS/EVS%20Featured%20Image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Primary school pupils are usually enthusiastic about sharing their views and feelings in class. Often, only a few pupils are chosen. On the other hand, there is also a group of pupils also need more confidence and comfort to share in class. Consequently, teachers are unable to understand every pupil's thoughts, and some pupils stop sharing after repeated disappointments.</center>
@@ -48,7 +51,7 @@ image: /images/EVS Featured Image.png
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
 
-<center><blockquote><i>From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT.</i></blockquote></center>
+<center><blockquote><i>"From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT." - Special Educational Needs (SEN) Officer</i></blockquote></center>
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-feelings.png" style="width:30%; display: inline;"></a></center>
 
@@ -60,6 +63,6 @@ image: /images/EVS Featured Image.png
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDyf9ekgT-E" height="500" width="100%"></iframe>
 
-<center><blockquote><i>The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process.</i></blockquote></center>
+<center><blockquote><i>"The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process." - TRANSIT Teacher</i></blockquote></center>
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>

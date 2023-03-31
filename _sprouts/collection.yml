@@ -1,0 +1,6 @@
+collections:
+  sprouts:
+    output: true
+    order:
+      - Sprouts.md
+      - Sprouts Teacher Resources.md

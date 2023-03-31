@@ -5,7 +5,7 @@ description: A MOE Educational Technology Division, Information Technology
   Division, and GovTech effort leveraging design thinking and other
   human-centric methodologies to redesign teaching and learning for teachers and
   students.
-image: /images/CotF logo.png
+image: /images/Logo/CotF logo horizontal.png
 permalink: /
 notification: ""
 sections:
@@ -13,7 +13,7 @@ sections:
       title: Classroom of the Future
       subtitle: Redesigning the teaching and learning experience for teachers and
         students
-      background: /images/IMG-0992 copy.jpg
+      background: /images/Home Page/IMG-0992 copy.jpg
   - infobar:
       title: Our Innovations
   - infopic:
@@ -22,8 +22,8 @@ sections:
       description: Get your pupils to their optimal zone of learning -  especially
         when they're extremely excited or tired!
       button: Get in the zone!
-      url: https://sites.google.com/moe.edu.sg/brainboost/home
-      image: /images/BBTo.png
+      url: /bbt
+      image: /images/Home Page/BBTo.png
       alt: CotF Brain Boost Time
   - infopic:
       title: Choose-Your-Own-Adventure Immersive Learning Toolkit
@@ -32,7 +32,7 @@ sections:
       button: Explore immersive learning!
       alt: Immersive Learning Toolkit
       url: /ilt
-      image: /images/ILTo.png
+      image: /images/Home Page/ILTo.png
   - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: Gather tips and tricks on how to use SLS and other features to
@@ -41,7 +41,7 @@ sections:
       button: Make learning more accessible!
       url: /evs/
       alt: CotF Eliciting Student Voices
-      image: /images/EVSo.png
+      image: /images/Home Page/EVSo.png
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
@@ -49,5 +49,13 @@ sections:
       button: Gamify lessons!
       url: https://sites.google.com/moe.edu.sg/lg21/home
       alt: CotF Learning Gamified
-      image: /images/LGo.png
+      image: /images/Home Page/LGo.png
+  - infopic:
+      title: Sprouts
+      description: Enhance values-learning beyond class time and get parents and
+        students involved with this conversational toolkit!
+      button: Start values-based conversations!
+      url: /sprouts
+      alt: CotF Sprouts
+      image: /images/Home Page/SPROUTSo.png
 ---

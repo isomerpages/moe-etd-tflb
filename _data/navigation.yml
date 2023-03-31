@@ -1,4 +1,4 @@
-logo: /images/CotF logo horizontal 2.png
+logo: /images/Logo/CotF logo horizontal 2.png
 links:
   - title: About Us
     url: /about
@@ -6,13 +6,15 @@ links:
     url: /
     sublinks:
       - title: Brain Boost Time
-        url: https://sites.google.com/moe.edu.sg/brainboost/
+        url: /bbt
       - title: Eliciting Voices of Students
         url: /evs
       - title: Immersive Learning Toolkit
         url: /ilt
       - title: Learning Gamified
         url: https://sites.google.com/moe.edu.sg/lg21/
+      - title: Sprouts
+        url: /sprouts
   - title: Our Videos
     url: https://youtube.com/@classroomofthefuturesg
   - title: Contact Us
