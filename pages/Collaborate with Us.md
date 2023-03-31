@@ -54,9 +54,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="text-align: center">Innovation</th>
-    <th style="text-align: center">How Might We Question</th>
-    <th style="text-align: center">Collaboration Opportunities</th>
+    <th style="text-align: center; color:#ff0082;">Innovation</th>
+    <th style="text-align: center; color:#ff0082;">How Might We Question</th>
+    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
     <td>A1</td>
