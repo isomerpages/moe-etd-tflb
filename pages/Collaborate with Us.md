@@ -24,7 +24,7 @@ During our collaboration, you can expect:</center>
 ----------
 
 <center><h2 id="opportunity">Our Opportunity Areas</h2></center>
-<center>Through our use of design thinking and human-centric methodologies, we have identified 4 opportunity areas to explore.
+<center>Using design thinking and human-centric methodologies, we have identified 4 opportunity areas to explore.
 <br><br>
 	<b>Click on each opportunity area to find out more about our innovations!</b></center>
 <details>
@@ -115,7 +115,8 @@ table, th, td {
 	</div>
 </font></details><font size="+1">
 
+	
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>   <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></font>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div> <!-- Change the width and height values to suit you best --> <iframe style="width: 100%; height: 500px" src="https://form.gov.sg/64219949b69f640012ee18ea" id="iframe"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></font>
