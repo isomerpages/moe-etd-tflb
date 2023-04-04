@@ -21,7 +21,7 @@ Upload featured image below:
 	<li>Easy-to-use tools to gamify lessons</li>
 	<li>Game resources to include in lessons</li>
 	</ul>
-
+image here
 <center><a href="https://sites.google.com/moe.edu.sg/lg21/"><img src="/images/Buttons/explore%20lg.png" style="width:40%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
