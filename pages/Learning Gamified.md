@@ -18,7 +18,9 @@ image: /images/LG/lg featured image.png
 
 <center><h2 id="innovation">Our Innovation</h2></center>
 
-<center>Learning Gamified (LG) is a series of ready-made guides, tools, and resources that enables teachers to effectively leverage the affordances of game elements for learning, such as: <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRks09iQRMk8l74HHzjFkg2TUejRMp5-ip59XqtTIPyNBHU5OTfX9vqo-5fU9PUPw/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe></center>
+<center>Learning Gamified (LG) is a series of ready-made guides, tools, and resources that enables teachers to effectively leverage the affordances of game elements for learning, such as:</center>
+
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRks09iQRMk8l74HHzjFkg2TUejRMp5-ip59XqtTIPyNBHU5OTfX9vqo-5fU9PUPw/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe></center>
 
 <center><a href="https://sites.google.com/moe.edu.sg/lg21/" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/explore%20lg.png" style="width:40%; display: inline; margin-right:0.5rem"></a></center>
 
