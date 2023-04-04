@@ -25,7 +25,9 @@ Upload featured image below:
 <center><h2 id="impact">Our Impact</h2></center>
 
 <center>Learning Gamified has collaborated with the Student Learning Space (SLS) team to enable the gamification of learning in the platform. In SLS, teachers can introduce game-based elements to be introduced in an SLS Course. Some of the game-based elements include <b>Experience Points (XP), Levels, Game Stories, Achievements, Leaderboard</b>, and more!</center>
-<center><img src="/images/LG/lg%20sls.gif"></center>
+
+<center><img src="/images/LG/lg%20sls%20crop.gif"></center>
+
 <center><a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AboutGamification.html" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/learn%20more%20lg.png" style="width:50%; display: inline; margin-right:0.5rem"></a></center>
 
 <center>User quotes below</center>
