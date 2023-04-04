@@ -10,7 +10,9 @@ description: ""
 Upload featured image below:
 
 <center><h2 id="discovery">Our Discovery</h2></center>
-<center>POV statement</center>
+<center>Teachers struggle to design innovative and engaging learning experiences that also ensure
+students achieve intended learning objectives (LOs).  
+</center>
 
 -----------------
 
