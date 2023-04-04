@@ -17,7 +17,12 @@ students achieve intended learning objectives (LOs).
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Long description of RP here</center>
+<center>Learning Gamified (LG) is a series of ready-made guides, tools, and resources that enables teachers to effectively leverage the affordances of game elements for learning. Some of these include:</center>
+<ul>
+	<li>An introduction to gamification of learning</li>
+	<li>Easy-to-use tools to gamify lessons</li>
+	<li>Game resources to include in lessons</li>
+	</ul>
 
 <center><h3>RP resources here</h3></center>
 
