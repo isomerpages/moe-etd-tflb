@@ -37,12 +37,7 @@ Upload featured image below:
 	<li>Leaderboard</li>
 	</ul>
 
-<center><h3>Teacher artefact</h3></center>
-
-<center>Description of teacher artefact</center>
-
-Embed relevant resources below:
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
+<center><a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AboutGamification.html"><img src="/images/Buttons/learn%20more%20lg.png" style="width:50%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><blockquote><i>insert teacher quote here</i></blockquote></center>
 
