@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>How might we make it easier for teachers to utilise elements of game development when designing learning experiences?</h2></center>
 
-Upload featured image below:
+![Learning Gamified Featured Image](/images/LG/lg%20featured%20image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Teachers find it difficult to easily and meaningfully utilise elements of gamification in designing learning experiences that are engaging and effective.</center>
