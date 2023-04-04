@@ -37,7 +37,7 @@ sections:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: Gather tips and tricks on how to use SLS and other features to
         bring out student voices in classes with diverse learning needs through
-        a series of resources!
+        a set of resources!
       button: Make learning more accessible!
       url: /evs/
       alt: CotF Eliciting Student Voices
