@@ -47,7 +47,7 @@ sections:
       description: Tap on ready-made guides, tools, and resources to turn your lessons
         into gamified learning experiences!
       button: Gamify lessons!
-      url: https://sites.google.com/moe.edu.sg/lg21/home
+      url: /lg
       alt: CotF Learning Gamified
       image: /images/Home Page/LGo.png
   - infopic:
