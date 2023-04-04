@@ -5,7 +5,6 @@ description: Craft and create immersive experiences through a lesson design
   guide and ready-made lesson samples in SLS!
 image: /images/ILT/ILT Image Mockup.gif
 ---
-
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we craft captivating learning experiences for our students?</h2></center>
@@ -34,15 +33,15 @@ image: /images/ILT/ILT Image Mockup.gif
 <summary><font size="+1">Click here to view the text-based sample</font></summary>
 <font size="+1"><center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story. These text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center></font>
 
-> Google Form Sample
+<h3>Google Form Sample</h3>
 <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></center>
 	
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket1a"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoagoogleformsls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
 
-> Typeform Sample
+<h3>Typeform Sample</h3>
 
-![](/images/ILT/Screenshot%202022-11-21.png)
+<img src="/images/ILT/Screenshot%202022-11-21.png">
 
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket1"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoatextsls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
@@ -55,9 +54,9 @@ image: /images/ILT/ILT Image Mockup.gif
 <summary><font size="+1">Click here to view the image-based sample</font></summary>
 <font size="+1"><center>Similar to the text-based sample, the image-based sample enhances the experience with pictorial tools to aid the imagination of the user to provide an immersive experience to the story.</center></font>
 
-> Figma Sample
+<h3>Figma Sample</h3>
 
-![](/images/ILT/Screenshot%20ILT%20figma.png)
+<img src="/images/ILT/Screenshot%20ILT%20figma.png">
 
 <center><iframe allowfullscreen="true" height="480" width="810" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDCzcWq5DCN9mWQgbFB6YUJECjd3LyiRIGpliKBAtXDVC7h2rj4EfKVv_ms4d8lF5e9XXE4HHKWB0D/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe></center>
 	
@@ -72,7 +71,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <summary><font size="+1">Click here to view the video-based sample</font></summary>
 <font size="+1"><center>In a video-based sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour-intensive, the immersion is unrivalled especially when put into a VR setting.</center></font>
 
-> EKO Studio Sample
+<h3>EKO Studio Sample</h3>
 
 ![](/images/ILT/ILTvideo.png)
 
