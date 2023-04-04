@@ -39,7 +39,6 @@ Upload featured image below:
 
 <center><a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AboutGamification.html"><img src="/images/Buttons/learn%20more%20lg.png" style="width:50%; display: inline; margin-right:0.5rem"></a></center>
 
-<center><blockquote><i>insert teacher quote here</i></blockquote></center>
+<center>User quotes below</center>
 
-insert link to teacher artefact below
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
+<center><blockquote><i>insert teacher quote here</i></blockquote></center>
