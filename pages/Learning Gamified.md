@@ -24,7 +24,7 @@ Upload featured image below:
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Learning Gamified has collaborated with the Student Learning Space (SLS) team to enable the gamification of learning in the platform. In SLS, teachers can introduce game-based elements to be introduced in an SLS Course. Some of the game-based elements include <b>Experience Points (XP), Levels, Game Stories, Achievements, Leaderboard</b>, and more!</center>
+<center>Learning Gamified has collaborated with the Student Learning Space (SLS) team to enable the gamification of learning in the platform.<br><br> In SLS, teachers can introduce game-based elements to be introduced in an SLS Course. Some of the game-based elements include <b>Experience Points (XP), Levels, Game Stories, Achievements, Leaderboard</b>, and more!</center>
 
 <center><img src="/images/LG/lg%20sls%20crop.gif"></center>
 
