@@ -62,16 +62,29 @@ table, th, td {
 <details>
 	<summary><font size="+2"><u>Orchestrating Coherent, Engaging Learning Experiences</u></font></summary><font size="+1"><center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
 <div style="overflow-x:auto;">
-<table>
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+	text-align: center;
+}
+</style>
+
+<table style="width:100%">
   <tbody><tr>
-    <th style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:30%; display: inline; margin-right:0.5rem"></th>
-		<th style="text-align: center"><b>Learning Gamified</b>
-			<br>How might we...</th>
+    <th style="text-align: center; color:#ff0082;">Innovation</th>
+    <th style="text-align: center; color:#ff0082;">How Might We Question</th>
+    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
-		<td style="text-align: center"><h3><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></h3></td>
-		<td style="text-align: center"><b>Monitoring and Self-Regulation in Practical-based Lessons</b>
-			<br>How might we...</td>
+    <td>A1</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
   </tr>
 </tbody></table>
 	</div>
@@ -81,16 +94,29 @@ table, th, td {
 	<summary><font size="+2"><u>Engendering Constructive Classroom Dynamics</u></font></summary><font size="+1">
 <center>Enabling a teacher's sphere of influence to permeate the entire class and balancing teacher's authority and students' voice to ensure collective ownership of the teaching and learning process through:</center>
 <div style="overflow-x:auto;">
-<table>
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+	text-align: center;
+}
+</style>
+
+<table style="width:100%">
   <tbody><tr>
-    <th style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:30%; display: inline; margin-right:0.5rem"></th>
-		<th style="text-align: center"><b>Learning Gamified</b>
-			<br>How might we...</th>
+    <th style="text-align: center; color:#ff0082;">Innovation</th>
+    <th style="text-align: center; color:#ff0082;">How Might We Question</th>
+    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
-		<td style="text-align: center"><h3><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></h3></td>
-		<td style="text-align: center"><b>Monitoring and Self-Regulation in Practical-based Lessons</b>
-			<br>How might we...</td>
+    <td>A1</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
   </tr>
 </tbody></table>
 	</div>
@@ -100,16 +126,29 @@ table, th, td {
 	<summary><font size="+2"><u>Supporting Teachers' Professional Practice</u></font></summary><font size="+1">
 <center>Augmenting teachers’ instructional effectiveness and student support strategies with readily deployable technology-enabled solutions through:</center>
 <div style="overflow-x:auto;">
-<table>
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+	text-align: center;
+}
+</style>
+
+<table style="width:100%">
   <tbody><tr>
-    <th style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:30%; display: inline; margin-right:0.5rem"></th>
-		<th style="text-align: center"><b>Learning Gamified</b>
-			<br>How might we...</th>
+    <th style="text-align: center; color:#ff0082;">Innovation</th>
+    <th style="text-align: center; color:#ff0082;">How Might We Question</th>
+    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
-		<td style="text-align: center"><h3><img src="/images/Collaborate/rocket-launch.png" style="width:40%; display: inline; margin-right:0.5rem"></h3></td>
-		<td style="text-align: center"><b>Monitoring and Self-Regulation in Practical-based Lessons</b>
-			<br>How might we...</td>
+    <td>A1</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>HMW</td>
+    <td>Testing 123</td>
   </tr>
 </tbody></table>
 	</div>
