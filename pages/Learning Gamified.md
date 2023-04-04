@@ -36,9 +36,7 @@ Upload featured image below:
 	<li>Achievements</li>
 	<li>Leaderboard</li>
 	</ul>
-	
 <img src="/images/LG/lg%20sls.gif">
-
 <center><a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AboutGamification.html"><img src="/images/Buttons/learn%20more%20lg.png" style="width:50%; display: inline; margin-right:0.5rem"></a></center>
 
 <center>User quotes below</center>
