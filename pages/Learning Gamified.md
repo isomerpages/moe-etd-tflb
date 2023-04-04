@@ -10,14 +10,12 @@ description: ""
 Upload featured image below:
 
 <center><h2 id="discovery">Our Discovery</h2></center>
-<center>Teachers struggle to design innovative and engaging learning experiences that also ensure
-students achieve intended learning objectives (LOs).  
-</center>
+<center>Teachers find it difficult to easily and meaningfully utilise elements of gamification in designing learning experiences that are engaging and effective.</center>
 
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Learning Gamified (LG) is a series of ready-made guides, tools, and resources that enables teachers to effectively leverage the affordances of game elements for learning. Some of these include:</center>
+<center>Learning Gamified (LG) is a series of ready-made guides, tools, and resources that enables teachers to effectively leverage the affordances of game elements for learning such as:</center>
 <ul>
 	<li>An introduction to gamification of learning</li>
 	<li>Easy-to-use tools to gamify lessons</li>
