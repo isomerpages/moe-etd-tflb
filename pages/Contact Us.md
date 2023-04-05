@@ -4,7 +4,7 @@ permalink: /contact/
 description: Contact Classroom of the Future
 image: /images/Logo/CotF logo horizontal 2.png
 ---
-<center><h1>We'd love to hear from you!</h1></center>
+<center><h2>We'd love to hear from you!</h2></center>
 
 <center>Have a query or feedback on any of our products? Would like to find out more about CotF?</center>
 <center>Email us at <a href="mailto:cotf@moe.edu.sg">cotf@moe.edu.sg</a> or fill in the form below and we'll be in touch!</center>
