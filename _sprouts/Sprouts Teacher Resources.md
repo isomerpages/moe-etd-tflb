@@ -28,3 +28,7 @@ image: /images/Sprouts/Sprouts Poster Guide (For Teachers).png
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRYlR12XC2eIqyKJdAU0qEo_Cp11Lu7oGvzLZ65TD59klEUBZA07G13xA8c6leNqC9RPsd1r2DJPLJ/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center><a rel="noopener noreferrer" target="_blank" href="https://docs.google.com/presentation/d/1t0uvvRvhqH1YKP2sc6ILLpHLbhkz4L60BGN28T9VUcU/copy"><img style="width:40%; display: inline;" src="/images/Buttons/Download%20the%20editable%20scaffold.png"></a></center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
