@@ -7,7 +7,8 @@ description: A MOE Educational Technology Division, Information Technology
   students.
 image: /images/Logo/CotF logo horizontal.png
 permalink: /
-notification: ""
+notification: Catch some of our upcoming innovations at the <a
+  href="https://www.tcef2023.sg/">Teachers' Conference and ExCEL Fest 2023</a>!
 sections:
   - hero:
       title: Classroom of the Future
