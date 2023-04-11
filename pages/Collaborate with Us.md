@@ -29,7 +29,7 @@ During our collaboration, you can expect:</center>
 	<b>Click on each opportunity area to find out more about our innovations!</b></center>
 <details>
 	<summary><font size="+2"><u>Activating Students' Intrinsic Motivation</u></font></summary><font size="+1">
-<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center></font>
+<center>Encouraging discovery of interests and strengths, student autonomy in learning, and appetite for individual expression and growth through:</center>
 <div style="overflow-x:auto;">
 <style>
 table, th, td {
@@ -54,7 +54,7 @@ table, th, td {
   </tr>
 </tbody></table>
 	</div>
-</details>
+</font></details><font size="+1">
 
 <details>
 	<summary><font size="+2"><u>Orchestrating Coherent, Engaging Learning Experiences</u></font></summary><font size="+1"><center>Regulating and managing momentum and connections within or across learning activities and better understanding of students needs to improve student engagement and focus through:</center>
@@ -166,4 +166,4 @@ table, th, td {
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>  <iframe style="width: 100%; height: 1200px" src="https://form.gov.sg/64219949b69f640012ee18ea" id="iframe"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>  <iframe style="width: 100%; height: 1200px" src="https://form.gov.sg/64219949b69f640012ee18ea" id="iframe"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div></font>
