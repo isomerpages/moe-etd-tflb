@@ -36,6 +36,8 @@ image: /images/LG/lg featured image.png
 
 <center><a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AboutGamification.html" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/learn%20more%20lg.png" style="width:50%; display: inline; margin-right:0.5rem"></a></center>
 
-<center>User quotes below</center>
+<center><h3>Hear what our teacher users have to say about Learning Gamified!</h3></center>
 
-<center><blockquote><i>insert teacher quote here</i></blockquote></center>
+<center><blockquote><i>"The board game is easily applicable and could be a good start" - Secondary Humanities Teacher</i></blockquote></center>
+
+<center><blockquote><i>"The progression badges are definitely good to motivate students." - Secondary Humanities Teacher</i></blockquote></center>
