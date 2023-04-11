@@ -88,3 +88,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <center><h2 id="impact">Our Impact</h2></center>
 
 <center>Find out how teachers... </center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
