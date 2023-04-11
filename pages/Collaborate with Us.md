@@ -45,7 +45,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-		<td><a href="/lg">Learning Gamified</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+		<td><a href="/lg">Learning Gamified</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td>How might we make it easier for teachers to utilise elements of gamification when designing learning experiences?</td>
   </tr>
   <tr>
@@ -73,11 +73,11 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td><a href="/bbt">Brain Boost Time</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td><a href="/bbt">Brain Boost Time</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td>How might we get primary school pupils to their optimal zone of learning?</td>
   </tr>
   <tr>
-    <td><a href="/ilt">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td><a href="/ilt">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td>How might we craft captivating learning experiences for our students?</td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ table, th, td {
     <td>How might we help students to appreciate what they have learnt beyond their academic grades?</td>
   </tr>
   <tr>
-    <td><a href="/sprouts">Sprouts</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td><a href="/sprouts">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td>HMW</td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td><a href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td><a href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td>How might we encourage students to participate more actively in class?</td>
   </tr>
   <tr>
