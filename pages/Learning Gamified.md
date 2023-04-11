@@ -41,3 +41,7 @@ image: /images/LG/lg featured image.png
 <center><blockquote><i>"The board game is easily applicable and could be a good start" - Secondary Humanities Teacher</i></blockquote></center>
 
 <center><blockquote><i>"The progression badges are definitely good to motivate students." - Secondary Humanities Teacher</i></blockquote></center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
