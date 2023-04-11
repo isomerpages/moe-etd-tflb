@@ -102,12 +102,17 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td>A1</td>
-    <td>HMW</td>
+    <td><a href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td>How might we encourage students to participate more actively in class?</td>
   </tr>
   <tr>
-    <td>A2</td>
-    <td>HMW</td>
+    <td>Mood Reflection Platform</td>
+    <td>How might we help teachers get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?<br>How might we help students be more aware of their own emotions so that they may apply strategies to regulate them?<br>How might we help students feel safe to share their emotions? 
+</td>
+  </tr>
+  <tr>
+    <td>Teaching and Learning with Personal Learning Devices (PLDs) in the Classroom</td>
+    <td>How might we help students to redirect focus to flow in and out of engagement states during a lesson using PLDs in the classroom?</td>
   </tr>
 </tbody></table>
 	</div>
