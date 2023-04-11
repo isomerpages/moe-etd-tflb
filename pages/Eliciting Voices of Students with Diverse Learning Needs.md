@@ -65,3 +65,7 @@ image: /images/EVS Featured Image.png
 <center><blockquote><i>"The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process." - TRANSIT Teacher</i></blockquote></center>
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
