@@ -73,32 +73,32 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td><a href="/bbt">Brain Boost Time</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
-    <td>How might we get primary school pupils to their optimal zone of learning?</td>
+    <td style="text-align: center"><a href="/bbt">Brain Boost Time</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center">How might we get primary school pupils to their optimal zone of learning?</td>
   </tr>
   <tr>
-    <td><a href="/ilt">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
-    <td>How might we craft captivating learning experiences for our students?</td>
+    <td style="text-align: center"><a href="/ilt">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center">How might we craft captivating learning experiences for our students?</td>
   </tr>
   <tr>
-    <td>CotF-PSB Collaboration on Learning Accessibility</td>
-    <td>How might we lower barriers of learning for students with challenges in executive functioning? </td>
+    <td style="text-align: center">CotF-PSB Collaboration on Learning Accessibility</td>
+    <td style="text-align: center">How might we lower barriers of learning for students with challenges in executive functioning? </td>
   </tr>
   <tr>
-    <td>Promoting Self-Directed Metacognitive Thinking</td>
-    <td>How might we enable students to reflect on their own learning with a means to improve it independently?</td>
+    <td style="text-align: center">Promoting Self-Directed Metacognitive Thinking</td>
+    <td style="text-align: center">How might we enable students to reflect on their own learning with a means to improve it independently?</td>
   </tr>
   <tr>
-  <td>21CC Navigator</td>
-    <td>How might we help students to appreciate what they have learnt beyond their academic grades?</td>
+  <td style="text-align: center">21CC Navigator</td>
+    <td style="text-align: center">How might we help students to appreciate what they have learnt beyond their academic grades?</td>
   </tr>
   <tr>
-    <td><a href="/sprouts">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
-    <td>How might we help teachers better involve parents in values development in a fun and meaningful way?</td>
+    <td style="text-align: center"><a href="/sprouts">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center">How might we help teachers better involve parents in values development in a fun and meaningful way?</td>
   </tr>
   <tr>
-    <td>Student Project Management Tool</td>
-    <td>How might we leverage technology to support teachers and students in managing self-directed projects?<br><br>How might we leverage technology to support teachers and students in the self-management of project-based learning?</td>
+    <td style="text-align: center">Student Project Management Tool</td>
+    <td style="text-align: center">How might we leverage technology to support teachers and students in managing self-directed projects?<br><br>How might we leverage technology to support teachers and students in the self-management of project-based learning?</td>
   </tr>
 </tbody></table>
 	</div>
@@ -122,17 +122,17 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td><a href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
-    <td>How might we encourage students to participate more actively in class?</td>
+    <td style="text-align: center"><a href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center">How might we encourage students to participate more actively in class?</td>
   </tr>
   <tr>
-    <td>Mood Reflection Platform</td>
-    <td>How might we help teachers get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?<br><br>How might we help students be more aware of their own emotions so that they may apply strategies to regulate them?<br><br>How might we help students feel safe to share their emotions? 
+    <td style="text-align: center">Mood Reflection Platform</td>
+    <td style="text-align: center">How might we help teachers get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?<br><br>How might we help students be more aware of their own emotions so that they may apply strategies to regulate them?<br><br>How might we help students feel safe to share their emotions? 
 </td>
   </tr>
   <tr>
-    <td>Teaching and Learning with Personal Learning Devices (PLDs) in the Classroom</td>
-    <td>How might we help students to redirect focus to flow in and out of engagement states during a lesson using PLDs in the classroom?</td>
+    <td style="text-align: center">Teaching and Learning with Personal Learning Devices (PLDs) in the Classroom</td>
+    <td style="text-align: center">How might we help students to redirect focus to flow in and out of engagement states during a lesson using PLDs in the classroom?</td>
   </tr>
 </tbody></table>
 	</div>
@@ -156,8 +156,8 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td><a href="/sourcefinder">Source Finder</a></td>
-    <td>How might we help teachers to save time in finding good resources to use in the classroom?</td>
+    <td style="text-align: center"><a href="/sourcefinder">Source Finder</a></td>
+    <td style="text-align: center">How might we help teachers to save time in finding good resources to use in the classroom?</td>
   </tr>
 </tbody></table>
 	</div>
