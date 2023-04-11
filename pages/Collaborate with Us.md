@@ -45,12 +45,12 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td>A1</td>
-    <td>HMW</td>
+		<td><a href="/lg">Learning Gamified</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td>How might we make it easier for teachers to utilise elements of gamification when designing learning experiences?</td>
   </tr>
   <tr>
-    <td>A2</td>
-    <td>HMW</td>
+    <td>Monitoring and Self-regulation in Practical-based Lessons</td>
+    <td>How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
   </tr>
 </tbody></table>
 	</div>
@@ -131,12 +131,8 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td>A1</td>
-    <td>HMW</td>
-  </tr>
-  <tr>
-    <td>A2</td>
-    <td>HMW</td>
+    <td><a href="/sourcefinder">Source Finder</a></td>
+    <td>How might we help teachers to save time in finding good resources to use in the classroom?</td>
   </tr>
 </tbody></table>
 	</div>
