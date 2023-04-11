@@ -43,17 +43,14 @@ table, th, td {
   <tbody><tr>
     <th style="text-align: center; color:#ff0082;">Innovation</th>
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
-    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
     <td>A1</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
   <tr>
     <td>A2</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
 </tbody></table>
 	</div>
@@ -74,17 +71,14 @@ table, th, td {
   <tbody><tr>
     <th style="text-align: center; color:#ff0082;">Innovation</th>
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
-    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
     <td>A1</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
   <tr>
     <td>A2</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
 </tbody></table>
 	</div>
@@ -106,17 +100,14 @@ table, th, td {
   <tbody><tr>
     <th style="text-align: center; color:#ff0082;">Innovation</th>
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
-    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
     <td>A1</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
   <tr>
     <td>A2</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
 </tbody></table>
 	</div>
@@ -138,17 +129,14 @@ table, th, td {
   <tbody><tr>
     <th style="text-align: center; color:#ff0082;">Innovation</th>
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
-    <th style="text-align: center; color:#ff0082;">Collaboration Opportunities</th>
   </tr>
   <tr>
     <td>A1</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
   <tr>
     <td>A2</td>
     <td>HMW</td>
-    <td>Testing 123</td>
   </tr>
 </tbody></table>
 	</div>
