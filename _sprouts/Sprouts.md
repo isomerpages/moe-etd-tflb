@@ -5,7 +5,6 @@ description: Enhance values-learning beyond class time and get parents and
   students involved with this conversational toolkit!
 image: /images/Sprouts/Sprouts conversation.gif
 ---
-
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we help teachers better involve parents in values development in a fun and meaningful way?</h2></center>
@@ -42,7 +41,7 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center><blockquote><i>“Teaches me good values.” - Primary 3 Student</i></blockquote></center>
 
 <h1><center>★ ★ ★ ☆</center></h1>
-<center>Rated an average of <b>3.1 out of 4 stars</b> by parents for being a useful guide to hold a values-based conversation with their child.  </center>
+<center>Rated an average of <b>3.1 out of 4 stars</b> by parents for being a useful guide to hold a values-based conversation with their child.&nbsp;&nbsp;</center>
 
 <center><blockquote><i>“I love the conversation guide because it gives me a better understanding of their perception on another level that I may never be aware of.” - Parent of a Primary 3 Student</i></blockquote></center>
 
@@ -53,3 +52,7 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 <center><blockquote><i>"These are the values I now know that the student has learnt, after this project. Now, it’s like everything is linked." - Primary 4 Teacher</i></blockquote></center>
 
 <center><blockquote><i>"Showing their vulnerabilities at home, that layer that I did not know about before (such as them having to take care of their unwell siblings, or cleaning the house)." - Primary 3 Teacher</i></blockquote></center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
