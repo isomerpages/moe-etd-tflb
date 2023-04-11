@@ -98,7 +98,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="text-align: center">Student Project Management Tool</td>
-    <td style="text-align: center">How might we leverage technology to support teachers and students in managing self-directed projects?<br><br>How might we leverage technology to support teachers and students in the self-management of project-based learning?</td>
+    <td style="text-align: center">How might we leverage technology to support teachers and students in self-directed learning?</td>
   </tr>
 </tbody></table>
 	</div>
@@ -127,8 +127,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="text-align: center">Mood Reflection Platform</td>
-    <td style="text-align: center">How might we help teachers get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?<br><br>How might we help students be more aware of their own emotions so that they may apply strategies to regulate them?<br><br>How might we help students feel safe to share their emotions? 
-</td>
+    <td style="text-align: center">How might we help teachers to get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?</td>
   </tr>
   <tr>
     <td style="text-align: center">Teaching and Learning with Personal Learning Devices (PLDs) in the Classroom</td>
