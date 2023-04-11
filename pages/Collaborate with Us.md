@@ -73,12 +73,32 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td>A1</td>
+    <td><a href="/bbt">Brain Boost Time</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td>How might we get primary school pupils to their optimal zone of learning?</td>
+  </tr>
+  <tr>
+    <td><a href="/ilt">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td>How might we craft captivating learning experiences for our students?</td>
+  </tr>
+  <tr>
+    <td>CotF-PSB Collaboration on Learning Accessibility</td>
+    <td>How might we lower barriers of learning for students with challenges in executive functioning? </td>
+  </tr>
+  <tr>
+    <td>Promoting Self-Directed Metacognitive Thinking</td>
+    <td>How might we enable students to reflect on their own learning with a means to improve it independently?</td>
+  </tr>
+  <tr>
+  <td>21CC Navigator</td>
+    <td>How might we help students to appreciate what they have learnt beyond their academic grades?</td>
+  </tr>
+  <tr>
+    <td><a href="/sprouts">Sprouts</a><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td>HMW</td>
   </tr>
   <tr>
-    <td>A2</td>
-    <td>HMW</td>
+    <td>Student Project Management Tool</td>
+    <td>How might we leverage technology to support teachers and students in managing self-directed projects?<br><br>How might we leverage technology to support teachers and students in the self-management of project-based learning?</td>
   </tr>
 </tbody></table>
 	</div>
@@ -107,7 +127,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Mood Reflection Platform</td>
-    <td>How might we help teachers get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?<br>How might we help students be more aware of their own emotions so that they may apply strategies to regulate them?<br>How might we help students feel safe to share their emotions? 
+    <td>How might we help teachers get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?<br><br>How might we help students be more aware of their own emotions so that they may apply strategies to regulate them?<br><br>How might we help students feel safe to share their emotions? 
 </td>
   </tr>
   <tr>
