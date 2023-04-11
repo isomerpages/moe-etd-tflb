@@ -7,7 +7,7 @@ image: /images/LG/lg featured image.png
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>How might we make it easier for teachers to utilise elements of game development when designing learning experiences?</h2></center>
+<center><h2>How might we make it easier for teachers to utilise elements of gamification when designing learning experiences?</h2></center>
 
 ![Learning Gamified Featured Image](/images/LG/lg%20featured%20image.png)
 
