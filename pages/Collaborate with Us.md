@@ -45,12 +45,12 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-		<td><a href="/lg">Learning Gamified</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
-    <td>How might we make it easier for teachers to utilise elements of gamification when designing learning experiences?</td>
+		<td style="text-align: center"><a href="/lg">Learning Gamified</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center">How might we make it easier for teachers to utilise elements of gamification when designing learning experiences?</td>
   </tr>
   <tr>
-    <td>Monitoring and Self-regulation in Practical-based Lessons</td>
-    <td>How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
+    <td style="text-align: center">Monitoring and Self-regulation in Practical-based Lessons</td>
+    <td style="text-align: center">How might we help teachers effectively monitor and guide all students in a practical (Science, PE, Art, etc.) lesson?</td>
   </tr>
 </tbody></table>
 	</div>
