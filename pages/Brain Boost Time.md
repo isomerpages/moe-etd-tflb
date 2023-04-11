@@ -5,7 +5,6 @@ description: Get your pupils to their optimal zone of learning - especially when
   they're extremely excited or tired!
 image: /images/Home Page/BBTo.png
 ---
-
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we get primary school pupils to their optimal zone of learning?</h2></center>
@@ -27,7 +26,7 @@ image: /images/Home Page/BBTo.png
 
 <center>Use the Brain Boost Time Feature Recommender below to start your BBT experience!</center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLmDU5S1uvdTG5XtlzPylE2dRBujvYepBkvNWNrYE2HFh0aKjrszQn2pjBQJU1gsL3fPeUh77anYyk/embed?start=false&loop=false&" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLmDU5S1uvdTG5XtlzPylE2dRBujvYepBkvNWNrYE2HFh0aKjrszQn2pjBQJU1gsL3fPeUh77anYyk/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center><a href="https://sites.google.com/moe.edu.sg/brainboost"><img src="/images/Buttons/BBTButton.png" style="width:40%; display: inline; margin-right:0.5rem"></a></center>
 
@@ -57,3 +56,7 @@ The 5 positive changes we noticed in students during our observations include:</
 
 <center><h3>Awards</h3></center>
 <center>BBT was awarded the <b>Ministry of Education Innergy Gold Award - HQ (Academic)</b> in 2022. The award recognises individuals and teams that have successfully developed and implemented innovations, bringing about significant benefits and impact in their workplaces.</center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
