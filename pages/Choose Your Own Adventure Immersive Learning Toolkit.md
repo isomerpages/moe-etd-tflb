@@ -58,7 +58,7 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <img src="/images/ILT/Screenshot%20ILT%20figma.png">
 
-<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDCzcWq5DCN9mWQgbFB6YUJECjd3LyiRIGpliKBAtXDVC7h2rj4EfKVv_ms4d8lF5e9XXE4HHKWB0D/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="810" height="480" allowfullscreen="true"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDCzcWq5DCN9mWQgbFB6YUJECjd3LyiRIGpliKBAtXDVC7h2rj4EfKVv_ms4d8lF5e9XXE4HHKWB0D/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe></center>
 	
 <center><a href="https://go.gov.sg/cyoaphuket2" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-editable-sample.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://go.gov.sg/cyoaimagesls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-sample-on-SLS.png" style="width:32%; display: inline;"></a></center>
@@ -86,7 +86,7 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <center>Check out our CYOA-ILT Experience held on 22 June 2022, where teacher participants learnt about the design principles of a CYOA activity. Participants interacted with the CYOA-ILTsamples and ended the day with a hands-on activity where groups created their own CYOA activity. </center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeyVjAGVWwe1Oftxv12rHdrcSJIh\_ENcgw8RWIm2fZ\_LmWc1HdU\_yBWWPHEL84vlZFUPi1ADPKNEWD/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1UtfeV_7cfmIxKjb5Uz6yhLk5ZJdH6AXOElEHekpcD8s/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center>Ms. Rita Thia from Boon Lay Secondary was inspired by the experience and shared the CYOA-ILT design principles with her colleagues. This resulted in a CYOA activity for prospective students to experience first hand the multiple pathways that they will get to choose which will eventually lead to them attaining their greatness (School’s Vision is To bring out the greatness in every child).</center>
 
