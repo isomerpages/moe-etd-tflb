@@ -84,13 +84,13 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Check out our CYOA-ILT Experience held on 22 June 2022, where teacher participants learnt about the design principles of a CYOA activity. Participants interacted with the CYOA-ILTsamples and ended the day with a hands-on activity where groups created their own CYOA activity. </center>
+<center>Check out our CYOA-ILT Experience, where teacher participants learnt about CYOA design principles. Participants interacted with the samples and ended the day creating their own CYOA activity.</center>
 
 <iframe src="https://docs.google.com/presentation/d/1UtfeV_7cfmIxKjb5Uz6yhLk5ZJdH6AXOElEHekpcD8s/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center>Ms. Rita Thia from Boon Lay Secondary was inspired by the experience and shared the CYOA-ILT design principles with her colleagues. This resulted in a CYOA activity for prospective students to experience first hand the multiple pathways that they will get to choose which will eventually lead to them attaining their greatness (School’s Vision is To bring out the greatness in every child).</center>
+<center>Ms. Rita Thia from Boon Lay Secondary shared the design principles with her colleagues, and co-created a CYOA activity for prospective students to experience and choose the multiple pathways that would lead them to achieve their school's vision.</center>
 
-insert links
+
 
 --------
 
