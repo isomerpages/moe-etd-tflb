@@ -18,7 +18,7 @@ image: /images/LG/lg featured image.png
 
 <center><h2 id="innovation">Our Innovation</h2></center>
 
-<center>Learning Gamified (LG) is a series of ready-made guides, tools, and resources that enables teachers to effectively leverage the affordances of game elements for learning. </center>
+<center><b>Learning Gamified (LG)</b> is a series of ready-made guides, tools, and resources that enables teachers to effectively leverage the affordances of game elements for learning. </center>
 
 <center>Use the Learning Gamified Overview below to start your LG experience!</center>
 
