@@ -91,11 +91,9 @@ image: /images/ILT/ILT Image Mockup.gif
 <center><a href="https://go.gov.sg/blsadventure" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore Teacher Resources.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><h3>Hear What Our Users Have to Say about CYOA-ILT!</h3></center>
-<center><blockquote><i>"I think part of making a good memory of something is tagging it to an emotion, this helps with evoking some emotional response and I think it helps the student connect to the content better" - Secondary School Teacher I</i></blockquote></center>
+<center><blockquote><i>"This helps with evoking some emotional response and I think it helps the student connect to the content better." - Secondary School Teacher</i></blockquote></center>
 
-<center><blockquote><i>"I actually like that it feels like a mystery... feels a bit more open-ended... I feel like it can push me to think about the factors." - Secondary School Student H</i></blockquote></center>
-
-<center><blockquote><i>"I think this helps me to weigh the options,... after I go to the alternative one, I tried to reason out why this is happening." - Secondary School Student A</i></blockquote></center>
+<center><blockquote><i>"I actually like that it feels like a mystery... feels a bit more open-ended... I feel like it can push me to think about the factors." - Secondary School Student</i></blockquote></center>
 
 --------
 
