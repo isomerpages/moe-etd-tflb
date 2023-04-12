@@ -90,7 +90,7 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <img src="/images/ILT/boon%20lay%20sec%20cyoa.png">
 
-<center><a href="https://go.gov.sg/blsadventure" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore Teacher Resources.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://go.gov.sg/blsadventure" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/explore%20cyoa.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><h3>Hear What Our Users Have to Say about CYOA-ILT!</h3></center>
 <center><blockquote><i>"This helps with evoking some emotional response and I think it helps the student connect to the content better." - Secondary School Teacher</i></blockquote></center>
