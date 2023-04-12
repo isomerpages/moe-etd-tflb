@@ -33,13 +33,13 @@ image: /images/ILT/ILT Image Mockup.gif
 <summary><font size="+1">Click here to view the text-based sample</font></summary>
 <font size="+1"><center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story, these text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center></font>
 
-<h3>Google Form Sample</h3>
+<h4>Google Form Sample</h4>
 <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></center>
 	
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket1a"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoagoogleformsls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
 
-<h3>Typeform Sample</h3>
+<h4>Typeform Sample</h4>
 
 <img src="/images/ILT/Screenshot%202022-11-21.png">
 
@@ -54,7 +54,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <summary><font size="+1">Click here to view the image-based sample</font></summary>
 <font size="+1"><center>Similar to the text-based sample, the image-based sample enhances the experience with pictorial tools to aid the imagination of the user to provide an immersive experience to the story.</center></font>
 
-<h3>Figma Sample</h3>
+<h4>Figma Sample</h4>
 
 <img src="/images/ILT/Screenshot%20ILT%20figma.png">
 
@@ -71,7 +71,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <summary><font size="+1">Click here to view the video-based sample</font></summary>
 <font size="+1"><center>In a video-based sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour-intensive, the immersion is unrivalled especially when put into a VR setting.</center></font>
 
-<h3>EKO Studio Sample</h3>
+<h4>EKO Studio Sample</h4>
 
 <img src="/images/ILT/ILTvideo.png">
 Password to access sample: CYOA-IL
