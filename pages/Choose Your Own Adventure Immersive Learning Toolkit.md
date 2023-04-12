@@ -23,6 +23,8 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <center><h3>Immersive Learning Toolkit</h3></center>
 
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjeH81mrVe2e13OdEBvHb7KCaWQBh8O_A4NCodQbcwu2cL60spMmYQ3a-_NJbQQThwUlk2JOhHeLMb/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe></center>
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cRVEPZE9lvY" height="500" width="100%"></iframe>
 
 <center><a href="https://go.gov.sg/cyoaguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
