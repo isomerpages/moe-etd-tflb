@@ -31,7 +31,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <a href="https://go.gov.sg/cyoateachersguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
 <details>
-	<summary><font style="color:#ff0082;" size="+3">Text-based Sample</font></summary>
+	<summary><font style="color:#ff0082;" size="+2">Text-based Sample</font></summary>
 <font size="+1"><center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story, these text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center></font>
 
 <center><h4>Google Form Sample</h4></center>
@@ -50,7 +50,7 @@ image: /images/ILT/ILT Image Mockup.gif
 </details>
 
 <details>
-<summary><font style="color:#ff0082;" size="+3">Image-based Sample</font></summary>
+<summary><font style="color:#ff0082;" size="+2">Image-based Sample</font></summary>
 <font size="+1"><center>Similar to the text-based sample, the image-based sample enhances the experience with pictorial tools to aid the imagination of the user to provide an immersive experience to the story.</center></font>
 
 <center><h4>Figma Sample</h4></center>
@@ -65,7 +65,7 @@ image: /images/ILT/ILT Image Mockup.gif
 </details>
 
 <details>
-<summary><font style="color:#ff0082;" size="+3">Video-based sample</font></summary>
+<summary><font style="color:#ff0082;" size="+2">Video-based sample</font></summary>
 <font size="+1"><center>In a video-based sample, users can sit back and enjoy the narrative while watching the drama unfold. While this format would be the most labour-intensive, the immersion is unrivalled especially when put into a VR setting.</center></font>
 
 <center><h4>EKO Studio Sample</h4></center>
