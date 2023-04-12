@@ -31,7 +31,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <center><h3>Text-based Sample</h3></center>
 
 <details>
-<summary><font style="color:#ff0082;" size="+3">Text-based Sample</font></summary>
+	<summary><font style="color:#ff0082;" size="+3"><b>Text-based Sample</b></font></summary>
 <font size="+1"><center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story, these text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center></font>
 
 <center><h4>Google Form Sample</h4></center>
