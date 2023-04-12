@@ -73,7 +73,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <img src="/images/ILT/video%20sample.gif">
 <br><center>Password to access sample: CYOA-IL</center>
 	
-<center><a href="https://go.gov.sg/cyoaphuket3" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-editable-sample.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+<center><a href="https://go.gov.sg/cyoaphuket3" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view%20the%20sample.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://go.gov.sg/cyoavideosls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-sample-on-SLS.png" style="width:32%; display: inline;"></a></center>
 </details>
 
