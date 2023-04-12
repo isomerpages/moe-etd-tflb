@@ -17,7 +17,7 @@ image: /images/Home Page/BBTo.png
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Brain Boost Time (BBT) is a tool for primary school teachers to use in class to get their pupils to the optimal zone of learning, especially when the pupils are clearly lethargic or extra fidgety. Brain Boost Time offers physical, cognitive, and affective break-time activities such as: </center>
+<center><b>Brain Boost Time (BBT)</b> is a tool for primary school teachers to use in class to get their pupils to the optimal zone of learning, especially when the pupils are clearly lethargic or extra fidgety. Brain Boost Time offers physical, cognitive, and affective break-time activities such as: </center>
 <ul>
 <li>Physical Energisers (with fast, slow, or mixed speeds) through animated 3D models of animals with evidence-based aerobic or coordinative actions</li>
 <li>Brain Teasers with simple thinking activities</li>
