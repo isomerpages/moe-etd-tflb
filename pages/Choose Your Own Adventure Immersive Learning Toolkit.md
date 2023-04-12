@@ -90,7 +90,8 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <center>Ms. Rita Thia from Boon Lay Secondary shared the design principles with her colleagues, and co-created a CYOA activity for prospective students to experience and choose the multiple pathways that would lead them to achieve their school's vision.</center>
 
-https://go.gov.sg/blsadventure
+<center><a href="https://go.gov.sg/blsadventure" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore-Teacher-Resources.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
+
 
 --------
 
