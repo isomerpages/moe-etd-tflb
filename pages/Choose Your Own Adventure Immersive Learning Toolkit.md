@@ -85,12 +85,14 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <center><h2 id="impact">Our Impact</h2></center>
 <center><h3>CYOA-ILT Experience at MOE HQ</h3></center>
-<center>Check out our CYOA-ILT Experience, where teacher participants learnt about CYOA design principles. Participants interacted with the samples and ended the day creating their own CYOA activity.</center>
+<center>Teacher participants learnt about CYOA design principles, interacted with our samples, and ended the day creating their own CYOA activity! Check out the pictures from the event:</center>
 
 <iframe src="https://docs.google.com/presentation/d/1UtfeV_7cfmIxKjb5Uz6yhLk5ZJdH6AXOElEHekpcD8s/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center><h3>Boon Lay Secondary School's CYOA Open House Experience</h3></center>
-<center>Ms. Rita Thia from Boon Lay Secondary shared the design principles with her colleagues, and co-created a CYOA activity for prospective students to experience and choose the multiple pathways that would lead them to achieve their school's vision.</center>
+<center>Ms. Rita Thia, one of the participants of the CYOA-ILT Experience, shared the CYOA-ILT design principles with her colleagues and co-created a CYOA website for prospective students to experience and choose the multiple pathways that would lead them to achieve the school's vision.</center>
+
+<img src="">
 
 <center><a href="https://go.gov.sg/blsadventure" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore Teacher Resources.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
 
