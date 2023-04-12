@@ -73,11 +73,8 @@ image: /images/ILT/ILT Image Mockup.gif
 
 <h3>EKO Studio Sample</h3>
 
-![](/images/ILT/ILTvideo.png)
-
-<details>
-<summary><font size="-1">Click here to view the password to view the EKO Studio sample</font></summary>
-<font size="-1">Password: CYOA-IL</font></details>
+<img src="/images/ILT/ILTvideo.png">
+Password to access sample: CYOA-IL
 	
 <center><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoaphuket3"><img style="width:32%; display: inline; margin-right:0.5rem" src="/images/Buttons/view-the-editable-sample.png"></a>
 <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/cyoavideosls"><img style="width:32%; display: inline;" src="/images/Buttons/view-the-sample-on-SLS.png"></a></center>
