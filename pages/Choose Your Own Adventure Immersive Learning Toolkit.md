@@ -28,8 +28,6 @@ image: /images/ILT/ILT Image Mockup.gif
 <center><a href="https://go.gov.sg/cyoaguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://go.gov.sg/cyoateachersguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
-<center><h3>Text-based Sample</h3></center>
-
 <details>
 	<summary><font style="color:#ff0082;" size="+3">Text-based Sample</font></summary>
 <font size="+1"><center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story, these text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center></font>
@@ -49,8 +47,6 @@ image: /images/ILT/ILT Image Mockup.gif
 
 </details>
 
-<center><h3>Image-based Sample</h3></center>
-
 <details>
 <summary><font style="color:#ff0082;" size="+3">Image-based Sample</font></summary>
 <font size="+1"><center>Similar to the text-based sample, the image-based sample enhances the experience with pictorial tools to aid the imagination of the user to provide an immersive experience to the story.</center></font>
@@ -65,8 +61,6 @@ image: /images/ILT/ILT Image Mockup.gif
 <a href="https://go.gov.sg/cyoaimagesls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-sample-on-SLS.png" style="width:32%; display: inline;"></a></center>
 	
 </details>
-
-<center><h3>Video-based Sample</h3></center>
 
 <details>
 <summary><font style="color:#ff0082;" size="+3">Video-based sample</font></summary>
@@ -92,7 +86,7 @@ image: /images/ILT/ILT Image Mockup.gif
 <center><h3>Boon Lay Secondary School's CYOA Open House Experience</h3></center>
 <center>Ms. Rita Thia, one of the participants of the CYOA-ILT Experience, shared the CYOA-ILT design principles with her colleagues and co-created a CYOA website for prospective students to experience and choose the multiple pathways that would lead them to achieve the school's vision.</center>
 
-<img src="">
+<img src="/images/ILT/boon%20lay%20sec%20cyoa.png">
 
 <center><a href="https://go.gov.sg/blsadventure" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore Teacher Resources.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
 
