@@ -79,12 +79,12 @@ image: /images/ILT/ILT Image Mockup.gif
 	
 <center><a href="https://go.gov.sg/cyoaphuket3" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-editable-sample.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://go.gov.sg/cyoavideosls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-sample-on-SLS.png" style="width:32%; display: inline;"></a></center>
-	
 </details>
+
 ------------------
 
 <center><h2 id="impact">Our Impact</h2></center>
-
+<center><h3>CYOA-ILT Experience at MOE HQ</h3></center>
 <center>Check out our CYOA-ILT Experience, where teacher participants learnt about CYOA design principles. Participants interacted with the samples and ended the day creating their own CYOA activity.</center>
 
 <iframe src="https://docs.google.com/presentation/d/1UtfeV_7cfmIxKjb5Uz6yhLk5ZJdH6AXOElEHekpcD8s/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
