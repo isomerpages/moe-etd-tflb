@@ -81,24 +81,8 @@ table, th, td {
     <td style="text-align: center">How might we craft captivating learning experiences for our students?</td>
   </tr>
   <tr>
-    <td style="text-align: center">CotF-PSB Collaboration on Learning Accessibility</td>
-    <td style="text-align: center">How might we lower barriers of learning for students with challenges in executive functioning? </td>
-  </tr>
-  <tr>
-    <td style="text-align: center">Promoting Self-Directed Metacognitive Thinking</td>
-    <td style="text-align: center">How might we enable students to reflect on their own learning with a means to improve it independently?</td>
-  </tr>
-  <tr>
-  <td style="text-align: center">21CC Navigator</td>
-    <td style="text-align: center">How might we help students to appreciate what they have learnt beyond their academic grades?</td>
-  </tr>
-  <tr>
     <td style="text-align: center"><a href="/sprouts">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td style="text-align: center">How might we help teachers better involve parents in values development in a fun and meaningful way?</td>
-  </tr>
-  <tr>
-    <td style="text-align: center">Student Project Management Tool</td>
-    <td style="text-align: center">How might we leverage technology to support teachers and students in self-directed learning?</td>
   </tr>
 </tbody></table>
 	</div>
@@ -124,10 +108,6 @@ table, th, td {
   <tr>
     <td style="text-align: center"><a href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
     <td style="text-align: center">How might we encourage students to participate more actively in class?</td>
-  </tr>
-  <tr>
-    <td style="text-align: center">Mood Reflection Platform</td>
-    <td style="text-align: center">How might we help teachers to get a clear sense of their students' varied emotions and readiness to learn in a quick and easy way?</td>
   </tr>
   <tr>
     <td style="text-align: center">Teaching and Learning with Personal Learning Devices (PLDs) in the Classroom</td>
