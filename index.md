@@ -7,7 +7,9 @@ description: A MOE Educational Technology Division, Information Technology
   students.
 image: /images/Logo/CotF logo horizontal.png
 permalink: /
-notification: ""
+notification: Catch some of our upcoming innovations at the <a
+  href="https://www.tcef2023.sg/">Teachers' Conference and ExCEL Fest 2023</a>
+  on 30 May - 1 June!
 sections:
   - hero:
       title: Classroom of the Future
@@ -37,7 +39,7 @@ sections:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: Gather tips and tricks on how to use SLS and other features to
         bring out student voices in classes with diverse learning needs through
-        a series of resources!
+        a set of resources!
       button: Make learning more accessible!
       url: /evs/
       alt: CotF Eliciting Student Voices
@@ -47,7 +49,7 @@ sections:
       description: Tap on ready-made guides, tools, and resources to turn your lessons
         into gamified learning experiences!
       button: Gamify lessons!
-      url: https://sites.google.com/moe.edu.sg/lg21/home
+      url: /lg
       alt: CotF Learning Gamified
       image: /images/Home Page/LGo.png
   - infopic:

@@ -6,7 +6,6 @@ description: Gather tips and tricks on how to use SLS and other features to
   series of resources!
 image: /images/EVS Featured Image.png
 ---
-
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we encourage students to participate more actively in class?</h2></center>
@@ -19,7 +18,7 @@ image: /images/EVS Featured Image.png
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>The <b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a series of resources co-designed with the Psychological Services Branch (PSB).</center>
+<center><b>Eliciting Voices of Students with Diverse Learning Needs (EVS)</b> is a set of resources co-designed with the Psychological Services Branch (PSB).</center>
 <center>With the use of these resources, we hope to help teachers support students with diverse learning needs (e.g. literacy difficulties, challenges in expression), enable them to participate more actively in class, and build their self-confidence.</center>
 
 <center><h3>Resource Guide featuring SLS</h3></center>
@@ -66,3 +65,7 @@ image: /images/EVS Featured Image.png
 <center><blockquote><i>"The (EVS) resource guide highlights tools such as the text-to-speech function. (The use of such tools) is useful for students with literacy needs as they can listen to the instructions instead of struggling through the reading process." - TRANSIT Teacher</i></blockquote></center>
 
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/48ecf4c2-ac17-4386-a69d-368b3f6ce570/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>

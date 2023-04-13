@@ -40,7 +40,7 @@ link to resource below:
 Embed relevant resources below:
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
 
-<center><blockquote><i>insert teacher quote here</i></blockquote></center>
+<center><blockquote><i>"insert teacher quote here" - Primary School Teacher</i></blockquote></center>
 
 insert link to teacher artefact below
 <center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>

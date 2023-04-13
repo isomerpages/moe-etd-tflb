@@ -4,7 +4,6 @@ permalink: /sourcefinder/
 description: ""
 image: /images/Source Finder/SF Featured Image Mockup.png
 ---
-
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Prototype</a></h4></center>
 
 <center><h2>How might we help teachers to save time in finding good resources to use in the classroom?</h2></center>
@@ -25,3 +24,7 @@ image: /images/Source Finder/SF Featured Image Mockup.png
 <center>Share your email in the form below to get early access to our prototype!</center>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe5dTxlXr-R3di2aUUB-qVcphgP7Wz785RZSzN0IHZlgQQbhw/viewform?embedded=true" width="100%" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
