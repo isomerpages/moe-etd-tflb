@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>How might we help students to discover, explore, and share their interests beyond the curriculum? </h2></center>
 
-Upload featured image below:
+![](/images/InteresThing/interesthing%20featured%20image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>POV statement</center>
