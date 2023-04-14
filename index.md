@@ -53,6 +53,14 @@ sections:
       alt: CotF Learning Gamified
       image: /images/Home Page/LGo.png
   - infopic:
+      title: Sprouts
+      description: Enhance values-learning beyond class time and get parents and
+        students involved with this conversational toolkit!
+      button: Start values-based conversations!
+      url: /sprouts
+      alt: CotF Sprouts
+      image: /images/Home Page/SPROUTSo.png
+  - infopic:
       title: Source Finder
       subtitle: COMING SOON!
       description: Plug into a teacher community that shares resources for teaching
@@ -61,12 +69,4 @@ sections:
       url: /sourcefinder
       alt: Source Finder
       image: /images/Home Page/sourcefindero.png
-  - infopic:
-      title: Sprouts
-      description: Enhance values-learning beyond class time and get parents and
-        students involved with this conversational toolkit!
-      button: Start values-based conversations!
-      url: /sprouts
-      alt: CotF Sprouts
-      image: /images/Home Page/SPROUTSo.png
 ---
