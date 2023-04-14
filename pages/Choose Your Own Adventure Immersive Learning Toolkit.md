@@ -97,4 +97,4 @@ image: /images/Home Page/ILTo.png
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>
