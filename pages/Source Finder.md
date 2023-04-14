@@ -18,7 +18,7 @@ image: /images/Source Finder/SF Featured Image Mockup.png
 
 <center><h2 id="innovation">Our Prototype</h2></center>
 	
-<center><b>Source Finder</b> is a platform that enables teachers to build a community to share, find and organise resources collectively. It is also a productivity tool for individual teachers to organise their resources efficiently.**</center>
+<center><b>Source Finder</b> is a platform that enables teachers to build a community to share, find and organise resources collectively. It is also a productivity tool for individual teachers to organise their resources efficiently.</center>
 
 <center><h2>Want to find out more?</h2></center>
 <center>Share your email in the form below to get early access to our prototype!</center>
