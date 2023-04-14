@@ -62,7 +62,6 @@ sections:
       image: /images/Home Page/SPROUTSo.png
   - infopic:
       title: InteresThing
-      subtitle: Coming Soon!
       description: Infopic description
       button: Button Text
       url: /interesthing
