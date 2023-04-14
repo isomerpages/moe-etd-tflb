@@ -5,7 +5,7 @@ description: ""
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>HMW question here</h2></center>
+<center><h2>How might we help students to discover, explore, and share their interests beyond the curriculum? </h2></center>
 
 Upload featured image below:
 ![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS/EVS%20Featured%20Image.png)
