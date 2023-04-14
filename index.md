@@ -57,9 +57,10 @@ sections:
       subtitle: COMING SOON!
       description: Plug into a teacher community that shares resources for teaching
         and assessment!
-      button: Button Text
+      button: Onward to curated resources!
       url: /sourcefinder
-      alt: Onward to curated resources!
+      alt: Source Finder
+      image: /images/Home Page/sourcefindero.png
   - infopic:
       title: Sprouts
       description: Enhance values-learning beyond class time and get parents and
