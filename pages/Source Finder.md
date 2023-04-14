@@ -29,19 +29,16 @@ image: /images/Source Finder/SF Featured Image Mockup.png
 
 <center><h2 id="impact">Our Impact</h2></center>
 
+<center>Description of impact</center>
+
 <h1><center>9 out of 10</center></h1>
 <center>surveyed teachers will recommend Source Finder to their colleagues!</center>
 
-<center>Description of impact</center>
+<center><h3>Hear what our teacher users have to say about Source Finder!</h3></center>
 
-<center><h3>Teacher artefact</h3></center>
+<center><blockquote><i>"I logged in to Source Finder to look for new sources to craft activities for my students. Beyond interesting articles, I found the curated categories of sources to be much more meaningful. For example - Australia's Mice Plague, and even on the topic of vape. I certainly did not think of these topics immediately, but seeing these topics appear gave me a bunch of other ideas which I am toying with right now." - Secondary Social Studies Teacher</i></blockquote></center>
 
-<center>Description of teacher artefact</center>
-
-Embed relevant resources below:
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
-
-<center><blockquote><i>"insert teacher quote here" - Primary School Teacher</i></blockquote></center>
+<center><blockquote><i>"Before using Source Finder, I always thought it would be something complex. However, I felt comfortable using it and navigating the different pages. I think it's quite interesting to have a repository of sources for teachers to use. The sources which I saw seem to be pretty unique and can certainly enhance the classroom practices. I think it's also quite fun to have a user-centric platform which helps to build a learning community." - Secondary School History Teacher</i></blockquote></center>
 
 --------
 
