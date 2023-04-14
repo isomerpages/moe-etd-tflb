@@ -59,7 +59,7 @@ sections:
         and assessment!
       button: Button Text
       url: /sourcefinder
-      alt: Image alt text
+      alt: Onward to curated resources!
   - infopic:
       title: Sprouts
       description: Enhance values-learning beyond class time and get parents and
