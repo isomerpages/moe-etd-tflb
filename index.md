@@ -53,6 +53,14 @@ sections:
       alt: CotF Learning Gamified
       image: /images/Home Page/LGo.png
   - infopic:
+      title: Source Finder
+      subtitle: COMING SOON!
+      description: Plug into a teacher community that shares resources for teaching
+        and assessment!
+      button: Button Text
+      url: /sourcefinder
+      alt: Image alt text
+  - infopic:
       title: Sprouts
       description: Enhance values-learning beyond class time and get parents and
         students involved with this conversational toolkit!
