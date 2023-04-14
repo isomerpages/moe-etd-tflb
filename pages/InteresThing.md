@@ -25,7 +25,7 @@ description: ""
 
 <center><h3>Step 3: Share Your Interests</h3></center>
 <img src="/images/InteresThing/interesthing%20padlet.png">
-<center><a href="https://padlet.com/cotf/interesthing-dg7kiz1vrtrr7s5" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/share%20your%20interests.png" style="width:32%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://padlet.com/cotf/interesthing-dg7kiz1vrtrr7s5" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/share%20your%20interests.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
 
