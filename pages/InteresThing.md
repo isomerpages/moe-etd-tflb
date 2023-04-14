@@ -18,6 +18,7 @@ Upload featured image below:
 <center>InteresThing is a toolkit that supports students in discovering, exploring, and sharing, their interests beyond the curriculum.</center>
 
 <center><h3>Interest Discovery Quiz</h3></center>
+<center>Discover your interests through xxx</center>
 <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/927e0d39-290c-4255-9f31-a7e5a5717f3d"></iframe>
 
 <center><h3>RP resources here</h3></center>
