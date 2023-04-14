@@ -66,6 +66,7 @@ sections:
       button: Button Text
       url: /interesthing
       alt: Image alt text
+      image: /images/Home Page/interesthing.png
   - infopic:
       title: Source Finder
       subtitle: COMING SOON!
