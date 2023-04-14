@@ -18,10 +18,10 @@ Upload featured image below:
 <center>InteresThing is a toolkit that supports students in discovering, exploring, and sharing, their interests beyond the curriculum.</center>
 
 <center><h3>Step 1: Discover through the Interest Discovery Quiz</h3></center>
-<iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/927e0d39-290c-4255-9f31-a7e5a5717f3d"></iframe>
+<iframe style="width:100%;height:1000px" src="https://www.checkfirst.gov.sg/c/927e0d39-290c-4255-9f31-a7e5a5717f3d"></iframe>
 
 <center><h3>Step 2: Explore through the Blended Learning Guide</h3></center>
-<iframe style="width:100%;height:500px" src="https://docs.google.com/document/d/e/2PACX-1vQrrSU7362p3OmXdDAhsWhTJ4og6HWZjSdVg5xaXJpryeQX9hBC6OINeqwaZPOOtqFF4vXCgcPFw7tD/pub?embedded=true"></iframe>
+<iframe style="width:100%;height:1000px" src="https://docs.google.com/document/d/e/2PACX-1vQrrSU7362p3OmXdDAhsWhTJ4og6HWZjSdVg5xaXJpryeQX9hBC6OINeqwaZPOOtqFF4vXCgcPFw7tD/pub?embedded=true"></iframe>
 
 <center><h3>Step 3: Share Your Interests</h3></center>
 <img src="/images/InteresThing/interesthing%20padlet.png">
