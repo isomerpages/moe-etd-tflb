@@ -28,7 +28,7 @@ image: /images/Home Page/BBTo.png
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLmDU5S1uvdTG5XtlzPylE2dRBujvYepBkvNWNrYE2HFh0aKjrszQn2pjBQJU1gsL3fPeUh77anYyk/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://sites.google.com/moe.edu.sg/brainboost"><img src="/images/Buttons/BBTButton.png" style="width:40%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://sites.google.com/moe.edu.sg/brainboost" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/BBTButton.png" style="width:40%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
 
@@ -59,4 +59,4 @@ The 5 positive changes we noticed in students during our observations include:</
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>
