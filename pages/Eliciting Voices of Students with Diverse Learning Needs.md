@@ -13,7 +13,7 @@ image: /images/EVS Featured Image.png
 ![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS/EVS%20Featured%20Image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
-<center>Primary school pupils are usually enthusiastic about sharing their views and feelings in class. Often, only a few pupils are chosen. On the other hand, there is also a group of pupils also need more confidence and comfort to share in class. Consequently, teachers are unable to understand every pupil's thoughts, and some pupils stop sharing after repeated disappointments.</center>
+<center>Primary school pupils are usually enthusiastic about sharing their views and feelings in class. However, only a few pupils are chosen. On the other hand, there is also a group of pupils who also need more confidence and comfort to share in class. Consequently, teachers are unable to understand every pupil's thoughts, and some pupils stop sharing after repeated disappointments.</center>
 
 -----------------
 
@@ -46,7 +46,7 @@ image: /images/EVS Featured Image.png
 
 <center><h3>Sembawang Primary School</h3></center>
 
-<center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image feature, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
+<center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image features, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
 
