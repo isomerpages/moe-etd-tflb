@@ -8,7 +8,6 @@ description: ""
 <center><h2>How might we help students to discover, explore, and share their interests beyond the curriculum? </h2></center>
 
 Upload featured image below:
-![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS/EVS%20Featured%20Image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>POV statement</center>
@@ -16,13 +15,14 @@ Upload featured image below:
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Long description of RP here</center>
+<center>InteresThing is a toolkit that supports students in discovering, exploring, and sharing, their interests beyond the curriculum.</center>
+
+<center><h3>Interest Discovery Quiz</h3></center>
+<iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/927e0d39-290c-4255-9f31-a7e5a5717f3d"></iframe>
 
 <center><h3>RP resources here</h3></center>
 
-If relevant, embed a google slide below (autoplays upon loading, moves forward every 10 seconds):
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-
+<center><h3>RP resources here</h3></center>
 link to resource below:
 <center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
