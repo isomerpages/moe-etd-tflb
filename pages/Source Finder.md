@@ -29,6 +29,9 @@ image: /images/Source Finder/SF Featured Image Mockup.png
 
 <center><h2 id="impact">Our Impact</h2></center>
 
+<h1><center>9 out of 10</center></h1>
+<center>surveyed teachers will recommend Source Finder to their colleagues!</center>
+
 <center>Description of impact</center>
 
 <center><h3>Teacher artefact</h3></center>
