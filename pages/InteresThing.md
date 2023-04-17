@@ -10,15 +10,15 @@ description: ""
 ![](/images/InteresThing/interesthing%20featured%20image.png)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
-<center>POV statement</center>
+<center>Curious yet busy secondary school students need a safe space to discover, explore and share their interests beyond the curriculum but are unsure of where to begin and struggle to sustain these interests.</center>
 
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>InteresThing</b> is a toolkit that supports students in discovering, exploring, and sharing, their interests beyond the curriculum.</center>
+<center><b>InteresThing</b> is a toolkit that supports secondary school students in discovering, exploring, and sharing, their interests beyond the curriculum.</center>
 
 <center><h3>Step 1: Discover through the Interest Discovery Quiz</h3></center>
-<iframe style="width:100%;height:1000px" src="https://www.checkfirst.gov.sg/c/927e0d39-290c-4255-9f31-a7e5a5717f3d"></iframe>
+<iframe style="width:100%;height:1000px" src="https://www.checkfirst.gov.sg/c/ddb314c3-b4ff-45e7-bfbc-13d8f07b3e7c"></iframe>
 
 <center><h3>Step 2: Explore through the Blended Learning Guide</h3></center>
 <iframe style="width:100%;height:1000px" src="https://docs.google.com/document/d/e/2PACX-1vQrrSU7362p3OmXdDAhsWhTJ4og6HWZjSdVg5xaXJpryeQX9hBC6OINeqwaZPOOtqFF4vXCgcPFw7tD/pub?embedded=true"></iframe>
