@@ -35,6 +35,8 @@ image: /images/Home Page/sourcefindero.png
 <h1><center>9 out of 10</center></h1>
 <center>surveyed teachers will recommend Source Finder to their colleagues!</center>
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTW8VeID0i-Cgo7B6wF9DgEsJoPJSIMd19pCTQi_F5uWDJhvhslh6l7dCtbYk2FIA/pub?embedded=true"></iframe>
+
 <center><h3>Hear what our teacher users have to say about Source Finder!</h3></center>
 
 <center><blockquote><i>"Beyond interesting articles (in Source Finder), I found the curated categories of sources to be much more meaningful. For example - Australia's Mice Plague, and even on the topic of vape. I certainly did not think of these topics immediately, but seeing these topics appear gave me a bunch of other ideas which I am toying with right now." - Secondary Social Studies Teacher</i></blockquote></center>
