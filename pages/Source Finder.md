@@ -37,9 +37,9 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h3>Hear what our teacher users have to say about Source Finder!</h3></center>
 
-<center><blockquote><i>"I logged in to Source Finder to look for new sources to craft activities for my students. Beyond interesting articles, I found the curated categories of sources to be much more meaningful. For example - Australia's Mice Plague, and even on the topic of vape. I certainly did not think of these topics immediately, but seeing these topics appear gave me a bunch of other ideas which I am toying with right now." - Secondary Social Studies Teacher</i></blockquote></center>
+<center><blockquote><i>"Beyond interesting articles (in Source Finder), I found the curated categories of sources to be much more meaningful. For example - Australia's Mice Plague, and even on the topic of vape. I certainly did not think of these topics immediately, but seeing these topics appear gave me a bunch of other ideas which I am toying with right now." - Secondary Social Studies Teacher</i></blockquote></center>
 
-<center><blockquote><i>"Before using Source Finder, I always thought it would be something complex. However, I felt comfortable using it and navigating the different pages. I think it's quite interesting to have a repository of sources for teachers to use. The sources which I saw seem to be pretty unique and can certainly enhance the classroom practices. I think it's also quite fun to have a user-centric platform which helps to build a learning community." - Secondary School History Teacher</i></blockquote></center>
+<center><blockquote><i>"I always thought it (Source Finder) would be something complex. However, I felt comfortable using it and navigating the different pages… I think it's also quite fun to have a user-centric platform which helps to build a learning community." - Secondary School History Teacher</i></blockquote></center>
 
 --------
 
