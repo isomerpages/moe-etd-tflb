@@ -13,7 +13,7 @@ description: ""
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>InteresThing</b> is a toolkit that supports secondary school students in discovering, exploring, and sharing, their interests beyond the curriculum.</center>
+<center><b>InteresThing</b> is a toolkit for secondary school students to discover, explore, and share about their interests beyond the curriculum.</center>
 
 <center><h3>Step 1: Discover through the Interest Discovery Quiz</h3></center>
 <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/ddb314c3-b4ff-45e7-bfbc-13d8f07b3e7c"></iframe>
