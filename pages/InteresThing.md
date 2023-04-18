@@ -7,8 +7,6 @@ description: ""
 
 <center><h2>How might we help students to discover, explore, and share their interests beyond the curriculum? </h2></center>
 
-![](/images/InteresThing/interesthing%20featured%20image.png)
-
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Curious yet busy secondary school students need a safe space to discover, explore and share their interests beyond the curriculum but are unsure of where to begin and struggle to sustain these interests.</center>
 
@@ -31,7 +29,7 @@ description: ""
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Description of impact</center>
+<center>More quotes will be added after the student survey on the interest discovery quiz!</center>
 
 <center><blockquote><i>"I like to sketch, and looking through some of my peers’ work, I realised we have the same interest. Maybe I can learn from them." - Secondary X Student</i></blockquote></center>
 
