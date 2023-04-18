@@ -29,7 +29,7 @@ description: ""
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>More quotes will be added after the student survey on the interest discovery quiz!</center>
+<center>(More quotes will be added after the student survey on the interest discovery quiz.)</center>
 
 <center><blockquote><i>"I like to sketch, and looking through some of my peers’ work, I realised we have the same interest. Maybe I can learn from them." - Secondary X Student</i></blockquote></center>
 
