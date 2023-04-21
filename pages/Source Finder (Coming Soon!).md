@@ -32,8 +32,8 @@ image: /images/Home Page/sourcefindero.png
 
 <center>Not only has Source Finder helped teachers to save time, it has also inspired them to explore new topics to better benefit their students!</center>
 
-<h1><center>9 out of 10</center></h1>
-<center>Teachers gave this rating on how willing they were to recommend Source Finder to their colleagues!</center>
+<h1><center>Teachers gave a <br>9 out of 10</center></h1>
+<center>for whether they will recommend SF to their colleagues!</center>
 
 <center><h3>Take a look at this resource that a teacher created with the help of Source Finder!</h3></center>
 
