@@ -30,9 +30,8 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Not only has Source Finder helped teachers to save time, it has also inspired them to explore new topics to better benefit their students!</center>
-
-<h1><center>Teachers gave a <br>9 out of 10</center></h1>
+<center>Not only has Source Finder helped teachers to save time, it has also inspired them to explore new topics to better benefit their students! Teachers gave a </center>
+<center><h1>9 out of 10</h1></center>
 <center>for whether they will recommend Source Finder to their colleagues!</center>
 
 <center><h3>Take a look at this resource that a teacher created with the help of Source Finder!</h3></center>
