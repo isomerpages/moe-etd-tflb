@@ -8,7 +8,7 @@ image: /images/CotF logo resize.png
 ---
 <center><img src="/images/Logo/CotF%20logo%20resize.png" style="width:40%; display: inline; margin-right:0.5rem"></center>
 
-The Classroom of the Future (CotF) is a MOE [Educational Technology Division](https://www.sgdi.gov.sg/ministries/moe/departments/etd), [Information Technology Division](https://www.sgdi.gov.sg/ministries/moe/departments/itd), and [Government Technology Agency](https://www.sgdi.gov.sg/ministries/pmo/statutory-boards/govtech) innnovation incubator which leverages design thinking and other human-centric methodologies to redesign the teaching and learning experience for students and teachers to meet current and future needs.
+The Classroom of the Future (CotF) is a MOE [Educational Technology Division](https://www.sgdi.gov.sg/ministries/moe/departments/etd), [Information Technology Division](https://www.sgdi.gov.sg/ministries/moe/departments/itd), and [Government Technology Agency](https://www.sgdi.gov.sg/ministries/pmo/statutory-boards/govtech) innovation incubator which leverages design thinking and other human-centric methodologies to redesign the teaching and learning experience for students and teachers to meet current and future needs.
 
 CotF innovations enhance teaching and learning to help students to be future-ready, preparing them for an increasingly complex, interconnected, and tech-driven world.
 
