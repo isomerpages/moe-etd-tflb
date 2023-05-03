@@ -47,7 +47,7 @@ Willing parents who find it awkward to talk about values in abstraction need hel
 
 ------
 
-<center>Teachers love Sprouts too! Hear what they have to say:</center>
+<h3><center>Teachers love Sprouts too! Hear what they have to say!</center></h3>
 
 <center><blockquote><i>"These are the values I now know that the student has learnt, after this project. Now, it’s like everything is linked." - Primary 4 Teacher</i></blockquote></center>
 

@@ -1,7 +1,8 @@
 ---
 title: Collaborate with Us
 permalink: /collaborate/
-description: ""
+description: We’d be more than excited to collaborate with you and your team.
+  Indicate your interest below!
 ---
 <center><h4 style="color:#578ffe;"><a href="#opportunity">Our Opportunity Areas</a>  |  <a href="#interest">Submit Your Interest</a></h4></center>
 
@@ -45,7 +46,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-		<td style="text-align: center"><a href="/lg">Learning Gamified</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+		<td style="text-align: center"><a href="/lg" target="_blank" rel="noopener noreferrer">Learning Gamified</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
     <td style="text-align: center">How might we make it easier for teachers to utilise elements of gamification when designing learning experiences?</td>
   </tr>
   <tr>
@@ -73,15 +74,15 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/bbt">Brain Boost Time</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center"><a href="/bbt" target="_blank" rel="noopener noreferrer">Brain Boost Time</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
     <td style="text-align: center">How might we get primary school pupils to their optimal zone of learning?</td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/ilt">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center"><a href="/ilt" target="_blank" rel="noopener noreferrer">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
     <td style="text-align: center">How might we craft captivating learning experiences for our students?</td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/sprouts">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center"><a href="/sprouts" target="_blank" rel="noopener noreferrer">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
     <td style="text-align: center">How might we help teachers better involve parents in values development in a fun and meaningful way?</td>
   </tr>
 </tbody></table>
@@ -106,7 +107,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact">here</a>!</td>
+    <td style="text-align: center"><a href="/evs" target="_blank" rel="noopener noreferrer">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
     <td style="text-align: center">How might we encourage students to participate more actively in class?</td>
   </tr>
   <tr>
@@ -135,7 +136,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/sourcefinder">Source Finder</a></td>
+    <td style="text-align: center"><a href="/sourcefinder" target="_blank" rel="noopener noreferrer">Source Finder</a></td>
     <td style="text-align: center">How might we help teachers to save time in finding good resources to use in the classroom?</td>
   </tr>
 </tbody></table>

@@ -3,7 +3,7 @@ title: Learning Gamified
 permalink: /lg/
 description: Tap on ready-made guides, tools, and resources to turn your lessons
   into gamified learning experiences!
-image: /images/LG/lg featured image.png
+image: /images/Home Page/LGo.png
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
@@ -44,4 +44,4 @@ image: /images/LG/lg featured image.png
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>

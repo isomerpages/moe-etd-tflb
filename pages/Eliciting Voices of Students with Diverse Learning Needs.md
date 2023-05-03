@@ -4,7 +4,7 @@ permalink: /evs/
 description: Gather tips and tricks on how to use SLS and other features to
   bring out student voices in classes with diverse learning needs through a
   series of resources!
-image: /images/EVS Featured Image.png
+image: /images/Home Page/EVSo.png
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
@@ -58,7 +58,7 @@ image: /images/EVS Featured Image.png
 
 <center><h3>St. Anthony's Primary School</h3></center>
 
-<center>Teachers from St Anthony’s Primary School designed a SLS lesson with the use of poll and supporting image feature, and hints to further elicit the voices of students with diverse learning needs.</center>
+<center>Teachers from St Anthony’s Primary School designed a SLS lesson with the use of poll and supporting image features, and hints to further elicit the voices of students with diverse learning needs.</center>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDyf9ekgT-E" height="500" width="100%"></iframe>
 
@@ -68,4 +68,4 @@ image: /images/EVS Featured Image.png
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>

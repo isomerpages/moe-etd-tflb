@@ -60,4 +60,13 @@ sections:
       url: /sprouts
       alt: CotF Sprouts
       image: /images/Home Page/SPROUTSo.png
+  - infopic:
+      title: Source Finder
+      subtitle: COMING SOON!
+      description: Plug into a teacher community that shares resources for teaching
+        and assessment!
+      button: Onward to curated resources!
+      url: /sourcefinder
+      alt: Source Finder
+      image: /images/Home Page/sourcefindero.png
 ---

@@ -35,5 +35,5 @@ CotF innovations enhance teaching and learning to help students to be future-rea
 <h3>Ministry of Education Innergy Award - HQ (Academic) 2022</h3>
 <font size="+1">The award recognises individuals and teams that have successfully developed and implemented innovations, bringing about significant benefits and impact in their workplaces.</font>
 <br><br>
-<font size="+1">Gold: <a href="https://sites.google.com/moe.edu.sg/brainboost/" target="_blank" rel="noopener noreferrer">Brain Boost Time</a></font>
+<font size="+1">Gold: <a href="/bbt" target="_blank" rel="noopener noreferrer">Brain Boost Time</a></font>
 </details>
