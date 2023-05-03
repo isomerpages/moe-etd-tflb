@@ -61,13 +61,6 @@ sections:
       alt: CotF Sprouts
       image: /images/Home Page/SPROUTSo.png
   - infopic:
-      title: InteresThing
-      description: Infopic description
-      button: Button Text
-      url: /interesthing
-      alt: Image alt text
-      image: /images/Home Page/interesthing.png
-  - infopic:
       title: Source Finder
       subtitle: COMING SOON!
       description: Plug into a teacher community that shares resources for teaching
