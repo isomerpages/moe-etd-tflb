@@ -19,6 +19,12 @@ sections:
   - infobar:
       title: Our Innovations
   - infopic:
+      title: 21CC Navigator
+      description: Infopic description
+      button: Button Text
+      url: /21ccnavigator
+      alt: Image alt text
+  - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
       description: Get your pupils to their optimal zone of learning -  especially
@@ -75,10 +81,4 @@ sections:
       url: /sourcefinder
       alt: Source Finder
       image: /images/Home Page/sourcefindero.png
-  - infopic:
-      title: 21CC Navigator
-      description: Infopic description
-      button: Button Text
-      url: /21ccnavigator
-      alt: Image alt text
 ---
