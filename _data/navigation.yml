@@ -5,6 +5,8 @@ links:
   - title: Our Innovations
     url: /
     sublinks:
+      - title: 21CC Navigator
+        url: /21ccnavigator
       - title: Brain Boost Time
         url: /bbt
       - title: Eliciting Voices of Students
@@ -19,8 +21,6 @@ links:
         url: /sprouts
       - title: Source Finder (Coming Soon!)
         url: /sourcefinder
-      - title: 21CC Navigator
-        url: /21ccnavigator
   - title: Our Videos
     url: https://youtube.com/@classroomofthefuturesg
   - title: Contact Us
