@@ -45,6 +45,12 @@ sections:
       alt: CotF Eliciting Student Voices
       image: /images/Home Page/EVSo.png
   - infopic:
+      title: InteresThing
+      description: Infopic description
+      button: Button Text
+      url: /interesthing
+      image: /images/Home Page/interesthing.png
+  - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
         into gamified learning experiences!
@@ -69,4 +75,10 @@ sections:
       url: /sourcefinder
       alt: Source Finder
       image: /images/Home Page/sourcefindero.png
+  - infopic:
+      title: 21CC Navigator
+      description: Infopic description
+      button: Button Text
+      url: /21ccnavigator
+      alt: Image alt text
 ---
