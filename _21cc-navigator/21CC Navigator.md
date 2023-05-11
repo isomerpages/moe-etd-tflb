@@ -8,7 +8,7 @@ description: ""
 <center><h2>How might we help students to appreciate what they have learnt beyond their academic grades?</h2></center>
 
 ![Welcome to 21CC Navigator](/images/21CC%20Navigator/21cc%20navigator%20featured%20image.gif)
-*Find out more about 21st Century Competencies (21CC) <a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies">here</a>.
+*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener noreferrer">here</a>.
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
@@ -29,9 +29,9 @@ Secondary school students who simply follow what teachers say and do not see a l
 <table>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><img src="/images/21CC%20Navigator/identify%20growth.png" style="width:25%"><br>enables students to <b>identify</b> their individual strengths and areas to work on</td>
-			<td style="text-align: center"><img src="/images/21CC%20Navigator/pathways.png" style="width:45%"><br><b>suggests pathways</b> for students to reach their 21CC goals</td>
-			<td style="text-align: center"><img src="/images/21CC%20Navigator/next%20step.png" style="width:40%"><br><b>encourages</b> students to take the <b>next step</b> in developing their 21CC</td>
+			<td style="text-align: center"><img style="width:25%" src="/images/21CC%20Navigator/identify%20growth.png"><br>enables students to <b>identify</b> their individual strengths and areas to work on</td>
+			<td style="text-align: center"><img style="width:45%" src="/images/21CC%20Navigator/pathways.png"><br><b>suggests pathways</b> for students to reach their 21CC goals</td>
+			<td style="text-align: center"><img style="width:40%" src="/images/21CC%20Navigator/next%20step.png"><br><b>encourages</b> students to take the <b>next step</b> in developing their 21CC</td>
 		</tr>
 	</tbody>
 </table>
@@ -39,14 +39,14 @@ Secondary school students who simply follow what teachers say and do not see a l
 </center>
 
 <center>21CC Navigator seeks to motivate students and gamify their 21CC journey through these key features:</center>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="1280" height="749" allowfullscreen="true"></iframe>
 
 <center><h3>21CC Navigator Onboarding Course</h3></center>
 
 IMAGE HERE
 
-<center><a rel="noopener noreferrer" target="_blank" href="https://for.edu.sg/sprouts"><img style="width:45%; display: inline;" src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png"></a>
-<a rel="noopener noreferrer" target="_blank" href="/sprouts/teacher"><img style="width:34%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center>
+<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
+<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
 
 ------------------
 
@@ -71,4 +71,4 @@ IMAGE HERE
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center>
