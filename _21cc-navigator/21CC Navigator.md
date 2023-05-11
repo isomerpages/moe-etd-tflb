@@ -53,17 +53,11 @@ IMAGE HERE
 	<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities related to their 21CC development.</li>
 </ul>
 
-<center><h3>Teacher artefact</h3></center>
+<center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
 
-<center>Description of teacher artefact</center>
+<center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary X Student</i></blockquote></center>
 
-Embed relevant resources below:
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
-
-<center><blockquote><i>"insert teacher quote here" - Primary School Teacher</i></blockquote></center>
-
-insert link to teacher artefact below
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
+<center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary X Student</i></blockquote></center>
 
 --------
 
