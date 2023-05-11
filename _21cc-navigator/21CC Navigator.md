@@ -25,7 +25,7 @@ Secondary school students who simply follow what teachers say and do not see a l
 	<tbody>
 		<tr>
 			<td style="text-align: center"><img src="/images/21CC%20Navigator/identify%20growth.png" style="width:35%">enables students to identify their individual strengths and areas to work on</td>
-			<td style="text-align: center"><img src="/images/21CC%20Navigator/pathways.png" style="width:40%">suggests pathways for students to reach their 21CC goals</td>
+			<td style="text-align: center"><img src="/images/21CC%20Navigator/pathways.png" style="width:50%">suggests pathways for students to reach their 21CC goals</td>
 			<td style="text-align: center"><img src="/images/21CC%20Navigator/next%20step.png" style="width:40%">encourages students to take the next step in developing their 21CC</td>
 		</tr>
 	</tbody>
@@ -35,10 +35,9 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <center>21CC Navigator seeks to motivate students and gamify their 21CC journey through these key features:</center>
 
-<center><h3>RP resources here</h3></center>
+<center><h3>21CC Navigator Onboarding Course</h3></center>
 
-If relevant, embed a google slide below (autoplays upon loading, moves forward every 10 seconds):
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+IMAGE HERE
 
 link to resource below:
 <center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
