@@ -8,7 +8,7 @@ description: ""
 <center><h2>How might we help students to appreciate what they have learnt beyond their academic grades?</h2></center>
 
 ![Welcome to 21CC Navigator](/images/21CC%20Navigator/21cc%20navigator%20featured%20image.gif)
-*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies">here</a>.
+<center>*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies">here</a>.</center>
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Passionate but pragmatic secondary school teacher needs to help students see the value of developing future skills beyond academic results. 
@@ -46,8 +46,8 @@ IMAGE HERE
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Through our user testing journey, we found that:</center>
-Students
+<h3><center>On Students</center></h3>
+
 <center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary X Student</i></blockquote></center>
 
 <center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary X Student</i></blockquote></center>
@@ -56,7 +56,9 @@ Students
 	<li>Students reported a greater awareness of 21CC and were motivated to learn more about 21CC and hone their future-ready skills.</li>
 	<li>Students shared that the use of 21CC Navigator enabled organic social interaction and support between teacher-student, student-student, and student-family.</li>
 	</ul>
-	<center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
+
+<h3><center>On Teachers</center></h3>
+<center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
 <ul>
 	<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities related to their 21CC development.</li>
 </ul>
