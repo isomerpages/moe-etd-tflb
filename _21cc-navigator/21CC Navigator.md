@@ -46,7 +46,11 @@ IMAGE HERE
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>Description of impact</center>
+<center>Through our user testing journey, we found that:</center>
+Students reported a greater awareness of 21CC and were motivated to learn more about 21CC and hone their future-ready skills.
+Students shared that the use of 21CC Navigator enabled organic social interaction and support between teacher-student, student-student, and student-family.
+While teachers took time to incorporate SETAGO! into their teaching practices, they observed that their students were better able to understand how their school work and activities related to their 21CC development.
+
 
 <center><h3>Teacher artefact</h3></center>
 
