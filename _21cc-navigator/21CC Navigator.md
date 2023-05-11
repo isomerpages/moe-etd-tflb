@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>How might we help students to appreciate what they have learnt beyond their academic grades</h2></center>
 
-
+![Welcome to 21CC Navigator](/images/21CC%20Navigator/21cc%20navigator%20featured%20image.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>POV statement</center>
