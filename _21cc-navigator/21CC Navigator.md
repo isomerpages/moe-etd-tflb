@@ -19,6 +19,18 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center>21CC Navigator is a self-paced personal growth tool that:
+<div style="overflow-x:auto;">
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:35%">enables students to identify their individual strengths and areas to work on</td>
+			<td style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:40%">suggests pathways for students to reach their 21CC goals</td>
+			<td style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:40%">encourages students to take the next step in developing their 21CC</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+	
 
 </center>
 
