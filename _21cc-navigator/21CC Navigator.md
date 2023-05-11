@@ -34,6 +34,7 @@ Secondary school students who simply follow what teachers say and do not see a l
 </center>
 
 <center>21CC Navigator seeks to motivate students and gamify their 21CC journey through these key features:</center>
+WIP
 
 <center><h3>21CC Navigator Onboarding Course</h3></center>
 
