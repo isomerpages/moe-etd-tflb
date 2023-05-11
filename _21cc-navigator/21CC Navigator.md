@@ -18,7 +18,9 @@ Secondary school students who simply follow what teachers say and do not see a l
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>Long description of RP here</center>
+<center>21CC Navigator is a self-paced personal growth tool that:
+
+</center>
 
 <center><h3>RP resources here</h3></center>
 
