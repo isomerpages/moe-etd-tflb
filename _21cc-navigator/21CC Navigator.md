@@ -58,9 +58,9 @@ IMAGE HERE
 
 <h3><center>On Students</center></h3>
 
-<center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary X Student</i></blockquote></center>
+<center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</i></blockquote></center>
 
-<center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary X Student</i></blockquote></center>
+<center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</i></blockquote></center>
 
 <ul>
 	<li>Students reported a greater awareness of 21CC and were motivated to learn more about 21CC and hone their future-ready skills.</li>
