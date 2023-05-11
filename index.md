@@ -20,8 +20,9 @@ sections:
       title: Our Innovations
   - infopic:
       title: 21CC Navigator
-      description: Infopic description
-      button: Button Text
+      description: Make 21CC visible through a gamified self-paced personal growth
+        tool on SLS!
+      button: Gamify and monitor 21CC!
       url: /21ccnavigator
       alt: Image alt text
   - infopic:
