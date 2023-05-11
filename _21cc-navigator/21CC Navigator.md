@@ -8,6 +8,7 @@ description: ""
 <center><h2>How might we help students to appreciate what they have learnt beyond their academic grades?</h2></center>
 
 ![Welcome to 21CC Navigator](/images/21CC%20Navigator/21cc%20navigator%20featured%20image.gif)
+*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies">here</a>.
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Passionate but pragmatic secondary school teacher needs to help students see the value of developing future skills beyond academic results. 
