@@ -38,6 +38,10 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
+<center><h3>Overview of 21CC Navigator’s Student Flow</h3></center>
+
+IMAGE HERE
+
 <center><h3>21CC Navigator Onboarding Course</h3></center>
 
 IMAGE HERE
