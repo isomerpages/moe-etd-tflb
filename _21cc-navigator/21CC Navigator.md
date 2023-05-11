@@ -24,9 +24,9 @@ Secondary school students who simply follow what teachers say and do not see a l
 <table>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><img src="/images/21CC%20Navigator/identify%20growth.png" style="width:25%">enables students to identify their individual strengths and areas to work on</td>
-			<td style="text-align: center"><img src="/images/21CC%20Navigator/pathways.png" style="width:50%">suggests pathways for students to reach their 21CC goals</td>
-			<td style="text-align: center"><img src="/images/21CC%20Navigator/next%20step.png" style="width:40%">encourages students to take the next step in developing their 21CC</td>
+			<td style="text-align: center"><img src="/images/21CC%20Navigator/identify%20growth.png" style="width:25%">enables students to <b>identify</b> their individual strengths and areas to work on</td>
+			<td style="text-align: center"><img src="/images/21CC%20Navigator/pathways.png" style="width:50%"><b>suggests pathways</b> for students to reach their 21CC goals</td>
+			<td style="text-align: center"><img src="/images/21CC%20Navigator/next%20step.png" style="width:40%"><b>encourages</b> students to take the <b>next step</b> in developing their 21CC</td>
 		</tr>
 	</tbody>
 </table>
