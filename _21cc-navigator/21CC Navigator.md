@@ -39,9 +39,8 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 IMAGE HERE
 
-link to resource below:
-<center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
+<center><a rel="noopener noreferrer" target="_blank" href="https://for.edu.sg/sprouts"><img style="width:45%; display: inline;" src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png"></a>
+<a rel="noopener noreferrer" target="_blank" href="/sprouts/teacher"><img style="width:34%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center>
 
 ------------------
 
