@@ -11,6 +11,7 @@ description: ""
 *Find out more about 21st Century Competencies (21CC) <a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies">here</a>.
 
 <center><h2 id="discovery">Our Discovery</h2></center>
+
 <center>Passionate but pragmatic secondary school teacher needs to help students see the value of developing future skills beyond academic results. 
 <br><br>
 Secondary school students who simply follow what teachers say and do not see a link between what they learn in school and how it will help them in the future.
@@ -34,7 +35,7 @@ Secondary school students who simply follow what teachers say and do not see a l
 </center>
 
 <center>21CC Navigator seeks to motivate students and gamify their 21CC journey through these key features:</center>
-WIP
+
 
 <center><h3>21CC Navigator Onboarding Course</h3></center>
 
