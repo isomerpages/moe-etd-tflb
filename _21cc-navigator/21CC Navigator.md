@@ -5,7 +5,7 @@ description: ""
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>How might we help students to appreciate what they have learnt beyond their academic grades</h2></center>
+<center><h2>How might we help students to appreciate what they have learnt beyond their academic grades?</h2></center>
 
 ![Welcome to 21CC Navigator](/images/21CC%20Navigator/21cc%20navigator%20featured%20image.gif)
 
@@ -30,9 +30,9 @@ Secondary school students who simply follow what teachers say and do not see a l
 	</tbody>
 </table>
 </div>
-	
-
 </center>
+
+<center>21CC Navigator seeks to motivate students and gamify their 21CC journey through these key features:</center>
 
 <center><h3>RP resources here</h3></center>
 
