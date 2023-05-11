@@ -45,6 +45,13 @@ IMAGE HERE
 <center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
 <a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
 
+<center><h3>21CC Quests</h3></center>
+
+IMAGE HERE
+
+<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
+<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
+
 ------------------
 
 <center><h2 id="impact">Our Impact</h2></center>
