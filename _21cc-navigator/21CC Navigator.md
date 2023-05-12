@@ -40,10 +40,10 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <center><h3>Overview of 21CC Navigator’s Student Flow</h3></center>
 
-IMAGE HERE
+![21CC Navigator Student Flow](/images/21CC%20Navigator/21cc%20navigator%20user%20flow.png)
 
-<center><h3>Student Flow 1: 21CC Navigator Onboarding Course</h3></center>
-
+<center><h3>Welcome to your 21CC journey!</h3></center>
+<center>Kickstart your students' 21CC journey in SLS through the <b>Welcome to 21CC Navigator! Onboarding Course</b>!</center>
 IMAGE HERE
 
 <center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
