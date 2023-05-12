@@ -42,16 +42,35 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 ![21CC Navigator Student User Flow](/images/21CC%20Navigator/21cc%20navigator%20student%20user%20flow.png)
 
-<center><h3>Welcome to your 21CC journey!</h3></center>
+<center><h3>1. Welcome to your 21CC journey!</h3></center>
 <center>Kickstart your students' 21CC journey in SLS through the <b>Welcome to 21CC Navigator! Onboarding Course</b>!</center>
 IMAGE HERE
 
 <center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
 <a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
 
-<center><h3>Experience 21CC in your learning! Challenge yourself with 21CC Quests!</h3></center>
-<center>Help your students' 21CC journey in SLS through the <b>Welcome to 21CC Navigator! Onboarding Course</b>!</center>
-embed
+<center><h3>2. Challenge yourself with 21CC Quests!</h3></center>
+XXX
+
+<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
+<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
+
+<center><h3>3. Explore your 21CC journey beyond school!</h3></center>
+XXX
+
+<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
+<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
+
+
+<center><h3>4. Explore your 21CC journey in school events!</h3></center>
+XXX
+
+<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
+<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
+
+
+<center><h3>5. Explore your 21CC journey in your learning!</h3></center>
+XXX
 
 <center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
 <a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
