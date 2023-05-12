@@ -65,6 +65,8 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <center><h2 id="impact">Our Impact</h2></center>
 
+
+
 <h3><center>On Students</center></h3>
 
 <center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</i></blockquote></center>
