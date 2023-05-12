@@ -42,38 +42,24 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMuTCMlD7MhpAnjw3OD6eHkxe6zqPLePSYu7_bwSu4SwLytFrLRSA6ET_aB8hkBg/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><h3>1. Welcome to your 21CC journey!</h3></center>
-<center>Kickstart your students' 21CC journey in SLS through the <b>Welcome to 21CC Navigator! Onboarding Course</b>!</center>
-IMAGE HERE
+<details>
+	<summary><font style="color:#ff0082;" size="+2">Text-based Sample</font></summary>
+<font size="+1"><center>Similar to old-school books where readers flip to a page number when making a decision for the character in a story, these text-based samples mimic the same experience in a digital way without the need to flip through a physical book.</center></font>
 
-<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
-<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
+<center><h4>Google Form Sample</h4></center>
+<center><iframe marginwidth="0" marginheight="0" frameborder="0" height="700" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSexHf8yQT9w13i76-TMikYlzIkbTUii3U6VOa3d07d_nPRoZw/viewform?embedded=true">Loading…</iframe></center>
+	
+<center><a href="https://go.gov.sg/cyoaphuket1a" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-editable-sample.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+<a href="https://go.gov.sg/cyoagoogleformsls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-sample-on-SLS.png" style="width:32%; display: inline;"></a></center>
 
-<center><h3>2. Challenge yourself with 21CC Quests!</h3></center>
-XXX
+<center><h4>Typeform Sample</h4></center>
 
-<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
-<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
+<img src="/images/ILT/Screenshot%202022-11-21.png">
 
-<center><h3>3. Explore your 21CC journey beyond school!</h3></center>
-XXX
+<center><a href="https://go.gov.sg/cyoaphuket1" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-editable-sample.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+<a href="https://go.gov.sg/cyoatextsls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-sample-on-SLS.png" style="width:32%; display: inline;"></a></center>
 
-<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
-<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
-
-
-<center><h3>4. Explore your 21CC journey in school events!</h3></center>
-XXX
-
-<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
-<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
-
-
-<center><h3>5. Explore your 21CC journey in your learning!</h3></center>
-XXX
-
-<center><a href="https://for.edu.sg/sprouts" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Assign%20your%20students%20Sprouts%20on%20SLS.png" style="width:45%; display: inline;"></a>
-<a href="/sprouts/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:34%; display: inline;"></a></center>
+</details>
 
 ------------------
 
