@@ -49,9 +49,9 @@ Secondary school students who simply follow what teachers say and do not see a l
 <center><h2 id="impact">Our Impact</h2></center>
 
 <ul>
-	<li>Students reported a greater awareness of 21CC and were motivated to learn more about 21CC and hone their future-ready skills.</li>
-	<li>Students shared that the use of 21CC Navigator enabled organic social interaction and support between teacher-student, student-student, and student-family.</li>
-		<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities related to their 21CC development.</li>
+	<li>Students reported a <b>greater awareness of 21CC</b> and were <b>motivated</b> to learn more about 21CC and hone their future-ready skills.</li>
+	<li>Students shared that the use of 21CC Navigator enabled <b>organic social interaction and support</b> between teacher-student, student-student, and student-family.</li>
+		<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities <b>related to their 21CC development</b>.</li>
 	</ul>
 
 <center><h1>80% of students</h1></center>
