@@ -61,12 +61,10 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</i></blockquote></center>
 
+<center><blockquote><i>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</i></blockquote></center>
+
 <center><h1>90% of teachers</h1></center>
 <center>found that 21CC Navigator helped them to better understand how 21CC is present in their everyday teaching and interactions with students.</center>
-
-<ul>
-
-</ul>
 
 <center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
 
