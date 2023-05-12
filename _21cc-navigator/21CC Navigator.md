@@ -65,7 +65,8 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-
+<center><h1>80% of students</h1></center>
+<center>that tested 21CC Navigator believe that 21CC Navigator supports them in developing 21CC in school.</center>
 
 <h3><center>On Students</center></h3>
 
