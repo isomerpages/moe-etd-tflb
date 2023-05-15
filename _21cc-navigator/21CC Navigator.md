@@ -55,7 +55,7 @@ Secondary school students who simply follow what teachers say and do not see a l
 	</ul>
 
 <center><h1>80% of students</h1></center>
-<center><p style="color:#ff0082;">that tested 21CC Navigator believe that 21CC Navigator <b>supports them in developing 21CC in school</b>.</p></center>
+<center><p style="color:#ff0082;">believe that 21CC Navigator <b>supports them in developing 21CC</b> in school.</p></center>
 	
 <center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</i></blockquote></center>
 
