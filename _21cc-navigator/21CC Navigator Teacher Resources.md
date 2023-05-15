@@ -43,3 +43,5 @@ description: ""
 -------
 
 <center><h3>Step 6: Go through student guides if necessary</h3></center>
+
+<center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/student"><img style="width:35%; display: inline;" src="/images/Buttons/explore%20student%20resources.png"></a></center>
