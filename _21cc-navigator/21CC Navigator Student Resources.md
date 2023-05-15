@@ -11,10 +11,11 @@ description: ""
 
 -------
 
-<center><h3>Step 2: How to Follow the 21CC Subject Guide for Students</h3></center>
+<center><h3>Step 2: Check out your 21CC Learning Progress</h3></center>
 
-X
-<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzI6hhoAe_DUf7NqCOjzM1bP53mj17kMYl-EFd3HdzrFfbCpRIxTTBUF9D4brhBw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+
+<center><a href="https://docs.google.com/presentation/d/1CLei5nQTYUPrzTc5x-bQDpRNGZ9_fnO_/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
