@@ -26,7 +26,7 @@ description: ""
 
 -------
 
-<center><h3>Step 4: Onboard your Students using the Student Onboarding Slide Deck for Teachers </h3></center>
+<center><h3>Step 4: Onboard your students through the Student Onboarding Slide Deck for Teachers </h3></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMACOVHau2C13HIdmu5fdz-4oS1L3BIfkPK12zoIMFrcgUlcf1lAbipD0hP_H_Iw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
@@ -34,7 +34,7 @@ description: ""
 
 -------
 
-<center><h3>Step 5: Tag your SLS Resources to 21cc using the Step-by-Step Guide to Tagging 21CC on SLS</h3></center>
+<center><h3>Step 5: Tag your SLS Resources to 21CC</h3></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTctd7FuhNOdF_EoZ7fc45nE3X-YLr6ye_EUisINZtYuCGmAw-jQWsEQYUeol0kLQ/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
