@@ -15,7 +15,7 @@ description: ""
 
 ![Welcome to 21CC Navigator Onboarding Course](/images/21CC%20Navigator/welcome%20to%2021cc%20navigator%20course.gif)
 
-<center><a href="/images/Buttons/assign%20your%20students%2021cc%20n.png" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/my-library/lesson/view/c281a2ab-9257-4815-ac64-1c16aca0a625/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%2021cc%20n.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
