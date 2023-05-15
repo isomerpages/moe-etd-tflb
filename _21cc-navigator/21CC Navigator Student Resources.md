@@ -3,7 +3,7 @@ title: 21CC Navigator Student Resources
 permalink: /21ccnavigator/student/
 description: ""
 ---
-<center><h3>Step 1: Follow 21CC under "My Subjects</h3></center>
+<center><h3>Step 1: Follow 21CC under "My Subjects"</h3></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRH7Or0D5Y0CZ84OwuC0Ywudq67zDNgLdHuI4NAIogAhCIqj2pT5zKx_Y7Hkkr7qw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
