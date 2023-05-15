@@ -42,6 +42,8 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMuTCMlD7MhpAnjw3OD6eHkxe6zqPLePSYu7_bwSu4SwLytFrLRSA6ET_aB8hkBg/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
+![21CC N student user flow](/images/21CC%20Navigator/21cc%20n%20student%20user%20flow.png)
+
 <center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/teacher"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center> Explore student resources button to be added.
 
 ------------------
