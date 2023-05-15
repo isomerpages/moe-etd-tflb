@@ -22,7 +22,7 @@ X
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpBw3QNAoPpRnCBminfoCVxdYgI3lwH6EWXEpF8AZHMfnvFj6kKZ5FD_jrCPAn5w/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
+<center><a href="https://docs.google.com/presentation/d/1kspPxhkrXzFCITJacczbBG8BtvZzeLbr/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
