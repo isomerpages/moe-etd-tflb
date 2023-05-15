@@ -6,21 +6,21 @@ description: ""
 <center><h3>Step 1: 21CC Learning Progress Guide for Students</h3></center>
 
 X
-<center><a rel="noopener noreferrer" target="_blank" href="/files/Sprouts%20Poster%20Guide%20for%20Teachers.pdf"><img style="width:35%; display: inline;" src="/images/Buttons/download-the-guide.png"></a><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/0c950a52-a7e0-486a-bc4d-d8c0ba256b98/cover"><img style="width:65%; display: inline;" src="/images/Buttons/assign%20your%20students%20sprouts%20cce.png"></a></center>
+<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
 <center><h3>Step 2: How to Follow the 21CC Subject Guide for Students</h3></center>
 
 X
-<center><a rel="noopener noreferrer" target="_blank" href="/files/Sprouts%20Poster%20Guide%20for%20Teachers.pdf"><img style="width:35%; display: inline;" src="/images/Buttons/download-the-guide.png"></a><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/0c950a52-a7e0-486a-bc4d-d8c0ba256b98/cover"><img style="width:65%; display: inline;" src="/images/Buttons/assign%20your%20students%20sprouts%20cce.png"></a></center>
+<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
 <center><h3>Step 3: How to Search for 21CC Resources Guide for Students</h3></center>
 
 X
-<center><a rel="noopener noreferrer" target="_blank" href="/files/Sprouts%20Poster%20Guide%20for%20Teachers.pdf"><img style="width:35%; display: inline;" src="/images/Buttons/download-the-guide.png"></a><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/0c950a52-a7e0-486a-bc4d-d8c0ba256b98/cover"><img style="width:65%; display: inline;" src="/images/Buttons/assign%20your%20students%20sprouts%20cce.png"></a></center>
+<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
