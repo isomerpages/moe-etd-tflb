@@ -3,12 +3,6 @@ title: 21CC Navigator Teacher Resources
 permalink: /21ccnavigator/teacher/
 description: ""
 ---
-ONBOARDING GUIDE
-
-TAGGING GUIDE
-
-STUDENT ONBOARDING SLIDE DECK (+ FOLLOW SUBJECT SLIDES)
-
 <center><h3>Welcome to 21CC Navigator! Onboarding Course</h3></center>
 
 X
