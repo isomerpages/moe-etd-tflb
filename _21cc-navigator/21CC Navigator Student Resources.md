@@ -3,8 +3,6 @@ title: 21CC Navigator Student Resources
 permalink: /21ccnavigator/student/
 description: ""
 ---
-<center>Teachers may wish to bring your students through the following steps or project this page in class after going through the Student Onboarding Slide Deck.</center>
-
 <center><h3>Step 1: 21CC Learning Progress Guide for Students</h3></center>
 
 X
