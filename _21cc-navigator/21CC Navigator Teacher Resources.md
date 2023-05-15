@@ -39,3 +39,7 @@ description: ""
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTctd7FuhNOdF_EoZ7fc45nE3X-YLr6ye_EUisINZtYuCGmAw-jQWsEQYUeol0kLQ/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center><a href="https://docs.google.com/presentation/d/1KDhwkW5LOCCYXvyJ1EryqiX4Q2aAK-Jb/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
+
+-------
+
+<center><h3>Step 6: Go through student guides if necessary</h3></center>
