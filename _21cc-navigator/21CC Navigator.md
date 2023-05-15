@@ -68,8 +68,8 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
 
-<center><blockquote><i>"Usually 21CC is at the back of my head. You may be teaching these values but you may not know. But now, (after using 21CC Navigator), I'm more conscious about 21CC." - Secondary 2 Mathematics Teacher</i>
+<center><blockquote><i>"Usually 21CC is at the back of my head. You may be teaching these values but you may not know. But now, (after using 21CC Navigator), I'm more conscious about 21CC." - Secondary 2 Mathematics Teacher</i></blockquote></center>
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center></blockquote></center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center>
