@@ -15,7 +15,7 @@ description: ""
 
 ![Welcome to 21CC Navigator Onboarding Course](/images/21CC%20Navigator/welcome%20to%2021cc%20navigator%20course.gif)
 
-<center><a href="/files/Sprouts%20Poster%20Guide%20for%20Teachers.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/0c950a52-a7e0-486a-bc4d-d8c0ba256b98/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%20sprouts%20cce.png" style="width:65%; display: inline;"></a></center>
+<center><a href="/images/Buttons/assign%20your%20students%2021cc%20n.png" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
