@@ -7,7 +7,7 @@ description: ""
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSSZ2kGG1c1vmali3lO9qR5SqHtYfr5S-A70yjOVGfB6q52fizZX52ddu5l1YEvN7xLXR83Jk9MnL58/pub?embedded=true" width="100%" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<center><a href="/files/Sprouts%20Poster%20Guide%20for%20Teachers.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/0c950a52-a7e0-486a-bc4d-d8c0ba256b98/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%20sprouts%20cce.png" style="width:65%; display: inline;"></a></center>
+<center><a href="/files/Sprouts%20Poster%20Guide%20for%20Teachers.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
