@@ -15,7 +15,7 @@ sections:
       title: Classroom of the Future
       subtitle: Redesigning the teaching and learning experience for teachers and
         students
-      background: /images/Home Page/website banner may 2023-3.png
+      background: /images/Home Page/website banner may 2023-1.png
   - infobar:
       title: Our Innovations
   - infopic:
