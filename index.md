@@ -25,7 +25,7 @@ sections:
       button: Gamify and monitor 21CC!
       url: /21ccnavigator
       alt: CotF 21CC Navigator
-      image: /images/Home Page/21ccno.png
+      image: /images/Home Page/21ccno1.png
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
