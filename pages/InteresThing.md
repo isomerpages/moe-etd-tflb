@@ -39,3 +39,7 @@ image: /images/InteresThing/interesthing_blackblue.png
 <center><blockquote><i>"I like to sketch, and looking through some of my peers’ work, I realised we have the same interest. Maybe I can learn from them." - Secondary 2 Student</i></blockquote></center>
 
 <center><blockquote><i>"I learnt about what my classmates have done and some of them piqued my interest." - Secondary 2 Student</i></blockquote></center>
+
+--------
+
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center>
