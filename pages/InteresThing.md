@@ -20,7 +20,7 @@ image: /images/InteresThing/interesthing_blackblue.png
 <center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).</center>
 
 <center><h3>Step 1: Discover</h3></center>
-<center>Initiate your students’ SIL journey with the Interest Discovery Quiz, which provides personalised recommendations based on their interests.</center>
+<center>Initiate your students’ SIL journey with the Interest Discovery Quiz, which provides interest recommendations.</center>
 <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/ddb314c3-b4ff-45e7-bfbc-13d8f07b3e7c"></iframe>
 
 <center><h3>Step 2: Explore</h3></center>
