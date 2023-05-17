@@ -7,7 +7,7 @@ description: ""
 
 <center><h2>How might we help students to appreciate what they have learnt beyond their academic grades?</h2></center>
 
-![Welcome to 21CC Navigator](/images/21CC%20Navigator/21cc%20navigator%20featured%20image.gif)
+![21CCN Featured Image](/images/21CC%20Navigator/21ccn%20featured%20image.gif)
 *Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener noreferrer">here</a>.
 
 <center><h2 id="discovery">Our Discovery</h2></center>
