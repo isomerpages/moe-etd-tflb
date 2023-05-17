@@ -57,6 +57,9 @@ sections:
       url: /interesthing
       image: /images/Home Page/interesthing.png
       alt: CotF InteresThing
+      description: Help students discover, explore, and share their interests beyond
+        the curriculum for Student-Initiated Learning (SIL)!
+      button: Discover, explore, and share!
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
