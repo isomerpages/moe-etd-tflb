@@ -59,7 +59,7 @@ sections:
       alt: CotF InteresThing
       description: Help students discover, explore, and share their interests beyond
         the curriculum for Student-Initiated Learning!
-      button: Discover, explore, & share!
+      button: Discover, explore, and share!
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons
