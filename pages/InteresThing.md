@@ -8,20 +8,23 @@ description: ""
 <center><h2>How might we help students to discover, explore, and share their interests beyond the curriculum? </h2></center>
 
 <center><h2 id="discovery">Our Discovery</h2></center>
-<center>Curious yet busy secondary school students need a safe space to discover, explore and share their interests beyond the curriculum but are unsure of where to begin and struggle to sustain these interests.</center>
+<center>Curious yet busy secondary school students need a safe space to discover, explore and share their interests beyond the curriculum but are unsure where to begin and struggle to sustain these interests.</center>
 
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>InteresThing</b> is a toolkit for secondary school students to discover, explore, and share about their interests beyond the curriculum.</center>
+<center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).</center>
 
-<center><h3>Step 1: Discover through the Interest Discovery Quiz</h3></center>
+<center><h3>Step 1: Discover</h3></center>
+<center>Initiate your students’ SIL journey with the Interest Discovery Quiz, which provides personalised recommendations based on their interests.</center>
 <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/ddb314c3-b4ff-45e7-bfbc-13d8f07b3e7c"></iframe>
 
-<center><h3>Step 2: Explore through the Blended Learning Guide</h3></center>
+<center><h3>Step 2: Explore</h3></center>
+<center>Students can then delve into a curated list of learning experiences and resources for students to explore for SIL.</center>
 <iframe style="width:100%;height:500px" src="https://docs.google.com/document/d/e/2PACX-1vQrrSU7362p3OmXdDAhsWhTJ4og6HWZjSdVg5xaXJpryeQX9hBC6OINeqwaZPOOtqFF4vXCgcPFw7tD/pub?embedded=true"></iframe>
 
-<center><h3>Step 3: Share Your Interests</h3></center>
+<center><h3>Step 3: Share</h3></center>
+<center>Build a community! Here is a selection of recommended tools, including templates and user guides, for you to provide a platform for your students to share their interests, learn from or connect with peers with similar interests.</center>
 <img src="/images/InteresThing/interesthing%20padlet.png">
 <center><a href="https://padlet.com/cotf/interesthing-dg7kiz1vrtrr7s5" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/duplicate%20this%20template.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
@@ -29,8 +32,8 @@ description: ""
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-<center>(More quotes will be added after the student survey on the interest discovery quiz.)</center>
+<center><blockquote><i>"I like that it generates ideas for us to see because it is easier for us to choose our interests for SIL." - Secondary 1 Student</i></blockquote></center>
 
-<center><blockquote><i>"I like to sketch, and looking through some of my peers’ work, I realised we have the same interest. Maybe I can learn from them." - Secondary X Student</i></blockquote></center>
+<center><blockquote><i>"I like to sketch, and looking through some of my peers’ work, I realised we have the same interest. Maybe I can learn from them." - Secondary 2 Student</i></blockquote></center>
 
-<center><blockquote><i>"I learnt about what my classmates have done and some of them piqued my interest." - Secondary X Student</i></blockquote></center>
+<center><blockquote><i>"I learnt about what my classmates have done and some of them piqued my interest." - Secondary 2 Student</i></blockquote></center>
