@@ -21,10 +21,10 @@ image: /images/InteresThing/interesthing_blackblue.png
 
 <center><h3>Step 1: Discover</h3></center>
 <center>Initiate your students’ SIL journey with the Interest Discovery Quiz, which provides interest recommendations.</center>
-<iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/ddb314c3-b4ff-45e7-bfbc-13d8f07b3e7c"></iframe>
+<iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/b9fcb8c8-b8bd-4b68-bbaa-50f577774bb3"></iframe>
 
 <center><h3>Step 2: Explore</h3></center>
-<center>Students can then delve into a curated list of learning experiences and resources for students to explore for SIL.</center>
+<center>Students can then delve into a curated list of learning experiences and resources for students as starting points for their SIL.</center>
 <iframe style="width:100%;height:500px" src="https://docs.google.com/document/d/e/2PACX-1vQrrSU7362p3OmXdDAhsWhTJ4og6HWZjSdVg5xaXJpryeQX9hBC6OINeqwaZPOOtqFF4vXCgcPFw7tD/pub?embedded=true"></iframe>
 
 <center><h3>Step 3: Share</h3></center>
