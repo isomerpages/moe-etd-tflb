@@ -20,15 +20,15 @@ image: /images/InteresThing/interesthing_blackblue.png
 <center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).</center>
 
 <center><h3>Step 1: Discover</h3></center>
-<center>Initiate your students’ SIL journey with the Interest Discovery Quiz, which provides interest recommendations.</center>
+<center>Kick off your students’ SIL journey with the Interest Discovery Quiz, which recommends different interest areas.</center>
 <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/b9fcb8c8-b8bd-4b68-bbaa-50f577774bb3"></iframe>
 
 <center><h3>Step 2: Explore</h3></center>
-<center>Students can then delve into a curated list of learning experiences and resources for students as starting points for their SIL.</center>
+<center>Encourage your students to delve into a curated list of learning experiences and resources as starting points for their SIL. </center>
 <iframe style="width:100%;height:500px" src="https://docs.google.com/document/d/e/2PACX-1vQrrSU7362p3OmXdDAhsWhTJ4og6HWZjSdVg5xaXJpryeQX9hBC6OINeqwaZPOOtqFF4vXCgcPFw7tD/pub?embedded=true"></iframe>
 
 <center><h3>Step 3: Share</h3></center>
-<center>Build a community! Here is a selection of recommended tools, including templates and user guides for you to provide a platform for your students to share their interests, learn from or connect with peers with similar interests.</center>
+<center>Build a community! Here’s a template you can use for your students to share their interests, learn from or connect with peers with similar interests. </center>
 <img src="/images/InteresThing/interesthing%20padlet%20instructions.png">
 <center><a href="https://padlet.com/cotf/interesthing-dg7kiz1vrtrr7s5" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/duplicate%20this%20template.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
