@@ -11,9 +11,8 @@ image: /images/21CC Navigator/21ccnlong.png
 
 ![21CC Navigator Featured Image](/images/21CC%20Navigator/21cc%20navigator%20featured%20image%20cotf.gif)
 
-<br>
 *Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener noreferrer">here</a>.
-
+<br>
 <center><h2 id="discovery">Our Discovery</h2></center>
 
 ![Why 21CC Navigator?](/images/21CC%20Navigator/why%2021cc%20navigator%202.png)
