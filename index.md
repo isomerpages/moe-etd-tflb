@@ -20,9 +20,8 @@ sections:
       title: Our Innovations
   - infopic:
       title: 21CC Navigator
-      description: Make 21st Century Competencies visible through a gamified
-        self-paced personal growth tool on SLS!
-      button: Gamify and monitor 21CC!
+      description: Motivate your students to develop their 21st Century Competencies!
+      button: Gamify and visualise 21CC!
       url: /21ccnavigator
       alt: CotF 21CC Navigator
       image: /images/Home Page/21ccno copy.png
