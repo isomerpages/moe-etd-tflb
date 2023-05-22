@@ -9,7 +9,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 ![21CC Navigator Teacher Onboarding Guide](/images/21CC%20Navigator/21ccn%20teacher%20onboarding%20guide.png)
 
-<center><a href="https://for.edu.sg/21ccnteacherguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a><br>*MOE iCON log in needed</center>
+<center><a href="https://for.edu.sg/21ccnteacherguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a><br>*MOE iCON log in required.</center>
 	
 -------
 
