@@ -7,7 +7,7 @@ image: /images/21CC Navigator/21ccnlong.png
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>How might we help students to appreciate what they have learnt beyond their academic grades?</h2></center>
+<center><h2>How might we help students to appreciate what they are learning beyond their academic grades?</h2></center>
 
 ![21CC Navigator Featured Image](/images/21CC%20Navigator/21cc%20navigator%20featured%20image%20cotf.gif)
 
