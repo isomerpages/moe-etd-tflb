@@ -53,7 +53,7 @@ Secondary school students simply follow what their teachers say, and do not see 
 		<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities <b>related to their 21CC development</b>.</li>
 	</ul>
 
-<center><h2>80% of students</h2></center>
+<center><h2>80% of 130 student testers</h2></center>
 <center><p style="color:#ff0082;">believe that 21CC Navigator <b>supports them in developing 21CC</b> in school.</p></center>
 	
 <center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</i></blockquote></center>
@@ -63,7 +63,7 @@ Secondary school students simply follow what their teachers say, and do not see 
 <center><blockquote><i>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</i></blockquote></center>
 
 <center><h2>73% of teachers</h2></center>
-<center><p style="color:#ff0082;">found that 21CC Navigator helped them to <b>better understand how 21CC is present</b> in their everyday teaching and interactions with students.</p></center>
+<center><p style="color:#ff0082;">who piloted 21CC Navigator with their students found that 21CC Navigator helped them to <b>better understand how 21CC is present</b> in their everyday teaching and interactions with students.</p></center>
 
 <center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
 
