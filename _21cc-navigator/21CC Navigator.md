@@ -20,6 +20,7 @@ image: /images/21CC Navigator/21ccnlong.png
 <center>Passionate but pragmatic secondary school teacher want to help students see the value of going beyond academic results to develop future-ready skills.<br><br>
 Secondary school students simply follow what their teachers say, and do not see a link between what they learn in school and how it will help them in the future.
 </center>
+<br>
 
 -----------------
 <br>
@@ -41,6 +42,7 @@ Secondary school students simply follow what their teachers say, and do not see 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/teacher"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center><center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/student"><img style="width:37%; display: inline;" src="/images/Buttons/explore%20student%20resources.png"></a></center>
+<br>
 
 ------------------
 <br>
