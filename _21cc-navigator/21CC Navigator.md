@@ -11,6 +11,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 ![21CC Navigator Featured Image](/images/21CC%20Navigator/21cc%20navigator%20featured%20image%20cotf.gif)
 
+<br>
 *Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener noreferrer">here</a>.
 
 <center><h2 id="discovery">Our Discovery</h2></center>
@@ -23,7 +24,7 @@ Secondary school students who simply follow what teachers say and do not see a l
 </center>
 
 -----------------
-
+<br>
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center><b>21CC Navigator</b> is a self-paced personal growth tool that:<br><br>
 <div style="overflow-x:auto;">
@@ -41,14 +42,10 @@ Secondary school students who simply follow what teachers say and do not see a l
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><h3>How 21CC Navigator Works for Students</h3></center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMuTCMlD7MhpAnjw3OD6eHkxe6zqPLePSYu7_bwSu4SwLytFrLRSA6ET_aB8hkBg/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-
 <center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/teacher"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center><center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/student"><img style="width:37%; display: inline;" src="/images/Buttons/explore%20student%20resources.png"></a></center>
 
 ------------------
-
+<br>
 <center><h2 id="impact">Our Impact</h2></center>
 
 <ul>
