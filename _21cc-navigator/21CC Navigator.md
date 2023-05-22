@@ -18,9 +18,8 @@ image: /images/21CC Navigator/21ccnlong.png
 
 ![Why 21CC Navigator?](/images/21CC%20Navigator/why%2021cc%20navigator%202.png)
 
-<center>Passionate but pragmatic secondary school teacher needs to help students see the value of developing future skills beyond academic results. 
-<br><br>
-Secondary school students who simply follow what teachers say and do not see a link between what they learn in school and how it will help them in the future.
+<center>Passionate but pragmatic secondary school teacher want to help students see the value of going beyond academic results to develop future-ready skills.<br><br>
+Secondary school students simply follow what their teachers say, and do not see a link between what they learn in school and how it will help them in the future.
 </center>
 
 -----------------
