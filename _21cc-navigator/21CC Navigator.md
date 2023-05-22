@@ -51,7 +51,7 @@ Secondary school students simply follow what their teachers say, and do not see 
 	<li>Students shared that the use of 21CC Navigator enabled <b>organic social interaction and support</b> between teacher-student, student-student, and student-family.</li>
 		<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities <b>related to their 21CC development</b>.</li>
 	</ul>
-
+<br>
 <center><h2>80% of 153 student testers</h2></center>
 <center><p style="color:#ff0082;">believe that 21CC Navigator <b>supports them in developing 21CC</b> in school.</p></center>
 
@@ -60,7 +60,7 @@ Secondary school students simply follow what their teachers say, and do not see 
 <center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</i></blockquote></center>
 
 <center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</i></blockquote></center>
-
+<br>
 <center><h2>73% of teachers</h2></center>
 <center><p style="color:#ff0082;">who piloted 21CC Navigator with their students found that 21CC Navigator helped them to <b>better understand how 21CC is present</b> in their everyday teaching and interactions with students.</p></center>
 
