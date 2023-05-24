@@ -17,12 +17,12 @@ image: /images/21CC Navigator/21ccnlong.png
 
 ![Welcome to 21CC Navigator Onboarding Course](/images/21CC%20Navigator/welcome%20to%2021cc%20navigator%20course.gif)
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/my-library/lesson/view/c281a2ab-9257-4815-ac64-1c16aca0a625/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%2021cc%20n.png" style="width:70%; display: inline;"></a></center>
+<center><a href="https://for.edu.sg/21ccnonboardingcourse" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%2021cc%20n.png" style="width:70%; display: inline;"></a></center>
 
 -------
 
 <center><h3>Step 3: Explore available 21CC Quests</h3></center>
-<center>*Upgrades coming soon!</center>
+<center>*More 21CC Quests coming soon!</center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPRngQQ1tmIsR2cIYebxL3EUXFNuNIHwMcgxTVqF_I0I-x5Za8F89rcJWj-NA1EMYNUsYjhYCNe12K/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
