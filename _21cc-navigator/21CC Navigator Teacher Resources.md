@@ -5,7 +5,7 @@ description: Make 21st Century Competencies visible through a gamified
   self-paced personal growth tool on SLS!
 image: /images/21CC Navigator/21ccnlong.png
 ---
-<center><h3>Step 1: Read the 21CC Navigator Teacher Onboarding Guide</h3></center>
+<center><h3>Step 1: Read the Introduction to 21CC Navigator Guide</h3></center>
 
 ![21CC Navigator Teacher Onboarding Guide](/images/21CC%20Navigator/21ccn%20teacher%20onboarding%20guide.png)
 
