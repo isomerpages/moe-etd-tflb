@@ -29,7 +29,7 @@ image: /images/InteresThing/interesthing_greyblue.png
 
 <center><h3>Step 3: Share</h3></center>
 <center>Build a community! Here’s a template you can use for your students to share their interests, learn from or connect with peers with similar interests. </center>
-<img src="/images/InteresThing/interesthing%20padlet%20instructions.png">
+<img src="/images/InteresThing/interesthing%20padlet%20instructions2.png">
 <center><a href="https://padlet.com/cotf/interesthing-dg7kiz1vrtrr7s5" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/duplicate%20this%20template.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
