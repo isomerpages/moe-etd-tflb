@@ -7,17 +7,18 @@ image: /images/21CC Navigator/21ccnlong.png
 ---
 <center><h3>Step 1: Read the Introduction to 21CC Navigator Guide</h3></center>
 
-![21CC Navigator Teacher Onboarding Guide](/images/21CC%20Navigator/21ccn%20teacher%20onboarding%20guide.png)
+![Introduction to 21CC Guide](/images/21CC%20Navigator/intro%20to%2021cc%20guide.png)
 
 <center><a href="https://for.edu.sg/21ccnteacherguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:35%; display: inline;"></a><br>*MOE iCON log in required.</center>
 	
 -------
 
-<center><h3>Step 2: Assign the 21CC Navigator Onboarding Course</h3></center>
+<center><h3>Step 2: Assign your students the 21CC Navigator Onboarding Course on SLS</h3></center>
 
-![Welcome to 21CC Navigator Onboarding Course](/images/21CC%20Navigator/welcome%20to%2021cc%20navigator%20course.gif)
+
 
 <center><a href="https://for.edu.sg/21ccnonboardingcourse" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%2021cc%20n.png" style="width:70%; display: inline;"></a></center>
+Change button to Assign the 21CC Navigator Onboarding Course
 
 -------
 
@@ -28,11 +29,12 @@ image: /images/21CC Navigator/21ccnlong.png
 
 -------
 
-<center><h3>Step 4: Onboard your students through the Student Onboarding Slide Deck for Teachers </h3></center>
+<center><h3>Step 4: Introduce your students to 21CC Navigator with the help of the Welcome to 21CC Navigator Slide Deck</h3></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMACOVHau2C13HIdmu5fdz-4oS1L3BIfkPK12zoIMFrcgUlcf1lAbipD0hP_H_Iw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
+change the slide deck to: Download the Welcome to 21CC Navigator Slide Deck
 
 -------
 
