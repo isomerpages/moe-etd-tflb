@@ -17,6 +17,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 <center><h3>Step 2: Complete the Welcome to 21CC Navigator! Onboarding Course</h3></center>
 
+![21CC Navigator Onboarding Course Student View](/images/21CC%20Navigator/21ccn%20onboarding%20course%20student%20view.png)
 
 -------
 
