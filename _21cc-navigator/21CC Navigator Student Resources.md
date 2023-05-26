@@ -5,7 +5,7 @@ description: Make 21st Century Competencies visible through a gamified
   self-paced personal growth tool on SLS!
 image: /images/21CC Navigator/21ccnlong.png
 ---
-<center>*SLS login is required to complete these steps.</center>
+<center>Note: SLS login is required to complete these steps.</center>
 
 <center><h3>Step 1: Follow 21CC under "My Subjects"</h3></center>
 
