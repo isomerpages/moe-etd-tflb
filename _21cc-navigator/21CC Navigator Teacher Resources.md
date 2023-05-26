@@ -31,7 +31,7 @@ image: /images/21CC Navigator/21ccnlong.png
 <center><h3>Step 4: Introduce your students to 21CC Navigator with the help of the Welcome to 21CC Navigator Slide Deck</h3></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMACOVHau2C13HIdmu5fdz-4oS1L3BIfkPK12zoIMFrcgUlcf1lAbipD0hP_H_Iw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%2021ccn.png" style="width:60%; display: inline;"></a></center>
+<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%2021ccn.png" style="width:70%; display: inline;"></a></center>
 
 -------
 
