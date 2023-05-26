@@ -44,6 +44,8 @@ change the slide deck to: Download the Welcome to 21CC Navigator Slide Deck
 
 <center><a href="https://docs.google.com/presentation/d/1KDhwkW5LOCCYXvyJ1EryqiX4Q2aAK-Jb/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
 
+change: Download the 21CC Navigator Tagging Guide
+
 -------
 
 <center><h3>Step 6: Go through student guides if necessary</h3></center>
