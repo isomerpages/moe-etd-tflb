@@ -15,7 +15,12 @@ image: /images/21CC Navigator/21ccnlong.png
 
 -------
 
-<center><h3>Step 2: Check out your 21CC Learning Progress</h3></center>
+<center><h3>Step 2: Complete the Welcome to 21CC Navigator! Onboarding Course</h3></center>
+
+
+-------
+
+<center><h3>Step 3: Check out your 21CC Learning Progress</h3></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzI6hhoAe_DUf7NqCOjzM1bP53mj17kMYl-EFd3HdzrFfbCpRIxTTBUF9D4brhBw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
@@ -23,7 +28,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 -------
 
-<center><h3>Step 3: Search for 21CC Quests</h3></center>
+<center><h3>Step 4: Search for 21CC Quests</h3></center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpBw3QNAoPpRnCBminfoCVxdYgI3lwH6EWXEpF8AZHMfnvFj6kKZ5FD_jrCPAn5w/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
