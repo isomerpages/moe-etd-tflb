@@ -44,7 +44,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPRngQQ1tmIsR2cIYebxL3EUXFNuNIHwMcgxTVqF_I0I-x5Za8F89rcJWj-NA1EMYNUsYjhYCNe12K/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-![Continue 21CC Journey](/images/21CC%20Navigator/continue%20your%2021cc%20journey.gif)
+<a href="https://for.edu.sg/21cccommunity"><img src="/images/21CC%20Navigator/continue%20your%2021cc%20journey.gif"></a>
 
 --------
 
