@@ -32,8 +32,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMACOVHau2C13HIdmu5fdz-4oS1L3BIfkPK12zoIMFrcgUlcf1lAbipD0hP_H_Iw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
-change the slide deck to: Download the Welcome to 21CC Navigator Slide Deck
+<center><a href="https://docs.google.com/presentation/d/1tWbtRce1Ru12dWv1TJsqSNhCdpgkpiu0/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%2021ccn.png" style="width:35%; display: inline;"></a></center>
 
 -------
 
