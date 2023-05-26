@@ -54,7 +54,7 @@ sections:
   - infopic:
       title: InteresThing
       url: /interesthing
-      image: /images/Home Page/interesthing.png
+      image: /images/Home Page/interesthingo1.png
       alt: CotF InteresThing
       description: Help students discover, explore, and share their interests beyond
         the curriculum for Student-Initiated Learning!
