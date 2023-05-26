@@ -9,7 +9,7 @@ image: /images/InteresThing/interesthing_greyblue.png
 
 <center><h2>How might we help students to discover, explore, and share their interests beyond the curriculum? </h2></center>
 
-![InteresThing Featured Image](/images/InteresThing/interesthing%20featured%20image%202.gif)
+![InteresThing Featured Image](/images/InteresThing/interesthing%20featured%20image%203.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Curious yet busy secondary school students need a safe space to discover, explore, and share their interests beyond the curriculum, but are unsure where to begin and often struggle to sustain these interests.</center>
