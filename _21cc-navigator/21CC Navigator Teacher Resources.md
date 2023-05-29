@@ -20,7 +20,7 @@ image: /images/21CC Navigator/21ccnlong.png
 -------
 
 <center><h3>Step 3: Explore available 21CC Quests</h3></center>
-<center>*More 21CC Quests coming soon!</center>
+<center>*More 21CC Quests coming soon! SLS log in required.</center>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPRngQQ1tmIsR2cIYebxL3EUXFNuNIHwMcgxTVqF_I0I-x5Za8F89rcJWj-NA1EMYNUsYjhYCNe12K/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 -------
