@@ -26,7 +26,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzI6hhoAe_DUf7NqCOjzM1bP53mj17kMYl-EFd3HdzrFfbCpRIxTTBUF9D4brhBw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://docs.google.com/presentation/d/1CLei5nQTYUPrzTc5x-bQDpRNGZ9_fnO_/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%2021ccn%20lp%20guide%20(1).png" style="width:80%; display: inline;"></a></center>
+<center><a href="https://docs.google.com/presentation/d/1CLei5nQTYUPrzTc5x-bQDpRNGZ9_fnO_/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%2021ccn%20lp%20guide%20(1).png" style="width:70%; display: inline;"></a></center>
 
 -------
 
