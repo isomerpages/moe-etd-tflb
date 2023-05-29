@@ -12,7 +12,7 @@ image: /images/21CC Navigator/21ccnlong.png
 ![21CC Navigator Featured Image](/images/21CC%20Navigator/21cc%20navigator%20featured%20image%20cotf.gif)
 
 *Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener noreferrer">here</a>.
-<br>
+
 <center><h2 id="discovery">Our Discovery</h2></center>
 
 ![Why 21CC Navigator?](/images/21CC%20Navigator/why%2021cc%20navigator%202.png)
@@ -20,10 +20,9 @@ image: /images/21CC Navigator/21ccnlong.png
 <center>Passionate but pragmatic secondary school teacher want to help students see the value of going beyond academic results to develop future-ready skills.<br><br>
 Secondary school students simply follow what their teachers say, and do not see a link between what they learn in school and how it will help them in the future.
 </center>
-<br>
 
 -----------------
-<br>
+
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center><b>21CC Navigator</b> is a self-paced personal growth tool that:<br><br>
 <div style="overflow-x:auto;">
@@ -41,12 +40,10 @@ Secondary school students simply follow what their teachers say, and do not see 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 <center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/teacher"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center><center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/student"><img style="width:37%; display: inline;" src="/images/Buttons/explore%20student%20resources.png"></a></center>
-<br>
 
 ------------------
-<br>
-<center><h2 id="impact">Our Impact</h2></center>
 
+<center><h2 id="impact">Our Impact</h2></center>
 <ul>
 	<li>Students reported a <b>greater awareness of 21CC</b> and were <b>motivated</b> to learn more about 21CC and hone their future-ready skills.</li>
 	<li>Students shared that the use of 21CC Navigator enabled <b>organic social interaction and support</b> between teacher-student, student-student, and student-family.</li>
