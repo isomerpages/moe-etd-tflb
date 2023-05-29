@@ -15,8 +15,7 @@ image: /images/21CC Navigator/21ccnlong.png
 <center><h3>Step 2: Assign your students the 21CC Navigator Onboarding Course on SLS</h3></center>
 
 ![21CC Navigator Onboarding Course on SLS](/images/21CC%20Navigator/21cc%20navigator%20onboarding%20course%20sls.png)
-<center><a href="https://for.edu.sg/21ccnonboardingcourse" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%2021cc%20n%20(1).png" style="width:55%; display: inline;"></a></center>
-*SLS log in required.
+<center><a href="https://for.edu.sg/21ccnonboardingcourse" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%2021cc%20n%20(1).png" style="width:55%; display: inline;"></a><br>*SLS log in required.</center>
 
 -------
 
