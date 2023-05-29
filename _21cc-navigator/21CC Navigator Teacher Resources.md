@@ -10,7 +10,6 @@ image: /images/21CC Navigator/21ccnlong.png
 ![Introduction to 21CC Guide](/images/21CC%20Navigator/intro%20to%2021cc%20guide.png)
 <center><a href="https://for.edu.sg/21ccnteacherguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%2021ccn%20intro.png" style="width:60%; display: inline;"></a><br>*MOE iCON log in required.</center>
 
-	
 -------
 
 <center><h3>Step 2: Assign your students the 21CC Navigator Onboarding Course on SLS</h3></center>
