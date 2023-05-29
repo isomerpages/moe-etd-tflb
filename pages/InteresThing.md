@@ -26,9 +26,7 @@ image: /images/InteresThing/interesthing_greyblue.png
 <center><h3>Step 2: Explore</h3></center>
 <center>Encourage your students to delve into a curated list of learning experiences and resources as starting points for their SIL. </center>
 
-![Some Ideas for Student-Initiated Learning May 2023](/images/InteresThing/some%20ideas%20for%20student-initiated%20learning%20may%202023.png)
-
-<center><a href="https://for.edu.sg/silideas" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20resource%20list.png" style="width:40%; display: inline; margin-right:0.5rem"></a><a href="https://vle.learning.moe.edu.sg/mrv/moe-library/lesson/view/54f35974-719e-431c-94d6-0ca9edb3f3cc/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20lesson%20on%20sls.png" style="width:31%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/mrv/moe-library/lesson/view/54f35974-719e-431c-94d6-0ca9edb3f3cc/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:31%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><h3>Step 3: Share</h3></center>
 <center>Build a community! Here’s a template you can use for your students to share their interests, learn from or connect with peers with similar interests. </center>
