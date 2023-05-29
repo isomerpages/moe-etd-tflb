@@ -1,11 +1,10 @@
 ---
 layout: homepage
 title: Classroom of the Future
-description: Classroom of the Future (CotF) is a MOE Educational Technology
-  Division, Information Technology Division, and Government Technology Agency
-  innovation incubator which leverages design thinking and other human-centric
-  methodologies to redesign the teaching and learning experience for students
-  and teachers to meet current and future needs.
+description: Classroom of the Future (CotF) is a multi-agency innovation
+  incubator that leverages design thinking and other human-centric methodologies
+  to redesign the teaching and learning experience for students and teachers to
+  meet current and future needs.
 image: /images/Logo/CotF logo horizontal.png
 permalink: /
 notification: Catch some of our upcoming innovations at the <a
