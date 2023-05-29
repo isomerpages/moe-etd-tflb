@@ -11,7 +11,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRH7Or0D5Y0CZ84OwuC0Ywudq67zDNgLdHuI4NAIogAhCIqj2pT5zKx_Y7Hkkr7qw/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="https://docs.google.com/presentation/d/1qsdrmzwh0t1Z9fmZgGbWVrWds70kE99c/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%20slide%20deck.png" style="width:35%; display: inline;"></a></center>
+<center><a href="https://docs.google.com/presentation/d/1qsdrmzwh0t1Z9fmZgGbWVrWds70kE99c/copy" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download%20the%2021ccn%20my%20subject.png" style="width:70%; display: inline;"></a></center>
 
 -------
 
