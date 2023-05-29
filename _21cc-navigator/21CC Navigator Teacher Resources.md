@@ -16,6 +16,7 @@ image: /images/21CC Navigator/21ccnlong.png
 
 ![21CC Navigator Onboarding Course on SLS](/images/21CC%20Navigator/21cc%20navigator%20onboarding%20course%20sls.png)
 <center><a href="https://for.edu.sg/21ccnonboardingcourse" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign%20your%20students%2021cc%20n%20(1).png" style="width:55%; display: inline;"></a></center>
+*SLS log in required.
 
 -------
 
