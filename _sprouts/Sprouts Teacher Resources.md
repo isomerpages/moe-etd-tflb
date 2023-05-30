@@ -1,8 +1,9 @@
 ---
 title: Sprouts Teacher Resources
 permalink: /sprouts/teacher/
-description: Sprouts Conversational Scaffold Teacher Resources
-image: /images/Sprouts/Sprouts Poster Guide (For Teachers).png
+description: Enhance values-learning beyond class time and get parents and
+  students involved with this conversational toolkit!
+image: /images/Sprouts/sproutslogo.png
 ---
 <center><h3>Sprouts Poster Guide for Teachers</h3></center>
 

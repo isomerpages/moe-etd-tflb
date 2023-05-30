@@ -1,9 +1,9 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+description: ""
+image: /images/Logo/CotF logo horizontal 2.png
 ---
-
-
 #### **General**
 
 1.    This is a Government of Singapore digital service.

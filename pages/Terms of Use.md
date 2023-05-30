@@ -1,9 +1,9 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+description: ""
+image: /images/Logo/CotF logo horizontal 2.png
 ---
-
-
 #### **Preamble**
 
 1.    Thank you for visiting this Website (the “Website”). The Website is owned and maintained by the Ministry of Education, Government of Singapore, and overseen by the Classroom of the Future project team. References to “CotF” in these Terms of Use shall mean the Government of Singapore.

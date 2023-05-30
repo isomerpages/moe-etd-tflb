@@ -1,8 +1,8 @@
 ---
 title: Source Finder (Coming Soon!)
 permalink: /sourcefinder/
-description: Plug into a teacher community that shares resources for teaching
-  and assessment!
+description: Source Finder is a platform that enables teachers to build a
+  community to share, find and organise resources collectively.
 image: /images/Home Page/sourcefindero.png
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Prototype</a>  |  <a href="#impact">Our Impact</a></h4></center>

@@ -15,10 +15,10 @@ colors:
       color: "#ffb500"
     - title: media-color-five
       color: "#ffb500"
-description: A MOE Educational Technology Division, Information Technology
-  Division, and GovTech effort leveraging design thinking and other
-  human-centric methodologies to redesign teaching and learning for teachers and
-  students.
+description: Classroom of the Future (CotF) is a multi-agency innovation
+  incubator that leverages design thinking and other human-centric methodologies
+  to redesign the teaching and learning experience for students and teachers to
+  meet current and future needs.
 permalink: none
 baseurl: ""
 exclude:
@@ -59,3 +59,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: UA-249892300-1
 linkedin-insights: ""
+google_analytics_ga4: ""

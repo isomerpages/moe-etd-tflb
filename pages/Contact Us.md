@@ -1,7 +1,8 @@
 ---
 title: Contact Us
 permalink: /contact/
-description: Contact Classroom of the Future
+description: We'd love to hear from you! Have a query or feedback on any of our
+  innovations? Would like to find out more about CotF?
 image: /images/Logo/CotF logo horizontal 2.png
 ---
 <center><h2>We'd love to hear from you!</h2></center>

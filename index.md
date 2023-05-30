@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: Classroom of the Future
-description: A MOE Educational Technology Division, Information Technology
-  Division, and GovTech effort leveraging design thinking and other
-  human-centric methodologies to redesign teaching and learning for teachers and
-  students.
+description: Classroom of the Future (CotF) is a multi-agency innovation
+  incubator that leverages design thinking and other human-centric methodologies
+  to redesign the teaching and learning experience for students and teachers to
+  meet current and future needs.
 image: /images/Logo/CotF logo horizontal.png
 permalink: /
 notification: Catch some of our upcoming innovations at the <a
@@ -15,9 +15,16 @@ sections:
       title: Classroom of the Future
       subtitle: Redesigning the teaching and learning experience for teachers and
         students
-      background: /images/Home Page/IMG-0992 copy.jpg
+      background: /images/Home Page/Home Page Banner/website banner may 2023-1.png
   - infobar:
       title: Our Innovations
+  - infopic:
+      title: 21CC Navigator
+      description: Motivate your students to develop their 21st Century Competencies!
+      button: Gamify and visualise 21CC!
+      url: /21ccnavigator
+      alt: CotF 21CC Navigator
+      image: /images/Home Page/21ccno copy.png
   - infopic:
       title: Brain Boost Time
       subtitle: 2022 MOE Innergy Gold Awardee
@@ -44,6 +51,14 @@ sections:
       url: /evs/
       alt: CotF Eliciting Student Voices
       image: /images/Home Page/EVSo.png
+  - infopic:
+      title: InteresThing
+      url: /interesthing
+      image: /images/Home Page/interesthingo1.png
+      alt: CotF InteresThing
+      description: Help students discover, explore, and share their interests beyond
+        the curriculum for Student-Initiated Learning!
+      button: Discover, explore, and share!
   - infopic:
       title: Learning Gamified
       description: Tap on ready-made guides, tools, and resources to turn your lessons

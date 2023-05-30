@@ -3,6 +3,7 @@ title: Collaborate with Us
 permalink: /collaborate/
 description: We’d be more than excited to collaborate with you and your team.
   Indicate your interest below!
+image: /images/Logo/CotF logo horizontal 2.png
 ---
 <center><h4 style="color:#578ffe;"><a href="#opportunity">Our Opportunity Areas</a>  |  <a href="#interest">Submit Your Interest</a></h4></center>
 

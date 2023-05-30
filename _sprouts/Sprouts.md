@@ -3,7 +3,7 @@ title: Sprouts
 permalink: /sprouts/
 description: Enhance values-learning beyond class time and get parents and
   students involved with this conversational toolkit!
-image: /images/Sprouts/Sprouts conversation.gif
+image: /images/Sprouts/sproutslogo.png
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 

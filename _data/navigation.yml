@@ -5,12 +5,16 @@ links:
   - title: Our Innovations
     url: /
     sublinks:
+      - title: 21CC Navigator
+        url: /21ccnavigator
       - title: Brain Boost Time
         url: /bbt
       - title: Eliciting Voices of Students
         url: /evs
       - title: Immersive Learning Toolkit
         url: /ilt
+      - title: InteresThing
+        url: /interesthing
       - title: Learning Gamified
         url: /lg
       - title: Sprouts
