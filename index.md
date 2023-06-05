@@ -7,9 +7,7 @@ description: Classroom of the Future (CotF) is a multi-agency innovation
   meet current and future needs.
 image: /images/Logo/CotF logo horizontal.png
 permalink: /
-notification: Catch some of our upcoming innovations at the <a
-  href="https://www.tcef2023.sg/">Teachers' Conference and ExCEL Fest 2023</a>
-  on 30 May - 1 June!
+notification: ""
 sections:
   - hero:
       title: Classroom of the Future
