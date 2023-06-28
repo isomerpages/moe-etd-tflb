@@ -13,7 +13,7 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
-<center>Teachers find it time-consuming, tedious and sometimes uninspiring to search for relevant and good resources for lesson planning, teaching or assessment. They have to manually search for links and resources from different locations (e.g. websites, past year papers, guide books etc) until they find suitable resources for their needs.</center>
+<center>Teachers sometimes&nbsp;find it challenging&nbsp;to search for relevant and good resources for lesson planning, teaching or assessment. They have to manually search for links and resources from different locations (e.g. websites, past year papers, guide books etc) until they find suitable resources for their needs.</center>
 
 -----------------
 
