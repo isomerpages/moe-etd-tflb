@@ -1,6 +1,6 @@
 ---
-title: SF
-permalink: /sf/
+title: Source Finder (Coming Soon!)
+permalink: /sourcefinder/
 description: Source Finder is a platform that enables teachers to build a
   community to share, find and organise resources collectively.
 image: /images/Home Page/sourcefindero.png
