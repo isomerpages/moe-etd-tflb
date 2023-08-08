@@ -22,9 +22,7 @@ image: /images/Home Page/sourcefindero.png
 <center><b>Source Finder</b> is a platform that enables teachers to build a community to share, find and organise resources collectively. It is also a productivity tool for individual teachers to organise their resources efficiently.</center>
 
 <center><h2>Want to find out more?</h2></center>
-<center>Share your email in the form below to get early access to our prototype!</center>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfiNxBWcfX9cbS7r2Q7iM06eziITLOxk1g160atVKbwf6o6ig/viewform?embedded=true" width="100%" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<center>Share your email in this [form](https://for.edu.sg/sf-interest) to get early access to our prototype!</center>
 
 ------------------
 
