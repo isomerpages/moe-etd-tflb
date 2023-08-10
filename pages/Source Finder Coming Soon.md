@@ -9,7 +9,7 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h2>How might we help teachers to save time in finding good resources to use in the classroom?</h2></center>
 
-![featured](/images/Source%20Finder/sffeaturedimagereducedv3aug23.gif)
+![featured](/images/Source%20Finder/sffeaturedimagev3reduced.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
