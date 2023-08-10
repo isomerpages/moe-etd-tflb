@@ -24,7 +24,7 @@ image: /images/Home Page/sourcefindero.png
 <center><h2>Want to find out more?</h2></center>
 <center>Share your email in this <a href="https://for.edu.sg/sf-interest">form</a> to get early access to our prototype!</center>
 
-
+<a href="https://for.edu.sg/sf-interest"><img alt="click me to indicate your interest" src="/images/Source%20Finder/signupformscreenshot.PNG"></a>
 
 ------------------
 
