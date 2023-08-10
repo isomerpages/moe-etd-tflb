@@ -9,7 +9,7 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h2>How might we help teachers to save time in finding good resources to use in the classroom?</h2></center>
 
-<img src="/images/Source%20Finder/sf%20featured%20imagev2.gif">
+![sf featured image gif](/images/Source%20Finder/sffeaturedimagev3aug23.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
@@ -22,7 +22,9 @@ image: /images/Home Page/sourcefindero.png
 <center><b>Source Finder</b> is a platform that enables teachers to build a community to share, find and organise resources collectively. It is also a productivity tool for individual teachers to organise their resources efficiently.</center>
 
 <center><h2>Want to find out more?</h2></center>
-<center>Share your email in this <a href="https://for.edu.sg/sf-interest">form</a> to get early access to our prototype!</center>
+<center>Share your email in this <a href="https://for.edu.sg/sf-interest">form</a> to get early access to our prototype! You can also click on  the screenshot below.</center>
+
+<a href="https://for.edu.sg/sf-interest"><img alt="click me to indicate your interest" src="/images/Source%20Finder/signupformscreenshot.PNG"></a>
 
 ------------------
 
@@ -40,7 +42,7 @@ image: /images/Home Page/sourcefindero.png
 
 <center><blockquote><i>"Beyond interesting articles (in Source Finder), I found the curated categories of sources to be much more meaningful. For example - Australia's Mice Plague, and even on the topic of vape. I certainly did not think of these topics immediately, but seeing these topics appear gave me a bunch of other ideas which I am toying with right now." - Secondary Social Studies Teacher</i></blockquote></center>
 
-<center><blockquote><i>"I always thought it (Source Finder) would be something complex. However, I felt comfortable using it and navigating the different pages… I think it's also quite fun to have a user-centric platform which helps to build a learning community." - Secondary School History Teacher</i></blockquote></center>
+<center><blockquote><i>"I always thought it (Source Finder) would be something complex. However, I felt comfortable using it and navigating the different pages… I think it's also quite fun to have a user-centric platform which helps to build a learning community." - Secondary School History Teacher </i></blockquote></center>
 
 --------
 
