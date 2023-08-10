@@ -9,7 +9,7 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h2>How might we help teachers to save time in finding good resources to use in the classroom?</h2></center>
 
-<img src="/images/Source%20Finder/sf%20featured%20imagev2.gif">
+![SF featured image](/images/Source%20Finder/sffeaturedimagev3.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
@@ -23,6 +23,8 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h2>Want to find out more?</h2></center>
 <center>Share your email in this <a href="https://for.edu.sg/sf-interest">form</a> to get early access to our prototype!</center>
+
+
 
 ------------------
 
