@@ -9,7 +9,7 @@ image: /images/Home Page/sourcefindero.png
 
 <center><h2>How might we help teachers to save time in finding good resources to use in the classroom?</h2></center>
 
-![sf featured image gif](/images/Source%20Finder/sffeaturedimagev3aug23.gif)
+![featured](/images/Source%20Finder/sffeaturedimagereducedv3aug23.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
@@ -22,9 +22,9 @@ image: /images/Home Page/sourcefindero.png
 <center><b>Source Finder</b> is a platform that enables teachers to build a community to share, find and organise resources collectively. It is also a productivity tool for individual teachers to organise their resources efficiently.</center>
 
 <center><h2>Want to find out more?</h2></center>
-<center>Share your email in this <a href="https://for.edu.sg/sf-interest">form</a> to get early access to our prototype! You can also click on  the screenshot below.</center>
+<center>Share your email in this <a href="https://for.edu.sg/sf-interest">form</a> to get early access to our prototype! You can also enter it below.</center>
 
-<a href="https://for.edu.sg/sf-interest"><img alt="click me to indicate your interest" src="/images/Source%20Finder/signupformscreenshot.PNG"></a>
+<iframe marginwidth="0" marginheight="0" frameborder="0" height="520" width="700" src="https://docs.google.com/forms/d/e/1FAIpQLSe9pylwu9X3KXhCWWNrz1lEzO1llkWo-7WnxlQqGp3sPsRTYg/viewform?embedded=true">Loading…</iframe>
 
 ------------------
 
