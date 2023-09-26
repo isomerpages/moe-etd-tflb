@@ -5,6 +5,8 @@ description: We’d be more than excited to collaborate with you and your team.
   Indicate your interest below!
 image: /images/Logo/CotF logo horizontal 2.png
 ---
+<p>\*New!\* For enquiries about AI Lesson Generator and AI Lesson commentator, please scroll down and register your interest in the Form.sg.</p>
+
 <center><h4 style="color:#578ffe;"><a href="#opportunity">Our Opportunity Areas</a>  |  <a href="#interest">Submit Your Interest</a></h4></center>
 
 <center><h2>Hi! Thank you for your interest in collaborating with us!</h2></center>
@@ -16,8 +18,8 @@ During our collaboration, you can expect:</center>
 <table>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><img src="/images/Collaborate/opportunity.png" style="width:35%"><h3 style="color:#578ffe;">Access to insights on emerging opportunities</h3>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts.</td>
-			<td style="text-align: center"><img src="/images/Collaborate/rocket-launch.png" style="width:40%"><h3 style="color:#578ffe;">Exclusive access to up-and-coming solutions</h3>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions.</td>
+			<td style="text-align: center"><img style="width:35%" src="/images/Collaborate/opportunity.png"><h3 style="color:#578ffe;">Access to insights on emerging opportunities</h3>You will receive findings and insights from the research that you participate in, which can potentially inform your future planning efforts.</td>
+			<td style="text-align: center"><img style="width:40%" src="/images/Collaborate/rocket-launch.png"><h3 style="color:#578ffe;">Exclusive access to up-and-coming solutions</h3>You will receive early updates of ideas that emerge from the research that you participate in and be given priority to try the solutions.</td>
 		</tr>
 	</tbody>
 </table>
@@ -47,7 +49,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-		<td style="text-align: center"><a href="/lg" target="_blank" rel="noopener noreferrer">Learning Gamified</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
+		<td style="text-align: center"><a rel="noopener noreferrer" target="_blank" href="/lg">Learning Gamified</a><br><br>This innovation has been released. We'd love to hear your feedback <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</td>
     <td style="text-align: center">How might we make it easier for teachers to utilise elements of gamification when designing learning experiences?</td>
   </tr>
   <tr>
@@ -75,15 +77,15 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/bbt" target="_blank" rel="noopener noreferrer">Brain Boost Time</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
+    <td style="text-align: center"><a rel="noopener noreferrer" target="_blank" href="/bbt">Brain Boost Time</a><br><br>This innovation has been released. We'd love to hear your feedback <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</td>
     <td style="text-align: center">How might we get primary school pupils to their optimal zone of learning?</td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/ilt" target="_blank" rel="noopener noreferrer">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
+    <td style="text-align: center"><a rel="noopener noreferrer" target="_blank" href="/ilt">Choose-Your-Own-Adventure Immersive Learning Toolkit</a><br><br>This innovation has been released. We'd love to hear your feedback <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</td>
     <td style="text-align: center">How might we craft captivating learning experiences for our students?</td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/sprouts" target="_blank" rel="noopener noreferrer">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
+    <td style="text-align: center"><a rel="noopener noreferrer" target="_blank" href="/sprouts">Sprouts</a><br><br>This innovation has been released. We'd love to hear your feedback <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</td>
     <td style="text-align: center">How might we help teachers better involve parents in values development in a fun and meaningful way?</td>
   </tr>
 </tbody></table>
@@ -108,7 +110,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/evs" target="_blank" rel="noopener noreferrer">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</td>
+    <td style="text-align: center"><a rel="noopener noreferrer" target="_blank" href="/evs">Eliciting Voices of Students with Diverse Learning Needs</a><br><br>This innovation has been released. We'd love to hear your feedback <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</td>
     <td style="text-align: center">How might we encourage students to participate more actively in class?</td>
   </tr>
   <tr>
@@ -137,7 +139,7 @@ table, th, td {
     <th style="text-align: center; color:#ff0082;">How Might We Question</th>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="/sourcefinder" target="_blank" rel="noopener noreferrer">Source Finder</a></td>
+    <td style="text-align: center"><a rel="noopener noreferrer" target="_blank" href="/sourcefinder">Source Finder</a></td>
     <td style="text-align: center">How might we help teachers to save time in finding good resources to use in the classroom?</td>
   </tr>
 </tbody></table>
@@ -147,4 +149,4 @@ table, th, td {
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>  <iframe style="width: 100%; height: 1200px" src="https://form.gov.sg/64219949b69f640012ee18ea" id="iframe"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>  <iframe id="iframe" src="https://form.gov.sg/64219949b69f640012ee18ea" style="width: 100%; height: 1200px"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a href="https://form.gov.sg" style="color: #999">Form</a> </div>
