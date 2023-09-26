@@ -5,7 +5,7 @@ description: We’d be more than excited to collaborate with you and your team.
   Indicate your interest below!
 image: /images/Logo/CotF logo horizontal 2.png
 ---
-<center><div style="color:#ff0082">*New!* For enquiries about the AI-Powered Lesson Collaborator and Commentator, please scroll down and register your interest in the Form.sg.</div>
+<center><div style="color:#ff0082">*New!* For enquiries about the AI Powered Lesson Collaborator and Commentator, please scroll down and register your interest in the Form.sg.</div>
 
 <center><h4 style="color:#578ffe;"><a href="#opportunity">Our Opportunity Areas</a>  |  <a href="#interest">Submit Your Interest</a></h4></center>
 
