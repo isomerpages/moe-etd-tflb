@@ -5,7 +5,7 @@ description: We’d be more than excited to collaborate with you and your team.
   Indicate your interest below!
 image: /images/Logo/CotF logo horizontal 2.png
 ---
-<p>\*New!\* For enquiries about AI Lesson Generator and AI Lesson commentator, please scroll down and register your interest in the Form.sg.</p>
+<center><h4>*New!* For enquiries about AI Lesson Generator and AI Lesson commentator, please scroll down and register your interest in the Form.sg.</h4>
 
 <center><h4 style="color:#578ffe;"><a href="#opportunity">Our Opportunity Areas</a>  |  <a href="#interest">Submit Your Interest</a></h4></center>
 
@@ -149,4 +149,4 @@ table, th, td {
 ---------
 
 <center><h2 id="interest">Submit Your Interest!</h2></center>
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>  <iframe id="iframe" src="https://form.gov.sg/64219949b69f640012ee18ea" style="width: 100%; height: 1200px"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a href="https://form.gov.sg" style="color: #999">Form</a> </div>
+<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/64219949b69f640012ee18ea">here</a>. </div>  <iframe id="iframe" src="https://form.gov.sg/64219949b69f640012ee18ea" style="width: 100%; height: 1200px"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a href="https://form.gov.sg" style="color: #999">Form</a> </div></center>
