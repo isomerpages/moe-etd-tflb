@@ -31,6 +31,7 @@ CotF innovations enhance teaching and learning to help students to be future-rea
 <summary><font size="+1">Click here to read more about our opportunity areas!</font></summary><br><br>
 <img src="/images/About%20CotF/CotF%20pipeline.png">
 </details>
+
 ## Awards
 <details>
 <summary><font size="+1">Click here to read more about our awards!</font></summary>
