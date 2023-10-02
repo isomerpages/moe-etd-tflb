@@ -29,7 +29,7 @@ CotF innovations enhance teaching and learning to help students to be future-rea
 ## Opportunity Areas
 <details>
 <summary><font size="+1">Click here to read more about our opportunity areas!</font></summary><br><br>
-<img src="/images/About%20CotF/Our%Opportunity%Areas">
+<img src="/images/About%20CotF/cotf%20opportunity%20areas.png">
 </details>
 
 ## Awards
