@@ -7,8 +7,6 @@ image: /images/Logo/CotF logo horizontal 2.png
 ---
 <center><div style="color:#ff0082">*New!* For enquiries about the AI Powered Lesson Collaborator and Commentator, please scroll down and register your interest in the Form.sg.</div>
 
-<center><h4 style="color:#578ffe;"><a href="#opportunity">Our Opportunity Areas</a>  |  <a href="#interest">Submit Your Interest</a></h4></center>
-
 <center><h2>Hi! Thank you for your interest in collaborating with us!</h2></center>
 
 <center>Encountered challenges and opportunities on the ground that you believe we should take a deeper look at? Interested in testing any of our innovations, or interested in sharing useful tools your school is currently using? Already using some of our CotF products?<br><br>
