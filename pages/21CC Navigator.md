@@ -39,7 +39,9 @@ Secondary school students simply follow what their teachers say, and do not see 
 </center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-<center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/teacher"><img style="width:35%; display: inline;" src="/images/Buttons/Explore%20Teacher%20Resources.png"></a></center><center><a rel="noopener noreferrer" target="_blank" href="/21ccnavigator/student"><img style="width:37%; display: inline;" src="/images/Buttons/explore%20student%20resources.png"></a></center>
+
+<!--
+<center><a href="/21ccnavigator/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:35%; display: inline;"></a></center><center><a href="/21ccnavigator/student" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/explore%20student%20resources.png" style="width:37%; display: inline;"></a></center>-->
 
 ------------------
 
