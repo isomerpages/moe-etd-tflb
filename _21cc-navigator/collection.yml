@@ -1,5 +1,4 @@
 collections:
   21cc-navigator:
     output: true
-    order:
-      - 21CC Navigator.md
+    order: []
