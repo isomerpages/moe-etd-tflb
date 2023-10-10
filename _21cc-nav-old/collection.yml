@@ -1,4 +1,5 @@
 collections:
   21cc-nav-old:
     output: true
-    order: []
+    order:
+      - 21CC Navigator Teacher Resources.md
