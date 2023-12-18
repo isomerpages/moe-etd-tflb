@@ -24,7 +24,7 @@ variant: markdown
 
 
 <center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Access_lesson_on_SLS_button.png" style="width:32%; display: inline; margin-right:0.5rem; margin-top:0"></a>
-<a href="/files/InteresThing_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
+<a href="/files/InteresThing%20User%20Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>Step 1: Discover</h3></center>
 <center>Kick off your students’ SIL journey with the Interest Discovery Quiz, which recommends different interest areas.</center>
@@ -35,8 +35,8 @@ variant: markdown
 <center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><h3>Step 3: Share</h3></center>
-<center>Build a community! Here’s a template you can use for your students to share their interests, learn from or connect with peers with similar interests. </center>
-<img src="/images/InteresThing/interesthing%20padlet%20instructions2.png">
+<center>Build interest communities using the Class Group Forum feature on SLS!</center>
+<img src="/images/InteresThing/InteresThing_Class_Group_Forum.png">
 <center><a href="https://padlet.com/cotf/interesthing-dg7kiz1vrtrr7s5" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/duplicate%20this%20template.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
 ------------------
