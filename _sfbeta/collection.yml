@@ -2,5 +2,6 @@ collections:
   sfbeta:
     output: true
     order:
+      - Secondary/.keep
       - Primary/Social Studies.md
       - Primary/.keep
