@@ -2,10 +2,10 @@ collections:
   sfbeta:
     output: true
     order:
-      - Secondary/Social Studies.md
-      - Secondary/History.md
-      - Secondary/Geography.md
-      - Secondary/Character and Citizenship Education.md
       - Secondary/.keep
+      - Secondary/Character and Citizenship Education.md
+      - Secondary/Geography.md
+      - Secondary/History.md
+      - Secondary/Social Studies.md
       - Primary/Social Studies.md
       - Primary/.keep
