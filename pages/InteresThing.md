@@ -4,6 +4,7 @@ permalink: /interesthing/
 description: Help students discover, explore, and share their interests beyond
   the curriculum for Student-Initiated Learning!
 image: /images/InteresThing/interesthing_greyblue1.png
+variant: markdown
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
@@ -18,6 +19,9 @@ image: /images/InteresThing/interesthing_greyblue1.png
 
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).</center>
+
+<center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Access_lesson_on_SLS_button.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+<a href="https://go.gov.sg/cyoavideosls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>Step 1: Discover</h3></center>
 <center>Kick off your students’ SIL journey with the Interest Discovery Quiz, which recommends different interest areas.</center>
