@@ -2,4 +2,4 @@ collections:
   sfbeta-folder:
     output: true
     order:
-      - SFbeta.md
+      - Primary.md
