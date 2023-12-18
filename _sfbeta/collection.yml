@@ -1,4 +1,5 @@
 collections:
   sfbeta:
     output: true
-    order: []
+    order:
+      - Primary/.keep
