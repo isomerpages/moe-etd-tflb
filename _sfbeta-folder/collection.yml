@@ -1,4 +1,5 @@
 collections:
   sfbeta-folder:
     output: true
-    order: []
+    order:
+      - SFbeta.md
