@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - SFBeta.md
-      - Secondary.md
       - Primary.md
+      - Secondary.md
