@@ -18,9 +18,8 @@ variant: markdown
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).
-<br><br>
-<i>Bonus Tip</i> : Use a ProjecTask template to plan SIL journey. Find out more here!</center>
+<center><p><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).</p>
+	<p><i>Bonus Tip</i> : Use a ProjecTask template to plan SIL journey. Find out more here!</p></center>
 
 
 <center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Access_lesson_on_SLS_button.png" style="width:32%; display: inline; margin-right:0.5rem; margin-top:0"></a>
