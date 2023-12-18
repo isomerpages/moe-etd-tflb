@@ -20,7 +20,7 @@ variant: markdown
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).
 
-Bonus Tip: Use a ProjecTask template to plan SIL journey. Find out more here!</center>
+<i>Bonus Tip</i> : Use a ProjecTask template to plan SIL journey. Find out more here!</center>
 
 
 <center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Access_lesson_on_SLS_button.png" style="width:32%; display: inline; margin-right:0.5rem; margin-top:0"></a>
@@ -32,7 +32,7 @@ Bonus Tip: Use a ProjecTask template to plan SIL journey. Find out more here!</c
 
 <center><h3>Step 2: Explore</h3></center>
 <center>Encourage your students to delve into a curated list of learning experiences and resources as starting points for their SIL.</center>
-<center><a href="https://vle.learning.moe.edu.sg/mrv/moe-library/lesson/view/54f35974-719e-431c-94d6-0ca9edb3f3cc/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><h3>Step 3: Share</h3></center>
 <center>Build a community! Here’s a template you can use for your students to share their interests, learn from or connect with peers with similar interests. </center>
