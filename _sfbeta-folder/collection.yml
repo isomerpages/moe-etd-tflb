@@ -1,7 +1,0 @@
-collections:
-  sfbeta-folder:
-    output: true
-    order:
-      - SFBeta.md
-      - Primary.md
-      - Secondary.md
