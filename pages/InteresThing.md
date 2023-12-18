@@ -19,7 +19,7 @@ variant: markdown
 
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).
-
+<br><br>
 <i>Bonus Tip</i> : Use a ProjecTask template to plan SIL journey. Find out more here!</center>
 
 
