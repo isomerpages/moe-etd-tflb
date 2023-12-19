@@ -4,6 +4,7 @@ permalink: /interesthing/
 description: Help students discover, explore, and share their interests beyond
   the curriculum for Student-Initiated Learning!
 image: /images/InteresThing/interesthing_greyblue1.png
+variant: markdown
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
@@ -17,7 +18,12 @@ image: /images/InteresThing/interesthing_greyblue1.png
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).</center>
+<center><p><b>InteresThing</b> is a suite of tools to help students discover, explore, and share about their interests within or beyond the curriculum for Student-Initiated learning (SIL).</p>
+	<p><i>Bonus Tip</i> : Use a ProjecTask template to plan SIL journey. Find out more here!</p></center>
+
+
+<center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access_the_list_section_b2.png" style="width:32%; display: inline; margin-right:0.5rem; margin-top:0"></a>
+<a target="_blank" href="/files/InteresThing_User_Guide.pdf"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>Step 1: Discover</h3></center>
 <center>Kick off your students’ SIL journey with the Interest Discovery Quiz, which recommends different interest areas.</center>
@@ -25,12 +31,11 @@ image: /images/InteresThing/interesthing_greyblue1.png
 
 <center><h3>Step 2: Explore</h3></center>
 <center>Encourage your students to delve into a curated list of learning experiences and resources as starting points for their SIL.</center>
-<center><a href="https://vle.learning.moe.edu.sg/mrv/moe-library/lesson/view/54f35974-719e-431c-94d6-0ca9edb3f3cc/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><h3>Step 3: Share</h3></center>
-<center>Build a community! Here’s a template you can use for your students to share their interests, learn from or connect with peers with similar interests. </center>
-<img src="/images/InteresThing/interesthing%20padlet%20instructions2.png">
-<center><a href="https://padlet.com/cotf/interesthing-dg7kiz1vrtrr7s5" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/duplicate%20this%20template.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
+<center>Build interest communities using the Class Group Forum feature on SLS! Find out more in the User Guide.</center>
+<img src="/images/InteresThing/InteresThing_Class_Group_Forum.png">
 
 ------------------
 
