@@ -23,6 +23,8 @@ description: ""
 
 <center><h2>Want to find out more?</h2></center>
 <center><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button"></center>
+<center> ![](/images/Screenshot_2024_01_23_134814.png)
+<center> ![](/images/Buttons/source_finder_button.png)
 
 
 
@@ -48,4 +50,4 @@ description: ""
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center></center></center>
