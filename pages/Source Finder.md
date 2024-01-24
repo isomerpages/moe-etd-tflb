@@ -22,7 +22,7 @@ description: ""
 
 
 <center><h2>Want to find out more?</h2></center>
-
+<center><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button"></center>
 
 
 
