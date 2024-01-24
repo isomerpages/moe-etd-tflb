@@ -20,10 +20,13 @@ description: ""
 	
 <center><b>Source Finder</b> is a one-stop platform where teachers share, find and organise all their materials collectively, reducing their time to find them from multiple locations.</center>
 
-<center><h2>Want to find out more?</h2></center>
-<center>Share your email in this <a href="https://for.edu.sg/sf-interest">form</a> to get early access to our prototype! You can also enter it below.</center>
 
-<iframe marginwidth="0" marginheight="0" frameborder="0" height="520" width="100%" src="https://docs.google.com/forms/d/e/1FAIpQLSe9pylwu9X3KXhCWWNrz1lEzO1llkWo-7WnxlQqGp3sPsRTYg/viewform?embedded=true">Loading…</iframe>
+<center><h2>Want to find out more?</h2></center>
+
+
+
+
+
 
 ------------------
 
