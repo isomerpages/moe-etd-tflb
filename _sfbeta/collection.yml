@@ -2,7 +2,7 @@ collections:
   sfbeta:
     output: true
     order:
-      - Home.md
+      - Source Finder.md
       - Secondary/.keep
       - Secondary/Character and Citizenship Education.md
       - Secondary/Geography.md
