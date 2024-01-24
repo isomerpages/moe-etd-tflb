@@ -1,0 +1,6 @@
+collections:
+  21cc-nav-old:
+    output: true
+    order:
+      - 21CC Navigator Student Resources.md
+      - 21CC Navigator Teacher Resources.md

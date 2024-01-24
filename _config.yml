@@ -1,0 +1,62 @@
+title: Classroom of the Future
+url: https://cotf.moe.edu.sg
+favicon: /images/Logo/favicon.ico
+colors:
+  primary-color: "#578ffe"
+  secondary-color: "#ff0082"
+  media-colors:
+    - title: media-color-one
+      color: "#ffb500"
+    - title: media-color-two
+      color: "#ffb500"
+    - title: media-color-three
+      color: "#ffb500"
+    - title: media-color-four
+      color: "#ffb500"
+    - title: media-color-five
+      color: "#ffb500"
+description: Classroom of the Future (CotF) is a multi-agency innovation
+  incubator that leverages design thinking and other human-centric methodologies
+  to redesign the teaching and learning experience for students and teachers to
+  meet current and future needs.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d34sxxwkzr355u.amplifyapp.com
+prod: https://master.d34sxxwkzr355u.amplifyapp.com
+shareicon: /images/Logo/CotF logo horizontal.png
+is_government: true
+facebook-pixel: ""
+google_analytics: UA-249892300-1
+linkedin-insights: ""
+google_analytics_ga4: G-JBVC9MFGC9

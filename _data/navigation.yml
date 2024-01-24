@@ -1,0 +1,27 @@
+logo: /images/Logo/CotF logo horizontal 2.png
+links:
+  - title: About Us
+    url: /about
+  - title: Our Innovations
+    url: /
+    sublinks:
+      - title: 21CC Navigator
+        url: /21ccnavigator
+      - title: Brain Boost Time
+        url: /bbt
+      - title: Eliciting Voices of Students
+        url: /evs
+      - title: Immersive Learning Toolkit
+        url: /ilt
+      - title: InteresThing
+        url: /interesthing
+      - title: Learning Gamified
+        url: /lg
+      - title: Sprouts
+        url: /sprouts
+      - title: Source Finder (Coming Soon!)
+        url: /sourcefinder
+  - title: Our Videos
+    url: https://youtube.com/@classroomofthefuturesg
+  - title: Collaborate with Us
+    url: /collaborate
