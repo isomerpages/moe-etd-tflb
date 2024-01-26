@@ -49,7 +49,7 @@ variant: markdown
 
 <center>Teachers from Sembawang Primary School designed a SLS lesson with the use of poll and supporting image features, ITT and pre-populated student answer (drawing) to further elicit voices of students with diverse learning needs.</center>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YeBweHC6YzI" height="500" width="100%"></iframe>
 
 <center><blockquote><i>"From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT." - Special Educational Needs (SEN) Officer</i></blockquote></center>
 
