@@ -2,11 +2,12 @@ collections:
   sfbeta:
     output: true
     order:
-      - SFBeta.md
+      - Source Finder.md
+      - Primary/.keep
+      - Primary/Social Studies (Pri).md
+      - Secondary/Current Affairs.md
       - Secondary/.keep
       - Secondary/Character and Citizenship Education.md
       - Secondary/Geography.md
       - Secondary/History.md
-      - Secondary/Social Studies.md
-      - Primary/.keep
-      - Primary/Social Studies.md
+      - Secondary/Social Studies (Sec).md
