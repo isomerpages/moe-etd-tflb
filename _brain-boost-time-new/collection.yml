@@ -2,4 +2,5 @@ collections:
   brain-boost-time-new:
     output: true
     order:
+      - Brain Boost Time.md
       - BBT Home/.keep
