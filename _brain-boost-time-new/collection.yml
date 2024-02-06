@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Brain Boost Time.md
-      - BBT Home/.keep
-      - BBT Home/BBT Home.md
-      - BBT Home/Randomisers.md
+      - Explore Brain Boost Time/.keep
+      - Explore Brain Boost Time/BBT Home.md
+      - Explore Brain Boost Time/Randomisers.md
