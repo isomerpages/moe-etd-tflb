@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Brain Boost Time.md
+      - BBT Home/BBT Home.md
       - BBT Home/.keep
