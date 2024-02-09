@@ -1,5 +1,5 @@
 collections:
-  sfbeta:
+  source-finder:
     output: true
     order:
       - Source Finder.md
