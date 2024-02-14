@@ -33,7 +33,8 @@ to start?</p>
 </p>
 </li>
 <li>
-<p>Social Studies (Sec)</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1K6e2xTeXLVe6LhkCSGk7hN0YV3FrmLmGxZwq09kxfjc/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Social Studies (Sec)</a>
+</p>
 </li>
 </ol>
 <p></p>
