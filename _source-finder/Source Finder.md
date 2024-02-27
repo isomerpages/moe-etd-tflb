@@ -22,7 +22,7 @@ description: ""
 
 
 <center><h2>Want to find out more?</h2></center>
-<center><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button.png"></center>
+<center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder"><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button.png"></a></center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder">
 
 
 
@@ -48,4 +48,4 @@ description: ""
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
+</a><center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder">Have a query or feedback on our innovations? We'd love to hear from you </a><a href="/contact">here</a>!</center>
