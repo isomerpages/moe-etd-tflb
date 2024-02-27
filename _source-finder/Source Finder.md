@@ -8,7 +8,7 @@ description: ""
 
 <center><h2>How might we help teachers to save time in finding good resources to use in the classroom?</h2></center>
 
-![gif](/images/Source%20Finder/sffeaturedv3loop.gif)
+![gif](/images/Source%20Finder/Source_Finder_Gif.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
