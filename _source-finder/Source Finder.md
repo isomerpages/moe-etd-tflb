@@ -22,7 +22,7 @@ description: ""
 
 
 <center><h2>Want to find out more?</h2></center>
-<center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder"><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button.png"></a></center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder">
+<center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder/repository"><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button.png"></a></center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder/repository">
 
 
 
