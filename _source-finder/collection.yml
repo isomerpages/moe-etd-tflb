@@ -2,5 +2,6 @@ collections:
   source-finder:
     output: true
     order:
+      - User Guide.md
       - Source Finder.md
       - Repository.md
