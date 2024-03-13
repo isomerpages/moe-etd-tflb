@@ -21,10 +21,6 @@ to start?</p>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1EdTIjknZYWRHGSadaUESqMy1bH46_j90kNPUmY2aERI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Current Affairs</a>
-</p>
-</li>
-<li>
 <p><a href="https://docs.google.com/spreadsheets/d/1CWZW9gRT_O9OCHEaLRLXqXIpzOJPb-mWfl4_2DLhD7w/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Geography (Sec)</a>
 </p>
 </li>
@@ -34,6 +30,13 @@ to start?</p>
 </li>
 <li>
 <p><a href="https://docs.google.com/spreadsheets/d/1K6e2xTeXLVe6LhkCSGk7hN0YV3FrmLmGxZwq09kxfjc/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Social Studies (Sec)</a>
+</p>
+</li>
+</ol>
+<p>Click the link below to access and contribute resources for current affairs:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1EdTIjknZYWRHGSadaUESqMy1bH46_j90kNPUmY2aERI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Current Affairs</a>
 </p>
 </li>
 </ol>
