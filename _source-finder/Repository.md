@@ -13,7 +13,7 @@ to start?</p>
 <p>Click the respective subjects to access and contribute resources:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/cotf-sf-sspri" rel="noopener noreferrer nofollow" target="_blank">Social Studies (Pri)</a>
+<p><a href="https://go.gov.sg/cotf-sf-sspri" rel="noopener noreferrer nofollow" target="_blank">Social Studies (Primary)</a>
 </p>
 </li>
 <li>
@@ -21,15 +21,15 @@ to start?</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cotf-sf-geogsec" rel="noopener noreferrer nofollow" target="_blank">Geography (Sec)</a>
+<p><a href="https://go.gov.sg/cotf-sf-geogsec" rel="noopener noreferrer nofollow" target="_blank">Geography (Secondary)</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cotf-sf-histsec" rel="noopener noreferrer nofollow" target="_blank">History (Sec)</a>
+<p><a href="https://go.gov.sg/cotf-sf-histsec" rel="noopener noreferrer nofollow" target="_blank">History (Secondary)</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cotf-sf-sssec" rel="noopener noreferrer nofollow" target="_blank">Social Studies (Sec)</a>
+<p><a href="https://go.gov.sg/cotf-sf-sssec" rel="noopener noreferrer nofollow" target="_blank">Social Studies (Secondary)</a>
 </p>
 </li>
 </ol>
