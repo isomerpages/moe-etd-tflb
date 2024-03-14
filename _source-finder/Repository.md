@@ -33,6 +33,8 @@ to start?</p>
 </p>
 </li>
 </ol>
+<p>Got some amazing resources that do not fit into the usual subjects above,
+but you know they are still valuable? We have just a spot for them!</p>
 <p>Click the link below to access and contribute resources for current affairs:</p>
 <ol data-tight="true" class="tight">
 <li>
