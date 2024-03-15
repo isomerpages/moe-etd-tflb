@@ -7,7 +7,7 @@ description: ""
 <h1>Repository</h1>
 <p>Welcome to our incredible community of teachers who share valuable and
 curated resources for teaching and learning! It's worth mentioning that
-MOE HQ doesn't monitor the credibillity of these resources or their alignment
+MOE HQ doesn't monitor the credibility of these resources or their alignment
 to syllabus outcomes - we trust you to exercise your professional judgment
 when contributing or using resources. Ready to start?</p>
 <p>Click the respective subjects to access and contribute resources:</p>
