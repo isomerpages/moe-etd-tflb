@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h1>Repository</h1>
-<p>Welcome to our incredible community of teachers who share valuable resources!
-It's worth mentioning that MOE HQ doesn't monitor the credibillity of these
-resources or their alignment to syllabus outcomes - we trust you to exercise
-your professional judgment when contributing or using resources. Ready
-to start?</p>
+<p>Welcome to our incredible community of teachers who share valuable and
+curated resources for teaching and learning! It's worth mentioning that
+MOE HQ doesn't monitor the credibillity of these resources or their alignment
+to syllabus outcomes - we trust you to exercise your professional judgment
+when contributing or using resources. Ready to start?</p>
 <p>Click the respective subjects to access and contribute resources:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -34,7 +34,7 @@ to start?</p>
 </li>
 </ol>
 <p>Got some amazing resources that do not fit into the usual subjects above,
-but you know they are still valuable? We have just a spot for them!</p>
+but you know they will come handy one day? We have just a spot for them!</p>
 <p>Click the link below to access and contribute resources for current affairs:</p>
 <ol data-tight="true" class="tight">
 <li>
