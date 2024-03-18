@@ -75,7 +75,6 @@ sections:
       image: /images/Home Page/SPROUTSo.png
   - infopic:
       title: Source Finder
-      subtitle: COMING SOON!
       description: Plug into a teacher community that shares resources for teaching
         and assessment!
       button: Onward to curated resources!
