@@ -1,14 +1,14 @@
 ---
 title: Source Finder
-permalink: /sourcefindernew/
+permalink: /sourcefinder/
 variant: markdown
 description: ""
 ---
-<center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Solution</a>  |  <a href="#impact">Our Impact</a></h4></center>
+<center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we help teachers to save time in finding good resources to use in the classroom?</h2></center>
 
-![gif](/images/Source%20Finder/sffeaturedv3loop.gif)
+![gif](/images/Source%20Finder/Source_Finder_Gif.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
@@ -16,14 +16,13 @@ description: ""
 
 -----------------
 
-<center><h2 id="innovation">Our Solution</h2></center>
+<center><h2 id="innovation">Our Innovation</h2></center>
 	
 <center><b>Source Finder</b> is a one-stop platform where teachers share, find and organise all their materials collectively, reducing their time to find them from multiple locations.</center>
 
 
 <center><h2>Want to find out more?</h2></center>
-<center><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button.png"></center>
-
+<center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder/repository"><img style="width:34%; display: inline;" src="/images/Buttons/source_finder_button.png"></a></center>
 
 
 
@@ -48,4 +47,4 @@ description: ""
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
+<center><a rel="noopener noreferrer" target="_blank" href="https://cotf.moe.edu.sg/sourcefinder">Have a query or feedback on our innovations? We'd love to hear from you </a><a href="/contact">here</a>!</center>
