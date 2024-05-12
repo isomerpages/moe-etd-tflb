@@ -19,7 +19,7 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center><b>ProjecTask</b> enables both teachers and students to manage and monitor project work progress more efficiently and effectively by providing:<br><br>
-	
+![ProjecTask features](/images/ProjecTask/ProjecTaskFeatures.png)	
 	
 </center>
 
