@@ -7,15 +7,13 @@ description: ProjecTask is a digital tool that aims to develop students’
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>How might we help students to appreciate what they are learning beyond their academic grades?</h2></center>
+<center><h2>How might we support teachers in developing students’ self-directedness in planning and managing projects?</h2></center>
 
-![21CC Navigator Featured Image](/images/21CC%20Navigator/21cc%20navigator%20featured%20image%20cotf.gif)
-
-*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener noreferrer">here</a>.
+*To insert feature image here*
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
-![Why 21CC Navigator?](/images/21CC%20Navigator/why%2021cc%20navigator%202.png)
+
 
 <center>Passionate but pragmatic secondary school teachers want to help students see the value of going beyond academic results to develop future-ready skills.<br><br>
 Secondary school students simply follow what their teachers say, and do not see a link between what they learn in school and how it will help them in the future.
