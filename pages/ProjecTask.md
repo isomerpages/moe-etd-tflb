@@ -18,29 +18,59 @@ description: ProjecTask is a digital tool that aims to develop students’
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>ProjecTask</b> enables both teachers and students to manage and monitor project work progress more efficiently and effectively by providing:<br><br></center>
-![ProjecTask features](/images/ProjecTask/ProjecTaskFeatures.png)	
-	
+<center><b>ProjecTask</b> enables both teachers and students to manage and monitor project work progress more efficiently and effectively by providing:</center>
 
+![ProjecTask features](/images/ProjecTask/ProjecTaskFeatures.png)
+
+*need high resolution image for the image above. Embedded pic in the word doc is too small. Can send to Ben directly via email or Teams.*
+
+**
+
+Link to RP resources and materials that you would like displayed on the webpage:&nbsp;
+
+Link to formSG: [for.edu.sg/projectask](http://for.edu.sg/projectask)
+
+GIFs of our boards in action
+
+Links to SLS lessons (3 - D&amp;T, Group Projects, Indiv Projects)
+
+Title of resource: ProjecTask&nbsp;
+
+Link of resource:&nbsp;
+
+Link to formSG: [for.edu.sg/projectask](http://for.edu.sg/projectask)
+
+\[Link to SLS lessons here - 1 SLS lesson InteresThing with ProjecTask -- can name it ProjecTask for SIL [https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover](https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover)\]
+
+\[Link to user guide pdf\]&nbsp;
+
+ Call to action text (button): \[Click here for your ProjecTask templates!\]
+
+Special request: Subpage - Samples from the community
+
+**
 
 ------------------
 
 <center><h2 id="impact">Our Impact</h2></center>
-<ul>
-<li>Students reported a <b>greater awareness of 21CC</b> and were <b>motivated</b> to learn more about 21CC and hone their future-ready skills.</li>
-<li>Students shared that the use of 21CC Navigator enabled <b>organic social interaction and support</b> between teacher-student, student-student, and student-family.</li>
-<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities <b>related to their 21CC development</b>.</li>
-</ul>
 
-<center><blockquote><i>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</i></blockquote></center>
+75% of our Teacher users reported increase in their student’s submission rate
 
-<center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</i></blockquote></center>
+**Teacher Quotes:**
+<center><blockquote><i>"It is a wonderful thing, within one screen teachers and students can see the past and future of a project!”</i></blockquote></center>
 
-<center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</i></blockquote></center>
+<center><blockquote><i>"Good that i can understand at one glance to track their growth and journey.”</i></blockquote></center>
 
-<center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
+<center><blockquote><i>"Useful to see thread of conversation and feedback. Can be an add-on to the process that happens live in the classroom.”</i></blockquote></center>
 
-<center><blockquote><i>"Usually 21CC is at the back of my head. You may be teaching these values but you may not know. But now, (after using 21CC Navigator), I'm more conscious about 21CC." - Secondary 2 Mathematics Teacher</i></blockquote></center>
+**Student Quotes:**
+<center><blockquote><i>"It helps me to organise work and track progress, making it easier to check what needs to be done."</i></blockquote></center>
+
+<center><blockquote><i>"When you complete an assignment and press DONE, it feels rewarding to know that you finished it and can move on to the next assignment."</i></blockquote></center>
+
+<center><blockquote><i>"Straightforward and easy to use!"</i></blockquote></center>
+
+**Awarded:** <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously named Coursework Monitoring System)
 
 --------
 
