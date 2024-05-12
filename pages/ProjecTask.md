@@ -13,8 +13,6 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
-
-
 <center>Teachers struggle to manage the demands of monitoring students’ coursework, from tracking students’ progress to ensuring that they provide quality feedback to students.<br><br>Many students lack initiative to self-manage their progress and are dependent on teachers to “chase them”.</center>
 
 -----------------
