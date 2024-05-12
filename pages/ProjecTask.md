@@ -15,25 +15,14 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 
 
-<center>Passionate but pragmatic secondary school teachers want to help students see the value of going beyond academic results to develop future-ready skills.<br><br>
-Secondary school students simply follow what their teachers say, and do not see a link between what they learn in school and how it will help them in the future.
-</center>
+<center>Teachers struggle to manage the demands of monitoring students’ coursework, from tracking students’ progress to ensuring that they provide quality feedback to students.<br><br>Many students lack initiative to self-manage their progress and are dependent on teachers to “chase them”.</center>
 
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>21CC Navigator</b> is a self-paced personal growth tool that:<br><br>
-<div style="overflow-x:auto;">
-<table>
-	<tbody>
-		<tr>
-			<td style="text-align: center"><img style="width:25%" src="/images/21CC%20Navigator/identify%20growth.png"><br>enables students to <b>identify</b> their individual strengths and areas to work on</td>
-			<td style="text-align: center"><img style="width:45%" src="/images/21CC%20Navigator/pathways.png"><br><b>suggests pathways</b> for students to reach their 21CC goals</td>
-			<td style="text-align: center"><img style="width:40%" src="/images/21CC%20Navigator/next%20step.png"><br><b>encourages</b> students to take the <b>next step</b> in developing their 21CC</td>
-		</tr>
-	</tbody>
-</table>
-</div>
+<center><b>ProjecTask</b> enables both teachers and students to manage and monitor project work progress more efficiently and effectively by providing:<br><br>
+	
+	
 </center>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
