@@ -6,7 +6,8 @@ description: Get your pupils to their optimal zone of learning - especially when
 image: /images/Home Page/BBTo.png
 variant: markdown
 ---
-<center> Please note that CotF will be decommissioning Brain Boost Time on **28 June 2024**.  If you wish to save a copy of the Brain Boost Time Google Site for your own use, please reach out to us via email at cotf@moe.edu.sg. We thank you for your support in this solution!
+Please note that CotF will be decommissioning Brain Boost Time on 28 June 2024. 
+If you wish to save a copy of the Brain Boost Time Google Site for your own use, please reach out to us via email at cotf@moe.edu.sg. We thank you for your support!
 
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
@@ -62,4 +63,4 @@ The 5 positive changes we noticed in students during our observations include:</
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center></center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>
