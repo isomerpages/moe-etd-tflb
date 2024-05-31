@@ -4,7 +4,11 @@ permalink: /ilt/
 description: Craft and create immersive experiences through a lesson design
   guide and ready-made lesson samples in SLS!
 image: /images/Home Page/ILTo.png
+variant: markdown
 ---
+<center> <h5> Please note that CotF will be decommissioning CYOA-ILT on 28 June 2024. 
+If you wish to save a copy of the resource guide for your own use, please reach out to us via email at cotf@moe.edu.sg. We thank you for your support!
+	
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we craft captivating learning experiences for our students?</h2></center>
@@ -97,4 +101,4 @@ image: /images/Home Page/ILTo.png
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center></h5></center>
