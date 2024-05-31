@@ -6,7 +6,7 @@ description: Craft and create immersive experiences through a lesson design
 image: /images/Home Page/ILTo.png
 variant: markdown
 ---
-<center> <h5> Please note that CotF will be decommissioning CYOA-ILT on 28 June 2024. 
+<center> <h5> CotF will be closing access to CYOA-ILT on 28 June 2024. 
 If you wish to save a copy of the resource guide for your own use, please reach out to us via email at cotf@moe.edu.sg. We thank you for your support!
 	
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
