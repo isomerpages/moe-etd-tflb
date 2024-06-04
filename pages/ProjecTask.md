@@ -30,7 +30,7 @@ Link to RP resources and materials that you would like displayed on the webpage:
 
 Link to formSG: [for.edu.sg/projectask](http://for.edu.sg/projectask)
 
-GIFs of our boards in action
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/G5r2llH2OBA" height="500" width="100%"></iframe>
 
 Links to SLS lessons (3 - D&amp;T, Group Projects, Indiv Projects)
 
