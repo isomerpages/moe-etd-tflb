@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProjecTask/ProjecTask_LIKE_cropped.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ProjecTask/ProjecTask_LIKE_cropped.png">
 </div>
 <p><strong>Please share what you enjoyed and how we can improve in the short survey below.</strong>
 </p>
