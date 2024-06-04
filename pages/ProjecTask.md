@@ -9,7 +9,7 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><h2>How might we support teachers in developing students’ self-directedness in planning and managing projects?</h2></center>
 
-![](/images/ProjecTask_featured_image_edited.gif)
+![](/images/ProjecTask/ProjecTask_featured_image_edited.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
@@ -20,11 +20,9 @@ description: ProjecTask is a digital tool that aims to develop students’
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center><b>ProjecTask</b> enables both teachers and students to manage and monitor project work progress more efficiently and effectively by providing:</center>
 
-![ProjecTask features](/images/ProjecTask/ProjecTaskFeatures.png)
+![](/images/ProjecTask/ProjecTask_features.png)
 
-*need high resolution image for the image above. Embedded pic in the word doc is too small. Can send to Ben directly via email or Teams.*
 
-**
 
 Link to RP resources and materials that you would like displayed on the webpage:&nbsp;
 
