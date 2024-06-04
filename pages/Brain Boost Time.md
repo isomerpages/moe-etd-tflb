@@ -4,7 +4,11 @@ permalink: /bbt/
 description: Get your pupils to their optimal zone of learning - especially when
   they're extremely excited or tired!
 image: /images/Home Page/BBTo.png
+variant: markdown
 ---
+<center> <h5> CotF will be closing access to Brain Boost Time on 28 June 2024. 
+If you wish to save a copy of the Brain Boost Time Google Site for your own use, please reach out to us via email at cotf@moe.edu.sg. We thank you for your support!
+
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 <center><h2>How might we get primary school pupils to their optimal zone of learning?</h2></center>
@@ -47,7 +51,7 @@ The 5 positive changes we noticed in students during our observations include:</
 
 ------------------
 
-<h1><center>★ ★ ★ ★ ☆</center></h1>
+</h5><h1><center>★ ★ ★ ★ ☆</center></h1>
 <center>Rated an average of <b>4.1 out of 5 stars</b> by teachers during Teacher's Conference and ExCEL Festival (TCEF) 2021 for potential usefulness in managing students’ energy level during a lesson.</center>
 
 <center><blockquote><i>"BBT definitely makes lessons more interesting. Makes pupils more alive. After using BBT, they are more responsive and more at ease. I noticed that difference. In terms of quality of work and focus, I can see that they are more keen to do the work after." - Primary 5 Teacher</i></blockquote></center>
@@ -59,4 +63,4 @@ The 5 positive changes we noticed in students during our observations include:</
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact" target="_blank" rel="noopener noreferrer">here</a>!</center></center>
