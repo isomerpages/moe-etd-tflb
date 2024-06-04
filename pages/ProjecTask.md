@@ -32,7 +32,7 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <br>
 	
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_SLS_Lesson_Button.png" style="width:31%; display: inline;"></a> **&nbsp;**
+<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_SLS_Lesson_Button.png" style="width:31%; display: inline;"></a> &nbsp;
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:31%; display: inline;"></a> </center>
 
 
