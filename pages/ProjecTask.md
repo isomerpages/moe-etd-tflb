@@ -36,23 +36,6 @@ description: ProjecTask is a digital tool that aims to develop students’
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:31%; display: inline;"></a> </center>
 
 
-Links to SLS lessons (3 - D&amp;T, Group Projects, Indiv Projects)
-
-Title of resource: ProjecTask&nbsp;
-
-Link of resource:&nbsp;
-
-Link to formSG: [for.edu.sg/projectask](http://for.edu.sg/projectask)
-
-\[Link to SLS lessons here - 1 SLS lesson InteresThing with ProjecTask -- can name it ProjecTask for SIL [https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover](https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover)\]
-
-\[Link to user guide pdf\]&nbsp;
-
- Call to action text (button): \[Click here for your ProjecTask templates!\]
-
-Special request: Subpage - Samples from the community
-
-**
 
 ------------------
 
