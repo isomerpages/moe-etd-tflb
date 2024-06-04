@@ -30,6 +30,8 @@ Link to formSG: [for.edu.sg/projectask](http://for.edu.sg/projectask)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/G5r2llH2OBA" height="500" width="100%"></iframe>
 
+<center><a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_Board_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
+	
 Links to SLS lessons (3 - D&amp;T, Group Projects, Indiv Projects)
 
 Title of resource: ProjecTask&nbsp;
@@ -72,4 +74,4 @@ Special request: Subpage - Samples from the community
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center></center>
