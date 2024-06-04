@@ -9,7 +9,7 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><h2>How might we support teachers in developing students’ self-directedness in planning and managing projects?</h2></center>
 
-*To insert feature image here*
+![](/images/ProjecTask_featured_image_edited.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
