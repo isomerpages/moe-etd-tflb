@@ -30,6 +30,8 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_Board_Button_new.png" style="width:63%; display: inline;"></a> 
 
+<br>
+	
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:31%; display: inline;"></a> </center>
 
 <br>
@@ -38,10 +40,8 @@ description: ProjecTask is a digital tool that aims to develop students’
 	
 <center> <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:31%; display: inline;"></a> 
 	<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:31%; display: inline;"></a>
-	<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_DnT_Button.png" style="width:31%; display: inline;"></a>
-
-
-
+	<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_DnT_Button.png" style="width:31%; display: inline;"></a> 
+	
 
 ------------------
 
