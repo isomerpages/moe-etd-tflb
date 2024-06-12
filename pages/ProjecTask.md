@@ -38,10 +38,10 @@ description: ProjecTask is a digital tool that aims to develop students’
 <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/r6yyk7WSuIw" height="500" width="100%"></iframe>
 	
-<center> <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:31%; display: inline;"></a> 
-	<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:31%; display: inline;"></a>
+<center> <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:28%; display: inline;"></a> 
+	<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:28%; display: inline;"></a>
 	
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_DnT_Button.png" style="width:31%; display: inline;"></a> </center>
+<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_DnT_Button.png" style="width:28%; display: inline;"></a> </center>
 	
 
 ------------------
