@@ -21,6 +21,8 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><b>ProjecTask</b> consists of a set of ProjecTask boards that can be used&nbsp;<b>independently</b>&nbsp;or together with a&nbsp;<b>complementary</b>&nbsp;SLS lesson template:</center>
 
+![](/images/ProjecTask/What_is_ProjecTask.png)
+
 <center><b>ProjecTask</b> enables both teachers and students to manage and monitor project work progress more efficiently and effectively by providing:</center>
 
 ![](/images/ProjecTask/ProjecTask_features_new.png)
