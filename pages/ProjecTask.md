@@ -52,8 +52,6 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-75% of our Teacher users reported increase in their student’s submission rate
-
 **Teacher Quotes:**
 <center><blockquote><i>"It is a wonderful thing, within one screen teachers and students can see the past and future of a project!”</i></blockquote></center>
 
