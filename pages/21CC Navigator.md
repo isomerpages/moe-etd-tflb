@@ -4,6 +4,7 @@ permalink: /21ccnavigator/
 description: Make 21st Century Competencies visible through a gamified
   self-paced personal growth tool on SLS!
 image: /images/21CC Navigator/21ccnlong.png
+variant: markdown
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
@@ -38,10 +39,8 @@ Secondary school students simply follow what their teachers say, and do not see 
 </div>
 </center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xM89P0zP9ee_tJjvx0YzCmjOI37YJXhzfWSiBoBsucny26-QTLW0uChitikWWA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<!--
-<center><a href="/21ccnavigator/teacher" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Explore%20Teacher%20Resources.png" style="width:35%; display: inline;"></a></center><center><a href="/21ccnavigator/student" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/explore%20student%20resources.png" style="width:37%; display: inline;"></a></center>-->
+
 
 ------------------
 
