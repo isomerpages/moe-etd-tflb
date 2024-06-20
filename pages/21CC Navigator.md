@@ -6,7 +6,7 @@ description: Make 21st Century Competencies visible through a gamified
 image: /images/21CC Navigator/21ccnlong.png
 variant: tiptap
 ---
-<h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">E21CC Quests</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Use Cases </a>| <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
+<h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">E21CC Quests</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Key Features </a>| <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
 <h2>Wondering how you can use EdTech to help students develop the E21CC?</h2>
 <p>The 21CC Navigator is here to help! The 21CC Navigator is a learning package
 on SLS that comprises 6 E21CC Quests and a Welcome Guide to <strong>support teachers in kickstarting the development of E21CC</strong>.
@@ -41,6 +41,9 @@ these lessons.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Welcome Guide</strong>
+</p>
+<p></p>
+<p><strong>This is </strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -131,6 +134,8 @@ these lessons.</p>
 </tbody>
 </table>
 <h2>Key Features</h2>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h2>Our Impact</h2>
