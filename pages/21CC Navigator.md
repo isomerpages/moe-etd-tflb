@@ -39,6 +39,27 @@ these lessons.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Welcome Guide</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/9548aa2d-7496-41bd-9531-5dc43d540853/cover" rel="noopener noreferrer nofollow" target="_blank">Welcome to 21CC Navigator!</a>
+</p>
+<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/my-library/lesson/view/9548aa2d-7496-41bd-9531-5dc43d540853/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_welcome.gif"></a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information Skills </strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/7795a895-1c3b-47ec-99ba-372b38a0eb13/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: How Much Do You Know About Deepfakes?</a>
+</p>
+</th>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Civic Literacy</p>
 </th>
@@ -51,8 +72,6 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adaptive Thinking</strong>
-</p>
 <p><strong>Cross Cultural Literacy</strong>
 </p>
 <p><strong>Inventive Thinking</strong>
@@ -68,7 +87,8 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Global Literacy </strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/01d4aede-f67f-43c1-861f-423b4b3961eb/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Choosing Sustainability</a>
@@ -77,7 +97,10 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Critical Thinking </strong>
+</p>
+<p><strong>Adaptive Thinking</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/812e1732-d67a-431a-99d8-84cf6b294746/cover" rel="noopener noreferrer nofollow" target="_blank">21CC Quest: Exploring Argona-VI</a>
