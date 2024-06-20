@@ -71,7 +71,8 @@ these lessons.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/01d4aede-f67f-43c1-861f-423b4b3961eb/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Choosing Sustainability</a>
+</p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/my-library/lesson/view/01d4aede-f67f-43c1-861f-423b4b3961eb/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sustainability_quest.gif"></a>
 </td>
 </tr>
 <tr>
@@ -79,7 +80,11 @@ these lessons.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/812e1732-d67a-431a-99d8-84cf6b294746/cover" rel="noopener noreferrer nofollow" target="_blank">21CC Quest: Exploring Argona-VI</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_argona.gif">
+</div>
 </td>
 </tr>
 </tbody>
