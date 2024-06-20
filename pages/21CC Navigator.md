@@ -18,7 +18,8 @@ in class to help raise students' awareness of the E21CC.</p>
 <p></p>
 <p>*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <hr>
-<h2>E21CC Quests</h2>
+<section id="discovery">
+	<h2>E21CC Quests</h2>
 <p><strong>E21CC Quests are SLS lessons that include lesson activities and interactives to help your students learn about the E21CC. </strong>Students
 get to engage in games and interactives and collect gems as they complete
 these lessons.</p>
@@ -177,4 +178,4 @@ how their school work and activities <strong>related to their 21CC development</
 </blockquote>
 <hr>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></section>
