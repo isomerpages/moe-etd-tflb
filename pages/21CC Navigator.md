@@ -56,7 +56,7 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information Skills </strong>
+<p><strong>Information Skills</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
