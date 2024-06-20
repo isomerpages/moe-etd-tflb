@@ -64,9 +64,9 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Communication </strong>
+<p><strong>Communication</strong>
 </p>
-<p><strong>Collaboration </strong>
+<p><strong>Collaboration</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
