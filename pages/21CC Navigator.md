@@ -23,9 +23,8 @@ in class to help raise students' awareness of the E21CC.</p>
 get to engage in games and interactives and collect gems as they complete
 these lessons.</p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -38,9 +37,6 @@ these lessons.</p>
 <th rowspan="1" colspan="1">
 <p>Link</p>
 </th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,8 +45,7 @@ these lessons.</p>
 <th rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/fb2a0f8f-f810-4a99-8ee8-3706e07da6ac/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Life in Singapore during World War II</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/my-library/lesson/view/fb2a0f8f-f810-4a99-8ee8-3706e07da6ac/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___13_.gif"></a>
 <p></p>
 </th>
 </tr>
@@ -70,9 +65,6 @@ these lessons.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___35_.gif">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,14 +73,8 @@ these lessons.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
