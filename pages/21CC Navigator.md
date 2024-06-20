@@ -9,7 +9,7 @@ variant: markdown
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
 
-<h2>How might we use EdTech to help students develop the E21CC?</h2>
+<center><h2>How might we use EdTech to help students develop the E21CC?</h2>
 <p>The 21CC Navigator is here to help! The 21CC Navigator is a learning package
 on SLS that comprises 6 E21CC Quests and a Welcome Guide to <strong>support teachers in kickstarting the development of E21CC</strong>.
 Assign it to your students as home-based learning or complete the quests
@@ -180,4 +180,4 @@ how their school work and activities <strong>related to their 21CC development</
 </blockquote>
 <hr>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></section>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></section></center>
