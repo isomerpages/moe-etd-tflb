@@ -6,8 +6,10 @@ description: Make 21st Century Competencies visible through a gamified
 image: /images/21CC Navigator/21ccnlong.png
 variant: markdown
 ---
-<h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">E21CC Quests</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Key Features </a>| <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
-<h2>Wondering how you can use EdTech to help students develop the E21CC?</h2>
+<center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
+
+
+<h2>How might we use EdTech to help students develop the E21CC?</h2>
 <p>The 21CC Navigator is here to help! The 21CC Navigator is a learning package
 on SLS that comprises 6 E21CC Quests and a Welcome Guide to <strong>support teachers in kickstarting the development of E21CC</strong>.
 Assign it to your students as home-based learning or complete the quests
