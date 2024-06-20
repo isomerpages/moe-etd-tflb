@@ -7,7 +7,7 @@ image: /images/21CC Navigator/21ccnlong.png
 variant: tiptap
 ---
 <h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">E21CC Quests</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Key Features</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
-<h2>Wondering how you can use EdTech to help students develop the E21CC? </h2>
+<h2>Wondering how you can use EdTech to help students develop the E21CC?</h2>
 <p>The 21CC Navigator is here to help! The 21CC Navigator is a learning package
 on SLS that comprises 6 E21CC Quests and a Welcome Guide to <strong>support teachers in kickstarting the development of E21CC</strong>.
 Assign it to your students as home-based learning or complete the quests
@@ -18,7 +18,7 @@ in class to help raise students' awareness of the E21CC.</p>
 <p></p>
 <p>*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <hr>
-<h2>E21CC Quests </h2>
+<h2>E21CC Quests</h2>
 <p><strong>E21CC Quests are SLS lessons that include lesson activities and interactives to help your students learn about the E21CC. </strong>Students
 get to engage in games and interactives and collect gems as they complete
 these lessons.</p>
@@ -32,7 +32,7 @@ these lessons.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC </strong>
+<p><strong>E21CC</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -44,10 +44,11 @@ these lessons.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Quest 1</p>
+<p>Civic Literacy</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>E21CC Quest: Life in Singapore during World War II</p>
+<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/fb2a0f8f-f810-4a99-8ee8-3706e07da6ac/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Life in Singapore during World War II</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -55,7 +56,7 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Quest 2</strong>
+<p><strong>Information Skills </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +68,7 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Quest 3 </strong>
+<p><strong>Quest 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
