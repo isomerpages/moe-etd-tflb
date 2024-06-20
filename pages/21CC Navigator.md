@@ -88,7 +88,8 @@ these lessons.</p>
 <br>
 <br>
 </p>
-<hr>
+<h2>Key Features</h2>
+<p></p>
 <h2>Our Impact</h2>
 <ul data-tight="true" class="tight">
 <li>
