@@ -56,14 +56,19 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Inventive Thinking </strong>
+<p><strong>Adaptive Thinking</strong>
 </p>
-<p><strong>Adaptive Thinking </strong>
+<p><strong>Cross Cultural Literacy</strong>
+</p>
+<p><strong>Inventive Thinking</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/441b712d-389f-4172-ad3c-44d65ecec716/cover" rel="noopener noreferrer nofollow" target="_blank"> E21CC Quest: ThinkTank Terrace</a></strong>
+<p><strong><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/441b712d-389f-4172-ad3c-44d65ecec716/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: ThinkTank Terrace</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___35_.gif">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
