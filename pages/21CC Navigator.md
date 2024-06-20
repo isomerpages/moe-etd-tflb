@@ -51,12 +51,30 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information Skills </strong>
+<p><strong>Information Skills</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/7795a895-1c3b-47ec-99ba-372b38a0eb13/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: How Much Do You Know About Deepfakes?</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_deepfake.gif">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Communication </strong>
+</p>
+<p><strong>Collaboration </strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/48a56789-5a8c-4ce9-94d0-c41611d2e25b/cover" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Communication Facilitates Collaboration</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_collab.gif">
+</div>
 </th>
 </tr>
 <tr>
@@ -87,7 +105,7 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Global Literacy </strong>
+<p><strong>Global Literacy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +115,7 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Critical Thinking </strong>
+<p><strong>Critical Thinking</strong>
 </p>
 <p><strong>Adaptive Thinking</strong>
 </p>
