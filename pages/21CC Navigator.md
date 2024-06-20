@@ -84,10 +84,6 @@ these lessons.</p>
 </tr>
 </tbody>
 </table>
-<p>is a self-paced personal growth tool that:
-<br>
-<br>
-</p>
 <h2>Key Features</h2>
 <p></p>
 <h2>Our Impact</h2>
