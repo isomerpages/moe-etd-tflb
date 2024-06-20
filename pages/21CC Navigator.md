@@ -43,7 +43,7 @@ these lessons.</p>
 <p><strong>Welcome Guide</strong>
 </p>
 <p></p>
-<p><strong>This is </strong>
+<p><strong>&lt;Synopsis of quest goes here&gt; </strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
