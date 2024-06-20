@@ -13,7 +13,7 @@ on SLS that comprises 6 E21CC Quests and a Welcome Guide to <strong>support teac
 Assign it to your students as home-based learning or complete the quests
 in class to help raise students' awareness of the E21CC.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfWh05zja6ez4xRnGcZ4Zr2POVEGrEVS7Ig17WG1WbRYg93nzbqw8yXbxMSkWEXRx_q3Eri1fPHxN4/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfWh05zja6ez4xRnGcZ4Zr2POVEGrEVS7Ig17WG1WbRYg93nzbqw8yXbxMSkWEXRx_q3Eri1fPHxN4/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p>*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer" target="_blank">here</a>.</p>
