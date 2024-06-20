@@ -88,40 +88,6 @@ these lessons.</p>
 <br>
 <br>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/21CC%20Navigator/identify%20growth.png">
-</div>
-<p>
-<br>enables students to <strong>identify</strong> their individual strengths
-and areas to work on</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/21CC%20Navigator/pathways.png">
-</div>
-<p>
-<br><strong>suggests pathways</strong> for students to reach their 21CC goals</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/21CC%20Navigator/next%20step.png">
-</div>
-<p>
-<br><strong>encourages</strong> students to take the <strong>next step</strong> in
-developing their 21CC</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h2>Our Impact</h2>
 <ul data-tight="true" class="tight">
