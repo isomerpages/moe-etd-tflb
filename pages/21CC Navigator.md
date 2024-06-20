@@ -132,9 +132,6 @@ these lessons.</p>
 </table>
 <h2>Key Features</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21cc_features.jpg">
-</div>
 <p></p>
 <h2>Our Impact</h2>
 <p>After using the 21CC Navigator</p>
