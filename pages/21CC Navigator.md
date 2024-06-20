@@ -56,23 +56,14 @@ these lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information Skills</strong>
+<p><strong>Inventive Thinking </strong>
+</p>
+<p><strong>Adaptive Thinking </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Quest 3</strong>
+<p><strong><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/441b712d-389f-4172-ad3c-44d65ecec716/cover" rel="noopener noreferrer nofollow" target="_blank"> E21CC Quest: ThinkTank Terrace</a></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
