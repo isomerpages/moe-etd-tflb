@@ -4,63 +4,178 @@ permalink: /21ccnavigator/
 description: Make 21st Century Competencies visible through a gamified
   self-paced personal growth tool on SLS!
 image: /images/21CC Navigator/21ccnlong.png
-variant: markdown
+variant: tiptap
 ---
-<center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
-
-<center><h2>How might we help students to appreciate what they are learning beyond their academic grades?</h2></center>
-
-![21CC Navigator Featured Image](/images/21CC%20Navigator/21cc%20navigator%20featured%20image%20cotf.gif)
-
-*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener noreferrer">here</a>.
-
-<center><h2 id="discovery">Our Discovery</h2></center>
-
-![Why 21CC Navigator?](/images/21CC%20Navigator/why%2021cc%20navigator%202.png)
-
-<center>Passionate but pragmatic secondary school teachers want to help students see the value of going beyond academic results to develop future-ready skills.<br><br>
-Secondary school students simply follow what their teachers say, and do not see a link between what they learn in school and how it will help them in the future.
-</center>
-
------------------
-
-<center><h2 id="innovation">Our Innovation</h2></center>
-<center><b>21CC Navigator</b> is a self-paced personal growth tool that:<br><br>
-<div style="overflow-x:auto;">
-<table>
-	<tbody>
-		<tr>
-			<td style="text-align: center"><img style="width:25%" src="/images/21CC%20Navigator/identify%20growth.png"><br>enables students to <b>identify</b> their individual strengths and areas to work on</td>
-			<td style="text-align: center"><img style="width:45%" src="/images/21CC%20Navigator/pathways.png"><br><b>suggests pathways</b> for students to reach their 21CC goals</td>
-			<td style="text-align: center"><img style="width:40%" src="/images/21CC%20Navigator/next%20step.png"><br><b>encourages</b> students to take the <b>next step</b> in developing their 21CC</td>
-		</tr>
-	</tbody>
-</table>
+<h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">E21CC Quests</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Key Features</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
+<h2>Wondering how you can use EdTech to help students develop the E21CC? </h2>
+<p>The 21CC Navigator is here to help! The 21CC Navigator is a learning package
+on SLS that comprises 6 E21CC Quests and a Welcome Guide to <strong>support teachers in kickstarting the development of E21CC</strong>.
+Assign it to your students as home-based learning or complete the quests
+in class to help raise students' awareness of the E21CC.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfWh05zja6ez4xRnGcZ4Zr2POVEGrEVS7Ig17WG1WbRYg93nzbqw8yXbxMSkWEXRx_q3Eri1fPHxN4/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-</center>
-
-
-
-
-------------------
-
-<center><h2 id="impact">Our Impact</h2></center>
-<ul>
-<li>Students reported a <b>greater awareness of 21CC</b> and were <b>motivated</b> to learn more about 21CC and hone their future-ready skills.</li>
-<li>Students shared that the use of 21CC Navigator enabled <b>organic social interaction and support</b> between teacher-student, student-student, and student-family.</li>
-<li>While teachers took time to incorporate 21CC Navigator into their teaching practices, they observed that their students were better able to understand how their school work and activities <b>related to their 21CC development</b>.</li>
+<p></p>
+<p>*Find out more about 21st Century Competencies (21CC) <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<hr>
+<h2>E21CC Quests </h2>
+<p><strong>E21CC Quests are SLS lessons that include lesson activities and interactives to help your students learn about the E21CC. </strong>Students
+get to engage in games and interactives and collect gems as they complete
+these lessons.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>E21CC </strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Link</p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Quest 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>E21CC Quest: Life in Singapore during World War II</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Quest 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Quest 3 </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>is a self-paced personal growth tool that:
+<br>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/21CC%20Navigator/identify%20growth.png">
+</div>
+<p>
+<br>enables students to <strong>identify</strong> their individual strengths
+and areas to work on</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:45%" height="auto" width="100%" src="/images/21CC%20Navigator/pathways.png">
+</div>
+<p>
+<br><strong>suggests pathways</strong> for students to reach their 21CC goals</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/21CC%20Navigator/next%20step.png">
+</div>
+<p>
+<br><strong>encourages</strong> students to take the <strong>next step</strong> in
+developing their 21CC</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Our Impact</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students reported a <strong>greater awareness of 21CC</strong> and were <strong>motivated</strong> to
+learn more about 21CC and hone their future-ready skills.</p>
+</li>
+<li>
+<p>Students shared that the use of 21CC Navigator enabled <strong>organic social interaction and support</strong> between
+teacher-student, student-student, and student-family.</p>
+</li>
+<li>
+<p>While teachers took time to incorporate 21CC Navigator into their teaching
+practices, they observed that their students were better able to understand
+how their school work and activities <strong>related to their 21CC development</strong>.</p>
+</li>
 </ul>
-
-<center><blockquote><i>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</i></blockquote></center>
-
-<center><blockquote><i>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</i></blockquote></center>
-
-<center><blockquote><i>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</i></blockquote></center>
-
-<center><blockquote><i>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</i></blockquote></center>
-
-<center><blockquote><i>"Usually 21CC is at the back of my head. You may be teaching these values but you may not know. But now, (after using 21CC Navigator), I'm more conscious about 21CC." - Secondary 2 Mathematics Teacher</i></blockquote></center>
-
---------
-
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center>
+<blockquote>
+<p><em>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</em>
+</p>
+</blockquote>
+<blockquote>
+<p><em>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</em>
+</p>
+</blockquote>
+<blockquote>
+<p><em>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</em>
+</p>
+</blockquote>
+<blockquote>
+<p><em>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</em>
+</p>
+</blockquote>
+<blockquote>
+<p><em>"Usually 21CC is at the back of my head. You may be teaching these values but you may not know. But now, (after using 21CC Navigator), I'm more conscious about 21CC." - Secondary 2 Mathematics Teacher</em>
+</p>
+</blockquote>
+<hr>
+<p>Have a query or feedback on our innovations? We'd love to hear from you
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p>
