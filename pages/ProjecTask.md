@@ -36,7 +36,7 @@ description: ProjecTask is a digital tool that aims to develop students’
 <center><a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:63%; display: inline;"></a> 
 
 <br>
-<a target="_blank" href="/files/ProjecTask_Teacher_User_Guide_14_June_2024.pdf"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:32%; display: inline;"></a></center>
+<a target="_blank" href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:32%; display: inline;"></a></center>
 <br>
 <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZK1bbSDduN0?playsinline=1" height="500" width="100%"></iframe>
