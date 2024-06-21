@@ -41,7 +41,7 @@ the quests in class to help raise students' awareness of the E21CC.
 <p>*E21CC Quests are SLS lessons that include lesson activities and interactives
 to help your students learn about the E21CC. Students get to engage in
 games and interactives and collect gems as they complete these lessons.
-Find out more about E21CC Quests here.</p>
+Find out more about E21CC Quests <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>------------------</p>
 <h2>Our Impact</h2>
 <ul data-tight="true" class="tight">
