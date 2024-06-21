@@ -20,15 +20,12 @@ Upload featured image below:
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center>CotF has developed curriculum-aligned sample lesson templates with recommended use of SLS features <br> for issues in Science (Secondary) and English Expository writing. <br> </center>
 
+![](/images/CAIT%20Metacog/Screenshot_2024_06_21_141750.png)
 
-<center><h3>RP resources here</h3></center>
+<center><h3>Check out the SLS templates here!</h3></center>
 
-If relevant, embed a google slide below (autoplays upon loading, moves forward every 10 seconds):
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgyzVXnNSqmorG9rblCb0Nc3bvrsQauwsNhXNujn_A8vSy1xol7MkKPeoXffodbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-link to resource below:
-<center><a href="https://for.edu.sg/evs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
+<center><a href="https://vle.learning.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/SLS_Sci_template_button.png" style="width:32%; display: inline;"></a> <br> <a href="https://vle.learning.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/SLS_EL_template_button.png" style="width:32%; display: inline;"></a></center>
 
 ------------------
 
