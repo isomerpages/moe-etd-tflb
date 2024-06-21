@@ -52,21 +52,22 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-**Teacher Quotes:**
+<b>Teacher Quotes:</b>
 <center><blockquote><i>"It is a wonderful thing, within one screen teachers and students can see the past and future of a project!”</i></blockquote></center>
 
 <center><blockquote><i>"Good that i can understand at one glance to track their growth and journey.”</i></blockquote></center>
 
 <center><blockquote><i>"Useful to see thread of conversation and feedback. Can be an add-on to the process that happens live in the classroom.”</i></blockquote></center>
 
-**Student Quotes:**
+<b>Student Quotes:</b>
 <center><blockquote><i>"It helps me to organise work and track progress, making it easier to check what needs to be done."</i></blockquote></center>
 
 <center><blockquote><i>"When you complete an assignment and press DONE, it feels rewarding to know that you finished it and can move on to the next assignment."</i></blockquote></center>
 
 <center><blockquote><i>"Straightforward and easy to use!"</i></blockquote></center>
 
-**Awarded:** <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously named Coursework Monitoring System)
+<b>Awarded:</b>
+<br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously named Coursework Monitoring System)
 
 --------
 
