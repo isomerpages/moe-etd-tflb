@@ -2,6 +2,7 @@ collections:
   21cc-nav-old:
     output: true
     order:
+      - E21CC Quests.md
       - 21CC Navigator.md
       - 21CC Navigator Student Resources.md
       - 21CC Navigator Teacher Resources.md
