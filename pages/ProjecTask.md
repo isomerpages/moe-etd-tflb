@@ -9,7 +9,7 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 <center><h2>How might we support teachers in developing students’ self-directedness in planning and managing projects?</h2></center>
 
-*To insert feature image here*
+![](/images/ProjecTask/ProjecTask_featured_image_edited.gif)
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 
@@ -18,60 +18,56 @@ description: ProjecTask is a digital tool that aims to develop students’
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
+
+<center><b>ProjecTask</b> consists of a set of ProjecTask boards that can be used&nbsp;<b>independently</b>&nbsp;or together with a&nbsp;<b>complementary</b>&nbsp;SLS lesson template:</center>
+
+![](/images/ProjecTask/What_is_ProjecTask.png)
+
 <center><b>ProjecTask</b> enables both teachers and students to manage and monitor project work progress more efficiently and effectively by providing:</center>
 
-![ProjecTask features](/images/ProjecTask/ProjecTaskFeatures.png)
+![](/images/ProjecTask/ProjecTask_features_new_2.png)
 
-*need high resolution image for the image above. Embedded pic in the word doc is too small. Can send to Ben directly via email or Teams.*
+<br>
+<br>
 
-**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tsnSW3ZsAPw?playsinline=1" height="500" width="100%"></iframe>
 
-Link to RP resources and materials that you would like displayed on the webpage:&nbsp;
 
-Link to formSG: [for.edu.sg/projectask](http://for.edu.sg/projectask)
+<center><a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:63%; display: inline;"></a> 
 
-GIFs of our boards in action
+<br>
+<a target="_blank" href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:32%; display: inline;"></a></center>
+<br>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZK1bbSDduN0?playsinline=1" height="500" width="100%"></iframe>
+	
+<center> <a href="https://vle.learning.moe.edu.sg/moe-library/admin/lesson/view/b798c926-4da1-4a42-9d4a-146eb4cb5a62/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:31%; display: inline;"></a> 
+<br>
+<a href="https://vle.learning.moe.edu.sg/moe-library/admin/lesson/view/cbc6edb9-af09-4526-b499-9931553723da/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:31%; display: inline;"></a>
+<br>
 
-Links to SLS lessons (3 - D&amp;T, Group Projects, Indiv Projects)
+	
 
-Title of resource: ProjecTask&nbsp;
-
-Link of resource:&nbsp;
-
-Link to formSG: [for.edu.sg/projectask](http://for.edu.sg/projectask)
-
-\[Link to SLS lessons here - 1 SLS lesson InteresThing with ProjecTask -- can name it ProjecTask for SIL [https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover](https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover)\]
-
-\[Link to user guide pdf\]&nbsp;
-
- Call to action text (button): \[Click here for your ProjecTask templates!\]
-
-Special request: Subpage - Samples from the community
-
-**
-
-------------------
 
 <center><h2 id="impact">Our Impact</h2></center>
 
-75% of our Teacher users reported increase in their student’s submission rate
-
-**Teacher Quotes:**
+<b>Teacher Quotes:</b>
 <center><blockquote><i>"It is a wonderful thing, within one screen teachers and students can see the past and future of a project!”</i></blockquote></center>
 
 <center><blockquote><i>"Good that i can understand at one glance to track their growth and journey.”</i></blockquote></center>
 
 <center><blockquote><i>"Useful to see thread of conversation and feedback. Can be an add-on to the process that happens live in the classroom.”</i></blockquote></center>
 
-**Student Quotes:**
+<b>Student Quotes:</b>
 <center><blockquote><i>"It helps me to organise work and track progress, making it easier to check what needs to be done."</i></blockquote></center>
 
 <center><blockquote><i>"When you complete an assignment and press DONE, it feels rewarding to know that you finished it and can move on to the next assignment."</i></blockquote></center>
 
 <center><blockquote><i>"Straightforward and easy to use!"</i></blockquote></center>
 
-**Awarded:** <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously named Coursework Monitoring System)
+<b>Awarded:</b>
+<br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously named Coursework Monitoring System)
 
 --------
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center></center>
