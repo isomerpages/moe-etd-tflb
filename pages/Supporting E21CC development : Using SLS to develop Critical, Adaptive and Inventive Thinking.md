@@ -20,7 +20,7 @@ Upload featured image below:
 <center><h2 id="innovation">Our Innovation</h2></center>
 <center>CotF has developed curriculum-aligned sample lesson templates with recommended use of SLS features <br> for issues in Science (Secondary) and English Expository writing. <br> </center>
 
-![](/images/CAIT%20Metacog/Screenshot_2024_06_21_141750.png)
+![](/images/CAIT%20Metacog/website_key_features_image.png)
 
 <center><h3>Check out the SLS templates here!</h3></center>
 
@@ -36,14 +36,6 @@ Upload featured image below:
 <center><h3>Teacher artefact</h3></center>
 
 <center>Description of teacher artefact</center>
-
-Embed relevant resources below:
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rK1Bn_mAkfY" height="500" width="100%"></iframe>
-
-<center><blockquote><i>"insert teacher quote here" - Primary School Teacher</i></blockquote></center>
-
-insert link to teacher artefact below
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-asking-for-permission.png" style="width:45%; display: inline;"></a></center>
 
 --------
 
