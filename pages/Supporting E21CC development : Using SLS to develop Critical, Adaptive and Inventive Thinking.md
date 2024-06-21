@@ -18,7 +18,7 @@ description: ""
 -----------------
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-<center>CotF has developed curriculum-aligned sample lesson templates with recommended use of SLS features <br> for issues in Science (Secondary) and English Expository writing. <br> </center>
+<center>CotF has developed curriculum-aligned sample lesson templates with recommended use of SLS features for issues in Science (Secondary) and English Expository writing. <br> </center>
 
 ![](/images/CAIT%20Metacog/website_key_features_image.png)
 
