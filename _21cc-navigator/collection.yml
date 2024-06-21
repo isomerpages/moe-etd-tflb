@@ -1,5 +1,5 @@
 collections:
-  21cc-nav-old:
+  21cc-navigator:
     output: true
     order:
       - 21CC Navigator.md
