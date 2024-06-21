@@ -32,8 +32,8 @@ the transformative potential of technology to empower development of students’
 <p></p>
 <p>-----------------</p>
 <h2>Our Innovation</h2>
-<p>21CC Navigator has a learning package on SLS that comprises a 6 E21CC
-Quests* and a Welcome Guide to support teachers in kickstarting the development
+<p>21CC Navigator is a learning package on SLS that comprises a 6 E21CC Quests*
+and a Welcome Guide to support teachers in kickstarting the development
 of E21CC. Assign it to your students as home-based learning or complete
 the quests in class to help raise students' awareness of the E21CC.
 <br>
@@ -52,11 +52,7 @@ learn more about 21CC and hone their future-ready skills.</p>
 <li>
 <p>Students shared that the use of 21CC Navigator enabled <strong>organic social interaction and support</strong> between
 teacher-student, student-student, and student-family.</p>
-</li>
-<li>
-<p>While teachers took time to incorporate 21CC Navigator into their teaching
-practices, they observed that their students were better able to understand
-how their school work and activities <strong>related to their 21CC development</strong>.</p>
+<p></p>
 </li>
 </ul>
 <blockquote>
@@ -65,14 +61,6 @@ how their school work and activities <strong>related to their 21CC development</
 </blockquote>
 <blockquote>
 <p><em>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</em>
-</p>
-</blockquote>
-<blockquote>
-<p><em>"The progression bar allows me to see that I am better, which is an encouragement for me. It can push me." - Secondary 2 Student</em>
-</p>
-</blockquote>
-<blockquote>
-<p><em>"I’m more intentional in picking those 21CC I want to teach cause I now have quantitative data to work on." - Secondary 2 Form Teacher</em>
 </p>
 </blockquote>
 <blockquote>
