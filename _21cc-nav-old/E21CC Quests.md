@@ -29,7 +29,10 @@ or use them in class!</p>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-welcome"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_welcome.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson consists of a future self quiz</p>
+<p><strong>Welcome Guide</strong>
+</p>
+<p>Assign this lesson to your students so that they know how to navigate
+the E21CC Quests and complete the future self quiz</p>
 <p></p>
 </td>
 </tr>
@@ -61,26 +64,28 @@ collect the Communication and Collaboration Gems in this quest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_argona.gif">
-</div>
+<p><a href="https://go.gov.sg/21ccn-criticaladaptive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Exploring Argona-VI</a>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-criticaladaptive"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_criticaladaptive.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC: Critical Thinking</strong>
+<p><strong>E21CC: Critical &amp; Adaptive Thinking</strong>
 </p>
+<p>Have you wondered how to make informed decisions in different situations?
+Let's practise reasoning and collect the Critical Thinking and Adaptive
+Thinking Gems in this quest!</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sustainability_quest.gif">
-</div>
+<p><a href="https://go.gov.sg/21ccn-globalliteracy" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Choosing Sustainability</a>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-globalliteracy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_global.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC: Global Literacy</strong>
 </p>
+<p>Are you curious about how our daily choices affect our environment and
+Planet Earth? Let’s learn about sustainability and collect a Global Literacy
+Gem in this quest!</p>
 </td>
 </tr>
 <tr>
@@ -101,25 +106,17 @@ Gem in this quest!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/crossculturalinventive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: ThinkTank Terrace</a>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/crossculturalinventive"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CCN_crosscultural.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC:</strong>
+<p><strong>E21CC: Cross Cultural Literacy &amp; Inventive Thinking</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>E21CC:</strong>
-</p>
+<p>Have you wondered how you can improve your neighbourhood? Let's explore
+ways to improve our community spaces and collect the Cross-Cultural Literacy
+and Inventive Thinking Gems in this quest!</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Students get to engage in games and interactives and collect gems as they
-complete these lessons. Find out more about E21CC Quests here.</p>
 <p></p>
