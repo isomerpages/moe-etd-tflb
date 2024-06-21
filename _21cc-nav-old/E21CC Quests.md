@@ -9,21 +9,15 @@ to help your students learn about the Emerging 21st Century Competencies.</p>
 <p>You can assign these quests as self-paced lessons for Home-based learning
 or use them in class!</p>
 <p>The E21CC Quests are mapped to the following E21CC:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>We recommend assigning the Welcome Guide to students first so that they
-know the intent of the E21CC Quests as well as complete the future self
-quiz!</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Link to SLS</p>
+<p>Click on the image below to get the lesson in SLS</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Highlights</p>
@@ -31,19 +25,16 @@ quiz!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welcome Guide</p>
+<p><a href="https://go.gov.sg/21ccn-welcome" rel="noopener noreferrer nofollow" target="_blank">Welcome to 21CC Navigator!</a>
+</p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-welcome"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_welcome.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>This lesson consists of a future self quiz</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
