@@ -33,7 +33,8 @@ the transformative potential of technology to empower development of students’
 <p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p></center>
 <p></p>
 <center><p>-----------------</p></center>
-<center><h2>Our Innovation</h2></center>
+
+<center><h2 id="innovation">Our Innovation</h2></center>
 
 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/-0blMyyFuWY" height="315" width="100%"></iframe>
 
@@ -48,8 +49,7 @@ to help your students learn about the E21CC. Students get to engage in
 games and interactives and collect gems as they complete these lessons.
 Find out more about E21CC Quests <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>------------------</p>
-<h2>Our Impact</h2>
-<ul data-tight="true" class="tight">
+<center><h2 id="impact">Our Impact</h2></center>
 <li>
 <p>Students reported a <strong>greater awareness of 21CC</strong> and were <strong>motivated</strong> to
 learn more about 21CC and hone their future-ready skills.</p>
@@ -59,7 +59,7 @@ learn more about 21CC and hone their future-ready skills.</p>
 teacher-student, student-student, and student-family.</p>
 <p></p>
 </li>
-</ul>
+
 <blockquote>
 <p><em>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</em>
 </p>
