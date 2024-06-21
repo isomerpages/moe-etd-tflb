@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21cc navigator featured image cotf.gif">
 </div>
-<p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p>
+<p></p>
 <h2>Our Discovery</h2>
 <p>Passionate but pragmatic secondary school teachers want to help students
 see the value of going beyond academic results to develop future-ready
@@ -22,46 +22,26 @@ skills.
 <br>Secondary school students simply follow what their teachers say, and do
 not see a link between what they learn in school and how it will help them
 in the future.</p>
+<p></p>
+<p>MOE has identified a list of competencies* that are essential for our
+students to develop to prepare them for the future, and seeks to harness
+the transformative potential of technology to empower development of students’
+21st Century Competencies* (21CC).</p>
+<p></p>
+<p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p>
+<p></p>
 <p>-----------------</p>
 <h2>Our Innovation</h2>
-<p><strong>21CC Navigator</strong> is a self-paced personal growth tool that:
-<br>
+<p>21CC Navigator has a learning package on SLS that comprises a 6 E21CC
+Quests* and a Welcome Guide to support teachers in kickstarting the development
+of E21CC. Assign it to your students as home-based learning or complete
+the quests in class to help raise students' awareness of the E21CC.
 <br>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/21CC%20Navigator/identify%20growth.png">
-</div>
-<p>
-<br>enables students to <strong>identify</strong> their individual strengths
-and areas to work on</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/21CC%20Navigator/pathways.png">
-</div>
-<p>
-<br><strong>suggests pathways</strong> for students to reach their 21CC goals</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/21CC%20Navigator/next%20step.png">
-</div>
-<p>
-<br><strong>encourages</strong> students to take the <strong>next step</strong> in
-developing their 21CC</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>*E21CC Quests are SLS lessons that include lesson activities and interactives
+to help your students learn about the E21CC. Students get to engage in
+games and interactives and collect gems as they complete these lessons.
+Find out more about E21CC Quests here.</p>
 <p>------------------</p>
 <h2>Our Impact</h2>
 <ul data-tight="true" class="tight">
