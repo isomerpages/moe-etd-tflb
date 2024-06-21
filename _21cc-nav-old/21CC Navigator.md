@@ -7,7 +7,7 @@ image: /images/21CC Navigator/21ccnlong.png
 variant: tiptap
 ---
 <h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
-<h2>How might we use harness EdTech to help enhance students’ development of emerging 21st Century Competenciesthe E21CC?</h2>
+<h2>How might we harness EdTech to help enhance students’ development of emerging 21st Century Competencies?</h2>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
