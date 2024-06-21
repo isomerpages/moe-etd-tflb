@@ -49,6 +49,82 @@ you? Let’s learn more about deepfakes and collect an Information Skills
 Gem in this quest.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="https://go.gov.sg/21ccn-commcollab" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Communication Facilitates Collaboration</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_commcollab.gif">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>E21CC: Communication &amp; Collaboration</strong>
+</p>
+<p>Do you know that effective communication is key to collaboration? Let's
+learn more about how you can communicate well in a group setting&nbsp;and
+collect the Communication and Collaboration Gems in this quest.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_argona.gif">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>E21CC: Critical Thinking </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sustainability_quest.gif">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>E21CC: Global Literacy </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/21ccn-civicliteracy" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Life in Singapore during World War II</a>
+</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-civicliteracy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_civic.gif"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>E21CC: Civic Literacy </strong>
+</p>
+<p>Are you curious about what happened during WWII in Singapore? Let's learn
+what people in the local community experienced and collect a Civic Literacy
+Gem in this quest!</p>
+<p>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>E21CC:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>E21CC:</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
