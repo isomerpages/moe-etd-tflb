@@ -42,7 +42,7 @@ or use them in class!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC: Information Skills </strong>
+<p><strong>E21CC: Information Skills</strong>
 </p>
 <p>Do you ever wonder how the latest developments in technology could impact
 you? Let’s learn more about deepfakes and collect an Information Skills
