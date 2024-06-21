@@ -9,8 +9,8 @@ description: ""
 
 <center><h2>How might we support the development of Critical, Adaptive and Inventive Thinking through SLS?</h2></center>
 
-Upload featured image below:
-![Eliciting Voices of Students with Diverse Learning Needs](/images/EVS/EVS%20Featured%20Image.png)
+![](/images/CAIT%20Metacog/FeaturedImage_ezgif_com_optimize.gif)
+
 
 <center><h2 id="discovery">Our Discovery</h2></center>
 <center>Teachers struggle to provided immediate, individualised and actionable feedback for students to facilitate the metacognitive processes required for students' development to become self-aware and self-directed learners.<br></center>
