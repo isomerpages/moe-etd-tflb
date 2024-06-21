@@ -6,8 +6,9 @@ description: Make 21st Century Competencies visible through a gamified
 image: /images/21CC Navigator/21ccnlong.png
 variant: markdown
 ---
-<h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
-<h2>How might we harness EdTech to help enhance students’ development of emerging 21st Century Competencies?</h2>
+<center><h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4></center>
+
+<center><h2>How might we harness EdTech to help enhance students’ development of emerging 21st Century Competencies?</h2></center>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
