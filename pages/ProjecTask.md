@@ -46,9 +46,15 @@ description: ProjecTask is a digital tool that aims to develop students’
 <a href="https://vle.learning.moe.edu.sg/moe-library/admin/lesson/view/cbc6edb9-af09-4526-b499-9931553723da/cover" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:31%; display: inline;"></a>
 <br>
 
-	
+<center><b>ProjecTask</b>&nbsp;is conceptualised and developed in collaboration with the Design and Technology Unit (Curriculum Planning and Development Division) and the Curriculum Policy Office. 
 
+Click the buttons below to access a series of 3 D&amp;T SLS Lessons with integrated ProjecTask boards:</center>
 
+<center> <a href="https://vle.learning.moe.edu.sg/moe-library/admin/lesson/view/b798c926-4da1-4a42-9d4a-146eb4cb5a62/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:31%; display: inline;"></a> 
+<br>
+<a href="https://vle.learning.moe.edu.sg/moe-library/admin/lesson/view/cbc6edb9-af09-4526-b499-9931553723da/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_2.png" style="width:31%; display: inline;"></a>
+<br>
+<a href="https://vle.learning.moe.edu.sg/moe-library/admin/lesson/view/cbc6edb9-af09-4526-b499-9931553723da/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:31%; display: inline;"></a>
 <center><h2 id="impact">Our Impact</h2></center>
 
 <b>Teacher Quotes:</b>
@@ -70,4 +76,4 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 
 
-<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center></center>
+<center>Have a query or feedback on our innovations? We'd love to hear from you <a rel="noopener noreferrer" target="_blank" href="/contact">here</a>!</center></center></center>
