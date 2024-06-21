@@ -26,9 +26,7 @@ or use them in class!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/21ccn-welcome" rel="noopener noreferrer nofollow" target="_blank">Welcome to 21CC Navigator!</a>
-</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-welcome"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_welcome.gif"></a>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-welcome"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_welcome.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson consists of a future self quiz</p>
@@ -36,10 +34,16 @@ or use them in class!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/21ccn-informationskills" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: How Much Do You Know About Deepfakes?</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_info_deepfake.gif">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Do you ever wonder how the latest developments in technology could impact
+you? Let’s learn more about deepfakes and collect an Information Skills
+Gem in this quest.</p>
 </td>
 </tr>
 </tbody>
