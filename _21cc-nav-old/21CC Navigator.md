@@ -15,8 +15,9 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21cc navigator featured image cotf.gif">
 </div>
 <p></p>
-<h2>Our Discovery</h2>
-<p>Passionate but pragmatic secondary school teachers want to help students
+<center><h2>Our Discovery</h2></center>
+
+<center><p>Passionate but pragmatic secondary school teachers want to help students
 see the value of going beyond academic results to develop future-ready
 skills.
 <br>
@@ -29,7 +30,7 @@ students to develop to prepare them for the future, and seeks to harness
 the transformative potential of technology to empower development of students’
 21st Century Competencies* (21CC).</p>
 <p></p>
-<p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p>
+<p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p></center>
 <p></p>
 <p>-----------------</p>
 <h2>Our Innovation</h2>
