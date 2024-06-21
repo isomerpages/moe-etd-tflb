@@ -36,10 +36,7 @@ or use them in class!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/21ccn-informationskills" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: How Much Do You Know About Deepfakes?</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_info_deepfake.gif">
-</div>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-informationskills"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_info_deepfake.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC: Information Skills</strong>
@@ -51,13 +48,8 @@ Gem in this quest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="https://go.gov.sg/21ccn-commcollab" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Communication Facilitates Collaboration</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_commcollab.gif">
-</div>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-commcollab"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_commcollab.gif"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC: Communication &amp; Collaboration</strong>
@@ -75,7 +67,7 @@ collect the Communication and Collaboration Gems in this quest.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC: Critical Thinking </strong>
+<p><strong>E21CC: Critical Thinking</strong>
 </p>
 </td>
 </tr>
@@ -87,7 +79,7 @@ collect the Communication and Collaboration Gems in this quest.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC: Global Literacy </strong>
+<p><strong>E21CC: Global Literacy</strong>
 </p>
 </td>
 </tr>
@@ -99,12 +91,12 @@ collect the Communication and Collaboration Gems in this quest.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC: Civic Literacy </strong>
+<p><strong>E21CC: Civic Literacy</strong>
 </p>
 <p>Are you curious about what happened during WWII in Singapore? Let's learn
 what people in the local community experienced and collect a Civic Literacy
 Gem in this quest!</p>
-<p>&nbsp;&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
