@@ -15,7 +15,7 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21cc navigator featured image cotf.gif">
 </div>
 <p></p>
-<center><h2>Our Discovery</h2></center>
+<center><h2 id="discovery">Our Discovery</h2></center>
 
 <center><p>Passionate but pragmatic secondary school teachers want to help students
 see the value of going beyond academic results to develop future-ready
