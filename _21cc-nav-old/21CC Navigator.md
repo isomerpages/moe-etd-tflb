@@ -33,7 +33,7 @@ the transformative potential of technology to empower development of students’
 <p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p></center>
 <p></p>
 <p>-----------------</p>
-<h2>Our Innovation</h2>
+<center><h2>Our Innovation</h2></center>
 <p>21CC Navigator is a learning package on SLS that comprises a 6 E21CC Quests*
 and a Welcome Guide to support teachers in kickstarting the development
 of E21CC. Assign it to your students as home-based learning or complete
