@@ -48,7 +48,6 @@ description: ProjecTask is a digital tool that aims to develop students’
 
 	
 
-------------------
 
 <center><h2 id="impact">Our Impact</h2></center>
 
