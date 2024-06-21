@@ -34,7 +34,7 @@ the transformative potential of technology to empower development of students’
 <p></p>
 <p>-----------------</p>
 <center><h2>Our Innovation</h2></center>
-<p>21CC Navigator is a learning package on SLS that comprises a 6 E21CC Quests*
+<p>21CC Navigator is a learning package on SLS that comprises a [undefined](/e21cc-quests/)6 E21CC Quests*
 and a Welcome Guide to support teachers in kickstarting the development
 of E21CC. Assign it to your students as home-based learning or complete
 the quests in class to help raise students' awareness of the E21CC.
