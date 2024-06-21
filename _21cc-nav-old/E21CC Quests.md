@@ -4,11 +4,9 @@ permalink: /e21cc-quests/
 variant: tiptap
 description: ""
 ---
-<p>E21CC Quests are SLS lessons that include lesson activities and interactives
-to help your students learn about the Emerging 21st Century Competencies.</p>
-<p>You can assign these quests as self-paced lessons for Home-based learning
-or use them in class!</p>
-<p>The E21CC Quests are mapped to the following E21CC:</p>
+<h4>E21CC Quests are SLS lessons that include lesson activities and interactives to help your students learn about the Emerging 21st Century Competencies.</h4>
+<h4>You can assign these quests as self-paced lessons for Home-based learning or use them in class!</h4>
+<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
