@@ -1,11 +1,11 @@
 ---
 title: ProjecTask
 permalink: /projectask/
-variant: tiptap
+variant: markdown
 description: ProjecTask is a digital tool that aims to develop students’
   self-directedness in planning and managing projects
 ---
-<h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
+<center><h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
 <h2>How might we support teachers in developing students’ self-directedness in planning and managing projects?</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProjecTask/ProjecTask_featured_image_edited.gif">
@@ -38,46 +38,33 @@ and monitor project work progress more efficiently and effectively by providing:
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tsnSW3ZsAPw?playsinline=1"></iframe>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:63%; display: inline;" height="auto" width="100%" src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png">
-</div>
-<p>
+<img>
+	
+<a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;">
+</a><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
+
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:32%; display: inline;" height="auto" width="100%" src="/images/ProjecTask/ProjecTask_User_Guide_Button.png">
-</div>
-<p>
-<br>
-<br>
-</p>
+	
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZK1bbSDduN0?playsinline=1"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:31%; display: inline;" height="auto" width="100%" src="/images/ProjecTask/PT_SLS_Individual_Button.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:31%; display: inline;" height="auto" width="100%" src="/images/ProjecTask/PT_SLS_Group_Button.png">
-</div>
+
+<center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:45%; display: inline;"></a><center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"></a><a href="https://for.edu.sg/projectasksls2" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:45%; display: inline;"></a></center>
+
 <p>
 <br><strong>ProjecTask</strong>&nbsp;is conceptualised and developed in collaboration
 with the Design and Technology Unit (Curriculum Planning and Development
 Division) and the Curriculum Policy Office.</p>
 <p>Click the buttons below to access a series of 3 D&amp;T SLS Lessons with
 integrated ProjecTask boards:</p>
-<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover"><img style="width:31%; display: inline;" height="auto" width="100%" src="/images/Buttons/ProjecTask_DNT_button_1.png"></a>
-<p>
-<br>
-</p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover"><img style="width:31%; display: inline;" height="auto" width="100%" src="/images/Buttons/ProjecTask_DNT_button_2.png"></a>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:31%; display: inline;" height="auto" width="100%" src="/images/Buttons/ProjecTask_DNT_button_3.png">
-</div>
+	
+<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:45%; display: inline;"></a>
+
+<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_2.png" style="width:45%; display: inline;"></a>
+
+<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/5141b404-da9e-41d9-b513-e4de6b0a5b5c/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:45%; display: inline;"></a>
+
+
 <h2>Our Impact</h2>
 <p><strong>Teacher Quotes:</strong>
 </p>
@@ -111,4 +98,4 @@ integrated ProjecTask boards:</p>
 <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously
 named Coursework Monitoring System)</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center></center></div></center>
