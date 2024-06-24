@@ -50,7 +50,7 @@ and monitor project work progress more efficiently and effectively by providing:
 </div>
 
 <center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:45%; display: inline;">
-
+<br>
 </a><a href="https://for.edu.sg/projectasksls2" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:45%; display: inline;"></a></center>
 
 <p>
