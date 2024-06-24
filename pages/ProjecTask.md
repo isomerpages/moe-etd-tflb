@@ -61,16 +61,11 @@ integrated ProjecTask boards:</p>
 	
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:45%; display: inline;"></a>
 
-<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover"><img style="width:31%; display: inline;" height="auto" width="100%" src="/images/Buttons/ProjecTask_DNT_button_1.png"></a>
-<p>
-<br>
-</p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover"><img style="width:31%; display: inline;" height="auto" width="100%" src="/images/Buttons/ProjecTask_DNT_button_2.png"></a>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:31%; display: inline;" height="auto" width="100%" src="/images/Buttons/ProjecTask_DNT_button_3.png">
-</div>
+<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_2.png" style="width:45%; display: inline;"></a>
+
+<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/5141b404-da9e-41d9-b513-e4de6b0a5b5c/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:45%; display: inline;"></a>
+
+
 <h2>Our Impact</h2>
 <p><strong>Teacher Quotes:</strong>
 </p>
@@ -104,4 +99,4 @@ integrated ProjecTask boards:</p>
 <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously
 named Coursework Monitoring System)</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center></center></center>
