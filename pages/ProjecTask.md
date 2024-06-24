@@ -38,18 +38,13 @@ and monitor project work progress more efficiently and effectively by providing:
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tsnSW3ZsAPw?playsinline=1"></iframe>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:63%; display: inline;" height="auto" width="100%" src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png">
-</div>
-<p>
+<img>
+	
+<a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;"></a></div></center>
+<center><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:32%; display: inline;" height="auto" width="100%" src="/images/ProjecTask/ProjecTask_User_Guide_Button.png">
-</div>
-<p>
-<br>
-<br>
-</p>
+	
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZK1bbSDduN0?playsinline=1"></iframe>
 </div>
