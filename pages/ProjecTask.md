@@ -58,6 +58,9 @@ with the Design and Technology Unit (Curriculum Planning and Development
 Division) and the Curriculum Policy Office.</p>
 <p>Click the buttons below to access a series of 3 D&amp;T SLS Lessons with
 integrated ProjecTask boards:</p>
+	
+<center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:45%; display: inline;"></a>
+
 <p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover"><img style="width:31%; display: inline;" height="auto" width="100%" src="/images/Buttons/ProjecTask_DNT_button_1.png"></a>
 <p>
 <br>
@@ -101,4 +104,4 @@ integrated ProjecTask boards:</p>
 <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously
 named Coursework Monitoring System)</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center>
