@@ -40,8 +40,8 @@ and monitor project work progress more efficiently and effectively by providing:
 <div class="isomer-image-wrapper">
 <img>
 	
-<a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;"></a></div></center>
-<center><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
+<a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;">
+</a><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
 
 <br>
 	
@@ -99,4 +99,4 @@ integrated ProjecTask boards:</p>
 <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously
 named Coursework Monitoring System)</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center></center></center>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center></center></div></center>
