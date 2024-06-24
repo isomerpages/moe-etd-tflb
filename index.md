@@ -18,8 +18,8 @@ sections:
       title: Our Innovations
   - infopic:
       title: 21CC Navigator
-      description: Motivate your students to develop their 21st Century Competencies!
-      button: Gamify and visualise 21CC!
+      description: Supporting your students in developing 21st Century Competencies
+      button: Enhance 21CC development!
       url: /21ccnavigator
       alt: CotF 21CC Navigator
       image: /images/Home Page/21ccno copy.png
