@@ -5,7 +5,7 @@ variant: markdown
 description: ProjecTask is a digital tool that aims to develop students’
   self-directedness in planning and managing projects
 ---
-<h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
+<center><h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
 <h2>How might we support teachers in developing students’ self-directedness in planning and managing projects?</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProjecTask/ProjecTask_featured_image_edited.gif">
@@ -111,4 +111,4 @@ integrated ProjecTask boards:</p>
 <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously
 named Coursework Monitoring System)</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center>
