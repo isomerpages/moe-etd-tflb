@@ -41,7 +41,7 @@ of E21CC. Assign it to your students as home-based learning or complete
 the quests in class to help raise students' awareness of the E21CC.
 <br>
 </p>
-<p>*E21CC Quests are SLS lessons that include lesson activities and interactives
+<p>E21CC Quests are SLS lessons that include lesson activities and interactives
 to help your students learn about the E21CC. Students get to engage in
 games and interactives and collect gems as they complete these lessons.
 Find out more about E21CC Quests <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
