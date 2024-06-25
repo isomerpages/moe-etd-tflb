@@ -25,12 +25,9 @@ skills.
 not see a link between what they learn in school and how it will help them
 in the future.</p>
 <p></p>
-<p>MOE has identified a list of competencies* that are essential for our
-students to develop to prepare them for the future, and seeks to harness
+<p><a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">MOE has identified a list of competencies</a>.that are essential for our students to develop to prepare them for the future, and seeks to harness
 the transformative potential of technology to empower development of students’
 21st Century Competencies* (21CC).</p>
-<p></p>
-<p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p></center>
 <p></p>
 <center><p>-----------------</p></center>
 
@@ -73,4 +70,4 @@ teacher-student, student-student, and student-family.</p>
 </blockquote>
 <p>--------</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="\_blank">here</a>!</p></center>
+<a href="/contact" rel="noopener noreferrer" target="\_blank">here</a>!</p></center></center>
