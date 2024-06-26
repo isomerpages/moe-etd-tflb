@@ -46,7 +46,7 @@ to help your students learn about the E21CC. Students get to engage in
 games and interactives and collect gems as they complete these lessons.
 Find out more about E21CC Quests <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 	
-<p>Interested to delve deeper into critical, adaptive, and inventive thinking skills for 21CC development? [Discover our resources here]("/21ccn-resources/") and embark on a journey to explore how 21CC can be developed in Science and English.</p>
+<p>Interested to delve deeper into critical, adaptive, and inventive thinking skills for 21CC development? <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">Discover our resources here</a> and embark on a journey to explore how 21CC can be developed in Science and English.</p>
 <p>------------------</p>
 <center><h2 id="impact">Our Impact</h2></center>
 
