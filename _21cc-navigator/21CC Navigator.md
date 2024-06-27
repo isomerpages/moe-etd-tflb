@@ -33,13 +33,11 @@ the transformative potential of technology to empower development of students’
 
 <center><h2 id="innovation">Our Innovation</h2></center>
 
-
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/-0blMyyFuWY" height="315" width="100%"></iframe>
 	
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/ipYeCDzDyaQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
-
-
+	<iframe allowfullscreen="" frameborder="" title="21CCN Promo Video" src="https://www.youtube.com/embed/ipYeCDzDyaQ" height="315" width="100%"></iframe>
+	
+	
 
 <center><p>21CC Navigator is a learning package on SLS that comprises 6 E21CC Quests*
 and a Welcome Guide to support teachers in kickstarting the development
@@ -50,7 +48,7 @@ the quests in class to help raise students' awareness of the E21CC.
 <p>E21CC Quests are SLS lessons that include lesson activities and interactives
 to help your students learn about the E21CC. Students get to engage in
 games and interactives and collect gems as they complete these lessons.
-Find out more about E21CC Quests <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Find out more about  <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">E21CC Quests here</a>.</p>
 	
 <p>Interested to delve deeper into critical, adaptive, and inventive thinking skills for 21CC development? <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">Discover our resources here</a> and embark on a journey to explore how 21CC can be developed in Science and English.</p>
 <p>------------------</p>
