@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Click on the image below to get the lesson in SLS</p>
+<p>Click on the image below to get the module in SLS</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Synopsis</p>
