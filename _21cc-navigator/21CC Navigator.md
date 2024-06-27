@@ -25,7 +25,7 @@ skills.
 not see a link between what they learn in school and how it will help them
 in the future.</p>
 <p></p>
-<p><a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">MOE has identified a list of competencies</a> that are essential for our students to develop to prepare them for the future, and seeks to harness
+<p>MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">a list of competencies</a> that are essential for our students to develop to prepare them for the future, and seeks to harness
 the transformative potential of technology to empower development of students’
 21st Century Competencies (21CC).</p>
 <p></p>
