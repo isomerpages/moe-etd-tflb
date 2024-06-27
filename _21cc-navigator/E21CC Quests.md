@@ -18,8 +18,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>Welcome Guide</strong></p>
-                <p>Are E21CC skills? Are they values? 
-									</p><p>Let's learn more about E21CC in this lesson and discover opportunities to develop your E21CC through quests! </p>
+                <p>Are E21CC skills? Are they values? Let's learn more about E21CC in this lesson and discover opportunities to develop your E21CC through quests! </p>
                 <p></p>
             </td>
         </tr>
