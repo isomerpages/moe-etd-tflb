@@ -18,17 +18,7 @@ and Inventive Thinking development.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Click on the links below to get access to the resources</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Synopsis</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/caitguide" rel="noopener noreferrer nofollow" target="_blank"><u>User Guide</u></a>
+<p><a href="https://for.edu.sg/caitguide" rel="noopener noreferrer nofollow" target="_blank"><u>Toolkit for CAIT User Guide</u></a>
 </p>
 <p>&nbsp;</p>
 </td>
