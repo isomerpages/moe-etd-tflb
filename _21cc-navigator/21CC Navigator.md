@@ -26,8 +26,8 @@ not see a link between what they learn in school and how it will help them
 in the future.</p>
 <p></p>
 <p>MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">a list of competencies</a> that are essential for our students to develop to prepare them for the future, and seeks to harness
-the transformative potential of technology to empower development of students’
-21st Century Competencies (21CC).</p>
+the transformative potential of technology to empower development of students’ emerging
+21st Century Competencies (E21CC).</p>
 <p></p>
 <center><p>-----------------</p></center>
 
@@ -44,8 +44,8 @@ the transformative potential of technology to empower development of students’
 <p>------------------</p>
 <center><h2 id="impact">Our Impact</h2></center>
 
-<p>Students reported a <strong>greater awareness of 21CC</strong> and were <strong>motivated</strong> to
-learn more about 21CC and hone their future-ready skills.</p>
+<p>Students reported a <strong>greater awareness of E21CC</strong> and were <strong>motivated</strong> to
+learn more about E21CC and hone their future-ready skills.</p>
 
 <p>Students shared that the use of 21CC Navigator enabled <strong>organic social interaction and support</strong> between
 teacher-student, student-student, and student-family.</p>
@@ -53,11 +53,11 @@ teacher-student, student-student, and student-family.</p>
 
 
 <blockquote>
-<p><em>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</em>
+<p><em>"When I was informed about E21CC through 21CC Navigator, I was able to identify that E21CC were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</em>
 </p>
 </blockquote>
 <blockquote>
-<p><em>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</em>
+<p><em>"Attempting the (E21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</em>
 </p>
 </blockquote>
 <blockquote>
