@@ -34,8 +34,8 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><a href="https://go.gov.sg/21ccn-commcollab" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Communication Facilitates Collaboration</a></p>
-                <a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-commcollab"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_commcollab.gif"></a>
+                <p><a href="https://for.edu.sg/21ccn-commcollab" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Communication Facilitates Collaboration</a></p>
+                <a class="isomer-image-wrapper" href="https://for.edu.sg/21ccn-commcollab"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_commcollab.gif"></a>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>E21CC: Communication &amp; Collaboration</strong></p>
