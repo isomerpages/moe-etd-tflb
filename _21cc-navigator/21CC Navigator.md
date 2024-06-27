@@ -40,12 +40,7 @@ the transformative potential of technology to empower development of students’
 <center><p>21CC Navigator is a set of resources for schools to develop E21CC through SLS. We have a learning package to raise students' awareness of the E21CC and a toolkit to develop CAIT through the Total Curriculum. 
 <br>
 </p>
-<p>E21CC Quests are SLS lessons that include lesson activities and interactives
-to help your students learn about the E21CC. Students get to engage in
-games and interactives and collect gems as they complete these lessons.
-Find out more about  <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">E21CC Quests here</a>.</p>
-	
-<p>Interested to delve deeper into critical, adaptive, and inventive thinking skills for 21CC development? <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">Discover our resources here</a> and embark on a journey to explore how 21CC can be developed in Science and English.</p>
+
 <p>------------------</p>
 <center><h2 id="impact">Our Impact</h2></center>
 
