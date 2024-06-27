@@ -4,7 +4,7 @@ permalink: /e21cc-quests/
 variant: markdown
 description: ""
 ---
-<center><p style="color: black;">E21CC Quests are SLS lessons that include lesson activities and interactives to help your students learn about the Emerging 21st Century Competencies. You can assign these Quests as self-paced lessons for Home-based Learning or use them in class!</p></center>
+<center><p style="color: black;">E21CC Quests are SLS modules that include lesson activities and interactives to help your students learn about the Emerging 21st Century Competencies. You can assign these Quests as self-paced lessons for Home-based Learning or use them in class!</p></center>
 
 <table style="minWidth: 50px">
 <colgroup>
