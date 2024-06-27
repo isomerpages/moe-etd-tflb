@@ -54,8 +54,8 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><a href="https://go.gov.sg/21ccn-globalliteracy" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Choosing Sustainability</a></p>
-                <a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-globalliteracy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_global.gif"></a>
+                <p><a href="https://for.edu.sg/21ccn-globalliteracy" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Choosing Sustainability</a></p>
+                <a class="isomer-image-wrapper" href="https://for.edu.sg/21ccn-globalliteracy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_global.gif"></a>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>E21CC: Global Literacy</strong></p>
