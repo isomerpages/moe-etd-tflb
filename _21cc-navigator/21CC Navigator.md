@@ -17,15 +17,13 @@ variant: markdown
 <p></p>
 <center><h2 id="discovery">Our Discovery</h2></center>
 
-<center><p>Passionate but pragmatic secondary school teachers want to help students
-see the value of going beyond academic results to develop future-ready
-skills.
-<br>
-<br>Secondary school students simply follow what their teachers say, and do
-not see a link between what they learn in school and how it will help them
-in the future.</p>
-<p></p>
-<p>MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">a list of competencies</a> that are essential for our students to develop to prepare them for the future, and seeks to harness
+<center><p>Secondary school students need a better way to work on their areas of doubt during self-study, and notice connections between what they learn in school and how it will help them in the future.
+ 
+Secondary school teachers want to support students' independence in self-monitoring and assessment in learning, and help students see the value of going beyond academic results to develop future-ready skills.
+ 
+In addition, MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">a list of competencies</a> that are essential for our students to develop to prepare them for the future, and seeks to harness the transformative potential of technology to empower development of students’ 21st Century Competencies (21CC).
+<br></p>
+<p>MOE has identified  that are essential for our students to develop to prepare them for the future, and seeks to harness
 the transformative potential of technology to empower development of students’ emerging
 21st Century Competencies (E21CC).</p>
 <p></p>
