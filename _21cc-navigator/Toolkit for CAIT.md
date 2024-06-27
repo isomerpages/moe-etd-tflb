@@ -71,4 +71,5 @@ here now!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>*Please feel free to customise the templates and the rubrics provided according to your lesson’s outcomes!</em>
+</p>
