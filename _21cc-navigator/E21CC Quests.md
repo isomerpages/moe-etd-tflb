@@ -14,7 +14,7 @@ description: ""
         <tr>
             <td rowspan="1" colspan="1">
                 <p><a href="https://for.edu.sg/21ccn-welcome" rel="noopener noreferrer nofollow" target="_blank">Welcome to 21CC Navigator!</a></p>
-                <a class="isomer-image-wrapper" href="https://for.edu.sg/21ccn-welcome"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/quest_welcome.gif"></a>
+                <a class="isomer-image-wrapper" href="https://for.edu.sg/21ccn-welcome"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___10_.gif"></a>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>Welcome Guide</strong></p>
