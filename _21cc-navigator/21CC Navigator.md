@@ -34,6 +34,10 @@ the transformative potential of technology to empower development of students’
 <center><h2 id="innovation">Our Innovation</h2></center>
 
 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/-0blMyyFuWY" height="315" width="100%"></iframe>
+	
+	<iframe allowfullscreen="" frameborder="" title="21CCN Promo Video" src="https://www.youtube.com/embed/ipYeCDzDyaQ" height="315" width="100%"></iframe>
+	
+	
 
 <center><p>21CC Navigator is a learning package on SLS that comprises 6 E21CC Quests*
 and a Welcome Guide to support teachers in kickstarting the development
