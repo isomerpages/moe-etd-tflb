@@ -37,7 +37,7 @@ the transformative potential of technology to empower development of students’
     <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/ipYeCDzDyaQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 	
-<center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS. We have a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">learning package to raise students' awareness of the E21CC </a> and a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum</a>toolkit to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum. 
+<center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS. We have a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">learning package</a> to raise students' awareness of the E21CC  and a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculumtoolkit to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum. 
 <br>
 </p>
 
