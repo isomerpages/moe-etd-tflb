@@ -21,7 +21,7 @@ variant: markdown
  
 <p>Secondary school teachers want to support students' independence in self-monitoring and assessment in learning, and help students see the value of going beyond academic results to develop future-ready skills.</p>
  
-<p>In addition, MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer" target="\_blank">a list of competencies</a> that are essential for our students to develop to prepare them for the future, and seeks to harness the transformative potential of technology to empower development of students’ 21st Century Competencies (21CC).
+<p>In addition, MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">21CC</a> that are essential for our students to develop to prepare them for the future.
 <br></p><p></p>
 
 <center><p>-----------------</p></center>
