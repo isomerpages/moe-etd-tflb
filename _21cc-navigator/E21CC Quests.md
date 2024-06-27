@@ -44,8 +44,8 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><a href="https://go.gov.sg/21ccn-criticaladaptive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Exploring Argona-VI</a></p>
-                <a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-criticaladaptive"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_criticaladaptive.gif"></a>
+                <p><a href="https://for.edu.sg/21ccn-criticaladaptive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Exploring Argona-VI</a></p>
+                <a class="isomer-image-wrapper" href="https://for.edu.sg/21ccn-criticaladaptive"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_criticaladaptive.gif"></a>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>E21CC: Critical &amp; Adaptive Thinking</strong></p>
@@ -87,4 +87,3 @@ description: ""
         </tr>
     </tbody>
 </table>
-
