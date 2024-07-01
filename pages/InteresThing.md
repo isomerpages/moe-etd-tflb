@@ -22,8 +22,8 @@ variant: markdown
 	<p><i>Bonus Tip</i> : Use a ProjecTask template to plan SIL journey. Find out more here!</p></center>
 
 
-<center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access_the_list_section_b2.png" style="width:32%; display: inline; margin-right:0.5rem; margin-top:0"></a>
-<a target="_blank" href="/files/InteresThing_User_Guide.pdf"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
+<center><a href="https://for.edu.sg/interesthingsls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access_the_list_section_b2.png" style="width:32%; display: inline; margin-right:0.5rem; margin-top:0"></a>
+<a target="_blank" href="http://for.edu.sg/interesthingguide"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>Step 1: Discover</h3></center>
 <center>Kick off your students’ SIL journey with the Interest Discovery Quiz, which recommends different interest areas.</center>
@@ -31,7 +31,7 @@ variant: markdown
 
 <center><h3>Step 2: Explore</h3></center>
 <center>Encourage your students to delve into a curated list of learning experiences and resources as starting points for their SIL.</center>
-<center><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3df3adcd-55b6-4172-82e8-3161c825328a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
+<center><a href="https://for.edu.sg/interesthingsls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access%20the%20list.png" style="width:30%; display: inline; margin-right:0.5rem"></a></center>
 
 <center><h3>Step 3: Share</h3></center>
 <center>Build interest communities using the Class Group Forum feature on SLS! Find out more in the User Guide.</center>
