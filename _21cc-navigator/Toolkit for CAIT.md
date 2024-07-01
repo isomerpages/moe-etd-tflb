@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p>CotF <em>(with inputs from CPDD1 and 2, as well as AST)</em> has developed
-curriculum-aligned sample lesson templates recommending the use of SLS
-AI-enabled features for issues in Science (Secondary) and English argumentative
-writing.</p>
+curriculum-aligned sample lesson flows, in the form of templates, recommending
+the use of SLS AI-enabled features for Issues in Science (Sec) and English
+Argumentative Writing (Sec).</p>
 <p>Lessons developed using these templates allow for timely, individualised,
 and actionable feedback that promotes deeper learning for Critical, Adaptive
 and Inventive Thinking development.</p>
@@ -30,7 +30,7 @@ module templates and rubrics template more effectively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/caitsls-sci" rel="noopener noreferrer nofollow" target="_blank"><u>[Supporting 21CC Development] Using SLS to develop Critical Thinking through Issues in Science*</u></a>
+<p><a href="https://for.edu.sg/caitsls-sci" rel="noopener noreferrer nofollow" target="_blank"><u>[Supporting 21CC Development] Using SLS to develop Critical Thinking through Issues in Science (Sec)*</u></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_26_at_5_00_41_PM.png">
@@ -44,7 +44,7 @@ this template!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/caitsls-el" rel="noopener noreferrer nofollow" target="_blank"><u>[Supporting 21CC Development] Using SLS to develop Critical Thinking in English Argumentative Writing*</u></a>
+<p><a href="https://for.edu.sg/caitsls-el" rel="noopener noreferrer nofollow" target="_blank"><u>[Supporting 21CC Development] Using SLS to develop Critical Thinking in English Argumentative Writing (Sec)*</u></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_26_at_5_11_04_PM.png">
