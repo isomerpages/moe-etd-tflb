@@ -1,9 +1,10 @@
 ---
 title: Learning Gamified
-permalink: /lg/
+permalink: /lg/decom/
 description: Tap on ready-made guides, tools, and resources to turn your lessons
   into gamified learning experiences!
 image: /images/Home Page/LGo.png
+variant: tiptap
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 

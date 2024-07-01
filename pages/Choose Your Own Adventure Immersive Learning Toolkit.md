@@ -1,6 +1,6 @@
 ---
 title: Choose Your Own Adventure Immersive Learning Toolkit
-permalink: /ilt/
+permalink: /ilt/decom/
 description: Craft and create immersive experiences through a lesson design
   guide and ready-made lesson samples in SLS!
 image: /images/Home Page/ILTo.png

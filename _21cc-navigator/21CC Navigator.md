@@ -17,42 +17,30 @@ variant: markdown
 <p></p>
 <center><h2 id="discovery">Our Discovery</h2></center>
 
-<center><p>Passionate but pragmatic secondary school teachers want to help students
-see the value of going beyond academic results to develop future-ready
-skills.
-<br>
-<br>Secondary school students simply follow what their teachers say, and do
-not see a link between what they learn in school and how it will help them
-in the future.</p>
-<p></p>
-<p>MOE has identified a list of competencies* that are essential for our
-students to develop to prepare them for the future, and seeks to harness
-the transformative potential of technology to empower development of students’
-21st Century Competencies* (21CC).</p>
-<p></p>
-<p>*Find out more about 21st Century Competencies (21CC) <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">here</a>.</p></center>
-<p></p>
+<center><p>Secondary school students need a better way to work on their areas of doubt during self-study, and notice connections between what they learn in school and how it will help them in the future.</p>
+ 
+<p>Secondary school teachers want to support students' independence in self-monitoring and assessment in learning, and help students see the value of going beyond academic results to develop future-ready skills.</p>
+ 
+<p>In addition, MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">21CC</a> that are essential for our students to develop to prepare them for the future.
+<br></p><p></p>
+
 <center><p>-----------------</p></center>
 
 <center><h2 id="innovation">Our Innovation</h2></center>
-
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/-0blMyyFuWY" height="315" width="100%"></iframe>
-
-<center><p>21CC Navigator is a learning package on SLS that comprises 6 E21CC Quests*
-and a Welcome Guide to support teachers in kickstarting the development
-of E21CC. Assign it to your students as home-based learning or complete
-the quests in class to help raise students' awareness of the E21CC.
+	
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/AKuMaH-e8YY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+	
+<center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS. We have a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">learning package</a> to raise students' awareness of the E21CC  and a <a href="/21ccn-resources/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum. 
 <br>
 </p>
-<p>*E21CC Quests are SLS lessons that include lesson activities and interactives
-to help your students learn about the E21CC. Students get to engage in
-games and interactives and collect gems as they complete these lessons.
-Find out more about E21CC Quests <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+
 <p>------------------</p>
 <center><h2 id="impact">Our Impact</h2></center>
 
-<p>Students reported a <strong>greater awareness of 21CC</strong> and were <strong>motivated</strong> to
-learn more about 21CC and hone their future-ready skills.</p>
+<p>Students reported a <strong>greater awareness of E21CC</strong> and were <strong>motivated</strong> to
+learn more about E21CC and hone their future-ready skills.</p>
 
 <p>Students shared that the use of 21CC Navigator enabled <strong>organic social interaction and support</strong> between
 teacher-student, student-student, and student-family.</p>
@@ -60,17 +48,16 @@ teacher-student, student-student, and student-family.</p>
 
 
 <blockquote>
-<p><em>"When I was informed about 21CC through 21CC Navigator, I was able to identify that 21CCs were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</em>
+<p><em>"When I was informed about E21CC through 21CC Navigator, I was able to identify that E21CC were actually taught by my teachers, just that they never told us about it, including during CCA." - Secondary 1 Student</em>
 </p>
 </blockquote>
 <blockquote>
-<p><em>"Attempting the (21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</em>
+<p><em>"Attempting the (E21CC) Future Self Quiz helped me in understanding myself better cause it helped me identify my strengths and weaknesses." - Secondary 2 Student</em>
 </p>
 </blockquote>
 <blockquote>
-<p><em>"Usually 21CC is at the back of my head. You may be teaching these values but you may not know. But now, (after using 21CC Navigator), I'm more conscious about 21CC." - Secondary 2 Mathematics Teacher</em>
-</p>
+
 </blockquote>
 <p>--------</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="\_blank">here</a>!</p></center>
+<a href="/contact" rel="noopener noreferrer" target="\_blank">here</a>!</p></center></center>

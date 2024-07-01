@@ -49,7 +49,9 @@ and monitor project work progress more efficiently and effectively by providing:
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZK1bbSDduN0?playsinline=1"></iframe>
 </div>
 
-<center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:45%; display: inline;"></a><center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"></a><a href="https://for.edu.sg/projectasksls2" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:45%; display: inline;"></a></center>
+<center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:45%; display: inline;">
+<br>
+</a><a href="https://for.edu.sg/projectasksls2" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:45%; display: inline;"></a></center>
 
 <p>
 <br><strong>ProjecTask</strong>&nbsp;is conceptualised and developed in collaboration
@@ -98,4 +100,4 @@ integrated ProjecTask boards:</p>
 <br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously
 named Coursework Monitoring System)</p>
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center></center></div></center>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center></div></center>

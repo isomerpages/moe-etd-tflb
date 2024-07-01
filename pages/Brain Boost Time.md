@@ -1,6 +1,6 @@
 ---
 title: Brain Boost Time
-permalink: /bbt/
+permalink: /bbt/decom/
 description: Get your pupils to their optimal zone of learning - especially when
   they're extremely excited or tired!
 image: /images/Home Page/BBTo.png
