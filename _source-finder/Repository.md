@@ -35,11 +35,6 @@ when contributing or using resources. Ready to start?</p>
 </ol>
 <p>Got some amazing resources that do not fit into the usual subjects above,
 but you know they will come handy one day? We have just a spot for them!</p>
-<p>Click the link below to access and contribute resources for current affairs:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://for.edu.sg/sf-currentaffairs" rel="noopener noreferrer nofollow" target="_blank">Current Affairs</a>
+<p>Click on the link to access and contribute resources for <a href="https://for.edu.sg/sf-currentaffairs" rel="noopener noreferrer nofollow" target="_blank">Current Affairs.</a>
 </p>
-</li>
-</ol>
 <p></p>
