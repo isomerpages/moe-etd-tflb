@@ -26,7 +26,7 @@ variant: markdown
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPfkvKQ-U7TQRCAPHdLZBBHTes9RZgFyaAEcIebsMCDIH3GK8VPoQfIu5pZjViYQ/embed?start=true&amp;loop=false&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
-<center><a href="/files/EVS_v1_1.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
+<center><a href="https://for.edu.sg/evsguide&quot;" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>SLS Interactive Thinking Tool Guide for Students</h3></center>
