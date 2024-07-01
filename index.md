@@ -24,23 +24,6 @@ sections:
       alt: CotF 21CC Navigator
       image: /images/Home Page/21ccno copy.png
   - infopic:
-      title: Brain Boost Time
-      subtitle: 2022 MOE Innergy Gold Awardee
-      description: Get your pupils to their optimal zone of learning -  especially
-        when they're extremely excited or tired!
-      button: Get in the zone!
-      url: /bbt
-      image: /images/Home Page/BBTo.png
-      alt: CotF Brain Boost Time
-  - infopic:
-      title: Choose-Your-Own-Adventure Immersive Learning Toolkit
-      description: Craft and create immersive experiences through a lesson design
-        guide and ready-made lesson samples in SLS!
-      button: Explore immersive learning!
-      alt: Immersive Learning Toolkit
-      url: /ilt
-      image: /images/Home Page/ILTo.png
-  - infopic:
       title: Eliciting Voices of Students with Diverse Learning Needs
       description: Gather tips and tricks on how to use SLS and other features to
         bring out student voices in classes with diverse learning needs through
@@ -57,14 +40,6 @@ sections:
       description: Help students discover, explore, and share their interests beyond
         the curriculum for Student-Initiated Learning!
       button: Discover, explore, and share!
-  - infopic:
-      title: Learning Gamified
-      description: Tap on ready-made guides, tools, and resources to turn your lessons
-        into gamified learning experiences!
-      button: Gamify lessons!
-      url: /lg
-      alt: CotF Learning Gamified
-      image: /images/Home Page/LGo.png
   - infopic:
       title: Sprouts
       description: Enhance values-learning beyond class time and get parents and
