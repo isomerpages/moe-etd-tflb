@@ -23,7 +23,7 @@ variant: markdown
 
 
 <center><a href="https://for.edu.sg/interesthingsls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/access_the_list_section_b2.png" style="width:32%; display: inline; margin-right:0.5rem; margin-top:0"></a>
-<a target="_blank" href="http://for.edu.sg/interesthingguide"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
+<a target="_blank" href="https://for.edu.sg/interesthingguide"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>Step 1: Discover</h3></center>
 <center>Kick off your students’ SIL journey with the Interest Discovery Quiz, which recommends different interest areas.</center>
