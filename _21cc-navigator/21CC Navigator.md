@@ -12,7 +12,8 @@ variant: markdown
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21cc navigator featured image cotf.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CCN_landing_page__1_.gif">
+
 </div>
 <p></p>
 <center><h2 id="discovery">Our Discovery</h2></center>
