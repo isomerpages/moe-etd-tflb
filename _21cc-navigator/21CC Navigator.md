@@ -34,7 +34,10 @@ variant: markdown
 </div>
 	
 <center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS and consists of 3 parts. </p>
-	<p>We have a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">SLS learning package</a> and tagged lessons to raise students' awareness of the E21CC  and a <a href="/21ccn-resources/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum. 
+	
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_02_at_3_12_01_PM.png">
+
+<p>We have a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">SLS learning package</a> and tagged lessons to raise students' awareness of the E21CC  and a <a href="/21ccn-resources/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum. 
 <br>
 </p>
 
