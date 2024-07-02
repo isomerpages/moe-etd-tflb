@@ -4,10 +4,10 @@ permalink: /21ccn-resources/
 variant: tiptap
 description: ""
 ---
-<p>CotF <em>(with inputs from CPDD1 and 2, as well as AST)</em> has developed
-curriculum-aligned sample lesson flows, in the form of templates, recommending
-the use of SLS AI-enabled features for Issues in Science (Sec) and English
-Argumentative Writing (Sec).</p>
+<p>CotF has worked with AST and CPDD to develop<em> </em>sample SLS lesson
+flows, in the form of templates, with recommended use of the SLS AI-enabled
+feature, ShortAnsFA, for engagement in Issues in Science and argumentative
+writing in English.</p>
 <p>Lessons developed using these templates allow for timely, individualised,
 and actionable feedback that promotes deeper learning for Critical, Adaptive
 and Inventive Thinking development.</p>
