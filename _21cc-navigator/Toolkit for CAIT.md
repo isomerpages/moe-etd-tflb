@@ -4,7 +4,7 @@ permalink: /21ccn-resources/
 variant: markdown
 description: ""
 ---
-<p>To support development of Critical, Adaptive and Inventive Thinking (CAIT)
+<center><p>To support development of Critical, Adaptive and Inventive Thinking (CAIT)
 through learning activities in Secondary Science and Secondary English
 Language, CotF has worked with AST and CPDD to develop sample SLS lesson
 flows, in the form of templates, with recommended use of the SLS AI-enabled
@@ -76,4 +76,4 @@ here now!</p>
 </tbody>
 </table>
 <p><em>*Please feel free to customise the templates and the rubrics provided according to your lesson’s outcomes!</em>
-</p>
+</p></center>
