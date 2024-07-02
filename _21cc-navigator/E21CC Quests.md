@@ -77,7 +77,7 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><a href="https://go.gov.sg/crossculturalinventive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Inventing for Community </a></p>
+                <p><a href="https://go.gov.sg/crossculturalinventive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Inventing for the Community </a></p>
                 <a class="isomer-image-wrapper" href="https://go.gov.sg/crossculturalinventive"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CCN_Quest_5.gif"></a>
             </td>
             <td rowspan="1" colspan="1">
