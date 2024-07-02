@@ -29,7 +29,7 @@ variant: markdown
 <center><h2 id="innovation">Our Innovation</h2></center>
 	
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/AKuMaH-e8YY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/uEW_d2umm4E" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 	
 <center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS. We have a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">learning package</a> to raise students' awareness of the E21CC  and a <a href="/21ccn-resources/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum. 
