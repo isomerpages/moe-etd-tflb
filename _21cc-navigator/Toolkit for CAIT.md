@@ -37,7 +37,7 @@ module templates and rubrics template more effectively.</p>
 <p><a href="https://for.edu.sg/caitsls-sci" rel="noopener noreferrer nofollow" target="_blank"><u>[Supporting 21CC Development] Using SLS to develop Critical Thinking through Issues in Science (Sec)*</u></a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_26_at_5_00_41_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_02_at_1_52_33_PM.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
