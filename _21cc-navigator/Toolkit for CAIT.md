@@ -1,16 +1,20 @@
 ---
 title: Toolkit for CAIT
 permalink: /21ccn-resources/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<p>CotF has worked with AST and CPDD to develop<em> </em>sample SLS lesson
+<center><p>To support development of Critical, Adaptive and Inventive Thinking (CAIT)
+through learning activities in Secondary Science and Secondary English
+Language, CotF has worked with AST and CPDD to develop sample SLS lesson
 flows, in the form of templates, with recommended use of the SLS AI-enabled
-feature, ShortAnsFA, for engagement in Issues in Science and argumentative
+feature ShortAnsFA for engagement in issues in Science and argumentative
 writing in English.</p>
-<p>Lessons developed using these templates allow for timely, individualised,
-and actionable feedback that promotes deeper learning for Critical, Adaptive
-and Inventive Thinking development.</p>
+<p></p>
+<p>These provide a starting point for teachers to incorporate and apply strategies
+to help students enhance their metacognition, problem-solving skills and
+critical thinking through developing self-awareness, monitoring and evaluation
+of their thinking.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -72,4 +76,4 @@ here now!</p>
 </tbody>
 </table>
 <p><em>*Please feel free to customise the templates and the rubrics provided according to your lesson’s outcomes!</em>
-</p>
+</p></center>
