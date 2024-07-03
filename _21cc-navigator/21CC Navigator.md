@@ -8,7 +8,7 @@ variant: markdown
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>How might we harness EdTech to help enhance students’ development of emerging 21st Century Competencies?</h2></center>
+<center><h2>How might we harness EdTech to help enhance students’ development of Emerging 21st Century Competencies?</h2></center>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
