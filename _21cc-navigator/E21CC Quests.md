@@ -64,9 +64,9 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><a href="https://go.gov.sg/21ccn-civicliteracy" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Life in Singapore during World War II</a></p>
+                <p><a href="https://for.edu.sg/21ccn-civicliteracy" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Life in Singapore during World War II</a></p>
                 <p></p>
-                <a class="isomer-image-wrapper" href="https://go.gov.sg/21ccn-civicliteracy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_civic.gif"></a>
+                <a class="isomer-image-wrapper" href="https://for.edu.sg/21ccn-civicliteracy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC Navigator/21CCN_civic.gif"></a>
                 <p></p>
             </td>
             <td rowspan="1" colspan="1">
@@ -77,8 +77,8 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><a href="https://go.gov.sg/crossculturalinventive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Inventing for the Community </a></p>
-                <a class="isomer-image-wrapper" href="https://go.gov.sg/crossculturalinventive"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CCN_Quest_5.gif"></a>
+                <p><a href="https://for.edu.sg/21ccn-crossculturalinventive" rel="noopener noreferrer nofollow" target="_blank">E21CC Quest: Inventing for the Community </a></p>
+                <a class="isomer-image-wrapper" href="https://for.edu.sg/21ccn-crossculturalinventive"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CCN_Quest_5.gif"></a>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>E21CC: Cross Cultural Literacy &amp; Inventive Thinking</strong></p>
