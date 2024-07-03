@@ -30,8 +30,9 @@ variant: markdown
 <center><h2 id="innovation">Our Innovation</h2></center>
 	
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/hC7gcpR-AcU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/qwA-HYXxO3Mttps://www.youtube.com/embed/hC7gcpR-AcU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
+	
 	
 	
 <center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS and consists of 3 parts. </p>
