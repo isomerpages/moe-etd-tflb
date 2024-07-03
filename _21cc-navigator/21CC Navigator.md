@@ -35,7 +35,7 @@ variant: markdown
 	
 	
 	
-<center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS and consists of 3 parts. </p>
+<center><p>21CC Navigator is a set of resources for schools to develop students' Emerging 21st Century Competencies (E21CC) through SLS and consists of 3 parts. </p>
 	
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_02_at_3_12_01_PM.png">
 
