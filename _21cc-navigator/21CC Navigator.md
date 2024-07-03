@@ -30,7 +30,7 @@ variant: markdown
 <center><h2 id="innovation">Our Innovation</h2></center>
 	
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/qwA-HYXxO3Mttps://www.youtube.com/embed/hC7gcpR-AcU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="21CCN Promo Video" src="https://www.youtube.com/embed/IfMXJ0cCP9U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 	
 	
@@ -39,7 +39,7 @@ variant: markdown
 	
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_02_at_3_12_01_PM.png">
 
-<p>We have an <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">SLS learning package</a> to raise students' awareness of the E21CC  and a <a href="/21ccn-resources/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through SLS. You can also search for SLS Modules with E21CC tags to develop E21CC through subject content. 
+<p>We have an <a href="/21ccnavigator/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">SLS learning package</a> to raise students' awareness of the E21CC  and a <a href="/21ccnavigator/cait/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through SLS. You can also search for SLS Modules with E21CC tags to develop E21CC through subject content. 
 <br>
 </p>
 
