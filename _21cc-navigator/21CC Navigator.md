@@ -66,5 +66,4 @@ teacher-student, student-student, and student-family.</p>
 
 </blockquote>
 <p>--------</p>
-<p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="\_blank">here</a>!</p></center></center>
+</center></center>
