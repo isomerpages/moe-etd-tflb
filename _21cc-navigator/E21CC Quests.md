@@ -1,6 +1,6 @@
 ---
 title: E21CC Quests
-permalink: /e21cc-quests/
+permalink: /21ccnavigator/e21cc-quests/
 variant: markdown
 description: ""
 ---
@@ -29,7 +29,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>E21CC: Information Skills</strong></p>
-                <p>Do you ever wonder how the latest developments in technology could impact you? Let’s learn more about deepfakes and collect an Information Skills Gem in this quest.</p>
+                <p>Do you ever wonder how the latest developments in technology could impact you? Let’s learn more about deepfakes and collect an Information Skills Gem in this quest!</p>
             </td>
         </tr>
         <tr>
@@ -39,7 +39,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>E21CC: Communication &amp; Collaboration</strong></p>
-                <p>Do you know that effective communication is key to collaboration? Let's learn more about how you can communicate well in a group setting and collect the Communication and Collaboration Gems in this quest.</p>
+                <p>Do you know that effective communication is key to collaboration? Let's learn more about how you can communicate well in a group setting and collect the Communication and Collaboration Gems in this quest!</p>
             </td>
         </tr>
         <tr>

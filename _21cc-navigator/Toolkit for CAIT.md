@@ -1,6 +1,6 @@
 ---
 title: Toolkit for CAIT
-permalink: /21ccn-resources/
+permalink: /21ccnavigator/cait/
 variant: markdown
 description: ""
 ---

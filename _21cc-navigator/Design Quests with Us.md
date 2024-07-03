@@ -1,6 +1,6 @@
 ---
 title: Design Quests with Us
-permalink: /design-quests-with-us/
+permalink: /21ccnavigator/design-quests-with-us/
 variant: tiptap
 description: ""
 ---

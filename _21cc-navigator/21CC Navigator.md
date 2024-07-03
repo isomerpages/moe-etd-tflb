@@ -8,7 +8,7 @@ variant: markdown
 ---
 <center><h4 style="color:#578ffe;"><a href="#discovery">Our Discovery</a>  |  <a href="#innovation">Our Innovation</a>  |  <a href="#impact">Our Impact</a></h4></center>
 
-<center><h2>How might we harness EdTech to help enhance students’ development of emerging 21st Century Competencies?</h2></center>
+<center><h2>How might we harness EdTech to help enhance students’ development of Emerging 21st Century Competencies?</h2></center>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -22,7 +22,7 @@ variant: markdown
  
 <p>Secondary school teachers want to support students' independence in self-monitoring and assessment in learning, and help students see the value of going beyond academic results to develop future-ready skills.</p>
  
-<p>In addition, MOE has identified <a href="[https://www.moe.gov.sg/education-in-sg/21st-century-competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)" rel="noopener noreferrer" target="\_blank">21CC</a> that are essential for our students to develop to prepare them for the future.
+<p>In addition, MOE has identified <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer" target="\_blank">21st Century Competencies</a> that are essential for our students to develop to prepare them for the future.
 <br></p><p></p>
 
 <center><p>-----------------</p></center>
@@ -35,11 +35,11 @@ variant: markdown
 	
 	
 	
-<center><p>21CC Navigator is a set of resources for schools to develop Emerging 21st Century Competencies (E21CC) through SLS and consists of 3 parts. </p>
+<center><p>21CC Navigator is a set of resources for schools to develop students' Emerging 21st Century Competencies (E21CC) through SLS and consists of 3 parts. </p>
 	
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_02_at_3_12_01_PM.png">
 
-<p>We have a <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">SLS learning package</a> to raise students' awareness of the E21CC  and a <a href="/21ccn-resources/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through the Total Curriculum. You can also search for SLS Modules with E21CC tags to develop E21CC through subject content. 
+<p>We have an <a href="/e21cc-quests/" rel="noopener noreferrer nofollow" target="\_blank">SLS learning package</a> to raise students' awareness of the E21CC  and a <a href="/21ccn-resources/" rel="noopener noreferrer nofollow" target="\_blank"> toolkit</a> to develop Critical, Adaptive and Inventive Thinking (CAIT) through SLS. You can also search for SLS Modules with E21CC tags to develop E21CC through subject content. 
 <br>
 </p>
 
@@ -66,5 +66,4 @@ teacher-student, student-student, and student-family.</p>
 
 </blockquote>
 <p>--------</p>
-<p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="\_blank">here</a>!</p></center></center>
+</center></center>
