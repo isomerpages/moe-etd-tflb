@@ -62,7 +62,7 @@ this template!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/caitrubrics-sci" rel="noopener noreferrer nofollow" target="_blank"><u>1. Issues of Science Rubrics Template*</u></a>
+<p><a href="https://for.edu.sg/caitrubrics-sci" rel="noopener noreferrer nofollow" target="_blank"><u>1. Issues in Science Rubrics Template*</u></a>
 </p>
 <p><a href="https://for.edu.sg/caitrubrics-el" rel="noopener noreferrer nofollow" target="_blank"><u>2. English Argumentative Writing Rubrics Template*</u></a>
 </p>
