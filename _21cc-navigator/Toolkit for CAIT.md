@@ -6,7 +6,7 @@ description: ""
 ---
 <center><p>To support development of Critical, Adaptive and Inventive Thinking (CAIT)
 through learning activities in Secondary Science and Secondary English
-Language, CotF has worked with AST and CPDD to develop sample SLS lesson
+Language, CotF has worked with AST, CPDD1 and CPDD2 to develop sample SLS lesson
 flows, in the form of templates, with recommended use of the SLS AI-enabled
 feature ShortAnsFA for engagement in issues in Science and argumentative
 writing in English.</p>
