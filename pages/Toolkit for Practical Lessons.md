@@ -5,12 +5,12 @@ variant: markdown
 description: ""
 ---
 <center><h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
-<h2>How can we help students achieve task mastery on their own terms?</h2>
+<h2>How might we help students to develop self-regulation for practical work?</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProjecTask/ProjecTask_featured_image_edited.gif">
 </div>
 <h2>Our Discovery</h2>
-<p>Students want to try out practical tasks on their own, but struggle to self-regulate and as a result, continue to be reliant on their teachers for continual guidance.
+<p>Students want to conduct practical tasks on their own, but struggle to self-regulate and as a result, continue to be reliant on their teachers for continual guidance.
 <br>
 <br>Teachers find it difficult to prioritise their attention as students are working individually, progressing at different pace during the lessons.</p>
 <hr>
@@ -28,33 +28,6 @@ With the use of these resources, we hope to help teachers support students in a 
 2.  Chemistry
 3.  Food and Nutrition
 	
-<p>
-<br>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tsnSW3ZsAPw?playsinline=1"></iframe>
-</div>
-<div class="isomer-image-wrapper">
-<img>
-	
-<a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;">
-</a><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
-
-<br>
-	
-<div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZK1bbSDduN0?playsinline=1"></iframe>
-</div>
-
-<center><a href="https://for.edu.sg/projectasksls1" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Individual_Button.png" style="width:45%; display: inline;">
-<br>
-</a><a href="https://for.edu.sg/projectasksls2" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/PT_SLS_Group_Button.png" style="width:45%; display: inline;"></a></center>
-
-<p>
-<br><strong>ProjecTask</strong>&nbsp;is conceptualised and developed in collaboration
-with the Design and Technology Unit (Curriculum Planning and Development
-Division) and the Curriculum Policy Office.</p>
 <p>Click the buttons below to access a series of 3 D&amp;T SLS Lessons with
 integrated ProjecTask boards:</p>
 	
@@ -64,38 +37,49 @@ integrated ProjecTask boards:</p>
 
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/60afbff6-ac00-46df-b796-e9dc396ebb76/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:45%; display: inline;"></a>
 
+	
+<a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;">
+</a><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
+
+<br>
+
 
 <h2>Our Impact</h2>
-<p><strong>Teacher Quotes:</strong>
+<p><strong> Science Teacher Quotes:</strong>
 </p>
 <blockquote>
-<p><em>"It is a wonderful thing, within one screen teachers and students can see the past and future of a project!”</em>
+<p><em>“There is less of ‘how to do’, ‘is it correct’ types of questions.”
+
+“We can&nbsp;divert our time to those who really need help and attention.” </em>
 </p>
 </blockquote>
 <blockquote>
-<p><em>"Good that i can understand at one glance to track their growth and journey.”</em>
-</p>
+<p><em>"They can&nbsp;on the spot do some edits&nbsp;to figure out. (The current challenge is that) students&nbsp;forgot about what they have done last week, why their answer do not match the expected observation” </em></p>
 </blockquote>
+
+	
+<p><strong> Science Student Quotes:</strong></p>
 <blockquote>
-<p><em>"Useful to see thread of conversation and feedback. Can be an add-on to the process that happens live in the classroom.”</em>
-</p>
+
+<p><em>“(The feedback) gave me a&nbsp;gauge on whether I did the experiment correctly, so if I did something wrong, I can refer and redo the experiment”</em></p>
 </blockquote>
-<p><strong>Student Quotes:</strong>
+	
+<p><strong> NFS Teacher Quotes:</strong>
 </p>
+
 <blockquote>
-<p><em>"It helps me to organise work and track progress, making it easier to check what needs to be done."</em>
-</p>
-</blockquote>
+	
+“During the practical lesson, self-assessment skills is something that we want to instill in the students, and also information for us, whether they are comfortable.”
+<p></p>
+	</blockquote>
+
+<p><strong> NFS Student Quotes:</strong></p>
+<p></p>
+
 <blockquote>
-<p><em>"When you complete an assignment and press DONE, it feels rewarding to know that you finished it and can move on to the next assignment."</em>
-</p>
-</blockquote>
-<blockquote>
-<p><em>"Straightforward and easy to use!"</em>
-</p>
-</blockquote>
-<p><strong>Awarded:</strong>
-<br>2022 MOE Innergy &amp; Outstanding Innovator Awards - Silver (Previously
-named Coursework Monitoring System)</p>
+
+“We could cook at our own pace&nbsp;without missing out on instructions” 
+<p></p>
+
 <p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></center></center></center></div></center>
+<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></blockquote></center></center></center></center>
