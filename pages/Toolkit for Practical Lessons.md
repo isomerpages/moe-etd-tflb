@@ -45,23 +45,23 @@ integrated ProjecTask boards:</p>
 
 
 <h2>Our Impact</h2>
-<p><strong> Science Teacher Quotes:</strong>
+<p><strong> Hear what Science teachers says:</strong>
 </p>
 <blockquote>
 <p><em>“There is less of ‘how to do’, ‘is it correct’ types of questions.”
 
-“We can&nbsp;divert our time to those who really need help and attention.” </em>
+“We can divert our time to those who really need help and attention.” </em>
 </p>
 </blockquote>
 <blockquote>
-<p><em>"They can&nbsp;on the spot do some edits&nbsp;to figure out. (The current challenge is that) students&nbsp;forgot about what they have done last week, why their answer do not match the expected observation” </em></p>
+<p><em>"They can on the spot do some edit to figure out. (The current challenge is that) students;forgot about what they have done last week, why their answer do not match the expected observation” </em></p>
 </blockquote>
 
 	
 <p><strong> Science Student Quotes:</strong></p>
 <blockquote>
 
-<p><em>“(The feedback) gave me a&nbsp;gauge on whether I did the experiment correctly, so if I did something wrong, I can refer and redo the experiment”</em></p>
+<p><em>“(The feedback) gave me a gauge on whether I did the experiment correctly, so if I did something wrong, I can refer and redo the experiment”</em></p>
 </blockquote>
 	
 <p><strong> NFS Teacher Quotes:</strong>
@@ -78,7 +78,7 @@ integrated ProjecTask boards:</p>
 
 <blockquote>
 
-“We could cook at our own pace&nbsp;without missing out on instructions” 
+“We could cook at our own pace without missing out on instructions” 
 <p></p>
 
 <p>Have a query or feedback on our innovations? We'd love to hear from you
