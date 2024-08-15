@@ -46,23 +46,23 @@ integrated ProjecTask boards:</p>
 
 <h2>Our Impact</h2>
 
-**Hear what our Science teacher users have to say...**
+Hear what our Science teacher users have to say...
 
-<center><blockquote><i>"There is less of ‘how to do’, ‘is it correct’ types of questions. We can **divert our time to those who really need help and attention.**” </i></blockquote></center>
+<center><blockquote><i>"There is less of ‘how to do’, ‘is it correct’ types of questions. We can <b>divert our time to those who really need help and attention.</b>” </i></blockquote></center>
 
-<center><blockquote><i>"They can on the spot do some edit to figure out. (The current challenge is that) students;forgot about what they have done last week, why their answer do not match the expected observation” </i></blockquote></center>
+<center><blockquote><i>"They can <b>on the spot do some edits</b> to figure out. (The current challenge is that) students <b>forgot about what they have done last week </b>, why their answer do not match the expected observation” </i></blockquote></center>
 
 
-**Hear what our Science student user have to say...**
+Hear what our Science student user have to say...
 
-<center><blockquote><i>"“(The feedback) gave me a gauge on whether I did the experiment correctly, so if I did something wrong, I can refer and redo the experiment”</i></blockquote></center>
+<center><blockquote><i>"“(The feedback) gave me a <b> gauge on whether I did the experiment correctly</b>, so if I did something wrong, I can refer and redo the experiment”</i></blockquote></center>
 
-**Hear what our NFS teacher user have to say...**
-<center><blockquote><i>"“During the practical lesson, self-assessment skills is something that we want to instill in the students, and also information for us, whether they are comfortable.”</i></blockquote></center>
+Hear what our NFS teacher user have to say...
+<center><blockquote><i>"“During the practical lesson, <b>self-assessment skills is something that we want to instill</b> in the students, and also information for us, whether they are comfortable.”</i></blockquote></center>
 	
-**Hear what our NFS student user have to say...**
+Hear what our NFS student user have to say...
 
-<center><blockquote><i>"“We could cook at our own pace without missing out on instructions”</i></blockquote></center>
+<center><blockquote><i>"“We could cook at our own pace <b> without missing out on instructions </b> ”</i></blockquote></center> 
 	
 <p></p>
 
