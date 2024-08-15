@@ -16,10 +16,6 @@ description: ""
 <hr>
 <h2>Our Innovation</h2>
 <p><strong>Toolkit for Practical Lessons</strong> includes <strong> a user guide </strong> and some <strong>sample SLS Practical Based Lessons </strong> for the following subjects:</p>
-
-<p>a) Biology</p>
-<p>b) Chemistry</p>
-<p>c) Nutrition and Food Science</p>
 	
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Biology_Button.png" style="width:45%; display: inline;"></a>
 
