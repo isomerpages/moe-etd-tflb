@@ -45,51 +45,28 @@ integrated ProjecTask boards:</p>
 
 
 <h2>Our Impact</h2>
-<p><strong> Hear what Science teachers says:</strong>
-</p>
-<blockquote>
-<p><em>“There is less of ‘how to do’, ‘is it correct’ types of questions.”
 
-“We can divert our time to those who really need help and attention.” </em>
-</p>
-</blockquote>
-<blockquote>
-<p><em>"They can on the spot do some edit to figure out. (The current challenge is that) students;forgot about what they have done last week, why their answer do not match the expected observation” </em></p>
-</blockquote>
+**Hear what our Science teacher users have to say...**
 
+<center><blockquote><i>"There is less of ‘how to do’, ‘is it correct’ types of questions. We can **divert our time to those who really need help and attention.**” </i></blockquote></center>
+
+<center><blockquote><i>"They can on the spot do some edit to figure out. (The current challenge is that) students;forgot about what they have done last week, why their answer do not match the expected observation” </i></blockquote></center>
+
+
+**Hear what our Science student user have to say...**
+
+<center><blockquote><i>"“(The feedback) gave me a gauge on whether I did the experiment correctly, so if I did something wrong, I can refer and redo the experiment”</i></blockquote></center>
+
+**Hear what our NFS teacher user have to say...**
+<center><blockquote><i>"“During the practical lesson, self-assessment skills is something that we want to instill in the students, and also information for us, whether they are comfortable.”</i></blockquote></center>
 	
-<p><strong> Science Student Quotes:</strong></p>
-<blockquote>
+**Hear what our NFS student user have to say...**
 
-<p><em>“(The feedback) gave me a gauge on whether I did the experiment correctly, so if I did something wrong, I can refer and redo the experiment”</em></p>
-</blockquote>
+<center><blockquote><i>"“We could cook at our own pace without missing out on instructions”</i></blockquote></center>
 	
-<p><strong> NFS Teacher Quotes:</strong>
-</p>
-
-<blockquote>
-	
-“During the practical lesson, self-assessment skills is something that we want to instill in the students, and also information for us, whether they are comfortable.”
 <p></p>
-	</blockquote>
-
-<p><strong> NFS Student Quotes:</strong></p>
-<p></p>
-
-<blockquote>
-
-“We could cook at our own pace without missing out on instructions” 
-<p></p>
-
-	
-	<center><h3>Hear what our teacher users have to say about Source Finder!</h3></center>
-
-<center><blockquote><i>"Beyond interesting articles (in Source Finder), I found the curated categories of sources to be much more meaningful. For example - Australia's Mice Plague, and even on the topic of vape. I certainly did not think of these topics immediately, but seeing these topics appear gave me a bunch of other ideas which I am toying with right now." - Secondary Social Studies Teacher</i></blockquote></center>
-
-<center><blockquote><i>"I always thought it (Source Finder) would be something complex. However, I felt comfortable using it and navigating the different pages… I think it's also quite fun to have a user-centric platform which helps to build a learning community." - Secondary School History Teacher </i></blockquote></center>
 
 --------
 
 <center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
-<p>Have a query or feedback on our innovations? We'd love to hear from you
-<a href="/contact" rel="noopener noreferrer" target="_blank">here</a>!</p></blockquote></center></center></center></center>
+</center></center></center></center>
