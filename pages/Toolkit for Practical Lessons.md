@@ -19,7 +19,7 @@ description: ""
 
 <p>a) Biology</p>
 <p>b) Chemistry</p>
-<p>c) Food and Nutrition</p>
+<p>c) Nutrition and Food Science</p>
 	
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:45%; display: inline;"></a>
 
