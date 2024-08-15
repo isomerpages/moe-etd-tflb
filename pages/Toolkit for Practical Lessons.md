@@ -57,9 +57,9 @@ integrated ProjecTask boards:</p>
 
 <center><blockquote><i>"“(The feedback) gave me a <b> gauge on whether I did the experiment correctly</b>, so if I did something wrong, I can refer and redo the experiment”</i></blockquote></center>
 
-<span style="font-size: 20px;"> Hear what our NFS teacher user have to say... </span>
+<span style="font-size: 20px;color:#FF5733"> Hear what our NFS teacher user have to say... </span>
 	
-<center><blockquote><i>"“During the practical lesson, <b>self-assessment skills is something that we want to instill</b> in the students, and also information for us, whether they are comfortable.”</i></blockquote></center>
+<center><blockquote><i>"During the practical lesson, <b>self-assessment skills is something that we want to instill</b> in the students, and also information for us, whether they are comfortable.”</i></blockquote></center>
 	
 <span style="font-size: 20px;"> Hear what our NFS student user have to say...</span>
 
