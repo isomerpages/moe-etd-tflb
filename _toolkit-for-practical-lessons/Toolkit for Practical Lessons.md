@@ -23,7 +23,8 @@ description: ""
 With the use of these resources, we hope to help teachers support students in a practical lesson and preparing students to be self-regulated learners.
 
 **Assess the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS**
-<iframe height="450" width="800%" allowfullscreen="true" frameborder="0" src="https://drive.google.com/file/d/1aC6tclS1gmI_h6TviwJ_-Noio7kzlgwE/view?usp=drive_link/embed"></iframe>
+
+<iframe height="450" width="800%" allowfullscreen="true" frameborder="0" src="[](/files/Toolkit_for_Practical_Lessons__Resource_Guide__pptx.pdf)	[](/files/Toolkit_for_Practical_Lessons__Resource_Guide__pptx.pdf)"></iframe>
 
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:45%; display: inline;"></a>
 
