@@ -27,7 +27,7 @@ description: ""
 	
 With the use of these resources, we hope to help teachers support students in a practical lesson and preparing students to be self-regulated learners.
 
-**Assess the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS**
+<b> Assess the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS</b>
 
 <iframe src="https://docs.google.com/presentation/d/1DIJiLkWgLUZi2nZMboUr6N0aptfO26jC/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
