@@ -23,7 +23,7 @@ description: ""
 	
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Biology_Button.png" style="width:45%; display: inline;"></a>
 
-<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_2.png" style="width:45%; display: inline;"></a>
+<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Chemistry_Button.png" style="width:45%; display: inline;"></a>
 
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/60afbff6-ac00-46df-b796-e9dc396ebb76/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:45%; display: inline;"></a>
 
