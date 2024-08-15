@@ -20,12 +20,7 @@ description: ""
 <p>a) Biology</p>
 <p>b) Chemistry</p>
 <p>c) Food and Nutrition</p>
-With the use of these resources, we hope to help teachers support students in a practical lesson and preparing students to be self-regulated learners.
-
-**Assess the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS**
-
-<iframe src="https://docs.google.com/presentation/d/1DIJiLkWgLUZi2nZMboUr6N0aptfO26jC/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
-
+	
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:45%; display: inline;"></a>
 
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_2.png" style="width:45%; display: inline;"></a>
@@ -33,7 +28,12 @@ With the use of these resources, we hope to help teachers support students in a 
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/60afbff6-ac00-46df-b796-e9dc396ebb76/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:45%; display: inline;"></a>
 
 <br>
+	
+With the use of these resources, we hope to help teachers support students in a practical lesson and preparing students to be self-regulated learners.
 
+**Assess the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS**
+
+<iframe src="https://docs.google.com/presentation/d/1DIJiLkWgLUZi2nZMboUr6N0aptfO26jC/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <h2>Our Impact</h2>
 
