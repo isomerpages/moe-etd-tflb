@@ -7,7 +7,7 @@ description: ""
 <center><h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
 <h2>How might we help students to develop self-regulation for practical work?</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProjecTask/ProjecTask_featured_image_edited.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Toolkit_for_Practical_Lessons.gif">
 </div>
 <h2>Our Discovery</h2>
 <p>Students want to conduct practical tasks on their own, but struggle to self-regulate and as a result, continue to be reliant on their teachers for continual guidance.
