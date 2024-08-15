@@ -46,22 +46,22 @@ integrated ProjecTask boards:</p>
 
 <h2>Our Impact</h2>
 
-<span style="font-size: 20px;">Hear what our Science teacher users have to say...</span>
+<span style="font-size: 20px;color:#FF0082">Hear what our Science teacher users have to say...</span>
 
 <center><blockquote><i>"There is less of ‘how to do’, ‘is it correct’ types of questions. We can <b>divert our time to those who really need help and attention.</b>” </i></blockquote></center>
 
 <center><blockquote><i>"They can <b>on the spot do some edits</b> to figure out. (The current challenge is that) students <b>forgot about what they have done last week </b>, why their answer do not match the expected observation” </i></blockquote></center>
 
 
-<span style="font-size: 20px;">Hear what our Science student user have to say...</span>
+<span style="font-size: 20px;color:#FF0082">Hear what our Science student user have to say...</span>
 
-<center><blockquote><i>"“(The feedback) gave me a <b> gauge on whether I did the experiment correctly</b>, so if I did something wrong, I can refer and redo the experiment”</i></blockquote></center>
+<center><blockquote><i>“(The feedback) gave me a <b> gauge on whether I did the experiment correctly</b>, so if I did something wrong, I can refer and redo the experiment”</i></blockquote></center>
 
-<span style="font-size: 20px;color:#FF5733"> Hear what our NFS teacher user have to say... </span>
+<span style="font-size: 20px;color:#FF0082"> Hear what our NFS teacher user have to say... </span>
 	
 <center><blockquote><i>"During the practical lesson, <b>self-assessment skills is something that we want to instill</b> in the students, and also information for us, whether they are comfortable.”</i></blockquote></center>
 	
-<span style="font-size: 20px;"> Hear what our NFS student user have to say...</span>
+<span style="font-size: 20px;color:#FF0082"> Hear what our NFS student user have to say...</span>
 
 <center><blockquote><i>"“We could cook at our own pace <b> without missing out on instructions </b> ”</i></blockquote></center> 
 	
