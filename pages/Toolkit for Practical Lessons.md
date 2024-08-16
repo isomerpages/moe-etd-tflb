@@ -10,12 +10,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Toolkit_for_Practical_Lessons.gif">
 </div>
 <h2>Our Discovery</h2>
-<p>Students want to conduct practical tasks on their own, but struggle to self-regulate and as a result, continue to be reliant on their teachers for continual guidance.
+<p>Students want to conduct practical tasks on their own, but struggle to self-regulate and as a result, continue to be reliant on their teachers for guidance.
 <br>
 <br>Teachers find it difficult to prioritise their attention as students are working individually, progressing at different pace during the lessons.</p>
 <hr>
 <h2>Our Innovation</h2>
-<p><strong>Toolkit for Practical Lessons</strong> includes <strong> a user guide </strong> and some <strong>sample SLS Practical Based Lessons </strong> for the following subjects:</p>
+<p><strong>Toolkit for Practical Lessons</strong> includes <strong> a user guide </strong> and some <strong>sample SLS modules</strong> for Practical Lessons in the following subjects:</p>
 	
 <center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Biology_Button.png" style="width:45%; display: inline;"></a>
 
@@ -37,7 +37,7 @@ With the use of these resources, we hope to help teachers support students in a 
 
 <center><blockquote><i>"There is less of ‘how to do’, ‘is it correct’ types of questions. We can <b>divert our time to those who really need help and attention. </b>” <br> - Secondary Science teacher</i></blockquote></center>
 
-	<center><blockquote><i>"They can <b>on the spot do some edits to figure out. </b> (The current challenge is that) students <b>forgot about what they have done last week </b>, why their answer do not match the expected observation” <br> - Secondary Science teacher</i></blockquote></center>
+<center><blockquote><i>"They can <b>on the spot do some edits to figure out. </b> (The current challenge is that) students <b>forgot about what they have done last week </b>, why their answer do not match the expected observation” <br> - Secondary Science teacher</i></blockquote></center>
 
 <center><blockquote><i>“(The feedback) gave me a <b> gauge on whether I did the experiment correctly</b>, so if I did something wrong, I can refer and redo the experiment” <br>- Secondary Science student</i></blockquote></center>
 
