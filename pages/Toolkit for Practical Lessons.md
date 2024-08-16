@@ -33,24 +33,17 @@ With the use of these resources, we hope to help teachers support students in a 
 
 <h2>Our Impact</h2>
 
-<span style="font-size: 20px;color:#FF0082">Hear what our Science teacher users have to say...</span>
+<span style="font-size: 20px;color:#FF0082">Hear what our teachers and students say...</span>
 
-<center><blockquote><i>"There is less of ‘how to do’, ‘is it correct’ types of questions. We can <b>divert our time to those who really need help and attention.</b>” </i></blockquote></center>
+<center><blockquote><i>"There is less of ‘how to do’, ‘is it correct’ types of questions. We can <b>divert our time to those who really need help and attention. </b>” <br> - Secondary Science teacher</i></blockquote></center>
 
-<center><blockquote><i>"They can <b>on the spot do some edits</b> to figure out. (The current challenge is that) students <b>forgot about what they have done last week </b>, why their answer do not match the expected observation” </i></blockquote></center>
+	<center><blockquote><i>"They can <b>on the spot do some edits to figure out. </b> (The current challenge is that) students <b>forgot about what they have done last week </b>, why their answer do not match the expected observation” <br> - Secondary Science teacher</i></blockquote></center>
 
+<center><blockquote><i>“(The feedback) gave me a <b> gauge on whether I did the experiment correctly</b>, so if I did something wrong, I can refer and redo the experiment” <br>- Secondary Science student</i></blockquote></center>
 
-<span style="font-size: 20px;color:#FF0082">Hear what our Science student user have to say...</span>
+<center><blockquote><i>"During the practical lesson, <b>self-assessment skills is something that we want to instill</b> in the students, and also information for us, whether they are comfortable.”<br> - Secondary Nutrition and Food Science teacher</i></blockquote></center>
 
-<center><blockquote><i>“(The feedback) gave me a <b> gauge on whether I did the experiment correctly</b>, so if I did something wrong, I can refer and redo the experiment”</i></blockquote></center>
-
-<span style="font-size: 20px;color:#FF0082"> Hear what our NFS teacher user have to say... </span>
-	
-<center><blockquote><i>"During the practical lesson, <b>self-assessment skills is something that we want to instill</b> in the students, and also information for us, whether they are comfortable.”</i></blockquote></center>
-	
-<span style="font-size: 20px;color:#FF0082"> Hear what our NFS student user have to say...</span>
-
-<center><blockquote><i>"“We could cook at our own pace <b> without missing out on instructions </b> ”</i></blockquote></center> 
+<center><blockquote><i>"“We could cook at our own pace <b> without missing out on instructions </b> ”<br> - Secondary Nutrition and Food Science student</i></blockquote></center> 
 	
 <p></p>
 
