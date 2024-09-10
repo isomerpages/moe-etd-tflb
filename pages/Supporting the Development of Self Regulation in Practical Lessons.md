@@ -27,9 +27,12 @@ description: ""
 	
 With the use of these resources, we hope to help teachers support students in a practical lesson and preparing students to be self-regulated learners.
 
-<b> Assess the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS</b>
-
-<iframe src="https://docs.google.com/presentation/d/1DIJiLkWgLUZi2nZMboUr6N0aptfO26jC/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+	
+<p>Click the button below to access the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS:</p>
+	
+<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:45%; display: inline;"></a>
+<b> 
+	
 
 <h2>Our Impact</h2>
 
@@ -50,4 +53,4 @@ With the use of these resources, we hope to help teachers support students in a 
 --------
 
 <center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
-</center></center></center></center>
+</b></center></center></center></center></center>
