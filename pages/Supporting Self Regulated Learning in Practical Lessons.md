@@ -1,13 +1,13 @@
 ---
-title: Toolkit for Practical Lessons
-permalink: /toolkit-for-practical-lessons/
+title: Supporting Self Regulated Learning in Practical Lessons
+permalink: /practical/
 variant: markdown
 description: ""
 ---
 <center><h4><a href="#discovery" rel="noopener noreferrer nofollow" target="_blank">Our Discovery</a> | <a href="#innovation" rel="noopener noreferrer nofollow" target="_blank">Our Innovation</a> | <a href="#impact" rel="noopener noreferrer nofollow" target="_blank">Our Impact</a></h4>
 <h2>How might we help students to develop self-regulation for practical work?</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Toolkit_for_Practical_Lessons.gif">
+<img style="width: 100%" height="auto" width="100%" src="/images/Biology.gif">
 </div>
 <h2>Our Discovery</h2>
 <p>Students want to conduct practical tasks on their own, but struggle to self-regulate and as a result, continue to be reliant on their teachers for guidance.
@@ -27,9 +27,12 @@ description: ""
 	
 With the use of these resources, we hope to help teachers support students in a practical lesson and preparing students to be self-regulated learners.
 
-<b> Assess the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS</b>
-
-<iframe src="https://docs.google.com/presentation/d/1DIJiLkWgLUZi2nZMboUr6N0aptfO26jC/embed?start=false&amp;loop=false&amp;" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+	
+<p>Click the button below to access the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS:</p>
+	
+<center><a href="/files/Supporting_Self_Regulated_Learning_in_Practical_Lessons.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:45%; display: inline;"></a>
+<b> 
+	
 
 <h2>Our Impact</h2>
 
@@ -50,4 +53,4 @@ With the use of these resources, we hope to help teachers support students in a 
 --------
 
 <center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
-</center></center></center></center>
+</b></center></center></center></center></center>
