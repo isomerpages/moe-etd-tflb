@@ -30,7 +30,7 @@ With the use of these resources, we hope to help teachers support students in a 
 	
 <p>Click the button below to access the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS:</p>
 	
-<center><a href="[](/files/Supporting_Self_Regulated_Learning_in_Practical_Lessons.pdf)" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:45%; display: inline;"></a>
+<center><a href="/files/Supporting_Self_Regulated_Learning_in_Practical_Lessons.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:45%; display: inline;"></a>
 <b> 
 	
 
