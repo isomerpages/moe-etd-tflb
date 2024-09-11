@@ -17,11 +17,11 @@ description: ""
 <h2>Our Innovation</h2>
 <p><strong>Toolkit for Practical Lessons</strong> includes <strong> a user guide </strong> and some <strong>sample SLS modules</strong> for Practical Lessons in the following subjects:</p>
 	
-<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Biology_Button.png" style="width:45%; display: inline;"></a>
+<center><a href="https://for.edu.sg/practical-bio" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Biology_Button.png" style="width:45%; display: inline;"></a>
 
-<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Chemistry_Button.png" style="width:45%; display: inline;"></a>
+<center><a href="https://for.edu.sg/practical-chem" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Chemistry_Button.png" style="width:45%; display: inline;"></a>
 
-<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/60afbff6-ac00-46df-b796-e9dc396ebb76/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Nutrition_and_Food_Science.png" style="width:45%; display: inline;"></a>
+<center><a href="https://for.edu.sg/practical-nfs" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Nutrition_and_Food_Science.png" style="width:45%; display: inline;"></a>
 
 <br>
 	
@@ -30,9 +30,7 @@ With the use of these resources, we hope to help teachers support students in a 
 	
 <p>Click the button below to access the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS:</p>
 	
-<center><a href="/files/Supporting_Self_Regulated_Learning_in_Practical_Lessons.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:45%; display: inline;"></a>
-<b> 
-	
+<center><a href="https://for.edu.sg/srlprac" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:45%; display: inline;"></a>
 
 <h2>Our Impact</h2>
 
@@ -53,4 +51,4 @@ With the use of these resources, we hope to help teachers support students in a 
 --------
 
 <center>Have a query or feedback on our innovations? We'd love to hear from you <a href="/contact">here</a>!</center>
-</b></center></center></center></center></center>
+</center></center></center></center></center>
