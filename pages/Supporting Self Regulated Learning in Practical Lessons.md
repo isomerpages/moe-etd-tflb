@@ -15,7 +15,7 @@ description: ""
 <br>Teachers find it difficult to prioritise their attention as students are working individually, progressing at different pace during the lessons.</p>
 <hr>
 <h2>Our Innovation</h2>
-<p><strong> Supporting Self-Regulated Learning in Practical Lessons</strong> includes <strong> a user guide </strong> and some <strong>sample SLS modules</strong> for Practical Lessons in the following subjects:</p>
+<p><strong> Supporting Self-Regulated Learning in Practical Lessons</strong> includes <strong> a user guide </strong> and <strong>sample SLS modules</strong> for Practical Lessons in the following subjects:</p>
 	
 <center><a href="https://for.edu.sg/practical-bio" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/Biology_Button.png" style="width:45%; display: inline;"></a>
 
@@ -28,7 +28,7 @@ description: ""
 With the use of these resources, we hope to help teachers support students in a practical lesson and preparing students to be self-regulated learners.
 
 	
-<p>Click the button below to access the guide to find out more about how to utilise the sample templates and structure your practical lesson with SLS:</p>
+<p>Find out more about leveraging SLS features for your practical lessons:</p>
 	
 <center><a href="https://for.edu.sg/srlprac" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:45%; display: inline;"></a>
 
