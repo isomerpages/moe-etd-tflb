@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: EdTech Tools to Support Teaching and Learning
+      title: EdTech Innovations to Support Teaching and Learning
       subtitle: Redesigning the teaching and learning experience for teachers and
         students
       background: /images/Home Page/Home Page Banner/website banner may 2023-1.png
