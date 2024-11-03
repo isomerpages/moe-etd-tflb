@@ -4,7 +4,12 @@ permalink: /slscotf12nov/
 variant: tiptap
 description: ""
 ---
-<p>![programme](/images/SLS%20CotF%2012%20Nov/programme.jpg)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Programme" src="/images/SLS CotF 12 Nov/programme.jpg">
+</div>
+<p></p>
+<p></p>
 <h2>Event Resources</h2>
 <details class="isomer-details">
 <summary>Click here to view and download presentations and materials from the event!</summary>
