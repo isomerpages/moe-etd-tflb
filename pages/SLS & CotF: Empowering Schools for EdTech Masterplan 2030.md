@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 ---
 <img src="/images/About%20CotF/CotF%20design%20thinking.png">
+![programme](/images/SLS%20CotF%2012%20Nov/programme.jpg)
+
 
 ## Event Resources
 <details>
