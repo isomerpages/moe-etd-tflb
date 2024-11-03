@@ -20,5 +20,5 @@ CotF innovations enhance teaching and learning to help students to be future-rea
 ## Sign-up Links
 <details>
 <summary><font size="+1">Click here to sign up for upcoming opportunities!</font></summary><br>
-<font size="+1">[I want to be a CotF partner in 2025!](https://form.gov.sg/)</font><br><br> [I want to participate in the PL series in 2025!](https://www.sgdi.gov.sg/ministries/moe/departments/itd)
+<font size="+1">[I want to be a CotF partner in 2025!](https://form.gov.sg/)<br><br> [I want to participate in the PL series in 2025!](https://www.sgdi.gov.sg/ministries/moe/departments/itd)</font><br><br>
 </details>
