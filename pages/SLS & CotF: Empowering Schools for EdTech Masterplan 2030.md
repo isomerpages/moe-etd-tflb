@@ -29,4 +29,7 @@ description: ""
 </p>
 </div>
 </details>
-<p></p>
+<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to be a CotF Partner in 2025!</a>
+</p>
+<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to participate in the SLS PL Series in 2025!</a>
+</p>
