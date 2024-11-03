@@ -22,14 +22,11 @@ description: ""
 <summary>Click here to sign up for upcoming opportunities!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>I want to be a CotF partner in 2025![I want to be a CotF Partner in 2025!](https://form.gov.sg/)(https://form.gov.sg/)
-<br>[I want to participate in the PL series in 2025!](https://www.sgdi.gov.sg/ministries/moe/departments/itd)
-<br>
+<br><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to be a CotF Partner in 2025!</a>
+</p>
+<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to participate in the SLS PL Series in 2025!</a>
 <br>
 </p>
 </div>
 </details>
-<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to be a CotF Partner in 2025!</a>
-</p>
-<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to participate in the SLS PL Series in 2025!</a>
-</p>
+<p></p>
