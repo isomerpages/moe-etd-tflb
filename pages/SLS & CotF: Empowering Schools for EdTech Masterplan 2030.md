@@ -6,6 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="programme" src="/images/SLS CotF 12 Nov/progupdated2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme" src="/images/SLS CotF 12 Nov/programme.jpg">
 </div>
 <p></p>
