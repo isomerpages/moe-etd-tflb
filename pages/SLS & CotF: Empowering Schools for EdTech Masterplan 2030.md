@@ -28,12 +28,11 @@ description: ""
 <details class="isomer-details">
 <summary>Click here to sign up for upcoming opportunities!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to be a CotF Partner in 2025!</a>
-</p>
+<p></p>
 <p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to participate in the SLS PL Series in 2025!</a>
 <br>
 </p>
 </div>
 </details>
-<p></p>
+<h2><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">Feedback form</a></h2>
+<p>to sign up for PL series, ..., pls refer to...</p>
