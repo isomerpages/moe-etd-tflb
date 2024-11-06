@@ -8,9 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="programme" src="/images/SLS CotF 12 Nov/progupdated2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Programme" src="/images/SLS CotF 12 Nov/programme.jpg">
-</div>
 <p></p>
 <h2>Event Resources</h2>
 <details class="isomer-details">
@@ -18,9 +15,9 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>Gallery Walk
-<br>Spotlight on CotF Innovations
-<br>
-<br>
+<br>Spotlight on CotF Innovations</p>
+<p><a href="http://www.menti.com/alvgv9n156ji" rel="noopener nofollow" target="_blank">Post your questions for the Q&amp;A here! </a>or
+use code 58398780 <a href="http://menti.com" rel="noopener noreferrer nofollow" target="_blank">menti.com</a> 
 </p>
 </div>
 </details>
