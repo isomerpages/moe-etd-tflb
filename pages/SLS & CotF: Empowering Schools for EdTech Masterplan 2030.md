@@ -123,5 +123,6 @@ the code 58398780</p>
 </tbody>
 </table>
 <h2></h2>
-<p>We value your thoughts and feedback on the event. Please share them here.</p>
+<p>We value your thoughts and feedback on the event. Please share them
+<a href="http://www.form.gov.sg" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
