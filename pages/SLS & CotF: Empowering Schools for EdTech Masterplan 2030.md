@@ -23,7 +23,8 @@ description: ""
 <p>1130 - 1145</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(<em>For CotF Participants only</em>) Appreciation by DET to CotF Participants</p>
+<p><em>For CotF Participants only</em>: <strong>Appreciation by DET</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,8 +32,8 @@ description: ""
 <p>1145 - 1300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(<em>For CotF Participants only</em>) CotF Appreciation Lunch and Gallery
-Walk</p>
+<p><em>For CotF Participants only</em>: <strong>Appreciation Lunch and Gallery Walk</strong>
+</p>
 <p></p>
 </td>
 </tr>
@@ -41,7 +42,7 @@ Walk</p>
 <p>1300 - 1315</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opening Address by Divisional Director of ETD</p>
+<p><strong>Opening Address</strong> by Divisional Director of ETD</p>
 </td>
 </tr>
 <tr>
@@ -49,8 +50,8 @@ Walk</p>
 <p>1315 - 1345</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing by Nan Chiau High School on SLS as a One-Stop Hub (OSH) Action
-Planning</p>
+<p><strong>SLS as a One-Stop Hub (OSH) Action Planning: </strong>Sharing
+by Nan Chiau High School</p>
 </td>
 </tr>
 <tr>
@@ -58,8 +59,8 @@ Planning</p>
 <p>1345 - 1420</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Spotlight on CotF Innovations: Sharing by Woodgrove Secondary and Springfield
-Secondary School</p>
+<p><strong>Spotlight on CotF Innovations:</strong> Sharing by Woodgrove Secondary
+and Springfield Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -67,20 +68,21 @@ Secondary School</p>
 <p>1420 - 1435</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Call for 2025 Partners:</p>
+<p><strong>Call for 2025 Partners:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SLS User Research</p>
 </li>
 <li>
-<p>Professional Learning (PL) Series ( Kindly register via email sent to
-School Leaders)</p>
+<p>Professional Learning Series <em>(Kindly register via email sent to School Leaders)</em>
+</p>
 </li>
 <li>
-<p>21cc Navigator toolkits User Testing</p>
+<p>21CC Navigator Toolkits User Testing</p>
 </li>
 <li>
-<p>Digital Innovation programme (Pilot Trial)</p>
+<p>Digital Innovation Programme</p>
 </li>
 </ul>
 <p></p>
