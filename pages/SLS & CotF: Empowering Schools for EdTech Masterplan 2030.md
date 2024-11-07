@@ -73,7 +73,8 @@ Secondary School</p>
 <p>SLS User Research</p>
 </li>
 <li>
-<p>Professional Learning (PL) Series</p>
+<p>Professional Learning (PL) Series ( Kindly register via email sent to
+School Leaders)</p>
 </li>
 <li>
 <p>21cc Navigator toolkits User Testing</p>
@@ -83,13 +84,8 @@ Secondary School</p>
 </li>
 </ul>
 <p></p>
-<p>Sign-up Links:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://safe.menlosecurity.com/https://form.gov.sg/admin/form/6720a0178c0470c3d8b96a4f" rel="noopener nofollow" target="_blank">For SLS PL Series 2025</a>
+<p><a href="https://safe.menlosecurity.com/https://form.gov.sg/admin/form/6720a0178c0470c3d8b96a4f" rel="noopener nofollow" target="_blank">Click here to sign up to be our partner in 2025!</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -124,4 +120,4 @@ Implementation</p>
 </table>
 <p></p>
 <h2><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">Feedback form</a></h2>
-<p>to sign up for PL series, ..., pls refer to...</p>
+<p></p>
