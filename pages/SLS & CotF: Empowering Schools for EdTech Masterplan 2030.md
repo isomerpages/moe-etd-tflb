@@ -4,11 +4,64 @@ permalink: /slscotf12nov/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resources</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.30 am - 11.45 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appreciation by DET to CotF Participants</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.45 am - 1:00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CotF Appreciation Lunch and Gallery Walk</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/NYI_Quotation_for_Rental___MOE.pdf" rel="noopener nofollow" target="_blank">Gallery Walk Deck</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="programme" src="/images/SLS CotF 12 Nov/progupdated2.jpg">
 </div>
-<p></p>
 <p></p>
 <h2>Event Resources</h2>
 <details class="isomer-details">
