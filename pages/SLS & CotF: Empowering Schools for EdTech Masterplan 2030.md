@@ -23,7 +23,7 @@ description: ""
 <p>1130 - 1145</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For CotF Participants only</em>: <strong>Appreciation by DET</strong>
+<p><em>For CotF Participant only</em>: <strong>Appreciation by DET</strong>
 </p>
 </td>
 </tr>
