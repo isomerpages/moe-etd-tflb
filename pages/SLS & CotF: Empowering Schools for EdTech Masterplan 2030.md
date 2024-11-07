@@ -123,22 +123,5 @@ Implementation</p>
 </tbody>
 </table>
 <p></p>
-<h2>Event Resources</h2>
-<details class="isomer-details">
-<summary>Click here to view and download presentations and materials from the event!</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<h2>Sign-up Links</h2>
-<details class="isomer-details">
-<summary>Click here to sign up for upcoming opportunities!</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>
-<br>
-</p>
-</div>
-</details>
 <h2><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">Feedback form</a></h2>
 <p>to sign up for PL series, ..., pls refer to...</p>
