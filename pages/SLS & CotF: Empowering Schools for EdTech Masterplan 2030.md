@@ -24,7 +24,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.30 am - 11.45 am</p>
+<p>1130 - 1145</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appreciation by DET to CotF Participants</p>
@@ -35,23 +35,105 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.45 am - 1:00 pm</p>
+<p>1145 - 1300</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CotF Appreciation Lunch and Gallery Walk</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NYI_Quotation_for_Rental___MOE.pdf" rel="noopener nofollow" target="_blank">Gallery Walk Deck</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>1300 - 1315</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Opening Address by Divisional Director of ETD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1315 - 1345</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing by Nan Chiau High School on SLS as a One-Stop Hub (OSH) Action
+Planning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1345 - 1420</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Spotlight on CotF Innovations: Sharing by Woodgrove Secondary and Springfield
+Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1420 - 1435</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Call for 2025 Partners:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SLS User Research</p>
+</li>
+<li>
+<p>Professional Learning (PL) Series</p>
+</li>
+<li>
+<p>21cc Navigator toolkits User Testing</p>
+</li>
+<li>
+<p>Digital Innovation programme (Pilot Trial)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1435 - 1500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A with Panel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1500 - 1515</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(<em>For PL Series Participants only</em>) Tea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1515 - 1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(<em>For PL Series Participants only</em>) SLS as a OSH Discussion on
+Implementation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,9 +141,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="programme" src="/images/SLS CotF 12 Nov/progupdated2.jpg">
-</div>
 <p></p>
 <h2>Event Resources</h2>
 <details class="isomer-details">
