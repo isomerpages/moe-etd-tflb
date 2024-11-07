@@ -4,9 +4,8 @@ permalink: /slscotf12nov/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -16,10 +15,7 @@ description: ""
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Programme</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Resources</p>
+<p>Programme and Links</p>
 </th>
 </tr>
 <tr>
@@ -28,9 +24,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>(<em>For CotF Participants only</em>) Appreciation by DET to CotF Participants</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -42,9 +35,6 @@ description: ""
 Walk</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,9 +42,6 @@ Walk</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Opening Address by Divisional Director of ETD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -65,9 +52,6 @@ Walk</p>
 <p>Sharing by Nan Chiau High School on SLS as a One-Stop Hub (OSH) Action
 Planning</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,9 +60,6 @@ Planning</p>
 <td rowspan="1" colspan="1">
 <p>Spotlight on CotF Innovations: Sharing by Woodgrove Secondary and Springfield
 Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -101,9 +82,14 @@ Secondary School</p>
 <p>Digital Innovation programme (Pilot Trial)</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+<p>Sign-up Links:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://safe.menlosecurity.com/https://form.gov.sg/admin/form/6720a0178c0470c3d8b96a4f" rel="noopener nofollow" target="_blank">For SLS PL Series 2025</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -113,9 +99,6 @@ Secondary School</p>
 <td rowspan="1" colspan="1">
 <p>Q&amp;A with Panel</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,9 +106,6 @@ Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(<em>For PL Series Participants only</em>) Tea</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -135,9 +115,6 @@ Secondary School</p>
 <td rowspan="1" colspan="1">
 <p>(<em>For PL Series Participants only</em>) SLS as a OSH Discussion on
 Implementation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -160,7 +137,7 @@ use code 58398780 <a href="http://menti.com" rel="noopener noreferrer nofollow" 
 <summary>Click here to sign up for upcoming opportunities!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">I want to participate in the SLS PL Series in 2025!</a>
+<p>
 <br>
 </p>
 </div>
