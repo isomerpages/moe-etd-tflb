@@ -86,11 +86,18 @@ and Springfield Secondary School</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Professional Learning Series</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Professional Learning Series</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><u>Schools that are not involved in 2024 PL Series:</u>  <em>Kindly register via email sent to School Leaders on 24 Oct. Registration closes on 15 Nov.</em>
 </p>
 <p><u>Current PL Series Schools:</u><em> Registration Email will be sent to School Leaders after today’s session.</em>
 </p>
+</div>
+</details>
+</div>
 </li>
 </ul>
 </td>
