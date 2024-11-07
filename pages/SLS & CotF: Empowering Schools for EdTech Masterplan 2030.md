@@ -75,19 +75,24 @@ and Springfield Secondary School</p>
 <p>SLS User Research</p>
 </li>
 <li>
-<p>Professional Learning Series <em>(Kindly register via email sent to School Leaders)</em>
-</p>
-</li>
-<li>
 <p>21CC Navigator Toolkits User Testing</p>
 </li>
 <li>
 <p>Digital Innovation Programme</p>
+<p><a href="https://safe.menlosecurity.com/https://form.gov.sg/admin/form/6720a0178c0470c3d8b96a4f" rel="noopener nofollow" target="_blank">Click here to sign up to be our partner in 2025!</a>
+</p>
 </li>
 </ul>
 <p></p>
-<p><a href="https://safe.menlosecurity.com/https://form.gov.sg/admin/form/6720a0178c0470c3d8b96a4f" rel="noopener nofollow" target="_blank">Click here to sign up to be our partner in 2025!</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Professional Learning Series</p>
+<p><u>Schools that are not involved in 2024 PL Series:</u>  <em>Kindly register via email sent to School Leaders on 24 Oct. Registration closes on 15 Nov.</em>
 </p>
+<p><u>Current PL Series Schools:</u><em> Registration Email will be sent to School Leaders after today’s session.</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
