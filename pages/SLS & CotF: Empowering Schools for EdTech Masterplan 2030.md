@@ -106,7 +106,7 @@ the code 58398780</p>
 <p>1500 - 1515</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(<em>For PL Series Participants only</em>) Tea</p>
+<p><em>For PL Series Participants only</em>: Tea</p>
 </td>
 </tr>
 <tr>
@@ -114,8 +114,7 @@ the code 58398780</p>
 <p>1515 - 1630</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(<em>For PL Series Participants only</em>) SLS as a OSH Discussion on
-Implementation</p>
+<p><em>For PL Series Participants only</em>: SLS as a OSH Discussion on Implementation</p>
 </td>
 </tr>
 </tbody>
