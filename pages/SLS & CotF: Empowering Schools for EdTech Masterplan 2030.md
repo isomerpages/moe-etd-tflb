@@ -127,12 +127,7 @@ Implementation</p>
 <details class="isomer-details">
 <summary>Click here to view and download presentations and materials from the event!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>Gallery Walk
-<br>Spotlight on CotF Innovations</p>
-<p><a href="http://www.menti.com/alvgv9n156ji" rel="noopener nofollow" target="_blank">Post your questions for the Q&amp;A here! </a>or
-use code 58398780 <a href="http://menti.com" rel="noopener noreferrer nofollow" target="_blank">menti.com</a>
-</p>
+<p></p>
 </div>
 </details>
 <h2>Sign-up Links</h2>
