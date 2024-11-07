@@ -27,7 +27,7 @@ description: ""
 <p>1130 - 1145</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appreciation by DET to CotF Participants</p>
+<p>(<em>For CotF Participants only</em>) Appreciation by DET to CotF Participants</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -38,7 +38,8 @@ description: ""
 <p>1145 - 1300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CotF Appreciation Lunch and Gallery Walk</p>
+<p>(<em>For CotF Participants only</em>) CotF Appreciation Lunch and Gallery
+Walk</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
