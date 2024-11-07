@@ -119,7 +119,7 @@ the code 58398780</p>
 <p><em>For PL Series Participants only</em>: <strong>SLS as a OSH Discussion on Implementation</strong>
 </p>
 <p></p>
-<p><strong>Assess the SLS module at http://go.gov.sg/slsasaosh2024</strong>
+<p>Assess the SLS module at <a href="http://go.gov.sg/slsasaosh2024" rel="noopener nofollow" target="_blank">http://go.gov.sg/slsasaosh2024</a>
 </p>
 </td>
 </tr>
