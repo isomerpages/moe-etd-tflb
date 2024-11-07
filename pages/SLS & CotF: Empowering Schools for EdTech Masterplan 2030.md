@@ -122,6 +122,6 @@ the code 58398780</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h2><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">Feedback form</a></h2>
+<h2></h2>
+<p>We value your thoughts and feedback on the event. Please share them here.</p>
 <p></p>
