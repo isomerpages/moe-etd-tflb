@@ -95,7 +95,8 @@ and Springfield Secondary School</p>
 <p>1435 - 1500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A with Panel</p>
+<p><strong>Q&amp;A with Panel</strong>
+</p>
 <p><a href="http://www.menti.com/alvgv9n156ji" rel="noopener nofollow" target="_blank">Post your questions here</a> or
 go to <a href="http://Menti.com" rel="noopener noreferrer nofollow" target="_blank">Menti.com</a> with
 the code 58398780</p>
@@ -106,7 +107,8 @@ the code 58398780</p>
 <p>1500 - 1515</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For PL Series Participants only</em>: Tea</p>
+<p><em>For PL Series Participants only</em>: <strong>Tea</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +116,8 @@ the code 58398780</p>
 <p>1515 - 1630</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For PL Series Participants only</em>: SLS as a OSH Discussion on Implementation</p>
+<p><em>For PL Series Participants only</em>: <strong>SLS as a OSH Discussion on Implementation</strong>
+</p>
 </td>
 </tr>
 </tbody>
