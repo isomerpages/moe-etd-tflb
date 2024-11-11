@@ -36,7 +36,8 @@ description: ""
 <p>1145 - 1300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For CotF Participants only</em>: <strong>Appreciation Lunch and Gallery Walk</strong>
+<p><em>For CotF Participants only</em>: <strong>Appreciation Lunch and </strong>
+<a href="https://drive.google.com/file/d/1aB_iGlPHnnu4hoxFLcceFuDpKa_LYXIz/view?usp=sharing" rel="noopener nofollow" target="_blank">Gallery Walk</a>
 </p>
 <p></p>
 </td>
