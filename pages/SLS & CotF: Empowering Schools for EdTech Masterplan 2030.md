@@ -27,8 +27,8 @@ description: ""
 <p>1130 - 1145</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For CotF Participants only</em>: <strong>Appreciation by Divisional Director of ETD</strong>
-</p>
+<p><em>For CotF Participants only</em>: <strong>Appreciation </strong>by Divisional
+Director of ETD</p>
 </td>
 </tr>
 <tr>
