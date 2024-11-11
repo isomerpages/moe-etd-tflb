@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1rWNZPAlQN6Ha59f6KYynYWNTh6QFAk01hFJ4XBvjmoolljQk1dYfUZriOBb5IA/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSA5LoWmcLJhOnahKc930UlEcqzHkoEtbc3z1qgOiFUZL0UptdtF5gbArH7nJPWDw/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -37,7 +37,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><em>For CotF Participants only</em>: <strong>Appreciation Lunch and </strong>
-<a href="https://drive.google.com/file/d/1aB_iGlPHnnu4hoxFLcceFuDpKa_LYXIz/view?usp=sharing" rel="noopener nofollow" target="_blank">Gallery Walk</a>
+<a href="https://drive.google.com/file/d/1k9QHmGf-NTM2DIjGYSVAUpdwAC_6Fy7E/view?usp=sharing" rel="noopener nofollow" target="_blank">Gallery Walk</a>
 </p>
 <p></p>
 </td>
