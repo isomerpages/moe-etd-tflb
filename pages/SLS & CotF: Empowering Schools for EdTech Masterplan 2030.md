@@ -105,7 +105,7 @@ by Nan Chiau High School</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><u>Schools that are not involved in 2024 PL Series:</u>  <em>Kindly register via email sent to School Leaders on 24 Oct. Registration closes on 15 Nov.</em>
 </p>
-<p><u>Current PL Series Schools:</u><em> Registration Email will be sent to School Leaders after today’s session.</em>
+<p><u>Current PL Series Schools:</u><em> Registration email will be sent to School Leaders after today’s session.</em>
 </p>
 </div>
 </details>
