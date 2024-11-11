@@ -4,6 +4,10 @@ permalink: /slscotf12nov/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1rWNZPAlQN6Ha59f6KYynYWNTh6QFAk01hFJ4XBvjmoolljQk1dYfUZriOBb5IA/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -144,4 +148,5 @@ the code 58398780</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
