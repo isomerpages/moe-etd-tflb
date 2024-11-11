@@ -86,7 +86,7 @@ by Nan Chiau High School</p>
 </li>
 <li>
 <p>Digital Innovation Programme</p>
-<p><a href="https://safe.menlosecurity.com/https://form.gov.sg/admin/form/6720a0178c0470c3d8b96a4f" rel="noopener nofollow" target="_blank">Click here to sign up to be our partner in 2025!</a>
+<p><a href="https://go.gov.sg/2025partners" rel="noopener nofollow" target="_blank">Click here to sign up to be our partner in 2025!</a>
 </p>
 </li>
 </ul>
