@@ -1,9 +1,13 @@
 ---
 title: "SLS & CotF: Empowering Schools for EdTech Masterplan 2030"
-permalink: /slscotf12nov/
+permalink: /empower12nov/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1rWNZPAlQN6Ha59f6KYynYWNTh6QFAk01hFJ4XBvjmoolljQk1dYfUZriOBb5IA/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +36,8 @@ description: ""
 <p>1145 - 1300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For CotF Participants only</em>: <strong>Appreciation Lunch and Gallery Walk</strong>
+<p><em>For CotF Participants only</em>: <strong>Appreciation Lunch and </strong>
+<a href="https://drive.google.com/file/d/1aB_iGlPHnnu4hoxFLcceFuDpKa_LYXIz/view?usp=sharing" rel="noopener nofollow" target="_blank">Gallery Walk</a>
 </p>
 <p></p>
 </td>
@@ -116,7 +121,7 @@ by Nan Chiau High School</p>
 <td rowspan="1" colspan="1">
 <p><strong>Q&amp;A with Panel</strong>
 </p>
-<p><a href="http://www.menti.com/alvgv9n156ji" rel="noopener nofollow" target="_blank">Post your questions here</a> or
+<p><a href="http://www.menti.com/alvgv9n156j1" rel="noopener nofollow" target="_blank">Post your questions here</a> or
 go to <a href="http://Menti.com" rel="noopener noreferrer nofollow" target="_blank">Menti.com</a> with
 the code 58398780</p>
 </td>
@@ -144,4 +149,5 @@ the code 58398780</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
