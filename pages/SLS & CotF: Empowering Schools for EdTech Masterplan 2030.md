@@ -23,7 +23,7 @@ description: ""
 <p>1130 - 1145</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For CotF Participant only</em>: <strong>Appreciation by DET</strong>
+<p><em>For CotF Participants only</em>: <strong>Appreciation by Divisional Director of ETD</strong>
 </p>
 </td>
 </tr>
@@ -59,8 +59,15 @@ by Nan Chiau High School</p>
 <p>1345 - 1420</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Spotlight on CotF Innovations:</strong> Sharing by Woodgrove Secondary
-and Springfield Secondary School</p>
+<p><strong>Spotlight on CotF Innovations:</strong> Sharings by</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Woodgrove Secondary School</p>
+</li>
+<li>
+<p>Springfield Secondary School</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -131,7 +138,7 @@ the code 58398780</p>
 <p><em>For PL Series Participants only</em>: <strong>SLS as a OSH Discussion on Implementation</strong>
 </p>
 <p></p>
-<p>Assess the SLS module at <a href="http://go.gov.sg/slsasaosh2024" rel="noopener nofollow" target="_blank">http://go.gov.sg/slsasaosh2024</a>
+<p>Access the SLS module at <a href="http://go.gov.sg/slsasaosh2024" rel="noopener nofollow" target="_blank">http://go.gov.sg/slsasaosh2024</a>
 </p>
 </td>
 </tr>
