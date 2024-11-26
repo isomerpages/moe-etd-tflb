@@ -33,7 +33,8 @@ lesson and discover opportunities to develop your E21CC through quests!</p>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC Pri Quest: Making Connections to Solve Problems</strong>
 </p>
-<p>In collaboration with Fuchun Pri</p>
+<p><em>In collaboration with Fuchun Pri</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___58_.gif">
 </div>
@@ -50,7 +51,8 @@ make connections and collect the Adaptive Thinking Gem in this quest!</p>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC Pri Quest: Communication Facilitates Collaboration</strong>
 </p>
-<p>In collaboration with Bukit View Pri</p>
+<p><em>In collaboration with Bukit View Pri</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___60_.gif">
 </div>
@@ -67,7 +69,8 @@ the Communication Gem in this quest!</p>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC Pri Quest: Inventing for the Community</strong>
 </p>
-<p>In collaboration with Frontier Pri</p>
+<p><em>In collaboration with Frontier Pri</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___59_.gif">
 </div>
@@ -85,7 +88,8 @@ Gem in this quest!</p>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC Pri Quest: Are You Ready For School Camp?</strong>
 </p>
-<p>In collaboration with Rosyth School</p>
+<p><em>In collaboration with Rosyth School</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___57_.gif">
 </div>
