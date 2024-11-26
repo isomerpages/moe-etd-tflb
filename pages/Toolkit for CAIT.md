@@ -80,14 +80,16 @@ this template!</p>
 <p>Supporting Critical Thinking in Development of Body paragraphs in English
 Argumentative Writing [Toolkit for CAIT</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="254" width="377" alt="A text overlay of a person's head
-
-Description automatically generated" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWAlVDUGB4VYyiiv7cb12QjugS4envqQ1Hn5n5CJZT-cJbnVzdqLyaCcntKaW3vP8hlT4zh8onG3UN_FADoM2U0xjrdwB_Bw_yOP3xMEAANudn1hoHkxRXvWvrciMv1rl2sJ4GIycuXm82T_dmXOk?key=sGuPtGISBZqD9fl60NRSyvt7">
-</div>
+<img style="width: 75%;" height="auto" width="100%" alt="A text overlay of a person's head
+<p>Description automatically generated&quot; width=&quot;377&quot; height=&quot;254&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;></p></div>
 </td>
-<td rowspan="1" colspan="1">
+<td colspan=" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWAlVDUGB4VYyiiv7cb12QjugS4envqQ1Hn5n5CJZT-cJbnVzdqLyaCcntKaW3vP8hlT4zh8onG3UN_FADoM2U0xjrdwB_Bw_yOP3xMEAANudn1hoHkxRXvWvrciMv1rl2sJ4GIycuXm82T_dmXOk?key=sGuPtGISBZqD9fl60NRSyvt7">
+</div>
 <p>Discover how to foster critical thinking in developing body paragraphs
 for English argumentative writing through this ready-made SLS module!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
