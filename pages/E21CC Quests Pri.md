@@ -56,7 +56,7 @@ make connections and collect the Adaptive Thinking Gem in this quest!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E21CC: Communication </strong>
+<p><strong>E21CC: Communication</strong>
 </p>
 <p>Do you know that effective communication is key to better team work? Let's
 learn more about how you can communicate well in a group setting and collect
