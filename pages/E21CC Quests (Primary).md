@@ -105,7 +105,7 @@ Civic Literacy Gem in this quest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b1b9a32c-4021-4c33-b34d-553cab6d8fa8/cover" rel="noopener nofollow" target="_blank">E21CC Lesson: Collaborative Design in Transportation</a>
+<p><strong><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b1b9a32c-4021-4c33-b34d-553cab6d8fa8/cover" rel="noopener nofollow" target="_blank">E21CC Lesson: Collaborative Design in Transportation</a></strong>
 </p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b1b9a32c-4021-4c33-b34d-553cab6d8fa8/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/collaborative_learning.png"></a>
 </td>
 <td rowspan="1" colspan="1">
