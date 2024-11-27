@@ -78,7 +78,7 @@ this template!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Supporting Critical Thinking in Development of Body paragraphs in English
-Argumentative Writing [Toolkit for CAIT</p>
+Argumentative Writing [Toolkit for CAIT]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="A text overlay of a person's head
 <p>Description automatically generated&quot; width=&quot;377&quot; height=&quot;254&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;></p></div>
@@ -109,5 +109,5 @@ here now!</p>
 </table>
 <p><em>*Please feel free to customise the templates and the rubrics provided according to your lesson’s outcomes!</em>
 </p>
-<p><a href="https://staging-lite.d1gzbi5ytn2i58.amplifyapp.com/21ccnavigator/e21cc-quests/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<p><a href="https://staging-lite.d1gzbi5ytn2i58.amplifyapp.com/21ccnavigator/e21cc-quests/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br>]]</a>
 </p>
