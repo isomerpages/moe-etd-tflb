@@ -43,7 +43,7 @@ module templates and rubrics template more effectively.</p>
 <td rowspan="1" colspan="1">
 <p>Want to explore an Issues of Science topic with your students and get
 them to think deeper about their learning on SLS? Find out more through
-this template!</p>
+this template.</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ this template!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster critical thinking in Issues of Science through
-this ready-made SLS module!</p>
+this ready-made SLS module.</p>
 <p></p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ Argumentative Writing [Toolkit for CAIT]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster critical thinking in developing body paragraphs
-for English argumentative writing through this ready-made SLS module!</p>
+for English argumentative writing through this ready-made SLS module.</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ for English argumentative writing through this ready-made SLS module!</p>
 <td rowspan="1" colspan="1">
 <p>Need a repertoire of criteria and band descriptors to start you on your
 journey in using ShortAnsFA (rubrics)? Look no further and access them
-here now!</p>
+here now.</p>
 </td>
 </tr>
 </tbody>
