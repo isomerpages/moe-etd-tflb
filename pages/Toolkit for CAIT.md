@@ -85,11 +85,11 @@ Argumentative Writing [Toolkit for CAIT</p>
 </td>
 <td colspan=" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWAlVDUGB4VYyiiv7cb12QjugS4envqQ1Hn5n5CJZT-cJbnVzdqLyaCcntKaW3vP8hlT4zh8onG3UN_FADoM2U0xjrdwB_Bw_yOP3xMEAANudn1hoHkxRXvWvrciMv1rl2sJ4GIycuXm82T_dmXOk?key=sGuPtGISBZqD9fl60NRSyvt7">
 </div>
-<p>Discover how to foster critical thinking in developing body paragraphs
-for English argumentative writing through this ready-made SLS module!</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Discover how to foster critical thinking in developing body paragraphs
+for English argumentative writing through this ready-made SLS module!</p>
 </td>
 </tr>
 <tr>
