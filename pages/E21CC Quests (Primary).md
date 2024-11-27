@@ -4,9 +4,9 @@ permalink: /e21cc-quests-pri/
 variant: tiptap
 description: ""
 ---
-<p>E21CC Quests are SLS modules that include activities and interactives
-to help your students learn about the E21CC. You can assign these Quests
-as self-paced lessons for Home-based Learning or use them in class!</p>
+<p>E21CC Quests are SLS modules that include activities or interactives to
+help your students learn about the E21CC. You can assign these Quests as
+self-paced lessons for Home-based Learning or use them in class!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
