@@ -34,7 +34,7 @@ module templates and rubrics template more effectively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/caitsls-sci" rel="noopener noreferrer nofollow" target="_blank"><u>[Supporting 21CC Development] Using SLS to develop Critical Thinking through Issues in Science (Sec) [Toolkit for CAIT]*</u></a>
+<p><a href="https://for.edu.sg/caitsls-sci" rel="noopener noreferrer nofollow" target="_blank"><u>Using SLS to develop Critical Thinking through Issues in Science (Sec) [Toolkit for CAIT]*</u></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 354.406px;" height="auto" width="100%" alt="" src="https://staging-lite.d1gzbi5ytn2i58.amplifyapp.com/images/Screenshot_2024_07_02_at_1_52_33_PM.png">
@@ -50,7 +50,6 @@ this template.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/cd41a333-46a5-4a81-9be5-634a9fedb8af/cover" rel="noopener nofollow" target="_blank">Solar Panels in Singapore [Toolkit for CAIT]</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Solar_Panel_Toolkit_.png">
 </div>
@@ -63,7 +62,7 @@ this ready-made SLS module.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/caitsls-el" rel="noopener noreferrer nofollow" target="_blank"><u>[Supporting 21CC Development] Using SLS to develop Critical Thinking in English Argumentative Writing (Sec)[Toolkit for CAIT]*</u></a>
+<p><a href="https://for.edu.sg/caitsls-el" rel="noopener noreferrer nofollow" target="_blank"><u>Using SLS to develop Critical Thinking in English Argumentative Writing (Sec)[Toolkit for CAIT]*</u></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 354.406px;" height="auto" width="100%" alt="" src="https://staging-lite.d1gzbi5ytn2i58.amplifyapp.com/images/Screenshot_2024_06_26_at_5_11_04_PM.png">
@@ -108,6 +107,4 @@ here now.</p>
 </tbody>
 </table>
 <p><em>*Please feel free to customise the templates and the rubrics provided according to your lesson’s outcomes!</em>
-</p>
-<p><a href="https://staging-lite.d1gzbi5ytn2i58.amplifyapp.com/21ccnavigator/e21cc-quests/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br>]]</a>
 </p>
