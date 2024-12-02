@@ -33,7 +33,7 @@ lesson and discover opportunities to develop your E21CC through quests.</p>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC Pri Quest: Making Connections to Solve Problems</strong>
 </p>
-<p><em>In collaboration with Fuchun Pri</em>
+<p><em>In collaboration with Fuchun Primary School</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___58_.gif">
@@ -51,7 +51,7 @@ make connections and collect the Adaptive Thinking Gem in this quest.</p>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC Pri Quest: Communication Facilitates Collaboration</strong>
 </p>
-<p><em>In collaboration with Bukit View Pri</em>
+<p><em>In collaboration with Bukit View Primary School</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___60_.gif">
@@ -69,7 +69,7 @@ the Communication Gem in this quest.</p>
 <td rowspan="1" colspan="1">
 <p><strong>E21CC Pri Quest: Inventing for the Community</strong>
 </p>
-<p><em>In collaboration with Frontier Pri</em>
+<p><em>In collaboration with Frontier Primary School</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___59_.gif">
@@ -106,6 +106,8 @@ Civic Literacy Gem in this quest.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b1b9a32c-4021-4c33-b34d-553cab6d8fa8/cover" rel="noopener nofollow" target="_blank">E21CC Lesson: Collaborative Design in Transportation</a></strong>
+</p>
+<p><em>In collaboration with STEM Inc, Science Centre Singapore and Sciences Branch, CPDD1</em>
 </p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b1b9a32c-4021-4c33-b34d-553cab6d8fa8/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/collaborative_learning.png"></a>
 </td>
 <td rowspan="1" colspan="1">
