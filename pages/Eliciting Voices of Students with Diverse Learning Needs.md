@@ -27,14 +27,14 @@ variant: markdown
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPfkvKQ-U7TQRCAPHdLZBBHTes9RZgFyaAEcIebsMCDIH3GK8VPoQfIu5pZjViYQ/embed?start=true&amp;loop=false&amp;delayms=10000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 <center><a href="https://for.edu.sg/evsguide" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-guide.png" style="width:32%; display: inline; margin-right:0.5rem"></a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fefe3103-655a-4d94-ba9c-9aa8cbf01fe8/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
+<a href="https://for.edu.sg/evssls" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/view-the-guide-on-sls.png" style="width:32%; display: inline;"></a></center>
 
 <center><h3>SLS Interactive Thinking Tool Guide for Students</h3></center>
 
 <iframe allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFSlh5qydisKV4M_IHwxIvCcQwh2vTgsrS0mArYvy8vASbtZlJj_RKCCdRsf7I0Ys-JRkx7Y-2Zjqj/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 <center><a href="https://for.edu.sg/evsslsittppt" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/download-the-editable-guide.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e3d55ee0-386b-4e6d-bacb-06a79f4371b4/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign-your-students-the-guide-on-sls.png" style="width:45%; display: inline;"></a></center>
+<a href="https://for.edu.sg/evsslsitt" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/assign-your-students-the-guide-on-sls.png" style="width:45%; display: inline;"></a></center>
 
 
 ------------------
