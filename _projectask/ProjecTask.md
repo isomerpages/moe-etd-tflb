@@ -41,7 +41,7 @@ and monitor project work progress more efficiently and effectively by providing:
 <img>
 	
 <a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;">
-</a><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
+</a><a href="https://for.edu.sg/ptuserguide" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
 
 <br>
 	
@@ -60,11 +60,11 @@ Division) and the Curriculum Policy Office.</p>
 <p>Click the buttons below to access a series of 3 D&amp;T SLS Lessons with
 integrated ProjecTask boards:</p>
 	
-<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bede2e38-fada-4c18-ae3d-91f5900a6b1a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:45%; display: inline;"></a>
+<center><a href="https://for.edu.sg/ptprojectguide1" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_1.png" style="width:45%; display: inline;"></a>
 
-<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ea98272-bf12-492f-8836-3d3de90b2e2a/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_2.png" style="width:45%; display: inline;"></a>
+<center><a href="https://for.edu.sg/ptprojectguide2" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_2.png" style="width:45%; display: inline;"></a>
 
-<center><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/60afbff6-ac00-46df-b796-e9dc396ebb76/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:45%; display: inline;"></a>
+<center><a href="https://for.edu.sg/ptprojectguide3" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/ProjecTask_DNT_button_3.png" style="width:45%; display: inline;"></a>
 
 
 <h2>Our Impact</h2>
