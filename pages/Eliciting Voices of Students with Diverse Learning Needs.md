@@ -53,7 +53,7 @@ variant: markdown
 
 <center><blockquote><i>"From the (EVS) resource guide, we incorporated the use of the SLS Interactive Thinking Tool (ITT) in our lesson. One of the benefits is that my quieter pupils are more responsive after the use of the SLS ITT." - Special Educational Needs (SEN) Officer</i></blockquote></center>
 
-<center><a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/45526087-9fe1-4f6b-887e-d303f15f53a0/cover" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-feelings.png" style="width:30%; display: inline;"></a></center>
+<center><a href="https://for.edu.sg/evs-feelings" target="_blank" rel="noopener noreferrer"><img src="/images/Buttons/evs-sls-lesson-feelings.png" style="width:30%; display: inline;"></a></center>
 
 ---------------------
 
