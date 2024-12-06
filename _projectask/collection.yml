@@ -1,5 +1,4 @@
 collections:
   projectask:
     output: true
-    order:
-      - ProjecTask.md
+    order: []
