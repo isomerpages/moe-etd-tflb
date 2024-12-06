@@ -1,6 +1,0 @@
-collections:
-  projectask:
-    output: true
-    order:
-      - ProjecTask.md
-      - ProjecTask Feedback.md
