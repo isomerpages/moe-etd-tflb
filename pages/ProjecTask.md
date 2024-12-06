@@ -41,7 +41,7 @@ and monitor project work progress more efficiently and effectively by providing:
 <img>
 	
 <a href="https://for.edu.sg/getprojectask" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/Click_here_for_ProjecTask_Button.png" style="width:66%; display: inline;">
-</a><a href="/files/21_June_ProjecTask_Teacher_User_Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
+</a><a href="https://for.edu.sg/ptuserguide" target="_blank" rel="noopener noreferrer"><img src="/images/ProjecTask/ProjecTask_User_Guide_Button.png" style="width:41%; display: inline; margin-right:0.5rem"></a>
 
 <br>
 	
