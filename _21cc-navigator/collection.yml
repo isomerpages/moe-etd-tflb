@@ -2,8 +2,8 @@ collections:
   21cc-navigator:
     output: true
     order:
-      - E21CC Quests (Primary).md
       - 21CC Navigator.md
       - E21CC Quests.md
+      - E21CC Quests (Primary).md
       - Toolkit for CAIT.md
       - Collaborate with the 21CCN team.md
