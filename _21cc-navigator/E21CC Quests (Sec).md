@@ -1,6 +1,6 @@
 ---
-title: E21CC Quests
-permalink: /21ccnavigator/e21cc-quests/
+title: E21CC Quests (Sec)
+permalink: /21ccnavigator/e21cc-quests-sec/
 variant: markdown
 description: ""
 ---
