@@ -51,7 +51,7 @@ this template.</p>
 <p><a href="http://for.edu.sg/caitsls-solarpanels" rel="noopener nofollow" target="_blank">Solar Panels in Singapore (Sec)</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Solar_Panel_Toolkit_.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Solar_Panel_Toolkit_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ this template!</p>
 <p><a href="http://for.edu.sg/caitsls-paragraphs" rel="noopener nofollow" target="_blank">Supporting Critical Thinking in Development of Body Paragraphs in English Argumentative Writing (Sec)</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="A text overlay of a person's head
+<img style="width: 90%;" height="auto" width="100%" alt="A text overlay of a person's head
 <p>Description automatically generated&quot; width=&quot;377&quot; height=&quot;254&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;></p></div>
 </td>
 <td colspan=" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWAlVDUGB4VYyiiv7cb12QjugS4envqQ1Hn5n5CJZT-cJbnVzdqLyaCcntKaW3vP8hlT4zh8onG3UN_FADoM2U0xjrdwB_Bw_yOP3xMEAANudn1hoHkxRXvWvrciMv1rl2sJ4GIycuXm82T_dmXOk?key=sGuPtGISBZqD9fl60NRSyvt7">
