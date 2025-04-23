@@ -29,10 +29,12 @@ on SLS.</p>
 <p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/592a24ab-2986-4250-9a9b-1e1566524216/cover" rel="noopener nofollow" target="_blank">Overview of Toolkit for CGC</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Toolkit_for_CGC_cover.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more about leveraging EdTech to develop students' CGC: this overview
@@ -53,6 +55,7 @@ CGC.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perito_Moreno_Glacier.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster <strong>Global Literacy</strong> in the impact of
@@ -71,6 +74,7 @@ Secondary Geography.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___57_.gif">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster <strong>Civic Literacy</strong> while preparing to
@@ -82,10 +86,10 @@ contribute as a participant in a Primary school camp.</p>
 <p><a href="for.edu.sg/21ccn-crossculturalinventive" rel="noopener nofollow" target="_blank">E21CC Quest: Inventing for the Community</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CCN_Quest_5.gif">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster <strong>Cross-Cultural Literacy</strong> and Inventive
