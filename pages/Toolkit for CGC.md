@@ -60,6 +60,9 @@ Secondary Geography.</p>
 <p><em>In collaboration with Rosyth School</em>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Navigator_Onboarding_Graphics__NEW_LOGO___57_.gif">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster <strong>Civic Literacy</strong> while preparing to
