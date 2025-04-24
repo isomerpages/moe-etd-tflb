@@ -37,10 +37,11 @@ on SLS.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Find out more about leveraging EdTech to develop students' CGC: this overview
-includes recommendations of SLS features (especially AI-enabled features)
-that contribute to development of CGC and sample rubrics templates for
-CGC.</p>
+<p>Find out more about leveraging EdTech to develop students' CGC!</p>
+<p></p>
+<p>This overview includes recommendations of SLS features (especially AI-enabled
+features) that contribute to development of CGC and sample rubrics templates
+for CGC.</p>
 <p></p>
 </td>
 </tr>
@@ -58,8 +59,8 @@ CGC.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover how to foster <strong>Global Literacy</strong> in the impact of
-climate change on human systems through this ready-made SLS module for
+<p>Discover how to foster <strong>Global Literacy</strong> through the impact
+of climate change on human systems through this ready-made SLS module for
 Secondary Geography.</p>
 </td>
 </tr>
@@ -78,7 +79,7 @@ Secondary Geography.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster <strong>Civic Literacy</strong> while preparing to
-contribute as a participant in a Primary school camp.</p>
+contribute as a participant in a school camp for primary school students.</p>
 </td>
 </tr>
 <tr>
