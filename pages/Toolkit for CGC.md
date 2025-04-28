@@ -60,8 +60,8 @@ for CGC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover how to foster <strong>Global Literacy</strong> through the impact
-of climate change on human systems through this ready-made SLS module for
-Secondary Geography.</p>
+of climate change on natural and human systems through this ready-made
+SLS module for Upper Secondary Geography.</p>
 </td>
 </tr>
 <tr>
