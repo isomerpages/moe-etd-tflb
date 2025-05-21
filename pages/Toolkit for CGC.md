@@ -84,7 +84,7 @@ contribute as a participant in a school camp for primary school students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="for.edu.sg/21ccn-crossculturalinventive" rel="noopener nofollow" target="_blank">E21CC Quest: Inventing for the Community</a>
+<p><a href="for.edu.sg/21ccn-crossculturalinventive" rel="noopener nofollow" target="_blank">E21CC Sec Quest: Inventing for the Community</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
