@@ -26,7 +26,7 @@ on SLS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/592a24ab-2986-4250-9a9b-1e1566524216/cover" rel="noopener nofollow" target="_blank">Overview of Toolkit for CGC</a>
+<p><a href="https://for.edu.sg/toolkitforcgc" rel="noopener nofollow" target="_blank">Overview of Toolkit for CGC</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -47,7 +47,7 @@ for CGC.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/my-library/lesson/view/20bf735d-f925-43c7-bfad-de939aa9bc4d/cover" rel="noopener nofollow" target="_blank">Why Should I Care if Someone Else's Glacier Melts?</a>
+<p><a href="https://for.edu.sg/geogtoolkitforcgc" rel="noopener nofollow" target="_blank">Why Should I Care if Someone Else's Glacier Melts?</a>
 </p>
 <p></p>
 <p><em>In collaboration with HUMB/CPDD2</em>
