@@ -66,7 +66,7 @@ SLS module for Upper Secondary Geography.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="for.edu.sg/21ccn-pri-civicliteracy" rel="noopener nofollow" target="_blank">E21CC Pri Quest: Are You Ready For School Camp?</a>
+<p><a href="https://for.edu.sg/21ccn-pri-civicliteracy" rel="noopener nofollow" target="_blank">E21CC Pri Quest: Are You Ready For School Camp?</a>
 </p>
 <p></p>
 <p><em>In collaboration with Rosyth School</em>
@@ -84,7 +84,7 @@ contribute as a participant in a school camp for primary school students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="for.edu.sg/21ccn-crossculturalinventive" rel="noopener nofollow" target="_blank">E21CC Sec Quest: Inventing for the Community</a>
+<p><a href="https://for.edu.sg/21ccn-crossculturalinventive" rel="noopener nofollow" target="_blank">E21CC Sec Quest: Inventing for the Community</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
