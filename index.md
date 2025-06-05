@@ -7,7 +7,10 @@ description: Classroom of the Future (CotF) is a multi-agency innovation
   meet current and future needs.
 image: /images/Logo/CotF logo horizontal.png
 permalink: /
-notification: ""
+notification: "ALERT: With the rise in scams involving impersonation of
+  government officials, please note that government officials will never ask you
+  to transfer money or disclose bank login details over a phone call. If in
+  doubt, please contact the 24/7 ScamShield Helpline at 1799"
 sections:
   - hero:
       title: EdTech Innovations to Support Teaching and Learning
