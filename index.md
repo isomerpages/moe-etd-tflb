@@ -10,7 +10,8 @@ permalink: /
 notification: "ALERT: With the rise in scams involving impersonation of
   government officials, please note that government officials will never ask you
   to transfer money or disclose bank login details over a phone call. If in
-  doubt, please contact the 24/7 ScamShield Helpline at 1799"
+  doubt, please contact the 24/7 [ScamShield](https://www.scamshield.gov.sg/)
+  Helpline at 1799"
 sections:
   - hero:
       title: EdTech Innovations to Support Teaching and Learning
