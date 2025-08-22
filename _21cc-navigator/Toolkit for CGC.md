@@ -103,6 +103,10 @@ Thinking while exploring ways of improving community spaces.</p>
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/91db065f-4045-40ac-b070-193f54dd58f3" rel="noopener nofollow" target="_blank">E21CC Pri Quest: 新加坡，我为你骄傲</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_22_at_11_04_38_AM.png">
+</div>
+<p></p>
 <p><em>In collaboration with Lau Sze Hui, Corporation Primary School</em>
 </p>
 </td>
