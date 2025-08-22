@@ -98,6 +98,32 @@ Thinking while exploring ways of improving community spaces.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/91db065f-4045-40ac-b070-193f54dd58f3" rel="noopener nofollow" target="_blank">E21CC Pri Quest: 新加坡，我为你骄傲</a>
+</p>
+<p></p>
+<p><em>In collaboration with Lau Sze Hui, Corporation Primary School</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover how to cultivate <strong>Civic Literacy</strong> while exploring
+what makes Singapore special.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/20b0f7b9-d14b-4dd0-bcbd-7fb4ce347f53" rel="noopener nofollow" target="_blank">How Do We Decide What is Good for Society?</a>
+</p>
+<p></p>
+<p><em>In collaboration with Neo Wen Xin, Yuan Ching Secondary School</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover how to develop <strong>Civic Literacy</strong> while exploring
+the trade-offs in Singapore's Cross Island Line.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
