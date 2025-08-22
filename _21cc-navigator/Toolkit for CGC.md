@@ -107,7 +107,7 @@ Thinking while exploring ways of improving community spaces.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_22_at_11_04_38_AM.png">
 </div>
 <p></p>
-<p><em>In collaboration with Lau Sze Hui, Corporation Primary School</em>
+<p><em>In collaboration with Ms Lau Sze Hui, Corporation Primary School</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +120,7 @@ what makes Singapore special.</p>
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/20b0f7b9-d14b-4dd0-bcbd-7fb4ce347f53" rel="noopener nofollow" target="_blank">How Do We Decide What is Good for Society?</a>
 </p>
 <p></p>
-<p><em>In collaboration with Neo Wen Xin, Yuan Ching Secondary School</em>
+<p><em>In collaboration with Ms Neo Wen Xin, Yuan Ching Secondary School</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
