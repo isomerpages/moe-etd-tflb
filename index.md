@@ -18,6 +18,15 @@ sections:
       subtitle: Redesigning the teaching and learning experience for teachers and
         students
       background: /images/Home Page/Home Page Banner/website banner may 2023-1.png
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Closure of CotF Website
+          date: 16 October 2025
+          announcement: This website will no longer be accessible from 15 December 2025.
+          link_text: ""
+          link_url: ""
   - infobar:
       title: Our Innovations
   - infopic:
