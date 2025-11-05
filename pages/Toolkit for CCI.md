@@ -7,8 +7,8 @@ description: ""
 <p>The Toolkit for Communication, Collaboration and Information Skills (CCI)
 serves as a starting point for teachers to explore using EdTech to develop
 students' CCI. In collaboration with the 21CC Office and MTLB/CPDD1, we
-have created an overview of leveraging EdTech to develop students' CGC
-and some sample lessons on SLS.</p>
+have created an overview of leveraging EdTech to develop students' CCI
+with some sample lessons on SLS.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -32,8 +32,8 @@ and some sample lessons on SLS.</p>
 <p>Find out more about leveraging EdTech to develop students' CCI!</p>
 <p></p>
 <p>This overview includes recommendations of SLS features (especially AI-enabled
-features) that contribute to development of CCI and sample rubrics templates
-for CCI.</p>
+features) that contribute to the development of CCI and sample rubrics
+templates for CCI.</p>
 <p></p>
 </td>
 </tr>
@@ -50,8 +50,10 @@ for CCI.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover how to foster <strong>XX</strong> through XX for Lower Secondary
-Chinese Language.</p>
+<p>Discover how to foster <strong>Communication, Collaboration and Information Skills</strong> through
+working on a group task, showcasing Singapore's popular sites of attraction,
+unique local cuisines and diverse cultures, to an overseas friend visiting
+Singapore for the first time in this Lower Secondary Chinese Language module.</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +69,10 @@ Chinese Language.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover how to foster XX<strong> </strong>through XX for Lower Secondary
-Tamil Language.</p>
+<p>Discover how to foster <strong>Collaboration and Information Skills</strong> through
+creating an artefact where students mine information from different sources
+while checking for accuracy, reliability and currency in this module for
+Lower Secondary Tamil Language.</p>
 </td>
 </tr>
 <tr>
@@ -87,8 +91,9 @@ Tamil Language.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover how to foster <strong>XX </strong>for Upper Secondary Malay Language
-through this two part lesson.</p>
+<p>Discover how to foster <strong>Communication and Collaboration </strong>by
+using SLS' latest AI-enabled features through this two-part Upper Secondary
+Malay Language lesson.</p>
 <p></p>
 </td>
 </tr>
@@ -105,8 +110,9 @@ through this two part lesson.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover how to develop <strong>XXX</strong>
-</p>
+<p>Discover how to develop <strong>Information Skills </strong>with Generative
+AI for this lesson catered for Lower Secondary students as they learn about
+the cultural heritage and customs of different communities.</p>
 </td>
 </tr>
 <tr>
@@ -122,8 +128,9 @@ through this two part lesson.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover how to develop <strong>XXX</strong>
-</p>
+<p>Discover how to develop <strong>Information Skills </strong>with Generative
+AI for this lesson catered for Upper Secondary students as they explore
+occupations and careers they may wish to pursue in the future.</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +142,9 @@ through this two part lesson.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover how to develop XXX</p>
+<p>Discover how to develop <strong>Communication and Information Skills</strong> in
+Upper Primary pupils as they select key information from different sources
+to synthesise written narratives.</p>
 </td>
 </tr>
 </tbody>
